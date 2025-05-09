@@ -1,5 +1,13 @@
 name: Sitemap Monitor
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'main.py'
+      - 'config.yaml'
+      - '*.py'
+      - 'requirements.txt'
   schedule:
     - cron: '0 22 * * *'  # UTC时间22点（北京时间次日6点）
   workflow_dispatch:
