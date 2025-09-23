@@ -1,8 +1,4 @@
 sites:
-  - name: "SpotleGame"
-    sitemap_urls:
-      - "https://spotlegame.com/sitemap.xml"
-    active: true
   - name: "PokeRogue"
     sitemap_urls:
       - "https://pokerogue.io/sitemap.xml"
@@ -35,21 +31,9 @@ sites:
     sitemap_urls:
       - "https://thatsnot-myneighbor.io/sitemap.xml"
     active: true
-  - name: "EscapeRoad"
-    sitemap_urls:
-      - "https://escaperoad.io/sitemap.xml"
-    active: true
-  - name: "TapRoad"
-    sitemap_urls:
-      - "https://taproad.io/sitemap.xml"
-    active: true
   - name: "GeometryDashWave"
     sitemap_urls:
       - "https://geometrydashwave.io/sitemap.xml"
-    active: true
-  - name: "LevelDevil2"
-    sitemap_urls:
-      - "https://leveldevil2.io/sitemap.xml"
     active: true
   - name: "SmashyRoad"
     sitemap_urls:
@@ -63,6 +47,15 @@ sites:
     sitemap_urls:
       - "https://bloxinformer.com/sitemap.xml"
     active: true
+  - name: "Pollo"
+    sitemap_urls:
+      - "https://pollo.ai/sitemap.xml"
+    active: true
+  - name: "Bylo"
+    sitemap_urls:
+      - "https://bylo.ai/sitemap-secondary-page-0.xml"
+    active: true
+
 
 feishu:
   webhook_url: "https://open.larksuite.com/open-apis/bot/v2/hook/c78e401d-1a1f-4500-830b-36528b83011a"
