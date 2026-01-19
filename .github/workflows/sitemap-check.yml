@@ -12,6 +12,9 @@ on:
     - cron: '0 22 * * *'  # UTC时间22点（北京时间次日6点）
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -19,7 +22,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
       with:
-        persist-credentials: false
+        persist-credentials: true
         
     - name: Setup Python
       uses: actions/setup-python@v4
@@ -35,11 +38,9 @@ jobs:
       run: python main.py
 
     - name: Commit changes
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "📦 Update sitemap data: $(date +'%Y-%m-%d')" && git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "📦 Update sitemap data: $(date +'%Y-%m-%d')" && git push)
 
