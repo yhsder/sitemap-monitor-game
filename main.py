@@ -16,10 +16,31 @@ def load_config(config_path='config.yaml'):
     with open(config_path) as f:
         return yaml.safe_load(f)
 
-def process_sitemap(url):
+def get_sitemap_limits(config):
+    sitemap_cfg = config.get('sitemap', {})
+    def read_int(key, default):
+        try:
+            return int(sitemap_cfg.get(key, default))
+        except (TypeError, ValueError):
+            return default
+    return {
+        'max_depth': read_int('max_depth', 3),
+        'max_sitemaps': read_int('max_sitemaps', 500),
+        'max_urls': read_int('max_urls', 200000),
+        'request_timeout': read_int('request_timeout', 10),
+    }
+
+def process_sitemap(url, scraper, limits, state, depth=0):
+    if state['sitemap_count'] >= limits['max_sitemaps']:
+        logging.warning("Max sitemaps reached, skip %s", url)
+        return []
+    if url in state['visited_sitemaps']:
+        return []
+    state['visited_sitemaps'].add(url)
+    state['sitemap_count'] += 1
+
     try:
-        scraper = cloudscraper.create_scraper()
-        response = scraper.get(url, timeout=10)
+        response = scraper.get(url, timeout=limits['request_timeout'])
         response.raise_for_status()
 
         content = response.content
@@ -27,10 +48,28 @@ def process_sitemap(url):
         if content[:2] == b'\x1f\x8b':  # gzip magic number
             content = gzip.decompress(content)
 
-        if b'<urlset' in content:
-            return parse_xml(content)
+        content_lower = content.lower()
+        if b'<sitemapindex' in content_lower:
+            if depth >= limits['max_depth']:
+                logging.warning("Max sitemap depth reached at %s", url)
+                return []
+            sitemap_urls = parse_sitemapindex(content)
+            all_urls = []
+            for sitemap_url in sitemap_urls:
+                if state['sitemap_count'] >= limits['max_sitemaps']:
+                    logging.warning("Max sitemaps reached, stop expanding")
+                    break
+                if state['url_count'] >= limits['max_urls']:
+                    logging.warning("Max urls reached, stop expanding")
+                    break
+                all_urls.extend(process_sitemap(sitemap_url, scraper, limits, state, depth + 1))
+            return all_urls
+
+        if b'<urlset' in content_lower:
+            urls = parse_xml(content)
         else:
-            return parse_txt(content.decode('utf-8'))
+            urls = parse_txt(content.decode('utf-8'))
+        return collect_urls(urls, limits, state)
     except requests.RequestException as e:
         logging.error(f"Error processing {url}: {str(e)}")
         return []
@@ -49,6 +88,31 @@ def parse_xml(content):
 
 def parse_txt(content):
     return [line.strip() for line in content.splitlines() if line.strip()]
+
+def parse_sitemapindex(content):
+    sitemap_urls = []
+    soup = BeautifulSoup(content, 'xml')
+    for sitemap in soup.find_all('sitemap'):
+        loc = sitemap.find('loc')
+        if not loc:
+            continue
+        url = loc.get_text().strip()
+        if url:
+            sitemap_urls.append(url)
+    return sitemap_urls
+
+def collect_urls(urls, limits, state):
+    results = []
+    for url in urls:
+        if state['url_count'] >= limits['max_urls']:
+            logging.warning("Max urls reached, stop collecting")
+            break
+        if url in state['seen_urls']:
+            continue
+        state['seen_urls'].add(url)
+        state['url_count'] += 1
+        results.append(url)
+    return results
 
 def save_latest(site_name, new_urls):
     base_dir = Path('latest')
@@ -128,15 +192,23 @@ def send_feishu_notification(new_urls, config, site_name):
 
 def main(config_path='config.yaml'):
     config = load_config(config_path)
+    limits = get_sitemap_limits(config)
+    scraper = cloudscraper.create_scraper()
     
     for site in config['sites']:
         if not site['active']:
             continue
             
         logging.info(f"处理站点: {site['name']}")
+        state = {
+            'visited_sitemaps': set(),
+            'sitemap_count': 0,
+            'url_count': 0,
+            'seen_urls': set(),
+        }
         all_urls = []
         for sitemap_url in site['sitemap_urls']:
-            urls = process_sitemap(sitemap_url)
+            urls = process_sitemap(sitemap_url, scraper, limits, state)
             all_urls.extend(urls)
             
         # 去重处理

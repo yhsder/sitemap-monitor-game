@@ -8,6 +8,12 @@ sites:
       - "https://www.fotor.com/sitemaps/v2/index.xml"
     active: true
 
+sitemap:
+  max_depth: 3
+  max_sitemaps: 500
+  max_urls: 200000
+  request_timeout: 10
+
 
 feishu:
   webhook_url: ""
