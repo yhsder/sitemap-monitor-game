@@ -11,6 +11,10 @@ sites:
     sitemap_urls:
       - "https://sendfame.com/sitemap.xml"
     active: true
+  - name: "atlascloud"
+    sitemap_urls:
+      - "https://www.atlascloud.ai/sitemap.xml"
+    active: true
 
 
 sitemap:
