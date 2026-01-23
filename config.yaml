@@ -15,7 +15,10 @@ sites:
     sitemap_urls:
       - "https://www.atlascloud.ai/sitemap.xml"
     active: true
-
+  - name: "a2e"
+    sitemap_urls:
+      - "https://a2e.ai/sitemap_index.xml"
+    active: true
 
 sitemap:
   max_depth: 3
