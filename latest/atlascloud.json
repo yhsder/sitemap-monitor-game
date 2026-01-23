@@ -1907,6 +1907,7 @@ https://www.atlascloud.ai/pt/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/pt/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/pt/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/pt/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/pt/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/pt/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/pt/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/pt/models/zai-org/GLM-4.6
@@ -3996,6 +3997,7 @@ https://www.atlascloud.ai/ar/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/ar/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/ar/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/ar/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/ar/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/ar/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/ar/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/ar/models/zai-org/GLM-4.6
@@ -4652,6 +4654,10 @@ https://www.atlascloud.ai/it/news/kat-coder-free-on-atlas-cloud-ai-coding-api
 https://www.atlascloud.ai/it/news/use-kat-coder-for-free-in-cursor-with-atlas-cloud
 https://www.atlascloud.ai/it/models/bytedance/seedance-v1.5-pro/image-to-video-fast
 https://www.atlascloud.ai/it/models/bytedance/seedance-v1.5-pro/text-to-video-fast
+https://www.atlascloud.ai/it/models/atlascloud/van-2.6/text-to-video
+https://www.atlascloud.ai/it/models/atlascloud/van-2.6/image-to-video
+https://www.atlascloud.ai/it/models/atlascloud/van-2.5/image-to-video
+https://www.atlascloud.ai/it/models/atlascloud/van-2.5/text-to-video
 https://www.atlascloud.ai/it/models/kwaivgi/kling-v2.6-pro/avatar
 https://www.atlascloud.ai/it/models/kwaivgi/kling-v2.6-std/avatar
 https://www.atlascloud.ai/it/models/kwaivgi/kling-v2.6-pro/motion-control
@@ -4827,6 +4833,7 @@ https://www.atlascloud.ai/it/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/it/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/it/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/it/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/it/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/it/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/it/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/it/models/zai-org/GLM-4.6
@@ -5244,6 +5251,7 @@ https://www.atlascloud.ai/nl/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/nl/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/nl/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/nl/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/nl/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/nl/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/nl/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/nl/models/zai-org/GLM-4.6
@@ -5900,6 +5908,10 @@ https://www.atlascloud.ai/tr/news/kat-coder-free-on-atlas-cloud-ai-coding-api
 https://www.atlascloud.ai/tr/news/use-kat-coder-for-free-in-cursor-with-atlas-cloud
 https://www.atlascloud.ai/tr/models/bytedance/seedance-v1.5-pro/image-to-video-fast
 https://www.atlascloud.ai/tr/models/bytedance/seedance-v1.5-pro/text-to-video-fast
+https://www.atlascloud.ai/tr/models/atlascloud/van-2.6/text-to-video
+https://www.atlascloud.ai/tr/models/atlascloud/van-2.6/image-to-video
+https://www.atlascloud.ai/tr/models/atlascloud/van-2.5/image-to-video
+https://www.atlascloud.ai/tr/models/atlascloud/van-2.5/text-to-video
 https://www.atlascloud.ai/tr/models/kwaivgi/kling-v2.6-pro/avatar
 https://www.atlascloud.ai/tr/models/kwaivgi/kling-v2.6-std/avatar
 https://www.atlascloud.ai/tr/models/kwaivgi/kling-v2.6-pro/motion-control
@@ -6075,6 +6087,7 @@ https://www.atlascloud.ai/tr/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/tr/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/tr/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/tr/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/tr/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/tr/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/tr/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/tr/models/zai-org/GLM-4.6
@@ -6731,6 +6744,10 @@ https://www.atlascloud.ai/th/news/kat-coder-free-on-atlas-cloud-ai-coding-api
 https://www.atlascloud.ai/th/news/use-kat-coder-for-free-in-cursor-with-atlas-cloud
 https://www.atlascloud.ai/th/models/bytedance/seedance-v1.5-pro/image-to-video-fast
 https://www.atlascloud.ai/th/models/bytedance/seedance-v1.5-pro/text-to-video-fast
+https://www.atlascloud.ai/th/models/atlascloud/van-2.6/text-to-video
+https://www.atlascloud.ai/th/models/atlascloud/van-2.6/image-to-video
+https://www.atlascloud.ai/th/models/atlascloud/van-2.5/image-to-video
+https://www.atlascloud.ai/th/models/atlascloud/van-2.5/text-to-video
 https://www.atlascloud.ai/th/models/kwaivgi/kling-v2.6-pro/avatar
 https://www.atlascloud.ai/th/models/kwaivgi/kling-v2.6-std/avatar
 https://www.atlascloud.ai/th/models/kwaivgi/kling-v2.6-pro/motion-control
@@ -6906,6 +6923,7 @@ https://www.atlascloud.ai/th/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/th/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/th/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/th/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/th/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/th/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/th/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/th/models/zai-org/GLM-4.6
@@ -7144,6 +7162,10 @@ https://www.atlascloud.ai/id/news/kat-coder-free-on-atlas-cloud-ai-coding-api
 https://www.atlascloud.ai/id/news/use-kat-coder-for-free-in-cursor-with-atlas-cloud
 https://www.atlascloud.ai/id/models/bytedance/seedance-v1.5-pro/image-to-video-fast
 https://www.atlascloud.ai/id/models/bytedance/seedance-v1.5-pro/text-to-video-fast
+https://www.atlascloud.ai/id/models/atlascloud/van-2.6/text-to-video
+https://www.atlascloud.ai/id/models/atlascloud/van-2.6/image-to-video
+https://www.atlascloud.ai/id/models/atlascloud/van-2.5/image-to-video
+https://www.atlascloud.ai/id/models/atlascloud/van-2.5/text-to-video
 https://www.atlascloud.ai/id/models/kwaivgi/kling-v2.6-pro/avatar
 https://www.atlascloud.ai/id/models/kwaivgi/kling-v2.6-std/avatar
 https://www.atlascloud.ai/id/models/kwaivgi/kling-v2.6-pro/motion-control
@@ -7319,6 +7341,7 @@ https://www.atlascloud.ai/id/models/bytedance/seedance-v1-pro-t2v-1080p
 https://www.atlascloud.ai/id/models/alibaba/wan-2.2/i2v-480p
 https://www.atlascloud.ai/id/models/alibaba/wan-2.2/i2v-720p
 https://www.atlascloud.ai/id/models/deepseek-ai/DeepSeek-V3.2-Exp
+https://www.atlascloud.ai/id/models/xai/grok-4-1-fast-non-reasoning-developer
 https://www.atlascloud.ai/id/models/alibaba/wan-2.2/t2v-480p
 https://www.atlascloud.ai/id/models/alibaba/wan-2.2/t2v-720p
 https://www.atlascloud.ai/id/models/zai-org/GLM-4.6
