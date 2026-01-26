@@ -11,9 +11,9 @@ sites:
     sitemap_urls:
       - "https://sendfame.com/sitemap.xml"
     active: true
-  - name: "atlascloud"
+  - name: "easemate"
     sitemap_urls:
-      - "https://www.atlascloud.ai/sitemap.xml"
+      - "https://www.easemate.ai/sitemap.xml"
     active: true
   - name: "a2e"
     sitemap_urls:
