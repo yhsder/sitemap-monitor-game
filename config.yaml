@@ -19,6 +19,18 @@ sites:
     sitemap_urls:
       - "https://a2e.ai/sitemap_index.xml"
     active: true
+  - name: "mindvideo"
+    sitemap_urls:
+      - "https://www.mindvideo.ai/sitemap.xml"
+    active: true
+  - name: "picsman"
+    sitemap_urls:
+      - "https://www.picsman.ai/sitemap.xml"
+    active: true
+  - name: "kaze"
+    sitemap_urls:
+      - "https://kaze.ai/sitemap.xml"
+    active: true
 
 sitemap:
   max_depth: 3
