@@ -31,6 +31,18 @@ sites:
     sitemap_urls:
       - "https://kaze.ai/sitemap.xml"
     active: true
+  - name: "higgsfield"
+    sitemap_urls:
+      - "https://higgsfield.ai/sitemap.xml"
+    active: true   
+  - name: "imagine"
+    sitemap_urls:
+      - "https://www.imagine.art/sitemap.xml"
+    active: true  
+  - name: "wavespeed"
+    sitemap_urls:
+      - "https://wavespeed.ai/sitemap.xml"
+    active: true  
 
 sitemap:
   max_depth: 3
