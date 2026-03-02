@@ -622,6 +622,14 @@ https://wavespeed.ai/id/models/wavespeed-ai/flux-2-flex/text-to-image
 https://wavespeed.ai/ja/models/wavespeed-ai/flux-2-flex/text-to-image
 https://wavespeed.ai/ko/models/wavespeed-ai/flux-2-flex/text-to-image
 https://wavespeed.ai/pt/models/wavespeed-ai/flux-2-flex/text-to-image
+https://wavespeed.ai/models/midjourney/text-to-image
+https://wavespeed.ai/de/models/midjourney/text-to-image
+https://wavespeed.ai/es/models/midjourney/text-to-image
+https://wavespeed.ai/fr/models/midjourney/text-to-image
+https://wavespeed.ai/id/models/midjourney/text-to-image
+https://wavespeed.ai/ja/models/midjourney/text-to-image
+https://wavespeed.ai/ko/models/midjourney/text-to-image
+https://wavespeed.ai/pt/models/midjourney/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/cosmos-predict-2.5/text-to-video
 https://wavespeed.ai/de/models/wavespeed-ai/cosmos-predict-2.5/text-to-video
 https://wavespeed.ai/es/models/wavespeed-ai/cosmos-predict-2.5/text-to-video
@@ -4430,6 +4438,14 @@ https://wavespeed.ai/id/models/luma/ray-1.6-i2v
 https://wavespeed.ai/ja/models/luma/ray-1.6-i2v
 https://wavespeed.ai/ko/models/luma/ray-1.6-i2v
 https://wavespeed.ai/pt/models/luma/ray-1.6-i2v
+https://wavespeed.ai/models/midjourney/image-to-video
+https://wavespeed.ai/de/models/midjourney/image-to-video
+https://wavespeed.ai/es/models/midjourney/image-to-video
+https://wavespeed.ai/fr/models/midjourney/image-to-video
+https://wavespeed.ai/id/models/midjourney/image-to-video
+https://wavespeed.ai/ja/models/midjourney/image-to-video
+https://wavespeed.ai/ko/models/midjourney/image-to-video
+https://wavespeed.ai/pt/models/midjourney/image-to-video
 https://wavespeed.ai/models/video-effects/couple-arrival
 https://wavespeed.ai/de/models/video-effects/couple-arrival
 https://wavespeed.ai/es/models/video-effects/couple-arrival
@@ -6334,6 +6350,7 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-pro-edit
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-pro-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-flex-edit
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-flex-text-to-image
+https://wavespeed.ai/docs/docs-api/midjourney/midjourney-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/cosmos-predict-2.5-text-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/cosmos-predict-2.5-image-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/firered-image-edit
@@ -6809,6 +6826,7 @@ https://wavespeed.ai/docs/docs-api/video-effects/video-effects-muscling
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-v2v-480p-lora-ultra-fast
 https://wavespeed.ai/docs/docs-api/ideogram-ai/ideogram-ai-ideogram-v2-turbo
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-1.6-i2v
+https://wavespeed.ai/docs/docs-api/midjourney/midjourney-image-to-video
 https://wavespeed.ai/docs/docs-api/video-effects/video-effects-couple-arrival
 https://wavespeed.ai/docs/docs-api/video-effects/video-effects-ghibli
 https://wavespeed.ai/docs/docs-api/video-effects/video-effects-hugging
