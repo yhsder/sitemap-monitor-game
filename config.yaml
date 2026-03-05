@@ -43,6 +43,10 @@ sites:
     sitemap_urls:
       - "https://wavespeed.ai/sitemap.xml"
     active: true  
+  - name: "basedlabs"
+    sitemap_urls:
+      - "https://www.basedlabs.ai/sitemap.xml"
+    active: true 
 
 sitemap:
   max_depth: 3
