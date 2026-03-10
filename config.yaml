@@ -51,6 +51,10 @@ sites:
     sitemap_urls:
       - "https://nanobanana.io/sitemap.xml"
     active: true
+  - name: "tomoviee"
+    sitemap_urls:
+      - "https://www.tomoviee.ai/sitemap.xml"
+    active: true
 
 sitemap:
   max_depth: 3
