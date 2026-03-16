@@ -110,6 +110,14 @@ https://wavespeed.ai/id/collections/kling-o3
 https://wavespeed.ai/ja/collections/kling-o3
 https://wavespeed.ai/ko/collections/kling-o3
 https://wavespeed.ai/pt/collections/kling-o3
+https://wavespeed.ai/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/de/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/es/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/fr/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/id/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/ja/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/ko/models/openai/sora-2-pro/text-to-video
+https://wavespeed.ai/pt/models/openai/sora-2-pro/text-to-video
 https://wavespeed.ai/models/google/nano-banana-pro/edit
 https://wavespeed.ai/de/models/google/nano-banana-pro/edit
 https://wavespeed.ai/es/models/google/nano-banana-pro/edit
@@ -1326,6 +1334,14 @@ https://wavespeed.ai/id/models/alibaba/wan-2.6/image-to-video-pro
 https://wavespeed.ai/ja/models/alibaba/wan-2.6/image-to-video-pro
 https://wavespeed.ai/ko/models/alibaba/wan-2.6/image-to-video-pro
 https://wavespeed.ai/pt/models/alibaba/wan-2.6/image-to-video-pro
+https://wavespeed.ai/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/de/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/es/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/fr/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/id/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/ja/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/ko/models/openai/sora-2-pro/image-to-video
+https://wavespeed.ai/pt/models/openai/sora-2-pro/image-to-video
 https://wavespeed.ai/models/openai/sora-2/image-to-video-pro
 https://wavespeed.ai/de/models/openai/sora-2/image-to-video-pro
 https://wavespeed.ai/es/models/openai/sora-2/image-to-video-pro
@@ -6462,6 +6478,7 @@ https://wavespeed.ai/id/models/z-ai/glm-image/edit
 https://wavespeed.ai/ja/models/z-ai/glm-image/edit
 https://wavespeed.ai/ko/models/z-ai/glm-image/edit
 https://wavespeed.ai/pt/models/z-ai/glm-image/edit
+https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-pro-text-to-video
 https://wavespeed.ai/docs/docs-api/google/google-nano-banana-pro-edit
 https://wavespeed.ai/docs/docs-api/google/google-nano-banana-2-edit
 https://wavespeed.ai/docs/docs-api/google/google-nano-banana-2-text-to-image
@@ -6614,6 +6631,7 @@ https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-text-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-image-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-reference-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-wan-2.6-image-to-video-pro
+https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-image-to-video-pro
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-text-to-video
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-text-to-video-pro
