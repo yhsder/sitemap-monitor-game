@@ -1382,6 +1382,14 @@ https://wavespeed.ai/id/models/vidu/q3/text-to-video
 https://wavespeed.ai/ja/models/vidu/q3/text-to-video
 https://wavespeed.ai/ko/models/vidu/q3/text-to-video
 https://wavespeed.ai/pt/models/vidu/q3/text-to-video
+https://wavespeed.ai/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/de/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/es/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/fr/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/id/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/ja/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/ko/models/wavespeed-ai/ai-vocal-remover
+https://wavespeed.ai/pt/models/wavespeed-ai/ai-vocal-remover
 https://wavespeed.ai/models/wavespeed-ai/ai-gender-swap
 https://wavespeed.ai/de/models/wavespeed-ai/ai-gender-swap
 https://wavespeed.ai/es/models/wavespeed-ai/ai-gender-swap
@@ -6366,6 +6374,14 @@ https://wavespeed.ai/id/models/pixverse/pixverse-v5-t2v
 https://wavespeed.ai/ja/models/pixverse/pixverse-v5-t2v
 https://wavespeed.ai/ko/models/pixverse/pixverse-v5-t2v
 https://wavespeed.ai/pt/models/pixverse/pixverse-v5-t2v
+https://wavespeed.ai/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/de/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/es/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/fr/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/id/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/ja/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/ko/models/wavespeed-ai/video-fps-increaser
+https://wavespeed.ai/pt/models/wavespeed-ai/video-fps-increaser
 https://wavespeed.ai/models/wavespeed-ai/firered-image-v1.1/edit
 https://wavespeed.ai/de/models/wavespeed-ai/firered-image-v1.1/edit
 https://wavespeed.ai/es/models/wavespeed-ai/firered-image-v1.1/edit
@@ -6789,6 +6805,7 @@ https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-text-to-video
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-text-to-video-pro
 https://wavespeed.ai/docs/docs-api/vidu/vidu-q3-image-to-video-pro
 https://wavespeed.ai/docs/docs-api/vidu/vidu-q3-text-to-video
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-vocal-remover
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-gender-swap
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-ghibli-filter-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-ghibli-filter
@@ -7411,6 +7428,7 @@ https://wavespeed.ai/docs/docs-api/leonardoai/leonardoai-phoenix-1.0
 https://wavespeed.ai/docs/docs-api/minimax/minimax-music-v1.5
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-chrono-edit
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-pixverse-v5-t2v
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/video-fps-increaser
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/firered-image-v1.1-edit
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-pixverse-v5-transition
 https://wavespeed.ai/docs/docs-api/reve/reve-edit
