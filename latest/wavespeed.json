@@ -6,6 +6,7 @@ https://wavespeed.ai/image-generator
 https://wavespeed.ai/video-generator
 https://wavespeed.ai/avatar-generator
 https://wavespeed.ai/audio-generator
+https://wavespeed.ai/about
 https://wavespeed.ai/de
 https://wavespeed.ai/de/dashboard
 https://wavespeed.ai/de/models
@@ -14,6 +15,7 @@ https://wavespeed.ai/de/image-generator
 https://wavespeed.ai/de/video-generator
 https://wavespeed.ai/de/avatar-generator
 https://wavespeed.ai/de/audio-generator
+https://wavespeed.ai/de/about
 https://wavespeed.ai/es
 https://wavespeed.ai/es/dashboard
 https://wavespeed.ai/es/models
@@ -22,6 +24,7 @@ https://wavespeed.ai/es/image-generator
 https://wavespeed.ai/es/video-generator
 https://wavespeed.ai/es/avatar-generator
 https://wavespeed.ai/es/audio-generator
+https://wavespeed.ai/es/about
 https://wavespeed.ai/fr
 https://wavespeed.ai/fr/dashboard
 https://wavespeed.ai/fr/models
@@ -30,6 +33,7 @@ https://wavespeed.ai/fr/image-generator
 https://wavespeed.ai/fr/video-generator
 https://wavespeed.ai/fr/avatar-generator
 https://wavespeed.ai/fr/audio-generator
+https://wavespeed.ai/fr/about
 https://wavespeed.ai/id
 https://wavespeed.ai/id/dashboard
 https://wavespeed.ai/id/models
@@ -38,6 +42,7 @@ https://wavespeed.ai/id/image-generator
 https://wavespeed.ai/id/video-generator
 https://wavespeed.ai/id/avatar-generator
 https://wavespeed.ai/id/audio-generator
+https://wavespeed.ai/id/about
 https://wavespeed.ai/ja
 https://wavespeed.ai/ja/dashboard
 https://wavespeed.ai/ja/models
@@ -46,6 +51,7 @@ https://wavespeed.ai/ja/image-generator
 https://wavespeed.ai/ja/video-generator
 https://wavespeed.ai/ja/avatar-generator
 https://wavespeed.ai/ja/audio-generator
+https://wavespeed.ai/ja/about
 https://wavespeed.ai/ko
 https://wavespeed.ai/ko/dashboard
 https://wavespeed.ai/ko/models
@@ -54,6 +60,7 @@ https://wavespeed.ai/ko/image-generator
 https://wavespeed.ai/ko/video-generator
 https://wavespeed.ai/ko/avatar-generator
 https://wavespeed.ai/ko/audio-generator
+https://wavespeed.ai/ko/about
 https://wavespeed.ai/pt
 https://wavespeed.ai/pt/dashboard
 https://wavespeed.ai/pt/models
@@ -62,6 +69,7 @@ https://wavespeed.ai/pt/image-generator
 https://wavespeed.ai/pt/video-generator
 https://wavespeed.ai/pt/avatar-generator
 https://wavespeed.ai/pt/audio-generator
+https://wavespeed.ai/pt/about
 https://wavespeed.ai/collections/qwen-image-2
 https://wavespeed.ai/de/collections/qwen-image-2
 https://wavespeed.ai/es/collections/qwen-image-2
@@ -270,6 +278,22 @@ https://wavespeed.ai/id/models/wavespeed-ai/wan-2.2-spicy/image-to-video
 https://wavespeed.ai/ja/models/wavespeed-ai/wan-2.2-spicy/image-to-video
 https://wavespeed.ai/ko/models/wavespeed-ai/wan-2.2-spicy/image-to-video
 https://wavespeed.ai/pt/models/wavespeed-ai/wan-2.2-spicy/image-to-video
+https://wavespeed.ai/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/de/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/es/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/fr/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/id/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/ja/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/ko/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/pt/models/wavespeed-ai/davinci-magihuman/image-to-video
+https://wavespeed.ai/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/de/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/es/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/fr/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/id/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/ja/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/ko/models/wavespeed-ai/davinci-magihuman/text-to-video
+https://wavespeed.ai/pt/models/wavespeed-ai/davinci-magihuman/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-v1.5-pro/image-to-video
 https://wavespeed.ai/de/models/bytedance/seedance-v1.5-pro/image-to-video
 https://wavespeed.ai/es/models/bytedance/seedance-v1.5-pro/image-to-video
@@ -1262,6 +1286,22 @@ https://wavespeed.ai/id/models/x-ai/grok-imagine-video/image-to-video
 https://wavespeed.ai/ja/models/x-ai/grok-imagine-video/image-to-video
 https://wavespeed.ai/ko/models/x-ai/grok-imagine-video/image-to-video
 https://wavespeed.ai/pt/models/x-ai/grok-imagine-video/image-to-video
+https://wavespeed.ai/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/de/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/es/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/fr/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/id/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/ja/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/ko/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/pt/models/x-ai/grok-imagine-video/reference-to-video
+https://wavespeed.ai/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/de/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/es/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/fr/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/id/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/ja/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/ko/models/x-ai/grok-imagine-video/video-extend
+https://wavespeed.ai/pt/models/x-ai/grok-imagine-video/video-extend
 https://wavespeed.ai/models/x-ai/grok-imagine-video/text-to-video
 https://wavespeed.ai/de/models/x-ai/grok-imagine-video/text-to-video
 https://wavespeed.ai/es/models/x-ai/grok-imagine-video/text-to-video
@@ -6766,6 +6806,8 @@ https://wavespeed.ai/docs/docs-api/alibaba/alibaba-wan-2.6-image-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-wan-2.6-image-to-video-spicy
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-wan-2.5-image-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.2-spicy-image-to-video
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/davinci-magihuman-image-to-video
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/davinci-magihuman-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1.5-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v3.0-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-upscaler
@@ -6890,6 +6932,8 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/z-image-turbo-image-to-image-lor
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/z-image-base-lora-trainer
 https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-edit-video
 https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-image-to-video
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-reference-to-video
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-video-extend
 https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-text-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-wan-2.5-image-edit
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-wan-2.5-text-to-video
