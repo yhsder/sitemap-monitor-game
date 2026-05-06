@@ -350,6 +350,8 @@ https://wavespeed.ai/models/wavespeed-ai/ai-dog-selfie
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-i2v-1080p
 https://wavespeed.ai/models/wavespeed-ai/ai-fortune-teller
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-480p
+https://wavespeed.ai/models/clarity-ai/pro-upscaler
+https://wavespeed.ai/models/inworld/realtime-tts-2
 https://wavespeed.ai/models/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-720p
 https://wavespeed.ai/models/wavespeed-ai/ai-story-generator
@@ -1035,6 +1037,10 @@ https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-720p
 https://wavespeed.ai/models/wavespeed-ai/flux-dev-lora
 https://wavespeed.ai/models/wavespeed-ai/flux-dev
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-video/t2v
+https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/vision
+https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/video
+https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/audio
+https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/text
 https://wavespeed.ai/models/wavespeed-ai/patina/material-extract
 https://wavespeed.ai/models/wavespeed-ai/patina/material
 https://wavespeed.ai/models/wavespeed-ai/patina/image-to-map
@@ -1265,6 +1271,8 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-dog-selfie
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-i2v-1080p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-fortune-teller
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-480p
+https://wavespeed.ai/docs/docs-api/clarity-ai/clarity-ai-pro-upscaler
+https://wavespeed.ai/docs/docs-api/inworld/inworld-realtime-tts-2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-720p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-story-generator
@@ -1949,6 +1957,10 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-720p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/hunyuan-video-t2v
+https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-vision
+https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-video
+https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-audio
+https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-text
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-material-extract
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-material
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-image-to-map
