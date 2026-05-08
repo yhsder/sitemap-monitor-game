@@ -118,6 +118,7 @@ https://wavespeed.ai/apps/trending-templates/melting-doodle
 https://wavespeed.ai/apps/trending-templates/giallo-horror
 https://wavespeed.ai/apps/trending-templates/renaissance
 https://wavespeed.ai/apps/trending-templates/rap-god
+https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
 https://wavespeed.ai/collections/seedance-2.0
 https://wavespeed.ai/collections/wan-2.7
@@ -127,12 +128,12 @@ https://wavespeed.ai/collections/object-detection-and-segmentation
 https://wavespeed.ai/collections/content-detection-models
 https://wavespeed.ai/collections/motion-control-models
 https://wavespeed.ai/collections/best-video-models
-https://wavespeed.ai/collections/best-image-models
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/text-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-extend
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/image-to-video
+https://wavespeed.ai/models/ideogram-ai/remove-background
 https://wavespeed.ai/models/openai/gpt-image-2/edit
 https://wavespeed.ai/models/bytedance/seedance-2.0/image-to-video
 https://wavespeed.ai/models/openai/gpt-image-2/text-to-image
@@ -350,7 +351,6 @@ https://wavespeed.ai/models/wavespeed-ai/ai-dog-selfie
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-i2v-1080p
 https://wavespeed.ai/models/wavespeed-ai/ai-fortune-teller
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-480p
-https://wavespeed.ai/models/clarity-ai/pro-upscaler
 https://wavespeed.ai/models/inworld/realtime-tts-2
 https://wavespeed.ai/models/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-720p
@@ -1054,6 +1054,7 @@ https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-extend
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-edit
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-reference-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-image-to-video
+https://wavespeed.ai/docs/docs-api/ideogram-ai/ideogram-ai-remove-background
 https://wavespeed.ai/docs/docs-api/openai/openai-gpt-image-2-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-image-to-video
 https://wavespeed.ai/docs/docs-api/openai/openai-gpt-image-2-text-to-image
@@ -1271,7 +1272,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-dog-selfie
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-i2v-1080p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-fortune-teller
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-480p
-https://wavespeed.ai/docs/docs-api/clarity-ai/clarity-ai-pro-upscaler
 https://wavespeed.ai/docs/docs-api/inworld/inworld-realtime-tts-2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-720p
@@ -1995,10 +1995,6 @@ https://wavespeed.ai/llm/deepseek/deepseek-v4-flash
 https://wavespeed.ai/llm/deepseek/deepseek-v4-pro
 https://wavespeed.ai/llm/deepseek/deepseek-v3.2
 https://wavespeed.ai/llm/minimax/minimax-m2.7
-https://wavespeed.ai/llm/arcee-ai/coder-large
-https://wavespeed.ai/llm/arcee-ai/maestro-reasoning
-https://wavespeed.ai/llm/arcee-ai/spotlight
-https://wavespeed.ai/llm/arcee-ai/virtuoso-large
 https://wavespeed.ai/llm/x-ai/grok-4.20
 https://wavespeed.ai/llm/ai21/jamba-large-1.7
 https://wavespeed.ai/llm/aion-labs/aion-1.0
@@ -2006,7 +2002,6 @@ https://wavespeed.ai/llm/aion-labs/aion-1.0-mini
 https://wavespeed.ai/llm/aion-labs/aion-2.0
 https://wavespeed.ai/llm/aion-labs/aion-rp-llama-3.1-8b
 https://wavespeed.ai/llm/alibaba/tongyi-deepresearch-30b-a3b
-https://wavespeed.ai/llm/allenai/olmo-3.1-32b-instruct
 https://wavespeed.ai/llm/alpindale/goliath-120b
 https://wavespeed.ai/llm/amazon/nova-2-lite-v1
 https://wavespeed.ai/llm/amazon/nova-lite-v1
@@ -2020,10 +2015,7 @@ https://wavespeed.ai/llm/anthropic/claude-3.7-sonnet:thinking
 https://wavespeed.ai/llm/anthropic/claude-opus-4
 https://wavespeed.ai/llm/anthropic/claude-opus-4.1
 https://wavespeed.ai/llm/arcee-ai/trinity-mini
-https://wavespeed.ai/llm/baidu/ernie-4.5-21b-a3b
-https://wavespeed.ai/llm/baidu/ernie-4.5-21b-a3b-thinking
 https://wavespeed.ai/llm/baidu/ernie-4.5-300b-a47b
-https://wavespeed.ai/llm/baidu/ernie-4.5-vl-28b-a3b
 https://wavespeed.ai/llm/baidu/ernie-4.5-vl-424b-a47b
 https://wavespeed.ai/llm/bytedance-seed/seed-1.6
 https://wavespeed.ai/llm/bytedance-seed/seed-1.6-flash
@@ -2069,3 +2061,11 @@ https://wavespeed.ai/llm/mancer/weaver
 https://wavespeed.ai/llm/meta-llama/llama-3-70b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3-8b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.1-70b-instruct
+https://wavespeed.ai/llm/meta-llama/llama-3.1-8b-instruct
+https://wavespeed.ai/llm/meta-llama/llama-3.2-11b-vision-instruct
+https://wavespeed.ai/llm/meta-llama/llama-3.2-3b-instruct
+https://wavespeed.ai/llm/meta-llama/llama-3.3-70b-instruct
+https://wavespeed.ai/llm/meta-llama/llama-4-maverick
+https://wavespeed.ai/llm/meta-llama/llama-4-scout
+https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
+https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
