@@ -351,6 +351,7 @@ https://wavespeed.ai/models/wavespeed-ai/ai-dog-selfie
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-i2v-1080p
 https://wavespeed.ai/models/wavespeed-ai/ai-fortune-teller
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-480p
+https://wavespeed.ai/models/clarity-ai/pro-upscaler
 https://wavespeed.ai/models/inworld/realtime-tts-2
 https://wavespeed.ai/models/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-720p
@@ -623,6 +624,8 @@ https://wavespeed.ai/models/wavespeed-ai/wan-2.2/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/emu-3.5-image/text-to-image
 https://wavespeed.ai/models/reve/remix-fast
 https://wavespeed.ai/models/reve/edit-fast
+https://wavespeed.ai/models/clarity-ai/flux-upscaler
+https://wavespeed.ai/models/clarity-ai/creative-upscaler
 https://wavespeed.ai/models/bytedance/video-upscaler
 https://wavespeed.ai/models/clarity-ai/crystal-upscaler
 https://wavespeed.ai/models/nvidia/chrono-edit
@@ -1048,7 +1051,6 @@ https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
 https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
-https://wavespeed.ai/models/wavespeed-ai/emu-3.5-image/text-to-image-internal
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-text-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-extend
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-edit
@@ -1272,6 +1274,7 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-dog-selfie
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-i2v-1080p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-fortune-teller
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-480p
+https://wavespeed.ai/docs/docs-api/clarity-ai/clarity-ai-pro-upscaler
 https://wavespeed.ai/docs/docs-api/inworld/inworld-realtime-tts-2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-720p
@@ -1544,6 +1547,8 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.2-image-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/emu-3.5-image-text-to-image
 https://wavespeed.ai/docs/docs-api/reve/reve-remix-fast
 https://wavespeed.ai/docs/docs-api/reve/reve-edit-fast
+https://wavespeed.ai/docs/docs-api/clarity-ai/clarity-ai-flux-upscaler
+https://wavespeed.ai/docs/docs-api/clarity-ai/clarity-ai-creative-upscaler
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-video-upscaler
 https://wavespeed.ai/docs/docs-api/clarity-ai/clarity-ai-crystal-upscaler
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-chrono-edit
@@ -1968,7 +1973,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/void-video-inpainting-mask
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/nucleus-image-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ernie-image-text-to-image-turbo
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ernie-image-text-to-image
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/emu-3.5-image-text-to-image-internal
 https://wavespeed.ai/llm/anthropic/claude-opus-4.7
 https://wavespeed.ai/llm/anthropic/claude-opus-4.6
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.6
