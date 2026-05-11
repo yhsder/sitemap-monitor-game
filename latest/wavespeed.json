@@ -291,6 +291,10 @@ https://wavespeed.ai/models/kwaivgi/kling-image-o1
 https://wavespeed.ai/models/wavespeed-ai/image-watermark-remover
 https://wavespeed.ai/models/kwaivgi/kling-image-o3/edit
 https://wavespeed.ai/models/wavespeed-ai/image-eraser
+https://wavespeed.ai/models/wavespeed-ai/hidream-o1-image-dev/text-to-image
+https://wavespeed.ai/models/wavespeed-ai/hidream-o1-image-dev/edit
+https://wavespeed.ai/models/wavespeed-ai/hidream-o1-image/edit
+https://wavespeed.ai/models/wavespeed-ai/hidream-o1-image/text-to-image
 https://wavespeed.ai/models/kwaivgi/kling-image-o3/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/image-text-remover
 https://wavespeed.ai/models/kwaivgi/kling-image-v3/edit
@@ -903,7 +907,6 @@ https://wavespeed.ai/models/image-effects/american-comic-style
 https://wavespeed.ai/models/image-effects/lying-in-fluffy-belly
 https://wavespeed.ai/models/image-effects/angel-figurine
 https://wavespeed.ai/models/image-effects/felt-keychain
-https://wavespeed.ai/models/image-effects/acrylic-ornaments
 https://wavespeed.ai/models/video-effects/pubg-winner-hit
 https://wavespeed.ai/models/video-effects/subject-3
 https://wavespeed.ai/models/video-effects/couple-hugging
@@ -1214,6 +1217,10 @@ https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-image-o1
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-watermark-remover
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-image-o3-edit
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-eraser
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/hidream-o1-image-dev-text-to-image
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/hidream-o1-image-dev-edit
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/hidream-o1-image-edit
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/hidream-o1-image-text-to-image
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-image-o3-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-text-remover
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-image-v3-edit
@@ -1826,7 +1833,6 @@ https://wavespeed.ai/docs/docs-api/image-effects/image-effects-american-comic-st
 https://wavespeed.ai/docs/docs-api/image-effects/image-effects-lying-in-fluffy-belly
 https://wavespeed.ai/docs/docs-api/image-effects/image-effects-angel-figurine
 https://wavespeed.ai/docs/docs-api/image-effects/image-effects-felt-keychain
-https://wavespeed.ai/docs/docs-api/image-effects/image-effects-acrylic-ornaments
 https://wavespeed.ai/docs/docs-api/video-effects/video-effects-pubg-winner-hit
 https://wavespeed.ai/docs/docs-api/video-effects/video-effects-subject-3
 https://wavespeed.ai/docs/docs-api/video-effects/video-effects-couple-hugging
