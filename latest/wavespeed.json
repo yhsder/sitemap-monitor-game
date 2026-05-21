@@ -119,6 +119,7 @@ https://wavespeed.ai/apps/trending-templates/melting-doodle
 https://wavespeed.ai/apps/trending-templates/giallo-horror
 https://wavespeed.ai/apps/trending-templates/renaissance
 https://wavespeed.ai/apps/trending-templates/rap-god
+https://wavespeed.ai/collections/skywork-ai
 https://wavespeed.ai/collections/mureka-ai
 https://wavespeed.ai/collections/clarity-ai
 https://wavespeed.ai/collections/pruna-ai
@@ -128,7 +129,6 @@ https://wavespeed.ai/collections/seedance-2.0
 https://wavespeed.ai/collections/wan-2.7
 https://wavespeed.ai/collections/qwen-image-2
 https://wavespeed.ai/collections/grok
-https://wavespeed.ai/collections/object-detection-and-segmentation
 https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video-cutshot
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video
@@ -136,6 +136,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3/reference-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-extend
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
+https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
+https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
 https://wavespeed.ai/models/recraft-ai/recraft-v4.1-pro/text-to-image
@@ -1112,6 +1114,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-reference-t
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-extend
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-edit
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-reference-to-video
+https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-avatar
+https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
 https://wavespeed.ai/docs/docs-api/recraft-ai/recraft-ai-recraft-v4.1-pro-text-to-image
@@ -2097,6 +2101,7 @@ https://wavespeed.ai/llm/openai/gpt-5.4-nano
 https://wavespeed.ai/llm/openai/gpt-5.4-mini
 https://wavespeed.ai/llm/openai/gpt-5.1
 https://wavespeed.ai/llm/google/gemini-3.1-pro-preview
+https://wavespeed.ai/llm/google/gemini-3.5-flash
 https://wavespeed.ai/llm/google/gemini-3.1-flash-lite-preview
 https://wavespeed.ai/llm/google/gemini-3-pro-image-preview
 https://wavespeed.ai/llm/google/gemini-2.5-flash
@@ -2179,4 +2184,3 @@ https://wavespeed.ai/llm/meta-llama/llama-3.3-70b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-4-maverick
 https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
-https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
