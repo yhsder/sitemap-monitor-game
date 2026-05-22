@@ -140,6 +140,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/veed/subtitles
+https://wavespeed.ai/models/heygen/avatar-v/digital-twin
 https://wavespeed.ai/models/recraft-ai/recraft-v4.1-pro/text-to-image
 https://wavespeed.ai/models/recraft-ai/recraft-v4.1/text-to-image
 https://wavespeed.ai/models/recraft-ai/recraft-v4.1-pro/text-to-vector
@@ -355,6 +357,10 @@ https://wavespeed.ai/models/wavespeed-ai/infinitetalk-fast/video-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v1-ai-avatar-standard
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk-fast/video-to-video-multi
 https://wavespeed.ai/models/kwaivgi/kling-v1-ai-avatar-pro
+https://wavespeed.ai/models/mirelo-ai/sfx-1.6/text-to-audio
+https://wavespeed.ai/models/mirelo-ai/sfx-1.6/inpaint-audio
+https://wavespeed.ai/models/mirelo-ai/sfx-1.6/extend-audio
+https://wavespeed.ai/models/mirelo-ai/sfx-1.6/video-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v1/ai-multi-shot
 https://wavespeed.ai/models/wavespeed-ai/mmaudio-v2
 https://wavespeed.ai/models/wavespeed-ai/ai-kissing
@@ -1118,6 +1124,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/veed/veed-subtitles
+https://wavespeed.ai/docs/docs-api/heygen/heygen-avatar-v-digital-twin
 https://wavespeed.ai/docs/docs-api/recraft-ai/recraft-ai-recraft-v4.1-pro-text-to-image
 https://wavespeed.ai/docs/docs-api/recraft-ai/recraft-ai-recraft-v4.1-text-to-image
 https://wavespeed.ai/docs/docs-api/recraft-ai/recraft-ai-recraft-v4.1-pro-text-to-vector
@@ -1333,6 +1341,10 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/infinitetalk-fast-video-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v1-ai-avatar-standard
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/infinitetalk-fast-video-to-video-multi
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v1-ai-avatar-pro
+https://wavespeed.ai/docs/docs-api/mirelo-ai/mirelo-ai-sfx-1.6-text-to-audio
+https://wavespeed.ai/docs/docs-api/mirelo-ai/mirelo-ai-sfx-1.6-inpaint-audio
+https://wavespeed.ai/docs/docs-api/mirelo-ai/mirelo-ai-sfx-1.6-extend-audio
+https://wavespeed.ai/docs/docs-api/mirelo-ai/mirelo-ai-sfx-1.6-video-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v1-ai-multi-shot
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/mmaudio-v2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-kissing
@@ -2102,6 +2114,7 @@ https://wavespeed.ai/llm/openai/gpt-5.4-mini
 https://wavespeed.ai/llm/openai/gpt-5.1
 https://wavespeed.ai/llm/google/gemini-3.1-pro-preview
 https://wavespeed.ai/llm/google/gemini-3.5-flash
+https://wavespeed.ai/llm/google/gemini-3.1-flash-lite
 https://wavespeed.ai/llm/google/gemini-3.1-flash-lite-preview
 https://wavespeed.ai/llm/google/gemini-3-pro-image-preview
 https://wavespeed.ai/llm/google/gemini-2.5-flash
@@ -2118,7 +2131,6 @@ https://wavespeed.ai/llm/aion-labs/aion-1.0-mini
 https://wavespeed.ai/llm/aion-labs/aion-2.0
 https://wavespeed.ai/llm/aion-labs/aion-rp-llama-3.1-8b
 https://wavespeed.ai/llm/alibaba/tongyi-deepresearch-30b-a3b
-https://wavespeed.ai/llm/alpindale/goliath-120b
 https://wavespeed.ai/llm/amazon/nova-2-lite-v1
 https://wavespeed.ai/llm/amazon/nova-lite-v1
 https://wavespeed.ai/llm/amazon/nova-micro-v1
@@ -2126,8 +2138,6 @@ https://wavespeed.ai/llm/amazon/nova-premier-v1
 https://wavespeed.ai/llm/amazon/nova-pro-v1
 https://wavespeed.ai/llm/anthracite-org/magnum-v4-72b
 https://wavespeed.ai/llm/anthropic/claude-3-haiku
-https://wavespeed.ai/llm/anthropic/claude-3.7-sonnet
-https://wavespeed.ai/llm/anthropic/claude-3.7-sonnet:thinking
 https://wavespeed.ai/llm/anthropic/claude-opus-4
 https://wavespeed.ai/llm/anthropic/claude-opus-4.1
 https://wavespeed.ai/llm/arcee-ai/trinity-mini
@@ -2152,7 +2162,6 @@ https://wavespeed.ai/llm/deepseek/deepseek-r1-distill-llama-70b
 https://wavespeed.ai/llm/deepseek/deepseek-r1-distill-qwen-32b
 https://wavespeed.ai/llm/deepseek/deepseek-v3.1-terminus
 https://wavespeed.ai/llm/deepseek/deepseek-v3.2-exp
-https://wavespeed.ai/llm/deepseek/deepseek-v3.2-speciale
 https://wavespeed.ai/llm/essentialai/rnj-1-instruct
 https://wavespeed.ai/llm/google/gemini-2.0-flash-001
 https://wavespeed.ai/llm/google/gemini-2.0-flash-lite-001
@@ -2184,3 +2193,6 @@ https://wavespeed.ai/llm/meta-llama/llama-3.3-70b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-4-maverick
 https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
+https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
+https://wavespeed.ai/llm/microsoft/phi-4
+https://wavespeed.ai/llm/microsoft/wizardlm-2-8x22b
