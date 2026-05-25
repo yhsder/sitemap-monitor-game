@@ -162,6 +162,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/mureka-ai/vocal-clone
+https://wavespeed.ai/models/mureka-ai/create-upload-id
 https://wavespeed.ai/models/wavespeed-ai/flux-v1-pro/erase
 https://wavespeed.ai/models/veed/subtitles
 https://wavespeed.ai/models/heygen/avatar-v/digital-twin
@@ -1152,6 +1154,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-vocal-clone
+https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-create-upload-id
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-v1-pro-erase
 https://wavespeed.ai/docs/docs-api/veed/veed-subtitles
 https://wavespeed.ai/docs/docs-api/heygen/heygen-avatar-v-digital-twin
@@ -2150,6 +2154,7 @@ https://wavespeed.ai/llm/google/gemini-3.1-flash-lite-preview
 https://wavespeed.ai/llm/google/gemini-3-pro-image-preview
 https://wavespeed.ai/llm/google/gemini-2.5-flash
 https://wavespeed.ai/llm/google/gemini-2.5-pro
+https://wavespeed.ai/llm/qwen/qwen3.7-max
 https://wavespeed.ai/llm/z-ai/glm-5.1
 https://wavespeed.ai/llm/deepseek/deepseek-v4-flash
 https://wavespeed.ai/llm/deepseek/deepseek-v4-pro
@@ -2226,4 +2231,3 @@ https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
 https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
 https://wavespeed.ai/llm/microsoft/phi-4
-https://wavespeed.ai/llm/microsoft/wizardlm-2-8x22b
