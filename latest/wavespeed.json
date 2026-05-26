@@ -1,7 +1,5 @@
 https://wavespeed.ai
-https://wavespeed.ai/dashboard
 https://wavespeed.ai/models
-https://wavespeed.ai/studio
 https://wavespeed.ai/image-generator
 https://wavespeed.ai/video-generator
 https://wavespeed.ai/avatar-generator
@@ -9,7 +7,6 @@ https://wavespeed.ai/audio-generator
 https://wavespeed.ai/3d-generator
 https://wavespeed.ai/cli
 https://wavespeed.ai/llm
-https://wavespeed.ai/llm/playground
 https://wavespeed.ai/about
 https://wavespeed.ai/tools
 https://wavespeed.ai/tools/image-upscaler
@@ -162,6 +159,7 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/wavespeed-ai/subtitle-ocr
 https://wavespeed.ai/models/mureka-ai/vocal-clone
 https://wavespeed.ai/models/mureka-ai/create-upload-id
 https://wavespeed.ai/models/wavespeed-ai/flux-v1-pro/erase
@@ -473,6 +471,7 @@ https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/google/veo2/image-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
+https://wavespeed.ai/models/pixverse/motion-control/mimic
 https://wavespeed.ai/models/wavespeed-ai/flux-2-klein-base-4b/edit-lora
 https://wavespeed.ai/models/wavespeed-ai/flux-2-klein-base-4b/text-to-image-lora
 https://wavespeed.ai/models/wavespeed-ai/flux-2-klein-base-4b/edit
@@ -1154,6 +1153,7 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/subtitle-ocr
 https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-vocal-clone
 https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-create-upload-id
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-v1-pro-erase
@@ -1465,6 +1465,7 @@ https://wavespeed.ai/docs/docs-api/vidu/vidu-start-end-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo2-image-to-video
 https://wavespeed.ai/docs/docs-api/vidu/vidu-image-to-video-q2-pro
 https://wavespeed.ai/docs/docs-api/vidu/vidu-image-to-video-q2-turbo
+https://wavespeed.ai/docs/docs-api/pixverse/pixverse-motion-control-mimic
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-klein-base-4b-edit-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-klein-base-4b-text-to-image-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-klein-base-4b-edit
