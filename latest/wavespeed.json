@@ -8,6 +8,13 @@ https://wavespeed.ai/3d-generator
 https://wavespeed.ai/cli
 https://wavespeed.ai/llm
 https://wavespeed.ai/about
+https://wavespeed.ai/pricing
+https://wavespeed.ai/enterprise
+https://wavespeed.ai/leaderboard
+https://wavespeed.ai/static/terms
+https://wavespeed.ai/static/privacy
+https://wavespeed.ai/static/return-policy
+https://wavespeed.ai/static/contact
 https://wavespeed.ai/tools
 https://wavespeed.ai/tools/image-upscaler
 https://wavespeed.ai/tools/video-upscaler
@@ -118,9 +125,9 @@ https://wavespeed.ai/apps/trending-templates/giallo-horror
 https://wavespeed.ai/apps/trending-templates/renaissance
 https://wavespeed.ai/apps/trending-templates/rap-god
 https://wavespeed.ai/seedance-2-api
+https://wavespeed.ai/nano-banana-pro-api
 https://wavespeed.ai/seedance-1-5-pro-api
 https://wavespeed.ai/veo-3-1-api
-https://wavespeed.ai/nano-banana-pro-api
 https://wavespeed.ai/nano-banana-2-api
 https://wavespeed.ai/gpt-image-2-api
 https://wavespeed.ai/seedream-4-5-api
@@ -159,6 +166,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/wavespeed-ai/krea-v2-large/text-to-image
+https://wavespeed.ai/models/wavespeed-ai/krea-v2-medium/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/subtitle-ocr
 https://wavespeed.ai/models/mureka-ai/vocal-clone
 https://wavespeed.ai/models/mureka-ai/create-upload-id
@@ -188,6 +197,7 @@ https://wavespeed.ai/models/mureka-ai/extend-lyrics
 https://wavespeed.ai/models/mureka-ai/describe-song
 https://wavespeed.ai/models/pruna-ai/p-video/image-to-video
 https://wavespeed.ai/models/pruna-ai/p-video/avatar
+https://wavespeed.ai/models/pruna-ai/p-image/upscale
 https://wavespeed.ai/models/pruna-ai/p-image/edit-trainer
 https://wavespeed.ai/models/pruna-ai/p-image/edit-lora
 https://wavespeed.ai/models/pruna-ai/p-image/edit
@@ -1152,6 +1162,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/krea-v2-large-text-to-image
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/krea-v2-medium-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/subtitle-ocr
 https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-vocal-clone
 https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-create-upload-id
@@ -1181,6 +1193,7 @@ https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-extend-lyrics
 https://wavespeed.ai/docs/docs-api/mureka-ai/mureka-ai-describe-song
 https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-video-image-to-video
 https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-video-avatar
+https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-image-upscale
 https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-image-edit-trainer
 https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-image-edit-lora
 https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-image-edit
