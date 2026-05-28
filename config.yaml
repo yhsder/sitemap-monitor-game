@@ -59,6 +59,10 @@ sites:
     sitemap_urls:
       - "https://www.jaiportal.com/sitemap.xml"
     active: true
+  - name: "bananaproai"
+    sitemap_urls:
+      - "https://bananaproai.com/sitemap.xml"
+    active: true
 
 sitemap:
   max_depth: 3
