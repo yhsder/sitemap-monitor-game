@@ -63,6 +63,10 @@ sites:
     sitemap_urls:
       - "https://bananaproai.com/sitemap.xml"
     active: true
+  - name: "glima"
+    sitemap_urls:
+      - "https://glima.ai/sitemap.xml"
+    active: true
 
 sitemap:
   max_depth: 3
