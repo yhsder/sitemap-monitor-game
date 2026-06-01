@@ -22,6 +22,7 @@ https://wavespeed.ai/static/terms
 https://wavespeed.ai/static/privacy
 https://wavespeed.ai/static/return-policy
 https://wavespeed.ai/static/contact
+https://wavespeed.ai/static/public-api
 https://wavespeed.ai/tools
 https://wavespeed.ai/tools/image-upscaler
 https://wavespeed.ai/tools/video-upscaler
@@ -159,6 +160,7 @@ https://wavespeed.ai/collections/happyhorse
 https://wavespeed.ai/collections/seedance-2.0
 https://wavespeed.ai/collections/wan-2.7
 https://wavespeed.ai/collections/qwen-image-2
+https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/image-to-video
 https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/image-to-video
@@ -387,6 +389,10 @@ https://wavespeed.ai/models/kwaivgi/kling-image-v3/edit
 https://wavespeed.ai/models/wavespeed-ai/image-zoom-out
 https://wavespeed.ai/models/wavespeed-ai/image-converter
 https://wavespeed.ai/models/kwaivgi/kling-image-v3/text-to-image
+https://wavespeed.ai/models/hyper3d/rodin-v2.5/image-to-3d
+https://wavespeed.ai/models/hyper3d/rodin-v2.5/text-to-3d
+https://wavespeed.ai/models/hyper3d/rodin-v2/text-to-3d
+https://wavespeed.ai/models/hyper3d/rodin-v2/image-to-3d
 https://wavespeed.ai/models/wavespeed-ai/audio-converter
 https://wavespeed.ai/models/kwaivgi/kling-lipsync/audio-to-video
 https://wavespeed.ai/models/wavespeed-ai/image-face-blur
@@ -687,8 +693,6 @@ https://wavespeed.ai/models/wavespeed-ai/flux-2-max/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/sam3-video
 https://wavespeed.ai/models/google/veo3.1/video-extend
 https://wavespeed.ai/models/wavespeed-ai/sam-3d-objects
-https://wavespeed.ai/models/hyper3d/rodin-v2/text-to-3d
-https://wavespeed.ai/models/hyper3d/rodin-v2/image-to-3d
 https://wavespeed.ai/models/pika/v2.2-pikaframes
 https://wavespeed.ai/models/x-ai/grok-2-image
 https://wavespeed.ai/models/wavespeed-ai/steady-dancer
@@ -1137,6 +1141,7 @@ https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
 https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-image-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-image-to-video
@@ -1365,6 +1370,10 @@ https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-image-v3-edit
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-zoom-out
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-converter
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-image-v3-text-to-image
+https://wavespeed.ai/docs/docs-api/hyper3d/hyper3d-rodin-v2.5-image-to-3d
+https://wavespeed.ai/docs/docs-api/hyper3d/hyper3d-rodin-v2.5-text-to-3d
+https://wavespeed.ai/docs/docs-api/hyper3d/hyper3d-rodin-v2-text-to-3d
+https://wavespeed.ai/docs/docs-api/hyper3d/hyper3d-rodin-v2-image-to-3d
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/audio-converter
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-lipsync-audio-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/image-face-blur
@@ -1665,8 +1674,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-max-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/sam3-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-video-extend
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/sam-3d-objects
-https://wavespeed.ai/docs/docs-api/hyper3d/hyper3d-rodin-v2-text-to-3d
-https://wavespeed.ai/docs/docs-api/hyper3d/hyper3d-rodin-v2-image-to-3d
 https://wavespeed.ai/docs/docs-api/pika/pika-v2.2-pikaframes
 https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-2-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/steady-dancer
