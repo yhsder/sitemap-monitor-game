@@ -67,6 +67,14 @@ sites:
     sitemap_urls:
       - "https://glima.ai/sitemap.xml"
     active: true
+  - name: "pixlio"
+    sitemap_urls:
+      - "https://pixlio.net/sitemap.xml"
+    active: true
+  - name: "vidguru"
+    sitemap_urls:
+      - "https://vidguru.ai/sitemap.xml"
+    active: true
 
 sitemap:
   max_depth: 3
