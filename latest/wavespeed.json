@@ -150,6 +150,14 @@ https://wavespeed.ai/image-upscaler-api
 https://wavespeed.ai/video-upscaler-pro-api
 https://wavespeed.ai/video-watermark-remover-api
 https://wavespeed.ai/wan-2-2-api
+https://wavespeed.ai/sora-2-api
+https://wavespeed.ai/kling-o3-api
+https://wavespeed.ai/grok-imagine-video-api
+https://wavespeed.ai/hailuo-2-3-api
+https://wavespeed.ai/wan-2-6-api
+https://wavespeed.ai/qwen-image-api
+https://wavespeed.ai/hunyuan3d-api
+https://wavespeed.ai/flux-2-klein-api
 https://wavespeed.ai/collections/sonilo
 https://wavespeed.ai/collections/skywork-ai
 https://wavespeed.ai/collections/mureka-ai
@@ -175,6 +183,10 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/nvidia/cosmos-3-super/image-to-video
+https://wavespeed.ai/models/nvidia/cosmos-3-super/text-to-image
+https://wavespeed.ai/models/sonilo/video-to-music
+https://wavespeed.ai/models/sonilo/text-to-music
 https://wavespeed.ai/models/pruna-ai/p-video/animate
 https://wavespeed.ai/models/wavespeed-ai/krea-v2-large/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/krea-v2-medium/text-to-image
@@ -1156,6 +1168,10 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/nvidia/nvidia-cosmos-3-super-image-to-video
+https://wavespeed.ai/docs/docs-api/nvidia/nvidia-cosmos-3-super-text-to-image
+https://wavespeed.ai/docs/docs-api/sonilo/sonilo-video-to-music
+https://wavespeed.ai/docs/docs-api/sonilo/sonilo-text-to-music
 https://wavespeed.ai/docs/docs-api/pruna-ai/pruna-ai-p-video-animate
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/krea-v2-large-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/krea-v2-medium-text-to-image
@@ -2150,6 +2166,7 @@ https://wavespeed.ai/llm/z-ai/glm-5.1
 https://wavespeed.ai/llm/deepseek/deepseek-v4-flash
 https://wavespeed.ai/llm/deepseek/deepseek-v4-pro
 https://wavespeed.ai/llm/deepseek/deepseek-v3.2
+https://wavespeed.ai/llm/minimax/minimax-m3
 https://wavespeed.ai/llm/minimax/minimax-m2.7
 https://wavespeed.ai/llm/x-ai/grok-4.20
 https://wavespeed.ai/llm/ai21/jamba-large-1.7
@@ -2190,8 +2207,6 @@ https://wavespeed.ai/llm/deepseek/deepseek-r1-distill-qwen-32b
 https://wavespeed.ai/llm/deepseek/deepseek-v3.1-terminus
 https://wavespeed.ai/llm/deepseek/deepseek-v3.2-exp
 https://wavespeed.ai/llm/essentialai/rnj-1-instruct
-https://wavespeed.ai/llm/google/gemini-2.0-flash-001
-https://wavespeed.ai/llm/google/gemini-2.0-flash-lite-001
 https://wavespeed.ai/llm/google/gemini-2.5-flash-image
 https://wavespeed.ai/llm/google/gemini-2.5-flash-lite
 https://wavespeed.ai/llm/google/gemini-2.5-flash-lite-preview-09-2025
@@ -2221,6 +2236,7 @@ https://wavespeed.ai/llm/meta-llama/llama-4-maverick
 https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
 https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
+https://wavespeed.ai/llm/microsoft/phi-4
 https://wavespeed.ai/llm/anthropic
 https://wavespeed.ai/llm/openai
 https://wavespeed.ai/llm/google
@@ -2245,3 +2261,4 @@ https://wavespeed.ai/llm/inflection
 https://wavespeed.ai/llm/liquid
 https://wavespeed.ai/llm/mancer
 https://wavespeed.ai/llm/meta
+https://wavespeed.ai/llm/microsoft
