@@ -63,6 +63,10 @@ sites:
     sitemap_urls:
       - "https://bananaproai.com/sitemap.xml"
     active: true
+  - name: "supermaker"
+    sitemap_urls:
+      - "https://supermaker.ai/sitemap.xml"
+    active: true
   - name: "glima"
     sitemap_urls:
       - "https://glima.ai/sitemap.xml"
@@ -74,6 +78,10 @@ sites:
   - name: "vidguru"
     sitemap_urls:
       - "https://vidguru.ai/sitemap.xml"
+    active: true
+  - name: "usekodo"
+    sitemap_urls:
+      - "https://usekodo.ai/sitemap.xml"
     active: true
 
 sitemap:
