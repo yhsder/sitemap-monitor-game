@@ -159,6 +159,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/bria-ai
 https://wavespeed.ai/collections/sonilo
 https://wavespeed.ai/collections/skywork-ai
 https://wavespeed.ai/collections/mureka-ai
@@ -168,7 +169,7 @@ https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
 https://wavespeed.ai/collections/seedance-2.0
 https://wavespeed.ai/collections/wan-2.7
-https://wavespeed.ai/collections/qwen-image-2
+https://wavespeed.ai/models/bria/fibo-edit/genfill
 https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/image-to-video
 https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/reference-to-video
@@ -184,6 +185,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/chatterbox/speech-to-speech
+https://wavespeed.ai/models/chatterbox/text-to-speech
 https://wavespeed.ai/models/bytedance/seed-speech-tts-2.0
 https://wavespeed.ai/models/wavespeed-ai/krea-v2-medium-turbo/text-to-image
 https://wavespeed.ai/models/stability-ai/stable-audio-3/audio-to-audio
@@ -1166,9 +1169,7 @@ https://wavespeed.ai/models/wavespeed-ai/patina/material-extract
 https://wavespeed.ai/models/wavespeed-ai/patina/material
 https://wavespeed.ai/models/wavespeed-ai/patina/image-to-map
 https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
-https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
-https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
-https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
+https://wavespeed.ai/docs/docs-api/bria/bria-fibo-edit-genfill
 https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-image-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-reference-to-video
@@ -1184,6 +1185,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/chatterbox/chatterbox-speech-to-speech
+https://wavespeed.ai/docs/docs-api/chatterbox/chatterbox-text-to-speech
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seed-speech-tts-2.0
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/krea-v2-medium-turbo-text-to-image
 https://wavespeed.ai/docs/docs-api/stability-ai/stability-ai-stable-audio-3-audio-to-audio
@@ -2165,9 +2168,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-material-extract
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-material
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-image-to-map
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/void-video-inpainting-mask
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/nucleus-image-text-to-image
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/ernie-image-text-to-image-turbo
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/ernie-image-text-to-image
 https://wavespeed.ai/llm/anthropic/claude-opus-4.8
 https://wavespeed.ai/llm/anthropic/claude-opus-4.7
 https://wavespeed.ai/llm/anthropic/claude-opus-4.6
