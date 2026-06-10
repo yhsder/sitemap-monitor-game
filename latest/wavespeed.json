@@ -21,7 +21,6 @@ https://wavespeed.ai/static/affiliate
 https://wavespeed.ai/static/terms
 https://wavespeed.ai/static/privacy
 https://wavespeed.ai/static/return-policy
-https://wavespeed.ai/static/contact
 https://wavespeed.ai/static/public-api
 https://wavespeed.ai/tools
 https://wavespeed.ai/tools/image-upscaler
@@ -159,6 +158,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/luma-ai
 https://wavespeed.ai/collections/bria-ai
 https://wavespeed.ai/collections/sonilo
 https://wavespeed.ai/collections/skywork-ai
@@ -168,7 +168,8 @@ https://wavespeed.ai/collections/pruna-ai
 https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
 https://wavespeed.ai/collections/seedance-2.0
-https://wavespeed.ai/collections/wan-2.7
+https://wavespeed.ai/models/luma/ray-3.2/image-to-video
+https://wavespeed.ai/models/luma/ray-3.2/text-to-video
 https://wavespeed.ai/models/bria/fibo-edit/genfill
 https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/image-to-video
 https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
@@ -185,6 +186,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/luma/uni-v1/edit
+https://wavespeed.ai/models/luma/uni-v1/text-to-image
 https://wavespeed.ai/models/chatterbox/speech-to-speech
 https://wavespeed.ai/models/chatterbox/text-to-speech
 https://wavespeed.ai/models/bytedance/seed-speech-tts-2.0
@@ -1165,10 +1168,8 @@ https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/vision
 https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/video
 https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/audio
 https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/text
-https://wavespeed.ai/models/wavespeed-ai/patina/material-extract
-https://wavespeed.ai/models/wavespeed-ai/patina/material
-https://wavespeed.ai/models/wavespeed-ai/patina/image-to-map
-https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
+https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-image-to-video
+https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-text-to-video
 https://wavespeed.ai/docs/docs-api/bria/bria-fibo-edit-genfill
 https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-image-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-reference-to-video
@@ -1185,6 +1186,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/luma/luma-uni-v1-edit
+https://wavespeed.ai/docs/docs-api/luma/luma-uni-v1-text-to-image
 https://wavespeed.ai/docs/docs-api/chatterbox/chatterbox-speech-to-speech
 https://wavespeed.ai/docs/docs-api/chatterbox/chatterbox-text-to-speech
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seed-speech-tts-2.0
@@ -2164,13 +2167,10 @@ https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-vision
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-video
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-audio
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3-nano-omni-text
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-material-extract
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-material
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/patina-image-to-map
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/void-video-inpainting-mask
 https://wavespeed.ai/llm/anthropic/claude-opus-4.8
 https://wavespeed.ai/llm/anthropic/claude-opus-4.7
 https://wavespeed.ai/llm/anthropic/claude-opus-4.6
+https://wavespeed.ai/llm/anthropic/claude-fable-5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.6
 https://wavespeed.ai/llm/anthropic/claude-opus-4.5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.5
@@ -2267,7 +2267,6 @@ https://wavespeed.ai/llm/meta-llama/llama-4-maverick
 https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
 https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
-https://wavespeed.ai/llm/microsoft/phi-4
 https://wavespeed.ai/llm/anthropic
 https://wavespeed.ai/llm/openai
 https://wavespeed.ai/llm/google
@@ -2292,4 +2291,3 @@ https://wavespeed.ai/llm/inflection
 https://wavespeed.ai/llm/liquid
 https://wavespeed.ai/llm/mancer
 https://wavespeed.ai/llm/meta
-https://wavespeed.ai/llm/microsoft
