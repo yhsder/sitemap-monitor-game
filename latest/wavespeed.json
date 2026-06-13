@@ -2170,7 +2170,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/hunyuan-video-t2v
 https://wavespeed.ai/llm/anthropic/claude-opus-4.8
 https://wavespeed.ai/llm/anthropic/claude-opus-4.7
 https://wavespeed.ai/llm/anthropic/claude-opus-4.6
-https://wavespeed.ai/llm/anthropic/claude-fable-5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.6
 https://wavespeed.ai/llm/anthropic/claude-opus-4.5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.5
@@ -2267,6 +2266,7 @@ https://wavespeed.ai/llm/meta-llama/llama-4-maverick
 https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-3-8b
 https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
+https://wavespeed.ai/llm/microsoft/phi-4
 https://wavespeed.ai/llm/anthropic
 https://wavespeed.ai/llm/openai
 https://wavespeed.ai/llm/google
@@ -2291,3 +2291,4 @@ https://wavespeed.ai/llm/inflection
 https://wavespeed.ai/llm/liquid
 https://wavespeed.ai/llm/mancer
 https://wavespeed.ai/llm/meta
+https://wavespeed.ai/llm/microsoft
