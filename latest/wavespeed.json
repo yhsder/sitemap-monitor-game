@@ -533,6 +533,7 @@ https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/google/veo2/image-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
+https://wavespeed.ai/models/wavespeed-ai/scail-2
 https://wavespeed.ai/models/pixverse/motion-control/mimic
 https://wavespeed.ai/models/wavespeed-ai/flux-2-klein-base-4b/edit-lora
 https://wavespeed.ai/models/wavespeed-ai/flux-2-klein-base-4b/text-to-image-lora
@@ -1167,7 +1168,6 @@ https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-480p
 https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-720p
 https://wavespeed.ai/models/wavespeed-ai/flux-dev-lora
 https://wavespeed.ai/models/wavespeed-ai/flux-dev
-https://wavespeed.ai/models/wavespeed-ai/hunyuan-video/t2v
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-edit
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-reframing
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3.5-asr
@@ -1533,6 +1533,7 @@ https://wavespeed.ai/docs/docs-api/vidu/vidu-start-end-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo2-image-to-video
 https://wavespeed.ai/docs/docs-api/vidu/vidu-image-to-video-q2-pro
 https://wavespeed.ai/docs/docs-api/vidu/vidu-image-to-video-q2-turbo
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/scail-2
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-motion-control-mimic
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-klein-base-4b-edit-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-2-klein-base-4b-text-to-image-lora
@@ -2166,7 +2167,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-480p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-720p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/hunyuan-video-t2v
 https://wavespeed.ai/llm/anthropic/claude-opus-4.8
 https://wavespeed.ai/llm/anthropic/claude-opus-4.7
 https://wavespeed.ai/llm/anthropic/claude-opus-4.6
