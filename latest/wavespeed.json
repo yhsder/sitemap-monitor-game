@@ -168,6 +168,8 @@ https://wavespeed.ai/collections/pruna-ai
 https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
 https://wavespeed.ai/collections/seedance-2.0
+https://wavespeed.ai/models/wavespeed-ai/open-video/image-to-video-lora
+https://wavespeed.ai/models/wavespeed-ai/open-video/image-to-video
 https://wavespeed.ai/models/luma/ray-3.2/video-edit
 https://wavespeed.ai/models/luma/ray-3.2/video-reframing
 https://wavespeed.ai/models/nvidia/nemotron-3.5-asr
@@ -189,6 +191,7 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/bytedance/seed3d-2.0/image-to-3d
 https://wavespeed.ai/models/ideogram-ai/ideogram-v4/edit
 https://wavespeed.ai/models/luma/uni-v1/edit
 https://wavespeed.ai/models/luma/uni-v1/text-to-image
@@ -1165,9 +1168,8 @@ https://wavespeed.ai/models/wavespeed-ai/wan-2.1/i2v-720p
 https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-480p-lora
 https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-720p-lora
 https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-480p
-https://wavespeed.ai/models/wavespeed-ai/wan-2.1/t2v-720p
-https://wavespeed.ai/models/wavespeed-ai/flux-dev-lora
-https://wavespeed.ai/models/wavespeed-ai/flux-dev
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/open-video-image-to-video-lora
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/open-video-image-to-video
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-edit
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-reframing
 https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3.5-asr
@@ -1189,6 +1191,7 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seed3d-2.0-image-to-3d
 https://wavespeed.ai/docs/docs-api/ideogram-ai/ideogram-ai-ideogram-v4-edit
 https://wavespeed.ai/docs/docs-api/luma/luma-uni-v1-edit
 https://wavespeed.ai/docs/docs-api/luma/luma-uni-v1-text-to-image
@@ -2164,9 +2167,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-i2v-720p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-480p-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-720p-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-480p
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/wan-2.1-t2v-720p
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev-lora
-https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev
 https://wavespeed.ai/llm/anthropic/claude-opus-4.8
 https://wavespeed.ai/llm/anthropic/claude-opus-4.7
 https://wavespeed.ai/llm/anthropic/claude-opus-4.6
