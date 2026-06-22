@@ -131,6 +131,7 @@ https://wavespeed.ai/apps/trending-templates/melting-doodle
 https://wavespeed.ai/apps/trending-templates/giallo-horror
 https://wavespeed.ai/apps/trending-templates/renaissance
 https://wavespeed.ai/apps/trending-templates/rap-god
+https://wavespeed.ai/seedance-2-mini-api
 https://wavespeed.ai/seedance-2-api
 https://wavespeed.ai/nano-banana-pro-api
 https://wavespeed.ai/seedance-1-5-pro-api
@@ -158,6 +159,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/happyhorse-1.1
 https://wavespeed.ai/collections/luma-ai
 https://wavespeed.ai/collections/bria-ai
 https://wavespeed.ai/collections/sonilo
@@ -167,7 +169,6 @@ https://wavespeed.ai/collections/clarity-ai
 https://wavespeed.ai/collections/pruna-ai
 https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
-https://wavespeed.ai/collections/seedance-2.0
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-std/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-std/text-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-pro/image-to-video
@@ -190,6 +191,8 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v4/image-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/text-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video-cutshot
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video
+https://wavespeed.ai/models/alibaba/happyhorse-1.1/video-extend
+https://wavespeed.ai/models/alibaba/happyhorse-1.1/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/reference-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-extend
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
@@ -198,6 +201,7 @@ https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
 https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/image-to-video
 https://wavespeed.ai/models/vidu/q3/drama-clip
 https://wavespeed.ai/models/bytedance/seed3d-2.0/image-to-3d
 https://wavespeed.ai/models/luma/uni-v1/edit
@@ -264,16 +268,21 @@ https://wavespeed.ai/models/ideogram-ai/remove-background
 https://wavespeed.ai/models/openai/gpt-image-2/edit
 https://wavespeed.ai/models/bytedance/seedance-2.0/image-to-video
 https://wavespeed.ai/models/openai/gpt-image-2/text-to-image
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-edit
 https://wavespeed.ai/models/bytedance/seedance-2.0/video-edit
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-edit-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0/video-edit-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/video-edit-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/video-edit
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-extend
 https://wavespeed.ai/models/bytedance/seedance-2.0/video-extend
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/video-extend
 https://wavespeed.ai/models/pixverse/pixverse-c1/reference-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/image-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/text-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/transition
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/image-to-video-spicy
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.0/image-to-video-spicy
 https://wavespeed.ai/models/bytedance/seedance-2.0/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/image-to-video
@@ -304,7 +313,9 @@ https://wavespeed.ai/models/vidu/q3/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-v1.5-pro/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v2.6-pro/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v2.6-pro/motion-control
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0/image-to-video-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/text-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0/text-to-video-turbo
 https://wavespeed.ai/models/google/veo3.1/image-to-video
 https://wavespeed.ai/models/google/veo3.1-fast/image-to-video
@@ -363,6 +374,7 @@ https://wavespeed.ai/models/google/nano-banana-pro/text-to-image
 https://wavespeed.ai/models/google/nano-banana-pro/text-to-image-ultra
 https://wavespeed.ai/models/wavespeed-ai/longcat-avatar-1.5/multi
 https://wavespeed.ai/models/wavespeed-ai/longcat-avatar-1.5
+https://wavespeed.ai/models/alibaba/happyhorse-1.1/image-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/image-to-video
 https://wavespeed.ai/models/google/nano-banana/edit
 https://wavespeed.ai/models/google/nano-banana-2/text-to-image
@@ -374,6 +386,7 @@ https://wavespeed.ai/models/bytedance/seedream-v4.5
 https://wavespeed.ai/models/bytedance/seedream-v4/edit
 https://wavespeed.ai/models/bytedance/seedream-v4
 https://wavespeed.ai/models/bytedance/seedream-v5.0-lite
+https://wavespeed.ai/models/alibaba/happyhorse-1.1/text-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/text-to-video
 https://wavespeed.ai/models/bytedance/seedream-v4.5/sequential
 https://wavespeed.ai/models/bytedance/seedream-v4/edit-sequential
@@ -1177,6 +1190,8 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-image-to-vi
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-text-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-extend-video-cutshot
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-extend-video
+https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.1-video-extend
+https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.1-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-reference-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-extend
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-video-edit
@@ -1185,6 +1200,7 @@ https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-multi-a
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-multi-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-pro-single-avatar
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-standard-single-avatar
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-image-to-video
 https://wavespeed.ai/docs/docs-api/vidu/vidu-q3-drama-clip
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seed3d-2.0-image-to-3d
 https://wavespeed.ai/docs/docs-api/luma/luma-uni-v1-edit
@@ -1251,16 +1267,21 @@ https://wavespeed.ai/docs/docs-api/ideogram-ai/ideogram-ai-remove-background
 https://wavespeed.ai/docs/docs-api/openai/openai-gpt-image-2-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-image-to-video
 https://wavespeed.ai/docs/docs-api/openai/openai-gpt-image-2-text-to-image
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-video-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-video-edit
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-video-edit-turbo
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-video-edit-turbo
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-fast-video-edit-turbo
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-fast-video-edit
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-video-extend
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-video-extend
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-fast-video-extend
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-pixverse-c1-reference-to-video
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-pixverse-c1-image-to-video
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-pixverse-c1-text-to-video
 https://wavespeed.ai/docs/docs-api/pixverse/pixverse-pixverse-c1-transition
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-image-to-video-spicy
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-image-to-video-spicy
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-fast-image-to-video
@@ -1291,7 +1312,9 @@ https://wavespeed.ai/docs/docs-api/vidu/vidu-q3-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1.5-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v2.6-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v2.6-pro-motion-control
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-image-to-video-turbo
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-image-to-video-turbo
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-text-to-video-turbo
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-text-to-video-turbo
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-image-to-video
 https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-image-to-video
@@ -1350,6 +1373,7 @@ https://wavespeed.ai/docs/docs-api/google/google-nano-banana-pro-text-to-image
 https://wavespeed.ai/docs/docs-api/google/google-nano-banana-pro-text-to-image-ultra
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/longcat-avatar-1.5-multi
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/longcat-avatar-1.5
+https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.1-image-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-image-to-video
 https://wavespeed.ai/docs/docs-api/google/google-nano-banana-edit
 https://wavespeed.ai/docs/docs-api/google/google-nano-banana-2-text-to-image
@@ -1361,6 +1385,7 @@ https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v4.5
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v4-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v4
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-lite
+https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.1-text-to-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.0-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v4.5-sequential
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v4-edit-sequential
