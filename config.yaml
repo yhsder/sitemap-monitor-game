@@ -83,6 +83,19 @@ sites:
     sitemap_urls:
       - "https://usekodo.ai/sitemap.xml"
     active: true
+  - name: "pixexact"
+    sitemap_urls:
+      - "https://pixexact.com/sitemap.xml"
+    active: true
+  - name: "myaiart"
+    sitemap_urls:
+      - "https://myaiart.io/sitemap.xml"
+    active: true
+  - name: "pixomi"
+    sitemap_urls:
+      - "https://pixomi.ai/sitemap.xml"
+    active: true
+
 
 sitemap:
   max_depth: 3
