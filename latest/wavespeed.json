@@ -169,6 +169,7 @@ https://wavespeed.ai/collections/clarity-ai
 https://wavespeed.ai/collections/pruna-ai
 https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
+https://wavespeed.ai/models/sync/lipsync-3/avatar
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-std/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-std/text-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-pro/image-to-video
@@ -476,7 +477,6 @@ https://wavespeed.ai/models/wavespeed-ai/mmaudio-v2
 https://wavespeed.ai/models/wavespeed-ai/ai-kissing
 https://wavespeed.ai/models/kwaivgi/kling-effects
 https://wavespeed.ai/models/wavespeed-ai/ai-virtual-outfit-tryon
-https://wavespeed.ai/models/kwaivgi/kling-elements
 https://wavespeed.ai/models/wavespeed-ai/ai-twerk
 https://wavespeed.ai/models/wavespeed-ai/ai-breast-expansion
 https://wavespeed.ai/models/kwaivgi/kling-elements-advanced
@@ -1168,6 +1168,7 @@ https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
 https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
+https://wavespeed.ai/docs/docs-api/sync/sync-lipsync-3-avatar
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v3-turbo-std-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v3-turbo-std-text-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v3-turbo-pro-image-to-video
@@ -1475,7 +1476,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/mmaudio-v2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-kissing
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-effects
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-virtual-outfit-tryon
-https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-elements
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-twerk
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-breast-expansion
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-elements-advanced
