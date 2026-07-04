@@ -202,7 +202,6 @@ https://www.jaiportal.com/model/pixverse-v5-6-text-to-video
 https://www.jaiportal.com/model/hunyuan-image-v3-instruct-edit
 https://www.jaiportal.com/model/hunyuan-image-v3-instruct
 https://www.jaiportal.com/model/hunyuan-3-1-rapid-text-to-3d
-https://www.jaiportal.com/model/meshy-v6-image-to-3d
 https://www.jaiportal.com/model/kling-image-v3-text-to-image
 https://www.jaiportal.com/model/kling-image-v3-image-to-image
 https://www.jaiportal.com/model/kling-image-o3-text-to-image
@@ -347,6 +346,7 @@ https://www.jaiportal.com/model/wan-video-2-2-i2v-fast
 https://www.jaiportal.com/model/flux-kontext-zoom-out
 https://www.jaiportal.com/model/seedance-2-0-mini-reference-to-video
 https://www.jaiportal.com/model/bria-reimagine
+https://www.jaiportal.com/model/meshy-v6-image-to-3d
 https://www.jaiportal.com/model/wan-2-2-text-to-image
 https://www.jaiportal.com/model/recraft-vectorize
 https://www.jaiportal.com/model/elevenlabs-tts-turbo-v2-5
@@ -459,12 +459,16 @@ https://www.jaiportal.com/model/stable-diffusion-v3-medium-image-to-image
 https://www.jaiportal.com/model/reve-fast-edit
 https://www.jaiportal.com/model/reve-fast-remix
 https://www.jaiportal.com/model/infinity-star-text-to-video
+https://www.jaiportal.com/model/google-nano-banana-2-lite
+https://www.jaiportal.com/model/google-nano-banana-lite-edit
 https://www.jaiportal.com/model/sana-video
 https://www.jaiportal.com/model/pixverse-swap
 https://www.jaiportal.com/model/bytedance-video-upscaler
 https://www.jaiportal.com/model/hidream-e1-1
 https://www.jaiportal.com/model/step1x-edit
 https://www.jaiportal.com/model/fibo-bria
+https://www.jaiportal.com/model/google-nano-banana-lite
+https://www.jaiportal.com/model/google-gemini-omni-flash-reference-to-video
 https://www.jaiportal.com/model/luma-photon-flash
 https://www.jaiportal.com/model/luma-photon-modify
 https://www.jaiportal.com/model/luma-photon-flash-modify
@@ -504,6 +508,7 @@ https://www.jaiportal.com/model/sam-3-3d-body
 https://www.jaiportal.com/model/sam-3-3d-objects
 https://www.jaiportal.com/model/vidu-q2-reference-to-image
 https://www.jaiportal.com/model/vidu-q2-text-to-image
+https://www.jaiportal.com/model/google-gemini-omni-flash
 https://www.jaiportal.com/model/image-head-swap
 https://www.jaiportal.com/model/veed-video-bg-removal
 https://www.jaiportal.com/model/ltx-2-19b-video-upscaler
@@ -571,6 +576,7 @@ https://www.jaiportal.com/model/nemotron-asr
 https://www.jaiportal.com/model/qwen-3-tts-voice-design-1-7b
 https://www.jaiportal.com/model/grok-imagine-image
 https://www.jaiportal.com/model/grok-imagine-image-edit
+https://www.jaiportal.com/model/google-gemini-omni-flash-image-to-video
 https://www.jaiportal.com/model/grok-imagine-video-image-to-video
 https://www.jaiportal.com/model/kling-video-v3-pro-image-to-video
 https://www.jaiportal.com/model/kling-video-v3-standard-image-to-video
@@ -590,6 +596,7 @@ https://www.jaiportal.com/model/wan-v2-6-reference-to-video-flash
 https://www.jaiportal.com/model/bytedance-dreamactor-v2
 https://www.jaiportal.com/model/meshy-v6-text-to-3d
 https://www.jaiportal.com/model/kling-image-o3-image-to-image
+https://www.jaiportal.com/model/google-gemini-omni-flash-video-edit
 https://www.jaiportal.com/model/ultimate-video-upscaler
 https://www.jaiportal.com/model/google-gemini-2-5-flash-text-to-speech
 https://www.jaiportal.com/model/google-gemini-2-5-pro-text-to-speech
@@ -667,8 +674,9 @@ https://www.jaiportal.com/blog/category/ask-jai
 https://www.jaiportal.com/blog/category/jai-portal
 https://www.jaiportal.com/blog/how-to-make-product-photos-with-ai-for-free
 https://www.jaiportal.com/blog/ask-jai-ai-creative-assistant
-https://www.jaiportal.com/blog/jai-portal-ai-marketplace-300-models-pay-as-you-go
 https://www.jaiportal.com/blog/ai-character-swap-transform-video-characters-in-minutes-jai-portal
+https://www.jaiportal.com/blog/jai-portal-ai-marketplace-300-models-pay-as-you-go
+https://www.jaiportal.com/blog/ai-video-body-swap
 https://www.jaiportal.com/blog/how-to-swap-faces-in-videos-with-ai-step-by-step
 https://www.jaiportal.com/blog/happyhorse-1-review-alibaba-ai-video-model-number-one
 https://www.jaiportal.com/free
