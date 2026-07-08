@@ -185,6 +185,7 @@ https://wavespeed.ai/models/wavespeed-ai/ltx-2.3-spicy/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/zonos2
 https://wavespeed.ai/models/wavespeed-ai/open-video/image-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/open-video/image-to-video
+https://wavespeed.ai/models/bria/product-dimensions
 https://wavespeed.ai/models/google/gemini-omni-flash/video-edit
 https://wavespeed.ai/models/google/gemini-omni-flash/reference-to-video
 https://wavespeed.ai/models/google/gemini-omni-flash/image-to-video
@@ -200,6 +201,8 @@ https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/image-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/text-to-video
+https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
+https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video-cutshot
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.1/video-extend
@@ -1124,6 +1127,7 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/ltx-2.3-spicy-image-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/zonos2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/open-video-image-to-video-lora
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/open-video-image-to-video
+https://wavespeed.ai/docs/docs-api/bria/bria-product-dimensions
 https://wavespeed.ai/docs/docs-api/google/google-gemini-omni-flash-video-edit
 https://wavespeed.ai/docs/docs-api/google/google-gemini-omni-flash-reference-to-video
 https://wavespeed.ai/docs/docs-api/google/google-gemini-omni-flash-image-to-video
@@ -1139,6 +1143,8 @@ https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-image-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-text-to-video
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro-edit
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-extend-video-cutshot
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-extend-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.1-video-extend
@@ -2088,9 +2094,7 @@ https://wavespeed.ai/llm/minimax/minimax-m2.7
 https://wavespeed.ai/llm/x-ai/grok-4.20
 https://wavespeed.ai/llm/ai21/jamba-large-1.7
 https://wavespeed.ai/llm/aion-labs/aion-2.0
-https://wavespeed.ai/llm/anthracite-org/magnum-v4-72b
 https://wavespeed.ai/llm/anthropic/claude-3-haiku
-https://wavespeed.ai/llm/anthropic/claude-opus-4
 https://wavespeed.ai/llm/bytedance/ui-tars-1.5-7b
 https://wavespeed.ai/llm/deepseek/deepseek-chat
 https://wavespeed.ai/llm/deepseek/deepseek-r1
@@ -2099,7 +2103,6 @@ https://wavespeed.ai/llm/google/gemini-3-flash-preview
 https://wavespeed.ai/llm/google/gemini-3.1-flash-image-preview
 https://wavespeed.ai/llm/google/gemini-3.1-pro-preview-customtools
 https://wavespeed.ai/llm/google/gemma-3n-e4b-it
-https://wavespeed.ai/llm/meta-llama/llama-3-8b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.1-8b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.2-3b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.3-70b-instruct
@@ -2133,19 +2136,15 @@ https://wavespeed.ai/llm/qwen/qwen3-235b-a22b
 https://wavespeed.ai/llm/qwen/qwen3-235b-a22b-thinking-2507
 https://wavespeed.ai/llm/qwen/qwen3-coder
 https://wavespeed.ai/llm/qwen/qwen3-coder-next
-https://wavespeed.ai/llm/qwen/qwen3-max-thinking
 https://wavespeed.ai/llm/qwen/qwen3-vl-235b-a22b-instruct
 https://wavespeed.ai/llm/qwen/qwen3-vl-30b-a3b-instruct
 https://wavespeed.ai/llm/qwen/qwen3-vl-32b-instruct
 https://wavespeed.ai/llm/qwen/qwen3-vl-8b-instruct
-https://wavespeed.ai/llm/qwen/qwen3.5-122b-a10b
 https://wavespeed.ai/llm/qwen/qwen3.5-27b
 https://wavespeed.ai/llm/qwen/qwen3.5-35b-a3b
 https://wavespeed.ai/llm/qwen/qwen3.5-397b-a17b
 https://wavespeed.ai/llm/qwen/qwen3.6-plus
 https://wavespeed.ai/llm/thedrummer/cydonia-24b-v4.1
-https://wavespeed.ai/llm/xiaomi/mimo-v2-pro
-https://wavespeed.ai/llm/z-ai/glm-5
 https://wavespeed.ai/llm/xiaomi/mimo-v2.5
 https://wavespeed.ai/llm/x-ai/grok-4.3
 https://wavespeed.ai/llm/qwen/qwen3.6-flash
@@ -2162,7 +2161,6 @@ https://wavespeed.ai/llm/minimax
 https://wavespeed.ai/llm/xai
 https://wavespeed.ai/llm/ai21
 https://wavespeed.ai/llm/aion-labs
-https://wavespeed.ai/llm/anthracite-org
 https://wavespeed.ai/llm/doubao
 https://wavespeed.ai/llm/meta
 https://wavespeed.ai/llm/mistral
