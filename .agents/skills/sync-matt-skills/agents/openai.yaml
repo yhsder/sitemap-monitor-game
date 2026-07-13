@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Matt Skills"
+  short_description: "Safely mirror upstream Matt Pocock skills"
+  default_prompt: "Use $sync-matt-skills to preview upstream skill additions, updates, and deletions for this project."
