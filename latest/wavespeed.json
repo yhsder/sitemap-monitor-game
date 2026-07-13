@@ -175,6 +175,8 @@ https://wavespeed.ai/collections/clarity-ai
 https://wavespeed.ai/collections/pruna-ai
 https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/collections/happyhorse
+https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
+https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
 https://wavespeed.ai/models/sync/lipsync-3/avatar
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-std/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3-turbo-std/text-to-video
@@ -201,8 +203,6 @@ https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/image-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/text-to-video
-https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
-https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video-cutshot
 https://wavespeed.ai/models/skywork-ai/skyreels-v3/extend-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.1/video-extend
@@ -1116,6 +1116,8 @@ https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
 https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro-edit
+https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro
 https://wavespeed.ai/docs/docs-api/sync/sync-lipsync-3-avatar
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v3-turbo-std-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v3-turbo-std-text-to-video
@@ -1142,8 +1144,6 @@ https://wavespeed.ai/docs/docs-api/google/google-veo3.1-fast-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-image-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-text-to-video
-https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro
-https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro-edit
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-extend-video-cutshot
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v3-extend-video
 https://wavespeed.ai/docs/docs-api/alibaba/alibaba-happyhorse-1.1-video-extend
