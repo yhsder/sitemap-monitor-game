@@ -477,6 +477,7 @@ https://wavespeed.ai/models/wavespeed-ai/mmaudio-v2
 https://wavespeed.ai/models/wavespeed-ai/ai-kissing
 https://wavespeed.ai/models/kwaivgi/kling-effects
 https://wavespeed.ai/models/wavespeed-ai/ai-virtual-outfit-tryon
+https://wavespeed.ai/models/kwaivgi/kling-elements
 https://wavespeed.ai/models/wavespeed-ai/ai-twerk
 https://wavespeed.ai/models/wavespeed-ai/ai-breast-expansion
 https://wavespeed.ai/models/kwaivgi/kling-elements-advanced
@@ -537,6 +538,9 @@ https://wavespeed.ai/models/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-720p
 https://wavespeed.ai/models/wavespeed-ai/ai-story-generator
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-1080p
+https://wavespeed.ai/models/reve/2.1/remix
+https://wavespeed.ai/models/reve/2.1/edit
+https://wavespeed.ai/models/reve/2.1/text-to-image
 https://wavespeed.ai/models/veed/lipsync-v2
 https://wavespeed.ai/models/wavespeed-ai/tiktok-video-generator
 https://wavespeed.ai/models/bytedance/seedance-v1-lite/reference-to-video
@@ -1032,11 +1036,6 @@ https://wavespeed.ai/models/minimax/hailuo-02/i2v-pro
 https://wavespeed.ai/models/minimax/hailuo-02/t2v-pro
 https://wavespeed.ai/models/minimax/hailuo-02/i2v-standard
 https://wavespeed.ai/models/minimax/hailuo-02/t2v-standard
-https://wavespeed.ai/models/scenario-marketing/spin180
-https://wavespeed.ai/models/scenario-marketing/walk-forward
-https://wavespeed.ai/models/scenario-marketing/aorbit-dolly-fast
-https://wavespeed.ai/models/scenario-marketing/auto-spin
-https://wavespeed.ai/models/scenario-marketing/orbit
 https://wavespeed.ai/models/wavespeed-ai/flux-controlnet-union-pro-2.0
 https://wavespeed.ai/models/wavespeed-ai/flux-kontext-dev
 https://wavespeed.ai/models/wavespeed-ai/flux-kontext-dev-ultra-fast
@@ -1419,6 +1418,7 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/mmaudio-v2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-kissing
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-effects
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-virtual-outfit-tryon
+https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-elements
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-twerk
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-breast-expansion
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-elements-advanced
@@ -1479,6 +1479,9 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-720p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-story-generator
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-1080p
+https://wavespeed.ai/docs/docs-api/reve/reve-2.1-remix
+https://wavespeed.ai/docs/docs-api/reve/reve-2.1-edit
+https://wavespeed.ai/docs/docs-api/reve/reve-2.1-text-to-image
 https://wavespeed.ai/docs/docs-api/veed/veed-lipsync-v2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/tiktok-video-generator
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-reference-to-video
@@ -1974,11 +1977,6 @@ https://wavespeed.ai/docs/docs-api/minimax/minimax-hailuo-02-i2v-pro
 https://wavespeed.ai/docs/docs-api/minimax/minimax-hailuo-02-t2v-pro
 https://wavespeed.ai/docs/docs-api/minimax/minimax-hailuo-02-i2v-standard
 https://wavespeed.ai/docs/docs-api/minimax/minimax-hailuo-02-t2v-standard
-https://wavespeed.ai/docs/docs-api/scenario-marketing/scenario-marketing-spin180
-https://wavespeed.ai/docs/docs-api/scenario-marketing/scenario-marketing-walk-forward
-https://wavespeed.ai/docs/docs-api/scenario-marketing/scenario-marketing-aorbit-dolly-fast
-https://wavespeed.ai/docs/docs-api/scenario-marketing/scenario-marketing-auto-spin
-https://wavespeed.ai/docs/docs-api/scenario-marketing/scenario-marketing-orbit
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-controlnet-union-pro-2.0
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-kontext-dev
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-kontext-dev-ultra-fast
