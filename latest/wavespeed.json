@@ -500,6 +500,7 @@ https://wavespeed.ai/models/bytedance/seedance-v1-pro-i2v-720p
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/image-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/text-to-video
+https://wavespeed.ai/models/sonilo/v1/text-to-sfx
 https://wavespeed.ai/models/bria/extract-object
 https://wavespeed.ai/models/wavespeed-ai/boogu-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/boogu-image/edit
@@ -1074,7 +1075,6 @@ https://wavespeed.ai/models/wavespeed-ai/framepack
 https://wavespeed.ai/models/wavespeed-ai/flux-redux-pro
 https://wavespeed.ai/models/wavespeed-ai/flux-fill-dev
 https://wavespeed.ai/models/wavespeed-ai/flux-redux-dev
-https://wavespeed.ai/models/wavespeed-ai/hunyuan3d-v2-multi-view
 https://wavespeed.ai/models/wavespeed-ai/hidream-i1-dev
 https://wavespeed.ai/models/wavespeed-ai/hidream-i1-full
 https://wavespeed.ai/models/wavespeed-ai/real-esrgan
@@ -1441,6 +1441,7 @@ https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-pro-i2v-720p
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-reference-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-image-to-video
 https://wavespeed.ai/docs/docs-api/skywork-ai/skywork-ai-skyreels-v4-text-to-video
+https://wavespeed.ai/docs/docs-api/sonilo/sonilo-v1-text-to-sfx
 https://wavespeed.ai/docs/docs-api/bria/bria-extract-object
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/boogu-image-text-to-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/boogu-image-edit
@@ -2066,6 +2067,7 @@ https://wavespeed.ai/llm/anthropic/claude-opus-4.5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.5
 https://wavespeed.ai/llm/anthropic/claude-haiku-4.5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4
+https://wavespeed.ai/llm/z-ai/glm-5.2
 https://wavespeed.ai/llm/openai/gpt-5.6-terra
 https://wavespeed.ai/llm/openai/gpt-5.6-luna
 https://wavespeed.ai/llm/openai/gpt-5.5
@@ -2083,9 +2085,8 @@ https://wavespeed.ai/llm/google/gemini-3.1-flash-lite-preview
 https://wavespeed.ai/llm/google/gemini-3-pro-image-preview
 https://wavespeed.ai/llm/google/gemini-2.5-flash
 https://wavespeed.ai/llm/google/gemini-2.5-pro
-https://wavespeed.ai/llm/qwen/qwen3.7-max
-https://wavespeed.ai/llm/z-ai/glm-5.2
 https://wavespeed.ai/llm/z-ai/glm-5.1
+https://wavespeed.ai/llm/qwen/qwen3.7-max
 https://wavespeed.ai/llm/deepseek/deepseek-v4-flash
 https://wavespeed.ai/llm/deepseek/deepseek-v4-pro
 https://wavespeed.ai/llm/deepseek/deepseek-v3.2
@@ -2106,7 +2107,6 @@ https://wavespeed.ai/llm/google/gemma-3n-e4b-it
 https://wavespeed.ai/llm/meta-llama/llama-3.1-8b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.2-3b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.3-70b-instruct
-https://wavespeed.ai/llm/meta-llama/llama-4-scout
 https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
 https://wavespeed.ai/llm/minimax/minimax-m2.1
 https://wavespeed.ai/llm/minimax/minimax-m2.5
@@ -2114,7 +2114,6 @@ https://wavespeed.ai/llm/mistralai/mistral-large
 https://wavespeed.ai/llm/mistralai/mistral-nemo
 https://wavespeed.ai/llm/mistralai/mistral-small-24b-instruct-2501
 https://wavespeed.ai/llm/moonshotai/kimi-k2
-https://wavespeed.ai/llm/moonshotai/kimi-k2-thinking
 https://wavespeed.ai/llm/moonshotai/kimi-k2.5
 https://wavespeed.ai/llm/openai/gpt-4.1
 https://wavespeed.ai/llm/openai/gpt-4.1-mini
@@ -2133,7 +2132,6 @@ https://wavespeed.ai/llm/openai/o4-mini
 https://wavespeed.ai/llm/qwen/qwen-plus
 https://wavespeed.ai/llm/qwen/qwen2.5-vl-72b-instruct
 https://wavespeed.ai/llm/qwen/qwen3-235b-a22b
-https://wavespeed.ai/llm/qwen/qwen3-235b-a22b-thinking-2507
 https://wavespeed.ai/llm/qwen/qwen3-coder
 https://wavespeed.ai/llm/qwen/qwen3-coder-next
 https://wavespeed.ai/llm/qwen/qwen3-vl-235b-a22b-instruct
@@ -2148,14 +2146,13 @@ https://wavespeed.ai/llm/thedrummer/cydonia-24b-v4.1
 https://wavespeed.ai/llm/xiaomi/mimo-v2.5
 https://wavespeed.ai/llm/x-ai/grok-4.3
 https://wavespeed.ai/llm/qwen/qwen3.6-flash
-https://wavespeed.ai/llm/qwen/qwen3.6-35b-a3b
 https://wavespeed.ai/llm/moonshotai/kimi-k2.6
 https://wavespeed.ai/llm/xiaomi/mimo-v2.5-pro
 https://wavespeed.ai/llm/openai
 https://wavespeed.ai/llm/anthropic
+https://wavespeed.ai/llm/chatglm
 https://wavespeed.ai/llm/google
 https://wavespeed.ai/llm/alibaba
-https://wavespeed.ai/llm/chatglm
 https://wavespeed.ai/llm/deepseek
 https://wavespeed.ai/llm/minimax
 https://wavespeed.ai/llm/xai
