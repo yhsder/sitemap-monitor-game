@@ -2069,6 +2069,7 @@ https://wavespeed.ai/llm/anthropic/claude-opus-4.5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4.5
 https://wavespeed.ai/llm/anthropic/claude-haiku-4.5
 https://wavespeed.ai/llm/anthropic/claude-sonnet-4
+https://wavespeed.ai/llm/moonshotai/kimi-k3
 https://wavespeed.ai/llm/z-ai/glm-5.2
 https://wavespeed.ai/llm/openai/gpt-5.6-terra
 https://wavespeed.ai/llm/openai/gpt-5.6-luna
@@ -2150,9 +2151,9 @@ https://wavespeed.ai/llm/x-ai/grok-4.3
 https://wavespeed.ai/llm/qwen/qwen3.6-flash
 https://wavespeed.ai/llm/moonshotai/kimi-k2.6
 https://wavespeed.ai/llm/xiaomi/mimo-v2.5-pro
-https://wavespeed.ai/llm/moonshotai/kimi-k3
 https://wavespeed.ai/llm/openai
 https://wavespeed.ai/llm/anthropic
+https://wavespeed.ai/llm/moonshot
 https://wavespeed.ai/llm/chatglm
 https://wavespeed.ai/llm/google
 https://wavespeed.ai/llm/alibaba
@@ -2164,7 +2165,6 @@ https://wavespeed.ai/llm/aion-labs
 https://wavespeed.ai/llm/doubao
 https://wavespeed.ai/llm/meta
 https://wavespeed.ai/llm/mistral
-https://wavespeed.ai/llm/moonshot
 https://wavespeed.ai/llm/qwen
 https://wavespeed.ai/llm/thedrummer
 https://wavespeed.ai/llm/xiaomi
