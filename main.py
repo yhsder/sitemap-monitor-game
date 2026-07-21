@@ -16,9 +16,16 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 LANGUAGE_CODES = {
     'ar', 'bg', 'cs', 'da', 'de', 'el', 'en', 'en-gb', 'en-us', 'es', 'es-mx',
-    'et', 'fi', 'fr', 'fr-ca', 'he', 'hi', 'hr', 'hu', 'id', 'it', 'ja', 'ko',
+    'et', 'fi', 'fil', 'fr', 'fr-ca', 'he', 'hi', 'hr', 'hu', 'id', 'it', 'ja', 'ko',
     'lt', 'lv', 'mk', 'ms', 'nl', 'no', 'pl', 'pt', 'pt-br', 'pt-pt', 'ro',
     'ru', 'sk', 'sl', 'sr', 'sv', 'th', 'tr', 'uk', 'vi', 'zh', 'zh-cn', 'zh-tw',
+}
+
+LANGUAGE_CODE_ALIASES = {
+    'br': 'pt-br',
+    'jp': 'ja',
+    'ph': 'fil',
+    'tw': 'zh-tw',
 }
 
 
@@ -60,6 +67,7 @@ def split_language_segment(path):
         return None, path or '/'
 
     first_segment = segments[0].lower()
+    first_segment = LANGUAGE_CODE_ALIASES.get(first_segment, first_segment)
     if first_segment not in LANGUAGE_CODES:
         return None, path or '/'
 
