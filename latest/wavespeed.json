@@ -178,6 +178,9 @@ https://wavespeed.ai/collections/pruna-ai
 https://wavespeed.ai/collections/video-extend
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
+https://wavespeed.ai/models/minimax/h3/reference-to-video
+https://wavespeed.ai/models/minimax/h3/image-to-video
+https://wavespeed.ai/models/minimax/h3/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/multi
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-edit-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/image-to-video-turbo
@@ -541,6 +544,8 @@ https://wavespeed.ai/models/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-720p
 https://wavespeed.ai/models/wavespeed-ai/ai-story-generator
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-1080p
+https://wavespeed.ai/models/microsoft/mai-image-2.5-pro/edit
+https://wavespeed.ai/models/microsoft/mai-image-2.5-pro/text-to-image
 https://wavespeed.ai/models/google/gemini-3.1-flash/text-to-speech
 https://wavespeed.ai/models/wavespeed-ai/object-removal
 https://wavespeed.ai/models/sonilo/v1/video-to-video-sound
@@ -877,8 +882,6 @@ https://wavespeed.ai/models/elevenlabs/eleven-v3
 https://wavespeed.ai/models/wavespeed-ai/openai-whisper
 https://wavespeed.ai/models/wavespeed-ai/flux-pulid
 https://wavespeed.ai/models/wavespeed-ai/flux-dev-lora-trainer-turbo
-https://wavespeed.ai/models/higgsfield/dop/image-to-video
-https://wavespeed.ai/models/higgsfield/soul/image-to-image
 https://wavespeed.ai/models/openai/sora-2/text-to-video-pro
 https://wavespeed.ai/models/openai/sora-2/text-to-video
 https://wavespeed.ai/models/openai/sora-2/image-to-video-pro
@@ -914,7 +917,6 @@ https://wavespeed.ai/models/wavespeed-ai/female-human
 https://wavespeed.ai/models/wavespeed-ai/think-sound
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-video-foley
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-image-2.1
-https://wavespeed.ai/models/akool/image-face-swap
 https://wavespeed.ai/models/wavespeed-ai/minicpm-v/image
 https://wavespeed.ai/models/wavespeed-ai/minicpm-v/video
 https://wavespeed.ai/models/wavespeed-ai/any-llm/vision
@@ -925,7 +927,6 @@ https://wavespeed.ai/models/pixverse/lipsync
 https://wavespeed.ai/models/bytedance/latentsync
 https://wavespeed.ai/models/bytedance/waver-1.0
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-avatar
-https://wavespeed.ai/models/akool/video-face-swap
 https://wavespeed.ai/models/google/gemini-2.5-flash-image-preview/edit
 https://wavespeed.ai/models/google/gemini-2.5-flash-image-preview/text-to-image
 https://wavespeed.ai/models/bytedance/uso
@@ -1127,6 +1128,9 @@ https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro
+https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-reference-to-video
+https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-image-to-video
+https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-text-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/infinitetalk-multi
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-video-edit-turbo
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-2.0-mini-image-to-video-turbo
@@ -1490,6 +1494,8 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-720p
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ai-story-generator
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-t2v-1080p
+https://wavespeed.ai/docs/docs-api/microsoft/microsoft-mai-image-2.5-pro-edit
+https://wavespeed.ai/docs/docs-api/microsoft/microsoft-mai-image-2.5-pro-text-to-image
 https://wavespeed.ai/docs/docs-api/google/google-gemini-3.1-flash-text-to-speech
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/object-removal
 https://wavespeed.ai/docs/docs-api/sonilo/sonilo-v1-video-to-video-sound
@@ -1826,8 +1832,6 @@ https://wavespeed.ai/docs/docs-api/elevenlabs/elevenlabs-eleven-v3
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/openai-whisper
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-pulid
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/flux-dev-lora-trainer-turbo
-https://wavespeed.ai/docs/docs-api/higgsfield/higgsfield-dop-image-to-video
-https://wavespeed.ai/docs/docs-api/higgsfield/higgsfield-soul-image-to-image
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-text-to-video-pro
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-text-to-video
 https://wavespeed.ai/docs/docs-api/openai/openai-sora-2-image-to-video-pro
@@ -1863,7 +1867,6 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/female-human
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/think-sound
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/hunyuan-video-foley
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/hunyuan-image-2.1
-https://wavespeed.ai/docs/docs-api/akool/akool-image-face-swap
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/minicpm-v-image
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/minicpm-v-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/any-llm-vision
@@ -1874,7 +1877,6 @@ https://wavespeed.ai/docs/docs-api/pixverse/pixverse-lipsync
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-latentsync
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-waver-1.0
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/hunyuan-avatar
-https://wavespeed.ai/docs/docs-api/akool/akool-video-face-swap
 https://wavespeed.ai/docs/docs-api/google/google-gemini-2.5-flash-image-preview-edit
 https://wavespeed.ai/docs/docs-api/google/google-gemini-2.5-flash-image-preview-text-to-image
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-uso
