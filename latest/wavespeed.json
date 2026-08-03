@@ -159,6 +159,7 @@ https://wavespeed.ai/video-watermark-remover-api
 https://wavespeed.ai/wan-2-2-api
 https://wavespeed.ai/sora-2-api
 https://wavespeed.ai/kling-o3-api
+https://wavespeed.ai/grok-imagine-video-1-5-api
 https://wavespeed.ai/grok-imagine-video-api
 https://wavespeed.ai/hailuo-2-3-api
 https://wavespeed.ai/wan-2-6-api
@@ -166,6 +167,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/grok-imagine-video-v1.5
 https://wavespeed.ai/collections/minimax-h3
 https://wavespeed.ai/collections/happyhorse-1.1
 https://wavespeed.ai/collections/luma-ai
@@ -175,7 +177,9 @@ https://wavespeed.ai/collections/skywork-ai
 https://wavespeed.ai/collections/mureka-ai
 https://wavespeed.ai/collections/clarity-ai
 https://wavespeed.ai/collections/pruna-ai
-https://wavespeed.ai/collections/video-extend
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3/reference-to-video
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
 https://wavespeed.ai/models/minimax/h3/reference-to-video
@@ -352,6 +356,8 @@ https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/reference-to-video
+https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/reference-to-video
+https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/text-to-video
 https://wavespeed.ai/models/bria/product-dimensions
 https://wavespeed.ai/models/luma/ray-3.2/video-edit
 https://wavespeed.ai/models/luma/ray-3.2/video-reframing
@@ -556,7 +562,6 @@ https://wavespeed.ai/models/reve/2.1/edit
 https://wavespeed.ai/models/reve/2.1/text-to-image
 https://wavespeed.ai/models/veed/lipsync-v2
 https://wavespeed.ai/models/wavespeed-ai/tiktok-video-generator
-https://wavespeed.ai/models/bytedance/seedance-v1-lite/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v2.1-i2v-pro
 https://wavespeed.ai/models/kwaivgi/kling-v2.1-i2v-standard
 https://wavespeed.ai/models/wavespeed-ai/ugc-video-generator
@@ -1125,6 +1130,9 @@ https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
 https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
 https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/minimax-h3-reference-to-video
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/minimax-h3-image-to-video
+https://wavespeed.ai/docs/docs-api/wavespeed-ai/minimax-h3-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro
 https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-reference-to-video
@@ -1301,6 +1309,8 @@ https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-4k-image-to-vi
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-4k-reference-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-pro-reference-to-video
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-reference-to-video
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-text-to-video
 https://wavespeed.ai/docs/docs-api/bria/bria-product-dimensions
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-edit
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-reframing
@@ -1505,7 +1515,6 @@ https://wavespeed.ai/docs/docs-api/reve/reve-2.1-edit
 https://wavespeed.ai/docs/docs-api/reve/reve-2.1-text-to-image
 https://wavespeed.ai/docs/docs-api/veed/veed-lipsync-v2
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/tiktok-video-generator
-https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedance-v1-lite-reference-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v2.1-i2v-pro
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-v2.1-i2v-standard
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/ugc-video-generator
