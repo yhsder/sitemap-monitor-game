@@ -50,11 +50,11 @@ https://wavespeed.ai/apps/ai-video-editor
 https://wavespeed.ai/apps/ai-breast-expansion
 https://wavespeed.ai/apps/ai-image-translator
 https://wavespeed.ai/apps/ai-camera-angle
-https://wavespeed.ai/apps/ads
 https://wavespeed.ai/apps/professional
 https://wavespeed.ai/apps/enhance-style
 https://wavespeed.ai/apps/face-identity
 https://wavespeed.ai/apps/video-editing
+https://wavespeed.ai/apps/ads
 https://wavespeed.ai/apps/games-characters
 https://wavespeed.ai/apps/trending-templates
 https://wavespeed.ai/apps/ads/click-to-ad
@@ -182,6 +182,9 @@ https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
+https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/reference-to-video
+https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/text-to-video
+https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/image-to-video
 https://wavespeed.ai/models/minimax/h3/reference-to-video
 https://wavespeed.ai/models/minimax/h3/image-to-video
 https://wavespeed.ai/models/minimax/h3/text-to-video
@@ -356,8 +359,6 @@ https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/reference-to-video
-https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/reference-to-video
-https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/text-to-video
 https://wavespeed.ai/models/bria/product-dimensions
 https://wavespeed.ai/models/luma/ray-3.2/video-edit
 https://wavespeed.ai/models/luma/ray-3.2/video-reframing
@@ -365,7 +366,6 @@ https://wavespeed.ai/models/nvidia/nemotron-3.5-asr
 https://wavespeed.ai/models/luma/ray-3.2/image-to-video
 https://wavespeed.ai/models/luma/ray-3.2/text-to-video
 https://wavespeed.ai/models/bria/fibo-edit/genfill
-https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-std/reference-to-video
 https://wavespeed.ai/models/vidu/q3-pro/image-to-video
 https://wavespeed.ai/models/vidu/q3-turbo/image-to-video
@@ -1135,6 +1135,9 @@ https://wavespeed.ai/docs/docs-api/wavespeed-ai/minimax-h3-image-to-video
 https://wavespeed.ai/docs/docs-api/wavespeed-ai/minimax-h3-text-to-video
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro-edit
 https://wavespeed.ai/docs/docs-api/bytedance/bytedance-seedream-v5.0-pro
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-reference-to-video
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-text-to-video
+https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-image-to-video
 https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-reference-to-video
 https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-image-to-video
 https://wavespeed.ai/docs/docs-api/minimax/minimax-h3-text-to-video
@@ -1309,8 +1312,6 @@ https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-4k-image-to-vi
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-4k-reference-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-pro-reference-to-video
-https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-reference-to-video
-https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-text-to-video
 https://wavespeed.ai/docs/docs-api/bria/bria-product-dimensions
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-edit
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-video-reframing
@@ -1318,7 +1319,6 @@ https://wavespeed.ai/docs/docs-api/nvidia/nvidia-nemotron-3.5-asr
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-image-to-video
 https://wavespeed.ai/docs/docs-api/luma/luma-ray-3.2-text-to-video
 https://wavespeed.ai/docs/docs-api/bria/bria-fibo-edit-genfill
-https://wavespeed.ai/docs/docs-api/x-ai/x-ai-grok-imagine-video-v1.5-image-to-video
 https://wavespeed.ai/docs/docs-api/kwaivgi/kwaivgi-kling-video-o3-std-reference-to-video
 https://wavespeed.ai/docs/docs-api/vidu/vidu-q3-pro-image-to-video
 https://wavespeed.ai/docs/docs-api/vidu/vidu-q3-turbo-image-to-video
