@@ -168,6 +168,10 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/seedance-2.5
+https://wavespeed.ai/collections/veed
+https://wavespeed.ai/collections/flux-3
+https://wavespeed.ai/collections/qwen-image-3
 https://wavespeed.ai/collections/grok-imagine-video-v1.5
 https://wavespeed.ai/collections/minimax-h3
 https://wavespeed.ai/collections/happyhorse-1.1
@@ -226,7 +230,6 @@ https://wavespeed.ai/collections/ideogram
 https://wavespeed.ai/collections/recraft
 https://wavespeed.ai/collections/qwen
 https://wavespeed.ai/collections/pixverse
-https://wavespeed.ai/collections/stability-ai
 https://wavespeed.ai/llm/openai/gpt-5.6-sol
 https://wavespeed.ai/llm/anthropic/claude-opus-5
 https://wavespeed.ai/llm/anthropic/claude-opus-4.8
@@ -339,6 +342,14 @@ https://wavespeed.ai/llm/mistral
 https://wavespeed.ai/llm/qwen
 https://wavespeed.ai/llm/thedrummer
 https://wavespeed.ai/llm/xiaomi
+https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video
+https://wavespeed.ai/models/bytedance/seedance-2.5/video-edit
+https://wavespeed.ai/models/bytedance/seedance-2.5/video-edit-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.5/video-extend
+https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video
+https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-spicy
+https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video-turbo
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/reference-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video
