@@ -350,6 +350,7 @@ https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-spicy
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video-turbo
+https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate-2
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/reference-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video
@@ -362,14 +363,10 @@ https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/text-to-video
 https://wavespeed.ai/models/alibaba/qwen-image-3.0-pro/text-to-image
 https://wavespeed.ai/models/alibaba/qwen-image-3.0-pro/edit
 https://wavespeed.ai/models/x-ai/grok-imagine-video-v1.5/image-to-video
-https://wavespeed.ai/models/black-forest-labs/flux-3/video-extend-draft
 https://wavespeed.ai/models/black-forest-labs/flux-3/start-end-to-video
 https://wavespeed.ai/models/black-forest-labs/flux-3/image-to-video
 https://wavespeed.ai/models/black-forest-labs/flux-3/video-extend
 https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-video
-https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-video-draft
-https://wavespeed.ai/models/black-forest-labs/flux-3/image-to-video-draft
-https://wavespeed.ai/models/black-forest-labs/flux-3/start-end-to-video-draft
 https://wavespeed.ai/models/minimax/h3/reference-to-video
 https://wavespeed.ai/models/minimax/h3/image-to-video
 https://wavespeed.ai/models/minimax/h3/text-to-video
@@ -386,6 +383,10 @@ https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
+https://wavespeed.ai/models/black-forest-labs/flux-3/video-extend-draft
+https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-video-draft
+https://wavespeed.ai/models/black-forest-labs/flux-3/image-to-video-draft
+https://wavespeed.ai/models/black-forest-labs/flux-3/start-end-to-video-draft
 https://wavespeed.ai/models/google/nano-banana-2-lite/edit
 https://wavespeed.ai/models/google/nano-banana-2-lite/text-to-image
 https://wavespeed.ai/models/google/gemini-omni-flash/video-edit
@@ -532,8 +533,10 @@ https://wavespeed.ai/models/alibaba/wan-2.6/video-extend
 https://wavespeed.ai/models/alibaba/wan-2.6/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.6/text-to-image
 https://wavespeed.ai/models/alibaba/wan-2.5/image-to-video-fast
+https://wavespeed.ai/models/alibaba/wan-2.5/text-to-video-fast
 https://wavespeed.ai/models/alibaba/wan-2.5/text-to-video
 https://wavespeed.ai/models/alibaba/wan-2.5/video-extend
+https://wavespeed.ai/models/alibaba/wan-2.5/video-extend-fast
 https://wavespeed.ai/models/alibaba/wan-2.5/text-to-image
 https://wavespeed.ai/models/alibaba/wan-2.5/image-edit
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-pro/motion-control
