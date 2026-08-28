@@ -417,6 +417,10 @@ https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
+https://wavespeed.ai/models/google/gemini-omni-1.1-flash/video-edit
+https://wavespeed.ai/models/google/gemini-omni-1.1-flash/reference-to-video
+https://wavespeed.ai/models/google/gemini-omni-1.1-flash/image-to-video
+https://wavespeed.ai/models/google/gemini-omni-1.1-flash/text-to-video
 https://wavespeed.ai/models/minimax/lyrics-generation
 https://wavespeed.ai/models/minimax/music-3.0
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/layer-decomposition
@@ -585,6 +589,14 @@ https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/reference-to-video
+https://wavespeed.ai/models/recraft-ai/recraft-v4-style-pro/text-to-vector
+https://wavespeed.ai/models/recraft-ai/recraft-v4-style-pro/text-to-image
+https://wavespeed.ai/models/recraft-ai/recraft-v4-style/text-to-vector
+https://wavespeed.ai/models/recraft-ai/recraft-v4-style/text-to-image
+https://wavespeed.ai/models/recraft-ai/recraft-v4-pro/create-style
+https://wavespeed.ai/models/recraft-ai/recraft-v4/create-style
+https://wavespeed.ai/models/meta/muse-image/edit
+https://wavespeed.ai/models/meta/muse-image/text-to-image
 https://wavespeed.ai/models/bria/product-dimensions
 https://wavespeed.ai/models/luma/ray-3.2/video-edit
 https://wavespeed.ai/models/luma/ray-3.2/video-reframing
