@@ -171,6 +171,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/z-image
 https://wavespeed.ai/collections/elevenlabs
 https://wavespeed.ai/collections/krea-v2
 https://wavespeed.ai/collections/wan-3.0
@@ -372,6 +373,7 @@ https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video
 https://wavespeed.ai/models/alibaba/wan-3.0-prime/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-3.0-prime/text-to-video
 https://wavespeed.ai/models/alibaba/wan-3.0-prime/image-to-video
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video-spicy
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-spicy
 https://wavespeed.ai/models/alibaba/wan-3.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-3.0/image-to-video
@@ -379,6 +381,8 @@ https://wavespeed.ai/models/alibaba/wan-3.0/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video-turbo
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate-2
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3/video-edit
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3/video-extend
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/reference-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video-lora
