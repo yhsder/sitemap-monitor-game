@@ -639,7 +639,6 @@ https://wavespeed.ai/models/wavespeed-ai/longcat-avatar-1.5/multi
 https://wavespeed.ai/models/wavespeed-ai/longcat-avatar-1.5
 https://wavespeed.ai/models/alibaba/happyhorse-1.1/image-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/image-to-video
-https://wavespeed.ai/models/google/nano-banana/edit
 https://wavespeed.ai/models/google/nano-banana-2/text-to-image
 https://wavespeed.ai/models/google/nano-banana-pro/text-to-image-multi
 https://wavespeed.ai/models/google/nano-banana-2/text-to-image-fast
@@ -773,13 +772,6 @@ https://wavespeed.ai/models/wavespeed-ai/boogu-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/boogu-image/edit
 https://wavespeed.ai/models/luma/uni-v1/edit
 https://wavespeed.ai/models/luma/uni-v1/text-to-image
-https://wavespeed.ai/models/skywork-ai/skyreels-v3/video-extend-cutshot
-https://wavespeed.ai/models/skywork-ai/skyreels-v3/video-extend
-https://wavespeed.ai/models/skywork-ai/skyreels-v3/reference-to-video
-https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/multi-avatar
-https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/multi-avatar
-https://wavespeed.ai/models/skywork-ai/skyreels-v3-pro/single-avatar
-https://wavespeed.ai/models/skywork-ai/skyreels-v3-standard/single-avatar
 https://wavespeed.ai/models/wavespeed-ai/ai-parkour-video
 https://wavespeed.ai/models/bytedance/seedance-v1-pro-i2v-1080p
 https://wavespeed.ai/models/wavespeed-ai/ai-photo-colorizer
@@ -823,6 +815,7 @@ https://wavespeed.ai/models/wavespeed-ai/ugc-video-generator
 https://wavespeed.ai/models/kwaivgi/kling-v2.1-i2v-master
 https://wavespeed.ai/models/kwaivgi/kling-v2.1-i2v-pro/start-end-frame
 https://wavespeed.ai/models/wavespeed-ai/short-video-generator
+https://wavespeed.ai/models/google/nano-banana/edit
 https://wavespeed.ai/models/kwaivgi/kling-v2.1-t2v-master
 https://wavespeed.ai/models/kwaivgi/kling-v2.0-i2v-master
 https://wavespeed.ai/models/kwaivgi/kling-v2.0-t2v-master
