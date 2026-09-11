@@ -41,6 +41,7 @@ https://wavespeed.ai/tools/image-eraser
 https://wavespeed.ai/tools/video-eraser
 https://wavespeed.ai/tools/video-fps-increaser
 https://wavespeed.ai/tools/flashvsr
+https://wavespeed.ai/tools/video-relighter
 https://wavespeed.ai/apps
 https://wavespeed.ai/apps/virtual-try-on
 https://wavespeed.ai/apps/ai-kissing
@@ -172,6 +173,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/meshy
 https://wavespeed.ai/collections/gpt-image-2.5
 https://wavespeed.ai/collections/z-image
 https://wavespeed.ai/collections/elevenlabs
@@ -420,6 +422,8 @@ https://wavespeed.ai/models/minimax/h3/reference-to-video
 https://wavespeed.ai/models/minimax/h3/image-to-video
 https://wavespeed.ai/models/minimax/h3/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/multi
+https://wavespeed.ai/models/pruna-ai/p-video-2/image-to-video
+https://wavespeed.ai/models/pruna-ai/p-video-2/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/krea-v2/turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-edit-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/image-to-video-turbo
@@ -690,6 +694,9 @@ https://wavespeed.ai/models/kwaivgi/kling-v2.6-std/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/image-background-remover
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/video-edit
 https://wavespeed.ai/models/wavespeed-ai/flashvsr
+https://wavespeed.ai/models/wavespeed-ai/video-colorizer
+https://wavespeed.ai/models/wavespeed-ai/video-cleaner
+https://wavespeed.ai/models/wavespeed-ai/video-relighter
 https://wavespeed.ai/models/wavespeed-ai/ultimate-video-upscaler
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-std/video-edit
 https://wavespeed.ai/models/kwaivgi/kling-video-o1/video-edit-fast
@@ -849,6 +856,7 @@ https://wavespeed.ai/models/vidu/text-to-video
 https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
+https://wavespeed.ai/models/black-forest-labs/flux-3/video-edit
 https://wavespeed.ai/models/elevenlabs/forced-alignment
 https://wavespeed.ai/models/bria/ad-delayer
 https://wavespeed.ai/models/wavespeed-ai/ltx-2.5/text-to-video
