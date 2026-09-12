@@ -42,6 +42,9 @@ https://wavespeed.ai/tools/video-eraser
 https://wavespeed.ai/tools/video-fps-increaser
 https://wavespeed.ai/tools/flashvsr
 https://wavespeed.ai/tools/video-relighter
+https://wavespeed.ai/tools/video-cleaner
+https://wavespeed.ai/tools/video-colorizer
+https://wavespeed.ai/tools/video-restorer
 https://wavespeed.ai/apps
 https://wavespeed.ai/apps/virtual-try-on
 https://wavespeed.ai/apps/ai-kissing
@@ -173,6 +176,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/spicy-video-api
 https://wavespeed.ai/flux-2-klein-api
+https://wavespeed.ai/collections/anima
 https://wavespeed.ai/collections/meshy
 https://wavespeed.ai/collections/gpt-image-2.5
 https://wavespeed.ai/collections/z-image
@@ -431,11 +435,13 @@ https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-edit
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk
 https://wavespeed.ai/models/wavespeed-ai/krea-v2/turbo-lora
+https://wavespeed.ai/models/wavespeed-ai/anima/text-to-image
 https://wavespeed.ai/models/alibaba/happyhorse-1.1/video-extend
 https://wavespeed.ai/models/alibaba/happyhorse-1.1/reference-to-video
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-extend
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
+https://wavespeed.ai/models/wavespeed-ai/anima/text-to-image-lora
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
 https://wavespeed.ai/models/pruna-ai/p-video/edit
@@ -694,6 +700,7 @@ https://wavespeed.ai/models/kwaivgi/kling-v2.6-std/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/image-background-remover
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/video-edit
 https://wavespeed.ai/models/wavespeed-ai/flashvsr
+https://wavespeed.ai/models/wavespeed-ai/video-restorer
 https://wavespeed.ai/models/wavespeed-ai/video-colorizer
 https://wavespeed.ai/models/wavespeed-ai/video-cleaner
 https://wavespeed.ai/models/wavespeed-ai/video-relighter
