@@ -406,6 +406,10 @@ https://wavespeed.ai/models/alibaba/wan-3.0/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video-turbo
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate-2
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/image-to-video-lora
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/image-to-video
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/reference-to-video-lora
+https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/reference-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-edit-lora
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-image-lora
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-edit
@@ -635,6 +639,8 @@ https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/reference-to-video
+https://wavespeed.ai/models/bria/product-holding
+https://wavespeed.ai/models/bria/virtual-try-on
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/video-edit
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/video-reference
 https://wavespeed.ai/models/bria/fibo-edit-1.5/edit
