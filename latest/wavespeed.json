@@ -65,6 +65,7 @@ https://wavespeed.ai/llm/agents/opencode
 https://wavespeed.ai/llm/agents/hermes
 https://wavespeed.ai/free-tools
 https://wavespeed.ai/free-tools/vectorizer
+https://wavespeed.ai/free-tools/ai-image-detector
 https://wavespeed.ai/free-tools/photo-collage-maker
 https://wavespeed.ai/free-tools/logo-maker
 https://wavespeed.ai/free-tools/passport-photo-maker
@@ -75,6 +76,7 @@ https://wavespeed.ai/free-tools/video-compressor
 https://wavespeed.ai/free-tools/video-to-gif
 https://wavespeed.ai/free-tools/gif-maker
 https://wavespeed.ai/free-tools/subtitle-generator
+https://wavespeed.ai/free-tools/ai-music-detector
 https://wavespeed.ai/free-tools/screen-recorder
 https://wavespeed.ai/free-tools/green-screen-video
 https://wavespeed.ai/free-tools/teleprompter
@@ -147,6 +149,8 @@ https://wavespeed.ai/free-tools/instagram-story-collage
 https://wavespeed.ai/free-tools/photo-grid-maker
 https://wavespeed.ai/free-tools/boomerang-gif-maker
 https://wavespeed.ai/free-tools/slideshow-maker
+https://wavespeed.ai/free-tools/ai-generated-image-checker
+https://wavespeed.ai/free-tools/ai-song-checker
 https://wavespeed.ai/about
 https://wavespeed.ai/pricing
 https://wavespeed.ai/enterprise
@@ -329,6 +333,7 @@ https://wavespeed.ai/wan-2-7-api
 https://wavespeed.ai/happyhorse-api
 https://wavespeed.ai/kling-3-api
 https://wavespeed.ai/kling-3-motion-control-api
+https://wavespeed.ai/vidu-q4-api
 https://wavespeed.ai/vidu-q3-api
 https://wavespeed.ai/infinitetalk-api
 https://wavespeed.ai/image-upscaler-api
@@ -346,6 +351,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/flux-2-klein-api
 https://wavespeed.ai/higgsfield-api
+https://wavespeed.ai/collections/vidu-q4-preview
 https://wavespeed.ai/collections/tripo3d
 https://wavespeed.ai/collections/meshy
 https://wavespeed.ai/collections/gpt-image-2.5
@@ -413,8 +419,8 @@ https://wavespeed.ai/collections/hunyuan
 https://wavespeed.ai/collections/vidu
 https://wavespeed.ai/collections/ideogram
 https://wavespeed.ai/collections/recraft
-https://wavespeed.ai/collections/qwen
 https://wavespeed.ai/collections/pixverse
+https://wavespeed.ai/collections/qwen
 https://wavespeed.ai/llm/openai/gpt-6-astra
 https://wavespeed.ai/llm/anthropic/claude-opus-5.5
 https://wavespeed.ai/llm/openai/gpt-5.6-sol
@@ -829,11 +835,13 @@ https://wavespeed.ai/models/luma/ray-3.2/image-to-video
 https://wavespeed.ai/models/luma/ray-3.2/text-to-video
 https://wavespeed.ai/models/bria/fibo-edit/genfill
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-std/reference-to-video
+https://wavespeed.ai/models/vidu/q4-preview/image-to-video
 https://wavespeed.ai/models/vidu/q3-pro/image-to-video
 https://wavespeed.ai/models/vidu/q3-turbo/image-to-video
 https://wavespeed.ai/models/vidu/q3/image-to-video-pro
 https://wavespeed.ai/models/vidu/q3/reference-to-video
 https://wavespeed.ai/models/vidu/q3/start-end-to-video
+https://wavespeed.ai/models/vidu/q4-preview/reference-to-video
 https://wavespeed.ai/models/vidu/q3-pro/start-end-to-video
 https://wavespeed.ai/models/vidu/q3-turbo/start-end-to-video
 https://wavespeed.ai/models/vidu/q3-pro/text-to-video
