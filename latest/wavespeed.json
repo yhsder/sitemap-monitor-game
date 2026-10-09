@@ -65,6 +65,12 @@ https://wavespeed.ai/llm/agents/opencode
 https://wavespeed.ai/llm/agents/hermes
 https://wavespeed.ai/free-tools
 https://wavespeed.ai/free-tools/vectorizer
+https://wavespeed.ai/free-tools/image-converter
+https://wavespeed.ai/free-tools/image-upscaler
+https://wavespeed.ai/free-tools/image-eraser
+https://wavespeed.ai/free-tools/segment-anything
+https://wavespeed.ai/free-tools/face-enhancer
+https://wavespeed.ai/free-tools/face-swapper
 https://wavespeed.ai/free-tools/ai-image-detector
 https://wavespeed.ai/free-tools/photo-collage-maker
 https://wavespeed.ai/free-tools/logo-maker
@@ -73,6 +79,10 @@ https://wavespeed.ai/free-tools/mockup-generator
 https://wavespeed.ai/free-tools/add-watermark
 https://wavespeed.ai/free-tools/app-store-screenshot-generator
 https://wavespeed.ai/free-tools/video-compressor
+https://wavespeed.ai/free-tools/video-converter
+https://wavespeed.ai/free-tools/video-upscaler
+https://wavespeed.ai/free-tools/media-merger
+https://wavespeed.ai/free-tools/audio-converter
 https://wavespeed.ai/free-tools/video-to-gif
 https://wavespeed.ai/free-tools/gif-maker
 https://wavespeed.ai/free-tools/subtitle-generator
@@ -80,8 +90,12 @@ https://wavespeed.ai/free-tools/ai-music-detector
 https://wavespeed.ai/free-tools/screen-recorder
 https://wavespeed.ai/free-tools/green-screen-video
 https://wavespeed.ai/free-tools/teleprompter
+https://wavespeed.ai/free-tools/merge-pdf
+https://wavespeed.ai/free-tools/compress-pdf
 https://wavespeed.ai/free-tools/pdf-to-jpg
 https://wavespeed.ai/free-tools/image-to-pdf
+https://wavespeed.ai/free-tools/split-pdf
+https://wavespeed.ai/free-tools/sign-pdf
 https://wavespeed.ai/free-tools/glb-to-stl
 https://wavespeed.ai/free-tools/3d-model-viewer
 https://wavespeed.ai/free-tools/image-to-stl
@@ -138,6 +152,8 @@ https://wavespeed.ai/free-tools/remove-audio-from-video
 https://wavespeed.ai/free-tools/chroma-key
 https://wavespeed.ai/free-tools/add-subtitles-to-video
 https://wavespeed.ai/free-tools/video-to-text
+https://wavespeed.ai/free-tools/speech-to-text
+https://wavespeed.ai/free-tools/audio-to-text
 https://wavespeed.ai/free-tools/quilt-pattern-generator
 https://wavespeed.ai/free-tools/pdf-to-png
 https://wavespeed.ai/free-tools/jpg-to-pdf
@@ -154,6 +170,7 @@ https://wavespeed.ai/free-tools/ai-song-checker
 https://wavespeed.ai/about
 https://wavespeed.ai/pricing
 https://wavespeed.ai/enterprise
+https://wavespeed.ai/desktop
 https://wavespeed.ai/github
 https://wavespeed.ai/customers
 https://wavespeed.ai/customers/colehaan
@@ -1065,6 +1082,10 @@ https://wavespeed.ai/models/vidu/text-to-video
 https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
+https://wavespeed.ai/models/elevenlabs/sound-effects-v2
+https://wavespeed.ai/models/elevenlabs/scribe-v2
+https://wavespeed.ai/models/elevenlabs/audio-isolation
+https://wavespeed.ai/models/meshy/v6-lite/retexture
 https://wavespeed.ai/models/wavespeed-ai/video-music-remover
 https://wavespeed.ai/models/elevenlabs/eleven-v4-turbo
 https://wavespeed.ai/models/elevenlabs/eleven-v4
@@ -1316,7 +1337,6 @@ https://wavespeed.ai/models/wavespeed-ai/prompt-optimizer
 https://wavespeed.ai/models/pixverse/swap
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/image-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/image-to-video
-https://wavespeed.ai/models/wavespeed-ai/emu-3.5-image/text-to-image
 https://wavespeed.ai/models/clarity-ai/flux-upscaler
 https://wavespeed.ai/models/clarity-ai/creative-upscaler
 https://wavespeed.ai/models/bytedance/video-upscaler
