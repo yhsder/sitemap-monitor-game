@@ -604,6 +604,7 @@ https://wavespeed.ai/tools/depth-anything-image
 https://wavespeed.ai/tools/auto-clip
 https://wavespeed.ai/tools/talking-head
 https://wavespeed.ai/tools/video-captioner
+https://wavespeed.ai/tools/video-translator
 https://wavespeed.ai/apps
 https://wavespeed.ai/apps/virtual-try-on
 https://wavespeed.ai/apps/ai-kissing
@@ -764,7 +765,7 @@ https://wavespeed.ai/collections/meshy
 https://wavespeed.ai/collections/gpt-image-2.5
 https://wavespeed.ai/collections/z-image
 https://wavespeed.ai/collections/elevenlabs
-https://wavespeed.ai/collections/krea-v2
+https://wavespeed.ai/collections/krea
 https://wavespeed.ai/collections/wan-3.0
 https://wavespeed.ai/collections/seedance-2.5
 https://wavespeed.ai/collections/veed
@@ -1022,6 +1023,7 @@ https://wavespeed.ai/models/minimax/h3/reference-to-video
 https://wavespeed.ai/models/minimax/h3/image-to-video
 https://wavespeed.ai/models/minimax/h3/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/multi
+https://wavespeed.ai/models/pruna-ai/p-video-2-pro/reference-to-video
 https://wavespeed.ai/models/pruna-ai/p-video-2-pro/image-to-video
 https://wavespeed.ai/models/pruna-ai/p-video-2-pro/text-to-video
 https://wavespeed.ai/models/pruna-ai/p-video-2/image-to-video
@@ -1040,6 +1042,10 @@ https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
+https://wavespeed.ai/models/krea/v3/edit
+https://wavespeed.ai/models/krea/v3/text-to-image
+https://wavespeed.ai/models/meshy/v7/retexture
+https://wavespeed.ai/models/meshy/v6/retexture
 https://wavespeed.ai/models/bria/remove-background-guided
 https://wavespeed.ai/models/black-forest-labs/flux-3/image-edit
 https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-image
@@ -1307,6 +1313,7 @@ https://wavespeed.ai/models/wavespeed-ai/image-background-remover
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-pro/video-edit
 https://wavespeed.ai/models/wavespeed-ai/flashvsr
 https://wavespeed.ai/models/wavespeed-ai/ai-video-editor/video-captioner
+https://wavespeed.ai/models/wavespeed-ai/ai-video-editor/video-translator
 https://wavespeed.ai/models/wavespeed-ai/ai-video-editor/talking-head
 https://wavespeed.ai/models/wavespeed-ai/ai-video-editor/auto-clip
 https://wavespeed.ai/models/wavespeed-ai/video-restorer
@@ -1396,6 +1403,9 @@ https://wavespeed.ai/models/bytedance/seedance-v1-pro-i2v-720p
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/reference-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/image-to-video
 https://wavespeed.ai/models/skywork-ai/skyreels-v4/text-to-video
+https://wavespeed.ai/models/mirelo-ai/sfx-2.0/video-to-video
+https://wavespeed.ai/models/mirelo-ai/sfx-2.0/video-to-audio
+https://wavespeed.ai/models/mirelo-ai/sfx-2.0/text-to-audio
 https://wavespeed.ai/models/google/gemini-3.8-flash-lite/text-to-speech
 https://wavespeed.ai/models/google/gemini-3.8-flash/text-to-speech
 https://wavespeed.ai/models/meshy/v7.1/text-to-3d
