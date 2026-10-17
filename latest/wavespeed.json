@@ -84,6 +84,7 @@ https://wavespeed.ai/free-tools/background-remover
 https://wavespeed.ai/free-tools/depth-map-generator
 https://wavespeed.ai/free-tools/image-colorizer
 https://wavespeed.ai/free-tools/face-enhancer
+https://wavespeed.ai/free-tools/old-photo-restoration
 https://wavespeed.ai/free-tools/face-swapper
 https://wavespeed.ai/free-tools/ai-image-detector
 https://wavespeed.ai/free-tools/photo-collage-maker
@@ -380,6 +381,9 @@ https://wavespeed.ai/free-tools/chroma-key
 https://wavespeed.ai/free-tools/remove-video-background
 https://wavespeed.ai/free-tools/video-background-remover-online
 https://wavespeed.ai/free-tools/blur-video-background
+https://wavespeed.ai/free-tools/replace-video-background
+https://wavespeed.ai/free-tools/change-video-background-color
+https://wavespeed.ai/free-tools/virtual-background-for-video
 https://wavespeed.ai/free-tools/add-subtitles-to-video
 https://wavespeed.ai/free-tools/srt-editor
 https://wavespeed.ai/free-tools/srt-to-vtt
@@ -517,6 +521,8 @@ https://wavespeed.ai/free-tools/pop-it
 https://wavespeed.ai/free-tools/bubble-wrap-popper
 https://wavespeed.ai/free-tools/fidget-spinner-online
 https://wavespeed.ai/free-tools/restore-old-photos
+https://wavespeed.ai/free-tools/fix-old-photos
+https://wavespeed.ai/free-tools/colorize-and-restore-old-photos
 https://wavespeed.ai/free-tools/unblur-image
 https://wavespeed.ai/free-tools/enhance-photo-quality
 https://wavespeed.ai/free-tools/increase-image-resolution
@@ -534,6 +540,9 @@ https://wavespeed.ai/free-tools/change-photo-background
 https://wavespeed.ai/free-tools/blur-photo-background
 https://wavespeed.ai/free-tools/add-background-to-photo
 https://wavespeed.ai/free-tools/profile-picture-background
+https://wavespeed.ai/free-tools/change-background-color-of-photo
+https://wavespeed.ai/free-tools/product-photo-background
+https://wavespeed.ai/free-tools/black-background-photo
 https://wavespeed.ai/free-tools/cartoon-yourself
 https://wavespeed.ai/free-tools/photo-to-anime
 https://wavespeed.ai/free-tools/photo-to-sketch
@@ -759,6 +768,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/flux-2-klein-api
 https://wavespeed.ai/higgsfield-api
+https://wavespeed.ai/collections/heygen
 https://wavespeed.ai/collections/vidu-q4-preview
 https://wavespeed.ai/collections/tripo3d
 https://wavespeed.ai/collections/meshy
@@ -1042,6 +1052,10 @@ https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
+https://wavespeed.ai/models/heygen/avatar-v
+https://wavespeed.ai/models/heygen/avatar-iv
+https://wavespeed.ai/models/heygen/video-1.0/image-to-video
+https://wavespeed.ai/models/heygen/video-1.0/text-to-video
 https://wavespeed.ai/models/krea/v3/edit
 https://wavespeed.ai/models/krea/v3/text-to-image
 https://wavespeed.ai/models/meshy/v7/retexture
@@ -1482,6 +1496,15 @@ https://wavespeed.ai/models/vidu/text-to-video
 https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
+https://wavespeed.ai/models/bytedance/omni-human-2.0
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-base/edit-lora
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-base/edit
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-base/text-to-image-lora
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-base/text-to-image
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-distilled/edit-lora
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-distilled/edit
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-distilled/text-to-image-lora
+https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-distilled/text-to-image
 https://wavespeed.ai/models/elevenlabs/sound-effects-v2
 https://wavespeed.ai/models/elevenlabs/scribe-v2
 https://wavespeed.ai/models/elevenlabs/audio-isolation
