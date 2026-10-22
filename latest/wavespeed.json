@@ -803,6 +803,7 @@ https://wavespeed.ai/wan-2-7-api
 https://wavespeed.ai/happyhorse-api
 https://wavespeed.ai/kling-3-api
 https://wavespeed.ai/kling-3-motion-control-api
+https://wavespeed.ai/kling-4-api
 https://wavespeed.ai/vidu-q4-api
 https://wavespeed.ai/vidu-q3-api
 https://wavespeed.ai/infinitetalk-api
@@ -821,6 +822,7 @@ https://wavespeed.ai/qwen-image-api
 https://wavespeed.ai/hunyuan3d-api
 https://wavespeed.ai/flux-2-klein-api
 https://wavespeed.ai/higgsfield-api
+https://wavespeed.ai/collections/kling-4
 https://wavespeed.ai/collections/heygen
 https://wavespeed.ai/collections/vidu-q4-preview
 https://wavespeed.ai/collections/tripo3d
@@ -928,7 +930,6 @@ https://wavespeed.ai/llm/qwen/qwen3.6-35b-a3b
 https://wavespeed.ai/llm/qwen/qwen3.8-flash
 https://wavespeed.ai/llm/google/gemma-4-31b-it
 https://wavespeed.ai/llm/openai/gpt-oss-120b
-https://wavespeed.ai/llm/xiaomi/mimo-v2.5
 https://wavespeed.ai/llm/google/gemma-4-26b-a4b-it
 https://wavespeed.ai/llm/typesafe/jev-1.13
 https://wavespeed.ai/llm/deepseek/deepseek-v3.2
@@ -952,7 +953,6 @@ https://wavespeed.ai/llm/google/gemini-3.1-pro-preview
 https://wavespeed.ai/llm/anthropic/claude-haiku-4.5
 https://wavespeed.ai/llm/qwen/qwen3.7-max
 https://wavespeed.ai/llm/x-ai/grok-4.5
-https://wavespeed.ai/llm/xiaomi/mimo-v2.5-pro
 https://wavespeed.ai/llm/minimax/minimax-m2.7
 https://wavespeed.ai/llm/openai/gpt-4o-mini
 https://wavespeed.ai/llm/google/gemini-3.5-flash-lite
@@ -1266,6 +1266,9 @@ https://wavespeed.ai/models/wavespeed-ai/music-video-generator
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/video-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-std/image-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/reference-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/image-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/text-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-4k/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-pro/image-to-video
 https://wavespeed.ai/models/vidu/q3/drama
@@ -1579,6 +1582,8 @@ https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
 https://wavespeed.ai/models/bytedance/omni-human-2.0
+https://wavespeed.ai/models/pixverse/pixverse-v6-max/image-to-video
+https://wavespeed.ai/models/pixverse/pixverse-v6-max/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/moss-image/text-to-image-lora
 https://wavespeed.ai/models/wavespeed-ai/moss-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-base/edit-lora
