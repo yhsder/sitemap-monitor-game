@@ -1131,6 +1131,8 @@ https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
+https://wavespeed.ai/models/heygen/voice/turbo
+https://wavespeed.ai/models/heygen/voice
 https://wavespeed.ai/models/heygen/video-1.0/reference-to-video
 https://wavespeed.ai/models/heygen/avatar-v
 https://wavespeed.ai/models/heygen/avatar-iv
@@ -1141,6 +1143,7 @@ https://wavespeed.ai/models/krea/v3/text-to-image
 https://wavespeed.ai/models/meshy/v7/retexture
 https://wavespeed.ai/models/meshy/v6/retexture
 https://wavespeed.ai/models/bria/remove-background-guided
+https://wavespeed.ai/models/pruna-ai/p-video-2-pro/avatar
 https://wavespeed.ai/models/black-forest-labs/flux-3/image-edit
 https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-image
 https://wavespeed.ai/models/ideogram-ai/ideogram-v4.5
@@ -1266,6 +1269,8 @@ https://wavespeed.ai/models/wavespeed-ai/music-video-generator
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/video-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-std/image-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-extend
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-edit
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/text-to-video
