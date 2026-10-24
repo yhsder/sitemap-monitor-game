@@ -1106,6 +1106,11 @@ https://wavespeed.ai/models/alibaba/wan-3.0/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video-turbo
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate-2
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-extend
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-edit
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/reference-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/image-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/controlnet-union
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/image-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/image-to-video
@@ -1303,11 +1308,6 @@ https://wavespeed.ai/models/wavespeed-ai/music-video-generator
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/video-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-std/image-to-video
-https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-extend
-https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-edit
-https://wavespeed.ai/models/kwaivgi/kling-v4.0/reference-to-video
-https://wavespeed.ai/models/kwaivgi/kling-v4.0/image-to-video
-https://wavespeed.ai/models/kwaivgi/kling-v4.0/text-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-4k/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v3.0-pro/image-to-video
 https://wavespeed.ai/models/vidu/q3/drama
