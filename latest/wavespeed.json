@@ -12,6 +12,8 @@ https://wavespeed.ai/alternatives
 https://wavespeed.ai/higgsfield-alternative
 https://wavespeed.ai/higgsfield-genjutsu-alternative
 https://wavespeed.ai/dreamina-alternative
+https://wavespeed.ai/lumina-alternative
+https://wavespeed.ai/tapnow-alternative
 https://wavespeed.ai/openart-alternative
 https://wavespeed.ai/civitai-alternative
 https://wavespeed.ai/leonardo-ai-alternative
@@ -1105,6 +1107,7 @@ https://wavespeed.ai/models/bytedance/seedance-2.5/video-edit
 https://wavespeed.ai/models/bytedance/seedance-2.5/video-edit-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.5/video-extend
 https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video
+https://wavespeed.ai/models/bytedance/seedance-2.5/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-3.0-prime/video-extend
 https://wavespeed.ai/models/alibaba/wan-3.0-prime/video-edit
 https://wavespeed.ai/models/alibaba/wan-3.0-prime/reference-to-video
@@ -1117,6 +1120,7 @@ https://wavespeed.ai/models/alibaba/wan-3.0/image-to-video
 https://wavespeed.ai/models/alibaba/wan-3.0/text-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.5/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.5/reference-to-video-turbo
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate-2
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-extend
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-edit
@@ -1157,6 +1161,12 @@ https://wavespeed.ai/models/black-forest-labs/flux-3/start-end-to-video
 https://wavespeed.ai/models/black-forest-labs/flux-3/image-to-video
 https://wavespeed.ai/models/black-forest-labs/flux-3/video-extend
 https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-video
+https://wavespeed.ai/models/minimax/h3-lite/text-to-video
+https://wavespeed.ai/models/minimax/h3-lite/reference-to-video
+https://wavespeed.ai/models/minimax/h3-lite/image-to-video
+https://wavespeed.ai/models/minimax/h3-highspeed/text-to-video
+https://wavespeed.ai/models/minimax/h3-highspeed/reference-to-video
+https://wavespeed.ai/models/minimax/h3-highspeed/image-to-video
 https://wavespeed.ai/models/minimax/h3/reference-to-video
 https://wavespeed.ai/models/minimax/h3/image-to-video
 https://wavespeed.ai/models/minimax/h3/text-to-video
@@ -1291,6 +1301,7 @@ https://wavespeed.ai/models/pruna-ai/p-image/text-to-image
 https://wavespeed.ai/models/ideogram-ai/remove-background
 https://wavespeed.ai/models/openai/gpt-image-2/edit
 https://wavespeed.ai/models/bytedance/seedance-2.0/image-to-video
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/reference-to-video
 https://wavespeed.ai/models/bytedance/seedream-v5.0-flash/layer-decomposition
 https://wavespeed.ai/models/openai/gpt-image-2/text-to-image
 https://wavespeed.ai/models/bytedance/seedance-2.0/video-edit
@@ -1305,8 +1316,10 @@ https://wavespeed.ai/models/pixverse/pixverse-c1/image-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/text-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/transition
 https://wavespeed.ai/models/bytedance/seedance-2.0/text-to-video
+https://wavespeed.ai/models/bytedance/seedance-2.0/reference-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/image-to-video
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/text-to-video
+https://wavespeed.ai/models/bytedance/seedance-2.0-fast/reference-to-video
 https://wavespeed.ai/models/google/nano-banana-pro/edit
 https://wavespeed.ai/models/google/nano-banana-2/edit
 https://wavespeed.ai/models/google/nano-banana-pro/edit-ultra
@@ -1338,6 +1351,8 @@ https://wavespeed.ai/models/kwaivgi/kling-v2.6-pro/motion-control
 https://wavespeed.ai/models/bytedance/seedance-2.0/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/text-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0/text-to-video-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.0-mini/reference-to-video-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.0/reference-to-video-turbo
 https://wavespeed.ai/models/google/veo3.1/image-to-video
 https://wavespeed.ai/models/google/veo3.1-fast/image-to-video
 https://wavespeed.ai/models/google/veo3.1-lite/image-to-video
@@ -1352,6 +1367,7 @@ https://wavespeed.ai/models/alibaba/wan-2.7/text-to-image-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/text-to-image
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/image-to-video-turbo
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/text-to-video-turbo
+https://wavespeed.ai/models/bytedance/seedance-2.0-fast/reference-to-video-turbo
 https://wavespeed.ai/models/alibaba/wan-2.6/reference-to-video-flash
 https://wavespeed.ai/models/alibaba/wan-2.6/image-to-video-flash
 https://wavespeed.ai/models/alibaba/wan-2.6/text-to-video
@@ -1400,13 +1416,13 @@ https://wavespeed.ai/models/luma/ray-3.2/image-to-video
 https://wavespeed.ai/models/luma/ray-3.2/text-to-video
 https://wavespeed.ai/models/bria/fibo-edit/genfill
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-std/reference-to-video
-https://wavespeed.ai/models/vidu/q4-preview/image-to-video
+https://wavespeed.ai/models/vidu/q4/image-to-video
 https://wavespeed.ai/models/vidu/q3-pro/image-to-video
 https://wavespeed.ai/models/vidu/q3-turbo/image-to-video
 https://wavespeed.ai/models/vidu/q3/image-to-video-pro
 https://wavespeed.ai/models/vidu/q3/reference-to-video
 https://wavespeed.ai/models/vidu/q3/start-end-to-video
-https://wavespeed.ai/models/vidu/q4-preview/reference-to-video
+https://wavespeed.ai/models/vidu/q4/reference-to-video
 https://wavespeed.ai/models/vidu/q3-pro/start-end-to-video
 https://wavespeed.ai/models/vidu/q3-turbo/start-end-to-video
 https://wavespeed.ai/models/vidu/q3-pro/text-to-video
@@ -1561,8 +1577,6 @@ https://wavespeed.ai/models/mirelo-ai/sfx-2.0/text-to-audio
 https://wavespeed.ai/models/google/gemini-3.8-flash-lite/text-to-speech
 https://wavespeed.ai/models/google/gemini-3.8-flash/text-to-speech
 https://wavespeed.ai/models/meshy/v7.1/text-to-3d
-https://wavespeed.ai/models/openai/gpt-6-astra/image-to-3d
-https://wavespeed.ai/models/openai/gpt-6-astra/text-to-3d
 https://wavespeed.ai/models/meshy/v7/text-to-3d
 https://wavespeed.ai/models/black-forest-labs/flux-3/video-upscale
 https://wavespeed.ai/models/hitem3d/hi3d-v3.0/multi-view-to-3d
