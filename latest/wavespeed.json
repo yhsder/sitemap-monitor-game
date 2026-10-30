@@ -54,6 +54,8 @@ https://wavespeed.ai/seedream-studio
 https://wavespeed.ai/wan-studio
 https://wavespeed.ai/kling-studio
 https://wavespeed.ai/grok-imagine-studio
+https://wavespeed.ai/hailuo-studio
+https://wavespeed.ai/vidu-studio
 https://wavespeed.ai/gpt-image-studio
 https://wavespeed.ai/nano-banana-studio
 https://wavespeed.ai/elevenlabs-studio
@@ -897,6 +899,9 @@ https://wavespeed.ai/moss-image-api
 https://wavespeed.ai/kling-2-6-api
 https://wavespeed.ai/wan-2-5-api
 https://wavespeed.ai/higgsfield-api
+https://wavespeed.ai/pixverse-api
+https://wavespeed.ai/luma-api
+https://wavespeed.ai/krea-api
 https://wavespeed.ai/collections/speech-to-text
 https://wavespeed.ai/collections/reference-to-video
 https://wavespeed.ai/collections/image-to-video
@@ -1197,6 +1202,7 @@ https://wavespeed.ai/models/heygen/voice
 https://wavespeed.ai/models/heygen/video-1.0/reference-to-video
 https://wavespeed.ai/models/wavespeed-ai/moss-image/text-to-image-lora
 https://wavespeed.ai/models/wavespeed-ai/moss-image/text-to-image
+https://wavespeed.ai/models/pruna-ai/p-video/upscale
 https://wavespeed.ai/models/heygen/avatar-v
 https://wavespeed.ai/models/heygen/avatar-iv
 https://wavespeed.ai/models/heygen/video-1.0/image-to-video
@@ -1613,6 +1619,8 @@ https://wavespeed.ai/models/wavespeed-ai/ai-math-solver
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-720p
 https://wavespeed.ai/models/wavespeed-ai/ai-story-generator
 https://wavespeed.ai/models/bytedance/seedance-v1-lite-t2v-1080p
+https://wavespeed.ai/models/veed/dubbing-pro
+https://wavespeed.ai/models/veed/dubbing
 https://wavespeed.ai/models/microsoft/mai-image-2.5-pro/edit
 https://wavespeed.ai/models/microsoft/mai-image-2.5-pro/text-to-image
 https://wavespeed.ai/models/google/gemini-3.1-flash/text-to-speech
