@@ -955,6 +955,7 @@ https://wavespeed.ai/llm/anthropic/claude-opus-5
 https://wavespeed.ai/llm/z-ai/glm-5.3
 https://wavespeed.ai/llm/google/gemini-4-argon
 https://wavespeed.ai/llm/tencent/hy4-preview
+https://wavespeed.ai/llm/moonshotai/kimi-k3.1-pro
 https://wavespeed.ai/llm/openai/gpt-6.1-sol
 https://wavespeed.ai/llm/google/gemini-3.8-flash
 https://wavespeed.ai/llm/deepseek/deepseek-v4.1-flash-1017
@@ -965,6 +966,7 @@ https://wavespeed.ai/llm/anthropic/claude-sonnet-5
 https://wavespeed.ai/llm/openai/gpt-6-sol
 https://wavespeed.ai/llm/google/gemini-3.7-flash
 https://wavespeed.ai/llm/openai/gpt-6-luna
+https://wavespeed.ai/llm/openai/gpt-6.1-terra
 https://wavespeed.ai/llm/deepseek/deepseek-v4-flash-0731
 https://wavespeed.ai/llm/xiaomi/mimo-v2.6-flash
 https://wavespeed.ai/llm/google/gemini-3-flash-preview
@@ -1211,7 +1213,6 @@ https://wavespeed.ai/models/heygen/video-1.0/text-to-video
 https://wavespeed.ai/models/krea/v3/edit
 https://wavespeed.ai/models/krea/v3/text-to-image
 https://wavespeed.ai/models/meshy/v7/retexture
-https://wavespeed.ai/models/meshy/v6/retexture
 https://wavespeed.ai/models/bria/remove-background-guided
 https://wavespeed.ai/models/pruna-ai/p-video-2-pro/avatar
 https://wavespeed.ai/models/black-forest-labs/flux-3/image-edit
@@ -1235,10 +1236,6 @@ https://wavespeed.ai/models/google/gemini-omni-1.1-flash/text-to-video
 https://wavespeed.ai/models/minimax/lyrics-generation
 https://wavespeed.ai/models/minimax/music-3.0
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/layer-decomposition
-https://wavespeed.ai/models/black-forest-labs/flux-3/video-extend-draft
-https://wavespeed.ai/models/black-forest-labs/flux-3/text-to-video-draft
-https://wavespeed.ai/models/black-forest-labs/flux-3/image-to-video-draft
-https://wavespeed.ai/models/black-forest-labs/flux-3/start-end-to-video-draft
 https://wavespeed.ai/models/google/nano-banana-2-lite/edit
 https://wavespeed.ai/models/google/nano-banana-2-lite/text-to-image
 https://wavespeed.ai/models/google/gemini-omni-flash/video-edit
@@ -1256,7 +1253,6 @@ https://wavespeed.ai/models/chatterbox/speech-to-speech
 https://wavespeed.ai/models/chatterbox/text-to-speech
 https://wavespeed.ai/models/bytedance/seed-speech-tts-2.0
 https://wavespeed.ai/models/wavespeed-ai/krea-v2-medium-turbo/text-to-image
-https://wavespeed.ai/models/tripo3d/triposplat/image-to-3d
 https://wavespeed.ai/models/microsoft/mai-image-2.5/edit
 https://wavespeed.ai/models/ideogram-ai/ideogram-v4
 https://wavespeed.ai/models/pruna-ai/p-video/replace
@@ -1317,7 +1313,6 @@ https://wavespeed.ai/models/bytedance/seedance-2.0-fast/video-edit
 https://wavespeed.ai/models/bytedance/seedance-2.0-mini/video-extend
 https://wavespeed.ai/models/bytedance/seedance-2.0/video-extend
 https://wavespeed.ai/models/bytedance/seedance-2.0-fast/video-extend
-https://wavespeed.ai/models/pixverse/pixverse-c1/reference-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/image-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/text-to-video
 https://wavespeed.ai/models/pixverse/pixverse-c1/transition
@@ -1406,10 +1401,6 @@ https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/video-edit
 https://wavespeed.ai/models/kwaivgi/kling-video-o3-4k/video-reference
 https://wavespeed.ai/models/bria/fibo-edit-1.5/edit
 https://wavespeed.ai/models/bria/fibo-generate-1.5/text-to-image
-https://wavespeed.ai/models/recraft-ai/recraft-v4-style-pro/text-to-vector
-https://wavespeed.ai/models/recraft-ai/recraft-v4-style-pro/text-to-image
-https://wavespeed.ai/models/recraft-ai/recraft-v4-style/text-to-vector
-https://wavespeed.ai/models/recraft-ai/recraft-v4-style/text-to-image
 https://wavespeed.ai/models/recraft-ai/recraft-v4-pro/create-style
 https://wavespeed.ai/models/recraft-ai/recraft-v4/create-style
 https://wavespeed.ai/models/meta/muse-image/edit
@@ -1530,13 +1521,10 @@ https://wavespeed.ai/models/wavespeed-ai/image-converter
 https://wavespeed.ai/models/kwaivgi/kling-image-v3/text-to-image
 https://wavespeed.ai/models/hyper3d/rodin-v2.5/image-to-3d
 https://wavespeed.ai/models/hyper3d/rodin-v2.5/text-to-3d
-https://wavespeed.ai/models/hyper3d/rodin-v2/text-to-3d
-https://wavespeed.ai/models/hyper3d/rodin-v2/image-to-3d
 https://wavespeed.ai/models/google/veo3.1-fast/reference-to-video
 https://wavespeed.ai/models/wavespeed-ai/audio-converter
 https://wavespeed.ai/models/kwaivgi/kling-lipsync/audio-to-video
 https://wavespeed.ai/models/wavespeed-ai/image-face-blur
-https://wavespeed.ai/models/kwaivgi/kling-lipsync/text-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v2-ai-avatar-standard
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk-fast/multi
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk/video-to-video-multi
@@ -1546,7 +1534,6 @@ https://wavespeed.ai/models/kwaivgi/kling-v1-ai-avatar-standard
 https://wavespeed.ai/models/wavespeed-ai/infinitetalk-fast/video-to-video-multi
 https://wavespeed.ai/models/kwaivgi/kling-v1-ai-avatar-pro
 https://wavespeed.ai/models/mirelo-ai/sfx-1.6/text-to-audio
-https://wavespeed.ai/models/mirelo-ai/sfx-1.6/inpaint-audio
 https://wavespeed.ai/models/mirelo-ai/sfx-1.6/extend-audio
 https://wavespeed.ai/models/mirelo-ai/sfx-1.6/video-to-video
 https://wavespeed.ai/models/wavespeed-ai/mmaudio-v2
@@ -1590,8 +1577,6 @@ https://wavespeed.ai/models/hitem3d/hi3d-v3.0/image-to-3d
 https://wavespeed.ai/models/sonilo/v1/video-to-sfx
 https://wavespeed.ai/models/sonilo/v1/text-to-sfx
 https://wavespeed.ai/models/bria/extract-object
-https://wavespeed.ai/models/wavespeed-ai/boogu-image/text-to-image
-https://wavespeed.ai/models/wavespeed-ai/boogu-image/edit
 https://wavespeed.ai/models/luma/uni-v1/edit
 https://wavespeed.ai/models/luma/uni-v1/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/ai-parkour-video
@@ -1670,7 +1655,6 @@ https://wavespeed.ai/models/wavespeed-ai/flux-3-klein-image-distilled/text-to-im
 https://wavespeed.ai/models/elevenlabs/sound-effects-v2
 https://wavespeed.ai/models/elevenlabs/scribe-v2
 https://wavespeed.ai/models/elevenlabs/audio-isolation
-https://wavespeed.ai/models/meshy/v6-lite/retexture
 https://wavespeed.ai/models/wavespeed-ai/video-music-remover
 https://wavespeed.ai/models/elevenlabs/eleven-v4-turbo
 https://wavespeed.ai/models/elevenlabs/eleven-v4
@@ -1683,7 +1667,6 @@ https://wavespeed.ai/models/wavespeed-ai/depth-anything-v3/video
 https://wavespeed.ai/models/wavespeed-ai/trellis-2/image-to-3d
 https://wavespeed.ai/models/black-forest-labs/flux-3/video-edit
 https://wavespeed.ai/models/elevenlabs/forced-alignment
-https://wavespeed.ai/models/bria/ad-delayer
 https://wavespeed.ai/models/google/lyria-3.5/music
 https://wavespeed.ai/models/wavespeed-ai/ltx-2.5/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/ltx-2.5/image-to-video
@@ -1708,7 +1691,6 @@ https://wavespeed.ai/models/minimax/music-cover
 https://wavespeed.ai/models/wavespeed-ai/omnivoice/voice-clone
 https://wavespeed.ai/models/wavespeed-ai/omnivoice/text-to-speech
 https://wavespeed.ai/models/minimax/music-2.6
-https://wavespeed.ai/models/wavespeed-ai/joyai-image/edit
 https://wavespeed.ai/models/ideogram-ai/ideogram-v3/generate-transparent
 https://wavespeed.ai/models/ideogram-ai/ideogram-v3/remove-text
 https://wavespeed.ai/models/sync/lipsync-3
@@ -1727,7 +1709,6 @@ https://wavespeed.ai/models/wavespeed-ai/davinci-magihuman/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/davinci-magihuman/image-to-video
 https://wavespeed.ai/models/google/lyria-3-clip/music
 https://wavespeed.ai/models/google/lyria-3-pro/music
-https://wavespeed.ai/models/mirelo-ai/sfx-v1/video-to-audio
 https://wavespeed.ai/models/wavespeed-ai/audio-vocal-isolator
 https://wavespeed.ai/models/wavespeed-ai/rife
 https://wavespeed.ai/models/wavespeed-ai/ghibli-filter/video
@@ -1744,7 +1725,6 @@ https://wavespeed.ai/models/wavespeed-ai/ltx-2.3/image-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/ltx-2.3/text-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/ltx-2.3/text-to-video
 https://wavespeed.ai/models/bria/embed-product
-https://wavespeed.ai/models/wavespeed-ai/ltx-2/video-extend
 https://wavespeed.ai/models/wavespeed-ai/qwen-image-2.0/edit
 https://wavespeed.ai/models/wavespeed-ai/qwen-image-2.0-pro/edit
 https://wavespeed.ai/models/wavespeed-ai/qwen-image-2.0/text-to-image
@@ -1755,8 +1735,6 @@ https://wavespeed.ai/models/wavespeed-ai/soulx-flashhead
 https://wavespeed.ai/models/wavespeed-ai/depth-anything/video
 https://wavespeed.ai/models/wavespeed-ai/cosmos-predict-2.5/text-to-video
 https://wavespeed.ai/models/wavespeed-ai/cosmos-predict-2.5/image-to-video
-https://wavespeed.ai/models/wavespeed-ai/firered-image/edit
-https://wavespeed.ai/models/recraft-ai/recraft-v4-pro/text-to-vector
 https://wavespeed.ai/models/recraft-ai/recraft-v4/text-to-vector
 https://wavespeed.ai/models/recraft-ai/recraft-v4-pro/text-to-image
 https://wavespeed.ai/models/recraft-ai/recraft-v4/text-to-image
@@ -1805,9 +1783,6 @@ https://wavespeed.ai/models/pixverse/pixverse-v5.6/text-to-video
 https://wavespeed.ai/models/pixverse/pixverse-v5.6/image-to-video
 https://wavespeed.ai/models/minimax/speech-2.8-hd
 https://wavespeed.ai/models/minimax/speech-2.8-turbo
-https://wavespeed.ai/models/wavespeed-ai/ic-light
-https://wavespeed.ai/models/meshy/v6/text-to-3d
-https://wavespeed.ai/models/meshy/v6/image-to-3d
 https://wavespeed.ai/models/wavespeed-ai/sam3-image-rle
 https://wavespeed.ai/models/wavespeed-ai/sam3-video-rle
 https://wavespeed.ai/models/wavespeed-ai/qwen-image/edit-multiple-angles
@@ -1856,8 +1831,6 @@ https://wavespeed.ai/models/wavespeed-ai/molmo2/video-captioner
 https://wavespeed.ai/models/wavespeed-ai/molmo2/image-captioner
 https://wavespeed.ai/models/wavespeed-ai/paddle-ocr
 https://wavespeed.ai/models/wavespeed-ai/openai-whisper-with-video
-https://wavespeed.ai/models/wavespeed-ai/kandinsky5-pro/text-to-video
-https://wavespeed.ai/models/wavespeed-ai/kandinsky5-pro/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/qwen-image/edit-2511-lora
 https://wavespeed.ai/models/wavespeed-ai/longcat-avatar
 https://wavespeed.ai/models/wavespeed-ai/qwen-image/edit-2511
@@ -1870,9 +1843,6 @@ https://wavespeed.ai/models/wavespeed-ai/flux-2-flash/edit
 https://wavespeed.ai/models/wavespeed-ai/flux-2-flash/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/qwen-image/layered
 https://wavespeed.ai/models/wavespeed-ai/z-image/turbo-inpaint
-https://wavespeed.ai/models/decart/lucy-restyle
-https://wavespeed.ai/models/wavespeed-ai/vibevoice
-https://wavespeed.ai/models/wavespeed-ai/hunyuan3d-v3/sketch-to-3d
 https://wavespeed.ai/models/wavespeed-ai/hunyuan3d-v3/image-to-3d
 https://wavespeed.ai/models/wavespeed-ai/scail
 https://wavespeed.ai/models/wavespeed-ai/hunyuan3d-v3/text-to-3d
@@ -1884,17 +1854,13 @@ https://wavespeed.ai/models/wavespeed-ai/flux-2-max/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/sam3-video
 https://wavespeed.ai/models/google/veo3.1/video-extend
 https://wavespeed.ai/models/wavespeed-ai/sam-3d-objects
-https://wavespeed.ai/models/pika/v2.2-pikaframes
 https://wavespeed.ai/models/x-ai/grok-2-image
 https://wavespeed.ai/models/wavespeed-ai/steady-dancer
-https://wavespeed.ai/models/wavespeed-ai/longcat-image/text-to-image
-https://wavespeed.ai/models/wavespeed-ai/longcat-image/edit
 https://wavespeed.ai/models/wavespeed-ai/z-image-lora-trainer
 https://wavespeed.ai/models/wavespeed-ai/latentsync
 https://wavespeed.ai/models/pixverse/pixverse-v5.5/image-to-video
 https://wavespeed.ai/models/pixverse/pixverse-v5.5/text-to-video
 https://wavespeed.ai/models/pixverse/pixverse-v5.5-transition
-https://wavespeed.ai/models/pixverse/pixverse-v5.5-effects
 https://wavespeed.ai/models/vidu/reference-to-image-q2
 https://wavespeed.ai/models/vidu/text-to-image-q2
 https://wavespeed.ai/models/elevenlabs/eleven-v3/timing
@@ -1909,13 +1875,11 @@ https://wavespeed.ai/models/wavespeed-ai/flux-2-flex/edit
 https://wavespeed.ai/models/wavespeed-ai/flux-2-flex/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/flux-2-dev/edit
 https://wavespeed.ai/models/wavespeed-ai/flux-2-dev/text-to-image
-https://wavespeed.ai/models/wavespeed-ai/sam-3d-body
 https://wavespeed.ai/models/wavespeed-ai/image-translator
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-video-1.5/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-video-1.5/text-to-video
 https://wavespeed.ai/models/google/gemini-3-pro-image/edit
 https://wavespeed.ai/models/google/gemini-3-pro-image/text-to-image
-https://wavespeed.ai/models/decart/lucy-edit-pro
 https://wavespeed.ai/models/wavespeed-ai/image-captioner
 https://wavespeed.ai/models/wavespeed-ai/prompt-optimizer
 https://wavespeed.ai/models/pixverse/swap
@@ -1925,7 +1889,6 @@ https://wavespeed.ai/models/clarity-ai/flux-upscaler
 https://wavespeed.ai/models/clarity-ai/creative-upscaler
 https://wavespeed.ai/models/bytedance/video-upscaler
 https://wavespeed.ai/models/clarity-ai/crystal-upscaler
-https://wavespeed.ai/models/nvidia/chrono-edit
 https://wavespeed.ai/models/vidu/text-to-video-q2
 https://wavespeed.ai/models/vidu/template/halloween
 https://wavespeed.ai/models/bria/fibo
@@ -1990,13 +1953,11 @@ https://wavespeed.ai/models/wavespeed-ai/qwen-image/edit-plus
 https://wavespeed.ai/models/veed/fabric-1.0
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate
 https://wavespeed.ai/models/heygen/video-translate
-https://wavespeed.ai/models/minimax/music-v1.5
 https://wavespeed.ai/models/vidu/text-to-video-2.0
 https://wavespeed.ai/models/vidu/text-to-video-q1
 https://wavespeed.ai/models/vidu/image-to-video-q1
 https://wavespeed.ai/models/vidu/start-end-to-video-q1
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/video-edit
-https://wavespeed.ai/models/kwaivgi/kling-v1-tts
 https://wavespeed.ai/models/pixverse/pixverse-v5-transition
 https://wavespeed.ai/models/pixverse/pixverse-v5-effects
 https://wavespeed.ai/models/wavespeed-ai/female-human
@@ -2015,9 +1976,7 @@ https://wavespeed.ai/models/bytedance/waver-1.0
 https://wavespeed.ai/models/wavespeed-ai/hunyuan-avatar
 https://wavespeed.ai/models/google/gemini-2.5-flash-image-preview/edit
 https://wavespeed.ai/models/google/gemini-2.5-flash-image-preview/text-to-image
-https://wavespeed.ai/models/bytedance/uso
 https://wavespeed.ai/models/bytedance/avatar-omni-human-1.5
-https://wavespeed.ai/models/sync/lipsync-1.9.0-beta
 https://wavespeed.ai/models/sync/lipsync-2
 https://wavespeed.ai/models/sync/lipsync-2-pro
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/speech-to-video
@@ -2051,12 +2010,6 @@ https://wavespeed.ai/models/wavespeed-ai/qwen-image/text-to-image-lora
 https://wavespeed.ai/models/minimax/speech-2.5-turbo-preview
 https://wavespeed.ai/models/minimax/speech-2.5-hd-preview
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/text-to-image-realism
-https://wavespeed.ai/models/tripo3d/v2.5/multiview-to-3d
-https://wavespeed.ai/models/tripo3d/v2.5/image-to-3d
-https://wavespeed.ai/models/wavespeed-ai/hunyuan3d/v2.1
-https://wavespeed.ai/models/wavespeed-ai/hunyuan3d/v2-multi-view
-https://wavespeed.ai/models/wavespeed-ai/hunyuan3d/v2-mini
-https://wavespeed.ai/models/wavespeed-ai/hunyuan3d/v2-base
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/i2v-5b-720p-lora
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/t2v-5b-720p-lora
 https://wavespeed.ai/models/wavespeed-ai/qwen-image/text-to-image
@@ -2160,13 +2113,11 @@ https://wavespeed.ai/models/wavespeed-ai/wan-2.1/v2v-480p-ultra-fast
 https://wavespeed.ai/models/wavespeed-ai/flux-dev-lora-trainer
 https://wavespeed.ai/models/wavespeed-ai/ltx-video-v097/i2v-720p
 https://wavespeed.ai/models/wavespeed-ai/ltx-video-v097/i2v-480p
-https://wavespeed.ai/models/wavespeed-ai/uno
 https://wavespeed.ai/models/wavespeed-ai/hidream-e1-full
 https://wavespeed.ai/models/wavespeed-ai/instant-character
 https://wavespeed.ai/models/wavespeed-ai/step1x-edit
 https://wavespeed.ai/models/wavespeed-ai/magi-1-24b
 https://wavespeed.ai/models/wavespeed-ai/wan-flf2v
-https://wavespeed.ai/models/wavespeed-ai/framepack
 https://wavespeed.ai/models/wavespeed-ai/flux-fill-dev
 https://wavespeed.ai/models/wavespeed-ai/flux-redux-dev
 https://wavespeed.ai/models/wavespeed-ai/hidream-i1-dev
@@ -2202,11 +2153,6 @@ https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/vision
 https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/video
 https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/audio
 https://wavespeed.ai/models/nvidia/nemotron-3-nano-omni/text
-https://wavespeed.ai/models/wavespeed-ai/patina/material-extract
 https://wavespeed.ai/models/wavespeed-ai/patina/material
 https://wavespeed.ai/models/wavespeed-ai/patina/image-to-map
-https://wavespeed.ai/models/wavespeed-ai/void-video-inpainting/mask
-https://wavespeed.ai/models/wavespeed-ai/nucleus-image/text-to-image
-https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image-turbo
-https://wavespeed.ai/models/wavespeed-ai/ernie-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/openai-whisper
