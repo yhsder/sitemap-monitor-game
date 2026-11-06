@@ -907,6 +907,7 @@ https://wavespeed.ai/veo-3-1-api
 https://wavespeed.ai/nano-banana-2-1-api
 https://wavespeed.ai/nano-banana-2-api
 https://wavespeed.ai/gpt-image-2-api
+https://wavespeed.ai/gpt-image-2-6-api
 https://wavespeed.ai/gpt-image-2-5-api
 https://wavespeed.ai/seedream-4-5-api
 https://wavespeed.ai/seedream-5-api
@@ -1038,7 +1039,6 @@ https://wavespeed.ai/llm/google/gemini-3.1-pro-preview
 https://wavespeed.ai/llm/anthropic/claude-haiku-4.5
 https://wavespeed.ai/llm/qwen/qwen3.7-max
 https://wavespeed.ai/llm/x-ai/grok-4.5
-https://wavespeed.ai/llm/minimax/minimax-m2.7
 https://wavespeed.ai/llm/openai/gpt-4o-mini
 https://wavespeed.ai/llm/google/gemini-3.5-flash-lite
 https://wavespeed.ai/llm/openai/gpt-5-mini
@@ -1058,7 +1058,6 @@ https://wavespeed.ai/llm/google/gemini-3.1-pro-preview-customtools
 https://wavespeed.ai/llm/meta-llama/llama-3.1-8b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-3.3-70b-instruct
 https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
-https://wavespeed.ai/llm/minimax/minimax-m2.1
 https://wavespeed.ai/llm/minimax/minimax-m2.5
 https://wavespeed.ai/llm/mistralai/mistral-large
 https://wavespeed.ai/llm/mistralai/mistral-small-24b-instruct-2501
@@ -1128,6 +1127,10 @@ https://wavespeed.ai/llm/inception
 https://wavespeed.ai/llm/cohere
 https://wavespeed.ai/llm/inclusionai
 https://wavespeed.ai/llm/reflection
+https://wavespeed.ai/models/openai/gpt-image-2.6-flare/text-to-image
+https://wavespeed.ai/models/openai/gpt-image-2.6-flare/edit
+https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/text-to-image
+https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/edit
 https://wavespeed.ai/models/google/nano-banana-2.1/edit
 https://wavespeed.ai/models/google/nano-banana-2.1/text-to-image
 https://wavespeed.ai/models/openai/gpt-image-2.5-sunburst/edit
@@ -1163,9 +1166,11 @@ https://wavespeed.ai/models/kwaivgi/kling-v4.0/video-edit
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/reference-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/image-to-video
 https://wavespeed.ai/models/kwaivgi/kling-v4.0/text-to-video
-https://wavespeed.ai/models/wavespeed-ai/p-h3-image/image-edit-lora
+https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/text-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/image-to-video
+https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit-lora
 https://wavespeed.ai/models/wavespeed-ai/p-h3-image/text-to-image-lora
-https://wavespeed.ai/models/wavespeed-ai/p-h3-image/image-edit
+https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit
 https://wavespeed.ai/models/wavespeed-ai/p-h3-image/text-to-image
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/controlnet-union
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3-singularity/image-to-video-lora
@@ -1184,6 +1189,8 @@ https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video-lora
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/reference-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/image-to-video
 https://wavespeed.ai/models/wavespeed-ai/minimax-h3/text-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/reference-to-video
+https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/video-edit
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro/edit
 https://wavespeed.ai/models/bytedance/seedream-v5.0-pro
 https://wavespeed.ai/models/bytedance/seedream-v5.0-flash/edit
@@ -1230,6 +1237,7 @@ https://wavespeed.ai/models/alibaba/happyhorse-1.0/video-edit
 https://wavespeed.ai/models/alibaba/happyhorse-1.0/reference-to-video
 https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video-pro
 https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro
+https://wavespeed.ai/models/pruna-ai/p-video-2-pro/replace
 https://wavespeed.ai/models/ideogram-ai/ideogram-vector/image-to-vector
 https://wavespeed.ai/models/ideogram-ai/ideogram-vector/text-to-vector
 https://wavespeed.ai/models/heygen/voice/turbo
