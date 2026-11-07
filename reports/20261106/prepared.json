@@ -1,0 +1,679 @@
+{
+  "date": "20261106",
+  "sites": [
+    {
+      "site": "easemate",
+      "source_file": "diff/20261106/easemate.json",
+      "raw_url_count": 4,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 4,
+      "pages": [
+        {
+          "page_id": "easemate-0001",
+          "url": "https://www.easemate.ai/gpt-images-2-6",
+          "canonical_url": "https://www.easemate.ai/gpt-images-2-6",
+          "original_urls": [
+            "https://www.easemate.ai/gpt-images-2-6"
+          ],
+          "page_type": "other",
+          "slug": "gpt-images-2-6"
+        },
+        {
+          "page_id": "easemate-0002",
+          "url": "https://www.easemate.ai/skull-cap-trend-ai-video",
+          "canonical_url": "https://www.easemate.ai/skull-cap-trend-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/skull-cap-trend-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "skull-cap-trend-ai-video"
+        },
+        {
+          "page_id": "easemate-0003",
+          "url": "https://www.easemate.ai/viral-video-remaker",
+          "canonical_url": "https://www.easemate.ai/viral-video-remaker",
+          "original_urls": [
+            "https://www.easemate.ai/viral-video-remaker"
+          ],
+          "page_type": "other",
+          "slug": "viral-video-remaker"
+        },
+        {
+          "page_id": "easemate-0004",
+          "url": "https://www.easemate.ai/frame-to-video-generator",
+          "canonical_url": "https://www.easemate.ai/frame-to-video-generator",
+          "original_urls": [
+            "https://www.easemate.ai/frame-to-video-generator"
+          ],
+          "page_type": "tool",
+          "slug": "frame-to-video-generator"
+        }
+      ]
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261106/higgsfield.json",
+      "raw_url_count": 26,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 26,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/genjutsu-for-reels-intro",
+          "canonical_url": "https://higgsfield.ai/genjutsu-for-reels-intro",
+          "original_urls": [
+            "https://higgsfield.ai/genjutsu-for-reels-intro"
+          ],
+          "page_type": "other",
+          "slug": "genjutsu-for-reels-intro"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms",
+          "canonical_url": "https://higgsfield.ai/community/rooms",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms"
+          ],
+          "page_type": "community",
+          "slug": "rooms"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/ai-music-lounge",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-music-lounge",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-music-lounge"
+          ],
+          "page_type": "community",
+          "slug": "ai-music-lounge"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/community/rooms/ai-cinematic-mini-series",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-cinematic-mini-series",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-cinematic-mini-series"
+          ],
+          "page_type": "community",
+          "slug": "ai-cinematic-mini-series"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/community/rooms/ai-freak-and-weirdo",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-freak-and-weirdo",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-freak-and-weirdo"
+          ],
+          "page_type": "community",
+          "slug": "ai-freak-and-weirdo"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/community/rooms/epic",
+          "canonical_url": "https://higgsfield.ai/community/rooms/epic",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/epic"
+          ],
+          "page_type": "community",
+          "slug": "epic"
+        },
+        {
+          "page_id": "higgsfield-0007",
+          "url": "https://higgsfield.ai/community/rooms/live-action-ai",
+          "canonical_url": "https://higgsfield.ai/community/rooms/live-action-ai",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/live-action-ai"
+          ],
+          "page_type": "community",
+          "slug": "live-action-ai"
+        },
+        {
+          "page_id": "higgsfield-0008",
+          "url": "https://higgsfield.ai/community/rooms/knight-short-films",
+          "canonical_url": "https://higgsfield.ai/community/rooms/knight-short-films",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/knight-short-films"
+          ],
+          "page_type": "community",
+          "slug": "knight-short-films"
+        },
+        {
+          "page_id": "higgsfield-0009",
+          "url": "https://higgsfield.ai/community/rooms/retro-anime-world",
+          "canonical_url": "https://higgsfield.ai/community/rooms/retro-anime-world",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/retro-anime-world"
+          ],
+          "page_type": "community",
+          "slug": "retro-anime-world"
+        },
+        {
+          "page_id": "higgsfield-0010",
+          "url": "https://higgsfield.ai/community/rooms/cinematic-ad-studio",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinematic-ad-studio",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinematic-ad-studio"
+          ],
+          "page_type": "community",
+          "slug": "cinematic-ad-studio"
+        },
+        {
+          "page_id": "higgsfield-0011",
+          "url": "https://higgsfield.ai/community/rooms/wrong-century",
+          "canonical_url": "https://higgsfield.ai/community/rooms/wrong-century",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/wrong-century"
+          ],
+          "page_type": "community",
+          "slug": "wrong-century"
+        },
+        {
+          "page_id": "higgsfield-0012",
+          "url": "https://higgsfield.ai/community/rooms/higgsfield-fight-club",
+          "canonical_url": "https://higgsfield.ai/community/rooms/higgsfield-fight-club",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/higgsfield-fight-club"
+          ],
+          "page_type": "community",
+          "slug": "higgsfield-fight-club"
+        },
+        {
+          "page_id": "higgsfield-0013",
+          "url": "https://higgsfield.ai/community/rooms/kodoga-animation",
+          "canonical_url": "https://higgsfield.ai/community/rooms/kodoga-animation",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/kodoga-animation"
+          ],
+          "page_type": "community",
+          "slug": "kodoga-animation"
+        },
+        {
+          "page_id": "higgsfield-0014",
+          "url": "https://higgsfield.ai/community/rooms/japanese-anime",
+          "canonical_url": "https://higgsfield.ai/community/rooms/japanese-anime",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/japanese-anime"
+          ],
+          "page_type": "community",
+          "slug": "japanese-anime"
+        },
+        {
+          "page_id": "higgsfield-0015",
+          "url": "https://higgsfield.ai/community/rooms/animation-lab",
+          "canonical_url": "https://higgsfield.ai/community/rooms/animation-lab",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/animation-lab"
+          ],
+          "page_type": "community",
+          "slug": "animation-lab"
+        },
+        {
+          "page_id": "higgsfield-0016",
+          "url": "https://higgsfield.ai/community/rooms/dark-fantasy",
+          "canonical_url": "https://higgsfield.ai/community/rooms/dark-fantasy",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/dark-fantasy"
+          ],
+          "page_type": "community",
+          "slug": "dark-fantasy"
+        },
+        {
+          "page_id": "higgsfield-0017",
+          "url": "https://higgsfield.ai/community/rooms/ao-agency",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ao-agency",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ao-agency"
+          ],
+          "page_type": "community",
+          "slug": "ao-agency"
+        },
+        {
+          "page_id": "higgsfield-0018",
+          "url": "https://higgsfield.ai/community/rooms/kitty-vibe-club",
+          "canonical_url": "https://higgsfield.ai/community/rooms/kitty-vibe-club",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/kitty-vibe-club"
+          ],
+          "page_type": "community",
+          "slug": "kitty-vibe-club"
+        },
+        {
+          "page_id": "higgsfield-0019",
+          "url": "https://higgsfield.ai/community/rooms/the-fantasy-film-society",
+          "canonical_url": "https://higgsfield.ai/community/rooms/the-fantasy-film-society",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/the-fantasy-film-society"
+          ],
+          "page_type": "community",
+          "slug": "the-fantasy-film-society"
+        },
+        {
+          "page_id": "higgsfield-0020",
+          "url": "https://higgsfield.ai/community/rooms/codeoneshot",
+          "canonical_url": "https://higgsfield.ai/community/rooms/codeoneshot",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/codeoneshot"
+          ],
+          "page_type": "community",
+          "slug": "codeoneshot"
+        },
+        {
+          "page_id": "higgsfield-0021",
+          "url": "https://higgsfield.ai/community/rooms/cinematic-animals",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinematic-animals",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinematic-animals"
+          ],
+          "page_type": "community",
+          "slug": "cinematic-animals"
+        },
+        {
+          "page_id": "higgsfield-0022",
+          "url": "https://higgsfield.ai/community/rooms/cinema-cartel",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinema-cartel",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinema-cartel"
+          ],
+          "page_type": "community",
+          "slug": "cinema-cartel"
+        },
+        {
+          "page_id": "higgsfield-0023",
+          "url": "https://higgsfield.ai/blog/best-ai-image-models-fashion-brand-content-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-ai-image-models-fashion-brand-content-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-ai-image-models-fashion-brand-content-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-image-models-fashion-brand-content-2026"
+        },
+        {
+          "page_id": "higgsfield-0024",
+          "url": "https://higgsfield.ai/blog/best-cinematic-ai-video-generators",
+          "canonical_url": "https://higgsfield.ai/blog/best-cinematic-ai-video-generators",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-cinematic-ai-video-generators"
+          ],
+          "page_type": "blog",
+          "slug": "best-cinematic-ai-video-generators"
+        },
+        {
+          "page_id": "higgsfield-0025",
+          "url": "https://higgsfield.ai/blog/gpt-image-2-6-higgsfield",
+          "canonical_url": "https://higgsfield.ai/blog/gpt-image-2-6-higgsfield",
+          "original_urls": [
+            "https://higgsfield.ai/blog/gpt-image-2-6-higgsfield"
+          ],
+          "page_type": "blog",
+          "slug": "gpt-image-2-6-higgsfield"
+        },
+        {
+          "page_id": "higgsfield-0026",
+          "url": "https://higgsfield.ai/creator-hub/case-studies/1-in-men-s-fragrance-how-vertex-cgi-made-lynx-s-underground-films-in-higgsfield-canvas",
+          "canonical_url": "https://higgsfield.ai/creator-hub/case-studies/1-in-men-s-fragrance-how-vertex-cgi-made-lynx-s-underground-films-in-higgsfield-canvas",
+          "original_urls": [
+            "https://higgsfield.ai/creator-hub/case-studies/1-in-men-s-fragrance-how-vertex-cgi-made-lynx-s-underground-films-in-higgsfield-canvas"
+          ],
+          "page_type": "other",
+          "slug": "1-in-men-s-fragrance-how-vertex-cgi-made-lynx-s-underground-films-in-higgsfield-canvas"
+        }
+      ]
+    },
+    {
+      "site": "imagine",
+      "source_file": "diff/20261106/imagine.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "imagine-0001",
+          "url": "https://www.imagine.art/insights/canva-alternatives",
+          "canonical_url": "https://www.imagine.art/insights/canva-alternatives",
+          "original_urls": [
+            "https://www.imagine.art/insights/canva-alternatives"
+          ],
+          "page_type": "other",
+          "slug": "canva-alternatives"
+        }
+      ]
+    },
+    {
+      "site": "pixexact",
+      "source_file": "diff/20261106/pixexact.json",
+      "raw_url_count": 12,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 8,
+      "pages": [
+        {
+          "page_id": "pixexact-0001",
+          "url": "https://www.pixexact.com/templates",
+          "canonical_url": "https://www.pixexact.com/templates",
+          "original_urls": [
+            "https://www.pixexact.com/templates",
+            "https://www.pixexact.com/nb/templates"
+          ],
+          "page_type": "category",
+          "slug": "templates"
+        },
+        {
+          "page_id": "pixexact-0002",
+          "url": "https://www.pixexact.com/templates/first-time-in-a-fancy-cafe-ai-video-generator",
+          "canonical_url": "https://www.pixexact.com/templates/first-time-in-a-fancy-cafe-ai-video-generator",
+          "original_urls": [
+            "https://www.pixexact.com/templates/first-time-in-a-fancy-cafe-ai-video-generator",
+            "https://www.pixexact.com/nb/templates/first-time-in-a-fancy-cafe-ai-video-generator"
+          ],
+          "page_type": "template",
+          "slug": "first-time-in-a-fancy-cafe-ai-video-generator"
+        },
+        {
+          "page_id": "pixexact-0003",
+          "url": "https://www.pixexact.com/templates/gangnam-style-ai-video-generator",
+          "canonical_url": "https://www.pixexact.com/templates/gangnam-style-ai-video-generator",
+          "original_urls": [
+            "https://www.pixexact.com/templates/gangnam-style-ai-video-generator",
+            "https://www.pixexact.com/nb/templates/gangnam-style-ai-video-generator"
+          ],
+          "page_type": "template",
+          "slug": "gangnam-style-ai-video-generator"
+        },
+        {
+          "page_id": "pixexact-0004",
+          "url": "https://www.pixexact.com/templates/outstanding-tiny-desk-ai-video-generator",
+          "canonical_url": "https://www.pixexact.com/templates/outstanding-tiny-desk-ai-video-generator",
+          "original_urls": [
+            "https://www.pixexact.com/templates/outstanding-tiny-desk-ai-video-generator",
+            "https://www.pixexact.com/nb/templates/outstanding-tiny-desk-ai-video-generator"
+          ],
+          "page_type": "template",
+          "slug": "outstanding-tiny-desk-ai-video-generator"
+        },
+        {
+          "page_id": "pixexact-0005",
+          "url": "https://www.pixexact.com/blog/how-to-make-first-time-in-a-fancy-cafe-ai-video",
+          "canonical_url": "https://www.pixexact.com/blog/how-to-make-first-time-in-a-fancy-cafe-ai-video",
+          "original_urls": [
+            "https://www.pixexact.com/blog/how-to-make-first-time-in-a-fancy-cafe-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-first-time-in-a-fancy-cafe-ai-video"
+        },
+        {
+          "page_id": "pixexact-0006",
+          "url": "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-meme",
+          "canonical_url": "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-meme",
+          "original_urls": [
+            "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-meme"
+          ],
+          "page_type": "blog",
+          "slug": "first-time-in-a-fancy-cafe-meme"
+        },
+        {
+          "page_id": "pixexact-0007",
+          "url": "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-video-ideas",
+          "canonical_url": "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-video-ideas",
+          "original_urls": [
+            "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-video-ideas"
+          ],
+          "page_type": "blog",
+          "slug": "first-time-in-a-fancy-cafe-video-ideas"
+        },
+        {
+          "page_id": "pixexact-0008",
+          "url": "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-cat-dog-video",
+          "canonical_url": "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-cat-dog-video",
+          "original_urls": [
+            "https://www.pixexact.com/blog/first-time-in-a-fancy-cafe-cat-dog-video"
+          ],
+          "page_type": "blog",
+          "slug": "first-time-in-a-fancy-cafe-cat-dog-video"
+        }
+      ]
+    },
+    {
+      "site": "pixomi",
+      "source_file": "diff/20261106/pixomi.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "pixomi-0001",
+          "url": "https://pixomi.ai/image/gpt-image-2-6/",
+          "canonical_url": "https://pixomi.ai/image/gpt-image-2-6",
+          "original_urls": [
+            "https://pixomi.ai/image/gpt-image-2-6/"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "pixomi-0002",
+          "url": "https://pixomi.ai/blog/kimi-k3-1-pro-open-weights/",
+          "canonical_url": "https://pixomi.ai/blog/kimi-k3-1-pro-open-weights",
+          "original_urls": [
+            "https://pixomi.ai/blog/kimi-k3-1-pro-open-weights/"
+          ],
+          "page_type": "blog",
+          "slug": "kimi-k3-1-pro-open-weights"
+        }
+      ]
+    },
+    {
+      "site": "supermaker",
+      "source_file": "diff/20261106/supermaker.json",
+      "raw_url_count": 7,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 7,
+      "pages": [
+        {
+          "page_id": "supermaker-0001",
+          "url": "https://supermaker.ai/image/gpt-image-2-6/",
+          "canonical_url": "https://supermaker.ai/image/gpt-image-2-6",
+          "original_urls": [
+            "https://supermaker.ai/image/gpt-image-2-6/"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "supermaker-0002",
+          "url": "https://supermaker.ai/video/window-dance-ai/",
+          "canonical_url": "https://supermaker.ai/video/window-dance-ai",
+          "original_urls": [
+            "https://supermaker.ai/video/window-dance-ai/"
+          ],
+          "page_type": "other",
+          "slug": "window-dance-ai"
+        },
+        {
+          "page_id": "supermaker-0003",
+          "url": "https://supermaker.ai/video/apartment-dance/",
+          "canonical_url": "https://supermaker.ai/video/apartment-dance",
+          "original_urls": [
+            "https://supermaker.ai/video/apartment-dance/"
+          ],
+          "page_type": "other",
+          "slug": "apartment-dance"
+        },
+        {
+          "page_id": "supermaker-0004",
+          "url": "https://supermaker.ai/video/goodbye-2026-welcome-2027/",
+          "canonical_url": "https://supermaker.ai/video/goodbye-2026-welcome-2027",
+          "original_urls": [
+            "https://supermaker.ai/video/goodbye-2026-welcome-2027/"
+          ],
+          "page_type": "other",
+          "slug": "goodbye-2026-welcome-2027"
+        },
+        {
+          "page_id": "supermaker-0005",
+          "url": "https://supermaker.ai/video/first-time-in-a-fancy-cafe-ai/",
+          "canonical_url": "https://supermaker.ai/video/first-time-in-a-fancy-cafe-ai",
+          "original_urls": [
+            "https://supermaker.ai/video/first-time-in-a-fancy-cafe-ai/"
+          ],
+          "page_type": "other",
+          "slug": "first-time-in-a-fancy-cafe-ai"
+        },
+        {
+          "page_id": "supermaker-0006",
+          "url": "https://supermaker.ai/blog/how-to-make-apartment-dance-video/",
+          "canonical_url": "https://supermaker.ai/blog/how-to-make-apartment-dance-video",
+          "original_urls": [
+            "https://supermaker.ai/blog/how-to-make-apartment-dance-video/"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-apartment-dance-video"
+        },
+        {
+          "page_id": "supermaker-0007",
+          "url": "https://supermaker.ai/blog/tencent-hy4/",
+          "canonical_url": "https://supermaker.ai/blog/tencent-hy4",
+          "original_urls": [
+            "https://supermaker.ai/blog/tencent-hy4/"
+          ],
+          "page_type": "blog",
+          "slug": "tencent-hy4"
+        }
+      ]
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261106/wavespeed.json",
+      "raw_url_count": 12,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 12,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/gpt-image-2-6-api",
+          "canonical_url": "https://wavespeed.ai/gpt-image-2-6-api",
+          "original_urls": [
+            "https://wavespeed.ai/gpt-image-2-6-api"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6-api"
+        },
+        {
+          "page_id": "wavespeed-0002",
+          "url": "https://wavespeed.ai/models/openai/gpt-image-2.6-flare/text-to-image",
+          "canonical_url": "https://wavespeed.ai/models/openai/gpt-image-2.6-flare/text-to-image",
+          "original_urls": [
+            "https://wavespeed.ai/models/openai/gpt-image-2.6-flare/text-to-image"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-image"
+        },
+        {
+          "page_id": "wavespeed-0003",
+          "url": "https://wavespeed.ai/models/openai/gpt-image-2.6-flare/edit",
+          "canonical_url": "https://wavespeed.ai/models/openai/gpt-image-2.6-flare/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/openai/gpt-image-2.6-flare/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0004",
+          "url": "https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/text-to-image",
+          "canonical_url": "https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/text-to-image",
+          "original_urls": [
+            "https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/text-to-image"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-image"
+        },
+        {
+          "page_id": "wavespeed-0005",
+          "url": "https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/edit",
+          "canonical_url": "https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/openai/gpt-image-2.6-sunburst/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0006",
+          "url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/text-to-video",
+          "canonical_url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/text-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/text-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-video"
+        },
+        {
+          "page_id": "wavespeed-0007",
+          "url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/image-to-video",
+          "canonical_url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/image-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/image-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "image-to-video"
+        },
+        {
+          "page_id": "wavespeed-0008",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit-lora",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit-lora",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit-lora"
+          ],
+          "page_type": "model_api",
+          "slug": "edit-lora"
+        },
+        {
+          "page_id": "wavespeed-0009",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/p-h3-image/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0010",
+          "url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/reference-to-video",
+          "canonical_url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/reference-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/reference-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "reference-to-video"
+        },
+        {
+          "page_id": "wavespeed-0011",
+          "url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/video-edit",
+          "canonical_url": "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/video-edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/kwaivgi/kling-v4.0-flash/video-edit"
+          ],
+          "page_type": "model_api",
+          "slug": "video-edit"
+        },
+        {
+          "page_id": "wavespeed-0012",
+          "url": "https://wavespeed.ai/models/pruna-ai/p-video-2-pro/replace",
+          "canonical_url": "https://wavespeed.ai/models/pruna-ai/p-video-2-pro/replace",
+          "original_urls": [
+            "https://wavespeed.ai/models/pruna-ai/p-video-2-pro/replace"
+          ],
+          "page_type": "model_api",
+          "slug": "replace"
+        }
+      ]
+    }
+  ]
+}
