@@ -349,13 +349,11 @@ def parse_sitemapindex(content):
 def collect_urls(urls, limits, state, sitemap_url):
     results = []
     for url in urls:
-        if not is_http_url(url):
+        if not is_http_url(url) or url in state['seen_urls']:
             continue
         if state['url_count'] >= limits['max_urls']:
             mark_incomplete(state, sitemap_url, 'max_urls reached')
             break
-        if url in state['seen_urls']:
-            continue
         state['seen_urls'].add(url)
         state['url_count'] += 1
         results.append(url)
