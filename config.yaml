@@ -102,6 +102,7 @@ sitemap:
   max_sitemaps: 500
   max_urls: 200000
   request_timeout: 10
+  max_attempts: 3
 
 
 feishu:
@@ -110,4 +111,3 @@ feishu:
 
 storage:
   retention_days: 7
-  data_dir: "./data"
