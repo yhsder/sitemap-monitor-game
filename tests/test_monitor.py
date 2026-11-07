@@ -178,6 +178,19 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(self.delays, [7])
         self.assertTrue(any('initialized example' in line for line in captured.output))
 
+    def test_retry_after_is_capped(self):
+        scraper = ScriptedScraper({
+            SITEMAP: [
+                Response(status_code=429, headers={'Retry-After': '999'}),
+                Response(urlset('https://example.com/tool')),
+            ],
+        })
+
+        self.run_monitor(scraper)
+
+        self.assertEqual(self.delays, [60])
+        self.assertEqual(self.latest_text(), 'https://example.com/tool')
+
     def test_http_5xx_keeps_snapshot_after_retries(self):
         original = self.seed_latest(['https://example.com/old'])
         scraper = ScriptedScraper({SITEMAP: Response(status_code=503)})
@@ -236,6 +249,20 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(self.latest_text(), original)
         self.assertNotIn(children[3], scraper.calls)
         self.assertNotIn(children[4], scraper.calls)
+        self.assertFalse((self.workdir / 'diff').exists())
+
+    def test_duplicate_locs_after_the_url_cap_stay_complete(self):
+        scraper = ScriptedScraper({
+            SITEMAP: Response(urlset(
+                'https://example.com/a',
+                'https://example.com/b',
+                'https://example.com/a',
+            )),
+        })
+
+        self.run_monitor(scraper, sitemap={'max_urls': 2})
+
+        self.assertEqual(self.latest_text(), 'https://example.com/a\nhttps://example.com/b')
         self.assertFalse((self.workdir / 'diff').exists())
 
     def test_hitting_max_urls_keeps_snapshot(self):
@@ -308,6 +335,8 @@ class MonitorTests(unittest.TestCase):
 
     def test_repeat_run_with_no_new_urls_leaves_files_unchanged(self):
         latest = self.seed_latest(['https://example.com/old', 'https://example.com/kept'])
+        latest_path = self.workdir / 'latest' / 'example.json'
+        latest_mtime = latest_path.stat().st_mtime_ns
         diff_path = self.seed_diff(
             '20261108',
             'https://example.com/kept\n--------------------------------\nhttps://example.com/kept\n',
@@ -321,6 +350,7 @@ class MonitorTests(unittest.TestCase):
         self.run_monitor(scraper)
 
         self.assertEqual(self.latest_text(), latest)
+        self.assertEqual(latest_path.stat().st_mtime_ns, latest_mtime)
         self.assertEqual(diff_path.read_bytes(), before)
 
     def test_same_day_new_url_is_stored_once_and_drops_separator(self):
@@ -443,6 +473,16 @@ class MonitorTests(unittest.TestCase):
 
         with self.assertRaises(ValueError):
             self.run_monitor(scraper, storage={'retention_days': 0})
+
+        self.assertTrue(folder.exists())
+        self.assertEqual(scraper.calls, [])
+
+    def test_non_integer_retention_days_deletes_nothing(self):
+        folder = self.seed_diff('20260101', 'https://example.com/old\n')
+        scraper = ScriptedScraper({SITEMAP: Response(urlset('https://example.com/a'))})
+
+        with self.assertRaises(ValueError):
+            self.run_monitor(scraper, storage={'retention_days': '7'})
 
         self.assertTrue(folder.exists())
         self.assertEqual(scraper.calls, [])
