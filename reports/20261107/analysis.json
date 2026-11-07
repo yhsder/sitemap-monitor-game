@@ -1,0 +1,1489 @@
+{
+  "date": "20261107",
+  "sites": [
+    {
+      "site": "fotor",
+      "source_file": "diff/20261107/fotor.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "fotor-0001",
+          "url": "https://www.fotor.com/ai-video-editor/text-animation/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/text-animation",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/text-animation/"
+          ],
+          "page_type": "other",
+          "slug": "text-animation"
+        },
+        {
+          "page_id": "fotor-0002",
+          "url": "https://www.fotor.com/ai-video-editor/remove-video-filler-words/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/remove-video-filler-words",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/remove-video-filler-words/"
+          ],
+          "page_type": "other",
+          "slug": "remove-video-filler-words"
+        },
+        {
+          "page_id": "fotor-0003",
+          "url": "https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter/"
+          ],
+          "page_type": "other",
+          "slug": "youtube-to-instagram-converter"
+        },
+        {
+          "page_id": "fotor-0004",
+          "url": "https://www.fotor.com/features/remove-tattoo-from-photo/",
+          "canonical_url": "https://www.fotor.com/features/remove-tattoo-from-photo",
+          "original_urls": [
+            "https://www.fotor.com/features/remove-tattoo-from-photo/"
+          ],
+          "page_type": "other",
+          "slug": "remove-tattoo-from-photo"
+        },
+        {
+          "page_id": "fotor-0005",
+          "url": "https://www.fotor.com/ai-video-editor/resize-instagram-video/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/resize-instagram-video",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/resize-instagram-video/"
+          ],
+          "page_type": "other",
+          "slug": "resize-instagram-video"
+        },
+        {
+          "page_id": "fotor-0006",
+          "url": "https://www.fotor.com/ai-video-editor/video-compilation/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/video-compilation",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/video-compilation/"
+          ],
+          "page_type": "other",
+          "slug": "video-compilation"
+        }
+      ],
+      "demands": [
+        {
+          "id": "fotor-text-animation",
+          "name": "文字动画与动态字幕",
+          "category": "tool",
+          "summary": "已打开页面。标题是免费 AI 文字动画制作，H1 为给文字加动画。描述覆盖标题、字幕和 kinetic typography。",
+          "audience": "需要给视频加标题、字幕或动态文字的创作者",
+          "job_to_be_done": "在线把文字做成动画，用于标题、字幕和动态排版",
+          "page_ids": [
+            "fotor-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.fotor.com/ai-video-editor/text-animation/ ，核对了 title、H1 和 description，未走完导出流程"
+          ]
+        },
+        {
+          "id": "fotor-remove-filler-words",
+          "name": "去掉视频口头禅",
+          "category": "tool",
+          "summary": "路径在 AI 视频编辑器下，slug 为 remove-video-filler-words，对应剪掉 um、uh 一类填充词。",
+          "audience": "要清理口播和访谈成片的剪辑者",
+          "job_to_be_done": "自动找出并去掉视频里的填充词",
+          "page_ids": [
+            "fotor-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "只根据 slug remove-video-filler-words 判断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-youtube-to-instagram",
+          "name": "YouTube 视频转 Instagram",
+          "category": "tool",
+          "summary": "已打开页面。H1 为 YouTube to Instagram Video Converter。描述写粘贴链接、找关键片段、改画幅、加字幕，并导出 Reels、Stories 和 Feed。",
+          "audience": "把长视频改成 Instagram 短视频的运营和创作者",
+          "job_to_be_done": "从一条 YouTube 链接做出适合 Instagram 的短视频",
+          "page_ids": [
+            "fotor-0003"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter/ ，核对了 title、H1 和 description，未提交真实 YouTube 链接"
+          ]
+        },
+        {
+          "id": "fotor-remove-tattoo",
+          "name": "照片去纹身",
+          "category": "tool",
+          "summary": "slug 为 remove-tattoo-from-photo，位于 features 路径，对应从照片上去掉纹身。",
+          "audience": "想修掉照片里纹身的用户",
+          "job_to_be_done": "从照片中去除纹身并保持周围皮肤自然",
+          "page_ids": [
+            "fotor-0004"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "只根据 slug remove-tattoo-from-photo 判断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-resize-instagram-video",
+          "name": "视频改成 Instagram 尺寸",
+          "category": "tool",
+          "summary": "slug 为 resize-instagram-video，位于 AI 视频编辑器路径，对应把视频改成 Instagram 画幅。",
+          "audience": "已有成片、只需要改比例的发布者",
+          "job_to_be_done": "把现有视频调整到 Instagram 使用的尺寸",
+          "page_ids": [
+            "fotor-0005"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "只根据 slug resize-instagram-video 判断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-video-compilation",
+          "name": "自动视频合集",
+          "category": "tool",
+          "summary": "已打开页面。H1 为在线自动视频合集制作。描述写把多段视频和照片合成一条合集，并由工具自动找高光或关键时刻。",
+          "audience": "手里有多段素材、想快速出一条合集的创作者",
+          "job_to_be_done": "把多段视频和照片自动剪成一条有重点的合集",
+          "page_ids": [
+            "fotor-0006"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.fotor.com/ai-video-editor/video-compilation/ ，核对了 title、H1 和 description，未上传素材"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261107/higgsfield.json",
+      "raw_url_count": 20,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 20,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/community/rooms/found-footage",
+          "canonical_url": "https://higgsfield.ai/community/rooms/found-footage",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/found-footage"
+          ],
+          "page_type": "community",
+          "slug": "found-footage"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms/funkylife",
+          "canonical_url": "https://higgsfield.ai/community/rooms/funkylife",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/funkylife"
+          ],
+          "page_type": "community",
+          "slug": "funkylife"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/animation-tales",
+          "canonical_url": "https://higgsfield.ai/community/rooms/animation-tales",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/animation-tales"
+          ],
+          "page_type": "community",
+          "slug": "animation-tales"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/community/rooms/gothic-fantasy",
+          "canonical_url": "https://higgsfield.ai/community/rooms/gothic-fantasy",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/gothic-fantasy"
+          ],
+          "page_type": "community",
+          "slug": "gothic-fantasy"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/community/rooms/cinematic-mysteries",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinematic-mysteries",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinematic-mysteries"
+          ],
+          "page_type": "community",
+          "slug": "cinematic-mysteries"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/community/rooms/turkish-football",
+          "canonical_url": "https://higgsfield.ai/community/rooms/turkish-football",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/turkish-football"
+          ],
+          "page_type": "community",
+          "slug": "turkish-football"
+        },
+        {
+          "page_id": "higgsfield-0007",
+          "url": "https://higgsfield.ai/community/rooms/side-hustle",
+          "canonical_url": "https://higgsfield.ai/community/rooms/side-hustle",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/side-hustle"
+          ],
+          "page_type": "community",
+          "slug": "side-hustle"
+        },
+        {
+          "page_id": "higgsfield-0008",
+          "url": "https://higgsfield.ai/community/rooms/abz",
+          "canonical_url": "https://higgsfield.ai/community/rooms/abz",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/abz"
+          ],
+          "page_type": "community",
+          "slug": "abz"
+        },
+        {
+          "page_id": "higgsfield-0009",
+          "url": "https://higgsfield.ai/community/rooms/sonic-society-the-music-room",
+          "canonical_url": "https://higgsfield.ai/community/rooms/sonic-society-the-music-room",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/sonic-society-the-music-room"
+          ],
+          "page_type": "community",
+          "slug": "sonic-society-the-music-room"
+        },
+        {
+          "page_id": "higgsfield-0010",
+          "url": "https://higgsfield.ai/community/rooms/retro-meets-ai",
+          "canonical_url": "https://higgsfield.ai/community/rooms/retro-meets-ai",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/retro-meets-ai"
+          ],
+          "page_type": "community",
+          "slug": "retro-meets-ai"
+        },
+        {
+          "page_id": "higgsfield-0011",
+          "url": "https://higgsfield.ai/community/rooms/knightcat-universe",
+          "canonical_url": "https://higgsfield.ai/community/rooms/knightcat-universe",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/knightcat-universe"
+          ],
+          "page_type": "community",
+          "slug": "knightcat-universe"
+        },
+        {
+          "page_id": "higgsfield-0012",
+          "url": "https://higgsfield.ai/community/rooms/ai-anime-2d-2-5d-sh-nen",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-anime-2d-2-5d-sh-nen",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-anime-2d-2-5d-sh-nen"
+          ],
+          "page_type": "community",
+          "slug": "ai-anime-2d-2-5d-sh-nen"
+        },
+        {
+          "page_id": "higgsfield-0013",
+          "url": "https://higgsfield.ai/community/rooms/noir-hollows",
+          "canonical_url": "https://higgsfield.ai/community/rooms/noir-hollows",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/noir-hollows"
+          ],
+          "page_type": "community",
+          "slug": "noir-hollows"
+        },
+        {
+          "page_id": "higgsfield-0014",
+          "url": "https://higgsfield.ai/community/rooms/yyy-studio-the-filmmaking-room",
+          "canonical_url": "https://higgsfield.ai/community/rooms/yyy-studio-the-filmmaking-room",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/yyy-studio-the-filmmaking-room"
+          ],
+          "page_type": "community",
+          "slug": "yyy-studio-the-filmmaking-room"
+        },
+        {
+          "page_id": "higgsfield-0015",
+          "url": "https://higgsfield.ai/community/rooms/yyy-studio-music-video-lab",
+          "canonical_url": "https://higgsfield.ai/community/rooms/yyy-studio-music-video-lab",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/yyy-studio-music-video-lab"
+          ],
+          "page_type": "community",
+          "slug": "yyy-studio-music-video-lab"
+        },
+        {
+          "page_id": "higgsfield-0016",
+          "url": "https://higgsfield.ai/community/rooms/yyy-studio-experimental-cinema",
+          "canonical_url": "https://higgsfield.ai/community/rooms/yyy-studio-experimental-cinema",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/yyy-studio-experimental-cinema"
+          ],
+          "page_type": "community",
+          "slug": "yyy-studio-experimental-cinema"
+        },
+        {
+          "page_id": "higgsfield-0017",
+          "url": "https://higgsfield.ai/community/rooms/k-heritage-music-society",
+          "canonical_url": "https://higgsfield.ai/community/rooms/k-heritage-music-society",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/k-heritage-music-society"
+          ],
+          "page_type": "community",
+          "slug": "k-heritage-music-society"
+        },
+        {
+          "page_id": "higgsfield-0018",
+          "url": "https://higgsfield.ai/community/rooms/after-dark",
+          "canonical_url": "https://higgsfield.ai/community/rooms/after-dark",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/after-dark"
+          ],
+          "page_type": "community",
+          "slug": "after-dark"
+        },
+        {
+          "page_id": "higgsfield-0019",
+          "url": "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio",
+          "canonical_url": "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio",
+          "original_urls": [
+            "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio"
+          ],
+          "page_type": "blog",
+          "slug": "micro-drama-ads-higgsfield-ads-studio"
+        },
+        {
+          "page_id": "higgsfield-0020",
+          "url": "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-video-editing-tools-professionals-2026"
+        }
+      ],
+      "demands": [
+        {
+          "id": "higgsfield-community-rooms",
+          "name": "社区房间列表",
+          "category": "platform_update",
+          "summary": "18 条 URL 都在 /community/rooms/ 下，房间名包括 found-footage、哥特奇幻、土耳其足球、音乐室和 YYY Studio 的多个房间。这是社区房间上新，不是独立工具页。",
+          "audience": "Higgsfield 社区里的创作者",
+          "job_to_be_done": "进入一个按题材划分的社区房间",
+          "page_ids": [
+            "higgsfield-0001",
+            "higgsfield-0002",
+            "higgsfield-0003",
+            "higgsfield-0004",
+            "higgsfield-0005",
+            "higgsfield-0006",
+            "higgsfield-0007",
+            "higgsfield-0008",
+            "higgsfield-0009",
+            "higgsfield-0010",
+            "higgsfield-0011",
+            "higgsfield-0012",
+            "higgsfield-0013",
+            "higgsfield-0014",
+            "higgsfield-0015",
+            "higgsfield-0016",
+            "higgsfield-0017",
+            "higgsfield-0018"
+          ],
+          "signal": "社区房间",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "只根据 /community/rooms/ 路径判断为社区房间，未打开房间页",
+            "slug abz 读不出题材，仍属于同一批房间 URL"
+          ]
+        },
+        {
+          "id": "higgsfield-micro-drama-ads",
+          "name": "微短剧广告",
+          "category": "content_strategy",
+          "summary": "已打开博客。标题介绍 Higgsfield Ads Studio 里的 Micro Drama Ads。描述写带产品和虚拟人的剧情广告，并提到 8 种风格、44 张故事卡，以及 Claude 和 ChatGPT 入口。",
+          "audience": "要做剧情型产品视频广告的营销人员",
+          "job_to_be_done": "用短剧结构生成带产品出镜和虚拟人的广告视频",
+          "page_ids": [
+            "higgsfield-0019"
+          ],
+          "signal": "产品解说",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio ，核对了 title、H1 和 description，未登录 Ads Studio"
+          ]
+        },
+        {
+          "id": "higgsfield-video-editing-roundup",
+          "name": "2026 专业 AI 视频编辑工具盘点",
+          "category": "content_strategy",
+          "summary": "已打开博客。H1 为 2026 年面向专业人士的最佳 AI 视频编辑工具。描述点名 Premiere、DaVinci Resolve Studio、Final Cut Pro、Descript、Higgsfield、Runway 和 Topaz Video。",
+          "audience": "在选专业视频编辑软件的制作人员",
+          "job_to_be_done": "比较一批专业向 AI 视频编辑工具",
+          "page_ids": [
+            "higgsfield-0020"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "low_priority",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026 ，核对了 title、H1 和 description，未读完全文"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "imagine",
+      "source_file": "diff/20261107/imagine.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "imagine-0001",
+          "url": "https://www.imagine.art/imagine-computer/models/gpt-5-6",
+          "canonical_url": "https://www.imagine.art/imagine-computer/models/gpt-5-6",
+          "original_urls": [
+            "https://www.imagine.art/imagine-computer/models/gpt-5-6"
+          ],
+          "page_type": "other",
+          "slug": "gpt-5-6"
+        },
+        {
+          "page_id": "imagine-0002",
+          "url": "https://www.imagine.art/insights/what-is-ai-fashion",
+          "canonical_url": "https://www.imagine.art/insights/what-is-ai-fashion",
+          "original_urls": [
+            "https://www.imagine.art/insights/what-is-ai-fashion"
+          ],
+          "page_type": "other",
+          "slug": "what-is-ai-fashion"
+        }
+      ],
+      "demands": [
+        {
+          "id": "imagine-gpt-5-6",
+          "name": "GPT-5.6 分档模型说明",
+          "category": "model_api",
+          "summary": "已打开页面。标题写 GPT-5.6 的规格、工具和分档方式。H1 为三个模型。描述写同一 API 上的可互换档位，并提到共享上下文、推理等级、工具和长提示的费用。",
+          "audience": "在 Imagine Computer 里选用大语言模型的用户",
+          "job_to_be_done": "了解 GPT-5.6 的三档差异、工具和调用成本",
+          "page_ids": [
+            "imagine-0001"
+          ],
+          "signal": "模型说明",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.imagine.art/imagine-computer/models/gpt-5-6 ，核对了 title、H1 和 description，未发起调用"
+          ]
+        },
+        {
+          "id": "imagine-ai-fashion",
+          "name": "AI 时尚是什么",
+          "category": "content_strategy",
+          "summary": "已打开洞察文章。H1 写 AI 如何用在设计、摄影和零售。描述覆盖时装设计、摄影、营销和零售，并提到品牌例子与起步做法。",
+          "audience": "想了解 AI 在时尚行业里怎么用的品牌和创作者",
+          "job_to_be_done": "弄清 AI 时尚在设计、摄影、营销和零售中的用途",
+          "page_ids": [
+            "imagine-0002"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.imagine.art/insights/what-is-ai-fashion ，核对了 title、H1 和 description，未读完全文"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "mindvideo",
+      "source_file": "diff/20261107/mindvideo.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "mindvideo-0001",
+          "url": "https://www.mindvideo.ai/gpt-image-2-6/",
+          "canonical_url": "https://www.mindvideo.ai/gpt-image-2-6",
+          "original_urls": [
+            "https://www.mindvideo.ai/gpt-image-2-6/"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        }
+      ],
+      "demands": [
+        {
+          "id": "mindvideo-gpt-image-26",
+          "name": "GPT Image 2.6 生成与编辑",
+          "category": "tool",
+          "summary": "已打开页面。H1 为用 GPT Image 2.6 在线生成和编辑图片。描述写最高 4K、可从文字或参考图生成，也可改现有照片，并提供免费额度。",
+          "audience": "需要出图和改图的创作者",
+          "job_to_be_done": "用 GPT Image 2.6 从文字或参考图出图，并编辑已有照片",
+          "page_ids": [
+            "mindvideo-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.mindvideo.ai/gpt-image-2-6/ ，核对了 title、H1 和 description，未实际生成"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "nanobanana",
+      "source_file": "diff/20261107/nanobanana.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "nanobanana-0001",
+          "url": "https://nanobanana.io/image-upscaler",
+          "canonical_url": "https://nanobanana.io/image-upscaler",
+          "original_urls": [
+            "https://nanobanana.io/image-upscaler"
+          ],
+          "page_type": "other",
+          "slug": "image-upscaler"
+        }
+      ],
+      "demands": [
+        {
+          "id": "nanobanana-image-upscaler",
+          "name": "图片放大增强",
+          "category": "tool",
+          "summary": "已打开页面。H1 为免费在线 AI 图片放大器。描述写提升分辨率、锐化细节，并覆盖人像、产品和作品。",
+          "audience": "需要把小图放大的设计者和电商用户",
+          "job_to_be_done": "在线把图片放大并补清细节",
+          "page_ids": [
+            "nanobanana-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://nanobanana.io/image-upscaler ，核对了 title、H1 和 description，未上传图片"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "pixexact",
+      "source_file": "diff/20261107/pixexact.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "pixexact-0001",
+          "url": "https://www.pixexact.com/models/gpt-image-2.6",
+          "canonical_url": "https://www.pixexact.com/models/gpt-image-2.6",
+          "original_urls": [
+            "https://www.pixexact.com/models/gpt-image-2.6",
+            "https://www.pixexact.com/nb/models/gpt-image-2.6"
+          ],
+          "page_type": "model_api",
+          "slug": "gpt-image-2.6"
+        }
+      ],
+      "demands": [
+        {
+          "id": "pixexact-gpt-image-26",
+          "name": "GPT Image 2.6 精确尺寸出图",
+          "category": "model_api",
+          "summary": "已打开模型页。H1 为在线使用 GPT Image 2.6 的 Flare 和 Sunburst。描述把 Flare 写成快速草稿、Sunburst 写成精细细节，并强调按指定像素出图，最高 4K。",
+          "audience": "需要指定像素尺寸成图的设计和投放人员",
+          "job_to_be_done": "在 Flare 与 Sunburst 之间选择，并按精确像素尺寸生成图片",
+          "page_ids": [
+            "pixexact-0001"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.pixexact.com/models/gpt-image-2.6 ，核对了 title、H1 和 description，未实际生成"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "supermaker",
+      "source_file": "diff/20261107/supermaker.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "supermaker-0001",
+          "url": "https://supermaker.ai/video/24k-magic-dance/",
+          "canonical_url": "https://supermaker.ai/video/24k-magic-dance",
+          "original_urls": [
+            "https://supermaker.ai/video/24k-magic-dance/"
+          ],
+          "page_type": "other",
+          "slug": "24k-magic-dance"
+        }
+      ],
+      "demands": [
+        {
+          "id": "supermaker-24k-magic-dance",
+          "name": "24K Magic 舞蹈视频",
+          "category": "trend_template",
+          "summary": "已打开页面。标题是用 AI 做 24K Magic 舞蹈视频。描述写上传照片，把人脸和风格放进这套舞蹈动作。H1 为把自己放进这场表演。",
+          "audience": "想用自己的脸做热门舞蹈视频的用户",
+          "job_to_be_done": "上传一张照片，生成自己出演的 24K Magic 舞蹈视频",
+          "page_ids": [
+            "supermaker-0001"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://supermaker.ai/video/24k-magic-dance/ ，核对了 title、H1 和 description，未上传照片"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "vidguru",
+      "source_file": "diff/20261107/vidguru.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "vidguru-0001",
+          "url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare",
+          "canonical_url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare",
+          "original_urls": [
+            "https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-flare"
+        },
+        {
+          "page_id": "vidguru-0002",
+          "url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst",
+          "canonical_url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst",
+          "original_urls": [
+            "https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-sunburst"
+        },
+        {
+          "page_id": "vidguru-0003",
+          "url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare",
+          "canonical_url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-flare"
+        },
+        {
+          "page_id": "vidguru-0004",
+          "url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-sunburst",
+          "canonical_url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-sunburst",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-sunburst"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-sunburst"
+        },
+        {
+          "page_id": "vidguru-0005",
+          "url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-flare",
+          "canonical_url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-flare",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-models/gpt-image-2.6-flare"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-flare"
+        },
+        {
+          "page_id": "vidguru-0006",
+          "url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst",
+          "canonical_url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-sunburst"
+        }
+      ],
+      "demands": [
+        {
+          "id": "vidguru-gpt-image-26-text-to-image",
+          "name": "GPT Image 2.6 Flare / Sunburst 文生图",
+          "category": "tool",
+          "summary": "已打开 Flare 与 Sunburst 两个文生图页。H1 都是对应变体的 Text to Image。描述都写从文字提示出图，并可选择构图、质量、分辨率和张数。",
+          "audience": "按变体选择出图质量的图像用户",
+          "job_to_be_done": "用 GPT Image 2.6 的 Flare 或 Sunburst 从文字生成图片",
+          "page_ids": [
+            "vidguru-0001",
+            "vidguru-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare 和 https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst ，核对了 title、H1 和 description，未实际生成"
+          ]
+        },
+        {
+          "id": "vidguru-gpt-image-26-image-edit",
+          "name": "GPT Image 2.6 Flare / Sunburst 图像编辑",
+          "category": "tool",
+          "summary": "已打开 Flare 编辑页。H1 为 AI Image Edit。描述写上传图片后说明要改什么、保留什么，并解释每张参考图的用途。Sunburst 编辑页未打开。",
+          "audience": "要用该模型改图的创作者",
+          "job_to_be_done": "用 Flare 或 Sunburst 按文字说明编辑上传的图片",
+          "page_ids": [
+            "vidguru-0003",
+            "vidguru-0004"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare ，核对了 title、H1 和 description",
+            "Sunburst 编辑页未打开，按与 Flare 并列的 slug 归入同一任务",
+            "未提交编辑"
+          ]
+        },
+        {
+          "id": "vidguru-gpt-image-26-model-pages",
+          "name": "GPT Image 2.6 Flare / Sunburst 模型页",
+          "category": "model_api",
+          "summary": "已打开两个模型页。H1 都写生成与编辑。描述写可从文字生成，或最多用九张参考图编辑，并在生成前查看 Low、Medium、High、XHigh 质量和积分消耗。",
+          "audience": "要先看能力档位和积分再选用模型的用户",
+          "job_to_be_done": "查看 Flare 或 Sunburst 的生成、编辑能力和积分成本",
+          "page_ids": [
+            "vidguru-0005",
+            "vidguru-0006"
+          ],
+          "signal": "模型说明",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.vidguru.ai/ai-models/gpt-image-2.6-flare 和 https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst ，核对了 title、H1 和 description"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261107/wavespeed.json",
+      "raw_url_count": 31,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 31,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-outfit-gallery"
+        },
+        {
+          "page_id": "wavespeed-0002",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-face-gallery"
+        },
+        {
+          "page_id": "wavespeed-0003",
+          "url": "https://wavespeed.ai/free-tools/ai-character-builder",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-character-builder",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-character-builder"
+          ],
+          "page_type": "other",
+          "slug": "ai-character-builder"
+        },
+        {
+          "page_id": "wavespeed-0004",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/spring",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/spring",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/spring"
+          ],
+          "page_type": "other",
+          "slug": "spring"
+        },
+        {
+          "page_id": "wavespeed-0005",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/summer",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/summer",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/summer"
+          ],
+          "page_type": "other",
+          "slug": "summer"
+        },
+        {
+          "page_id": "wavespeed-0006",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/autumn",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/autumn",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/autumn"
+          ],
+          "page_type": "other",
+          "slug": "autumn"
+        },
+        {
+          "page_id": "wavespeed-0007",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/winter",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/winter",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/winter"
+          ],
+          "page_type": "other",
+          "slug": "winter"
+        },
+        {
+          "page_id": "wavespeed-0008",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/work",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/work",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/work"
+          ],
+          "page_type": "other",
+          "slug": "work"
+        },
+        {
+          "page_id": "wavespeed-0009",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/formal",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/formal",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/formal"
+          ],
+          "page_type": "other",
+          "slug": "formal"
+        },
+        {
+          "page_id": "wavespeed-0010",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/street",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/street",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/street"
+          ],
+          "page_type": "other",
+          "slug": "street"
+        },
+        {
+          "page_id": "wavespeed-0011",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/sport",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/sport",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/sport"
+          ],
+          "page_type": "other",
+          "slug": "sport"
+        },
+        {
+          "page_id": "wavespeed-0012",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/traditional",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/traditional",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/traditional"
+          ],
+          "page_type": "other",
+          "slug": "traditional"
+        },
+        {
+          "page_id": "wavespeed-0013",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/uniform",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/uniform",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/uniform"
+          ],
+          "page_type": "other",
+          "slug": "uniform"
+        },
+        {
+          "page_id": "wavespeed-0014",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/swimwear",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/swimwear",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/swimwear"
+          ],
+          "page_type": "other",
+          "slug": "swimwear"
+        },
+        {
+          "page_id": "wavespeed-0015",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/lingerie",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/lingerie",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/lingerie"
+          ],
+          "page_type": "other",
+          "slug": "lingerie"
+        },
+        {
+          "page_id": "wavespeed-0016",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/short",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/short",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/short"
+          ],
+          "page_type": "other",
+          "slug": "short"
+        },
+        {
+          "page_id": "wavespeed-0017",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/bob",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/bob",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/bob"
+          ],
+          "page_type": "other",
+          "slug": "bob"
+        },
+        {
+          "page_id": "wavespeed-0018",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/medium",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/medium",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/medium"
+          ],
+          "page_type": "other",
+          "slug": "medium"
+        },
+        {
+          "page_id": "wavespeed-0019",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/long",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/long",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/long"
+          ],
+          "page_type": "other",
+          "slug": "long"
+        },
+        {
+          "page_id": "wavespeed-0020",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/curly",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/curly",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/curly"
+          ],
+          "page_type": "other",
+          "slug": "curly"
+        },
+        {
+          "page_id": "wavespeed-0021",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/braids",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/braids",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/braids"
+          ],
+          "page_type": "other",
+          "slug": "braids"
+        },
+        {
+          "page_id": "wavespeed-0022",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/updo",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/updo",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/updo"
+          ],
+          "page_type": "other",
+          "slug": "updo"
+        },
+        {
+          "page_id": "wavespeed-0023",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/buzz",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/buzz",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/buzz"
+          ],
+          "page_type": "other",
+          "slug": "buzz"
+        },
+        {
+          "page_id": "wavespeed-0024",
+          "url": "https://wavespeed.ai/seedream-5-5-api",
+          "canonical_url": "https://wavespeed.ai/seedream-5-5-api",
+          "original_urls": [
+            "https://wavespeed.ai/seedream-5-5-api"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5-api"
+        },
+        {
+          "page_id": "wavespeed-0025",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-video"
+        },
+        {
+          "page_id": "wavespeed-0026",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "image-to-video"
+        },
+        {
+          "page_id": "wavespeed-0027",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "reference-to-video"
+        },
+        {
+          "page_id": "wavespeed-0028",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/video-edit",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/video-edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/video-edit"
+          ],
+          "page_type": "model_api",
+          "slug": "video-edit"
+        },
+        {
+          "page_id": "wavespeed-0029",
+          "url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/edit",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedream-v5.5/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0030",
+          "url": "https://wavespeed.ai/models/bytedance/seedream-v5.5",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedream-v5.5",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedream-v5.5"
+          ],
+          "page_type": "model_api",
+          "slug": "seedream-v5.5"
+        },
+        {
+          "page_id": "wavespeed-0031",
+          "url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition"
+          ],
+          "page_type": "model_api",
+          "slug": "layer-decomposition"
+        }
+      ],
+      "demands": [
+        {
+          "id": "wavespeed-ai-outfit-gallery",
+          "name": "AI 穿搭参考图库",
+          "category": "trend_template",
+          "summary": "已打开图库总览。标题写约 300 套免费穿搭参考，从泳装到内衣。H1 面向 AI 模特。描述按季节、通勤、正装、街头、传统服装、制服、泳装和内衣分类，并可一键进图像生成器。分类子页 slug 与这些分类一致。",
+          "audience": "做 AI 网红、虚拟模特和服装视觉的创作者",
+          "job_to_be_done": "按场合挑选一套穿搭参考，再拿去生成图片",
+          "page_ids": [
+            "wavespeed-0001",
+            "wavespeed-0004",
+            "wavespeed-0005",
+            "wavespeed-0006",
+            "wavespeed-0007",
+            "wavespeed-0008",
+            "wavespeed-0009",
+            "wavespeed-0010",
+            "wavespeed-0011",
+            "wavespeed-0012",
+            "wavespeed-0013",
+            "wavespeed-0014",
+            "wavespeed-0015"
+          ],
+          "signal": "参考图库",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/free-tools/ai-outfit-gallery ，核对了 title、H1 和 description",
+            "季节和服装分类子页未逐页打开，按总览中的分类名归入同一任务"
+          ]
+        },
+        {
+          "id": "wavespeed-ai-face-gallery",
+          "name": "AI 人脸与发型图库",
+          "category": "trend_template",
+          "summary": "已打开图库总览。标题写 280 张以上免费人脸，用于保持 AI 角色一致。描述按发型浏览不存在的人，选一张脸后可在图像生成器里反复使用。子页 slug 为 short、bob、long、curly、braids、updo、buzz 等发型。",
+          "audience": "需要固定一张虚拟人脸的 AI 角色创作者",
+          "job_to_be_done": "按发型挑选一张可复用的虚拟人脸",
+          "page_ids": [
+            "wavespeed-0002",
+            "wavespeed-0016",
+            "wavespeed-0017",
+            "wavespeed-0018",
+            "wavespeed-0019",
+            "wavespeed-0020",
+            "wavespeed-0021",
+            "wavespeed-0022",
+            "wavespeed-0023"
+          ],
+          "signal": "参考图库",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/free-tools/ai-face-gallery ，核对了 title、H1 和 description",
+            "发型子页未逐页打开，按总览中的发型分类归入同一任务"
+          ]
+        },
+        {
+          "id": "wavespeed-ai-character-builder",
+          "name": "AI 角色拼图生成",
+          "category": "tool",
+          "summary": "已打开页面。H1 写人脸加穿搭加姿势，得到角色的下一张照片。描述写可从他们的图库里选，或用 Surprise me，并在图像生成器里出图，以便每条内容保持同一个角色。",
+          "audience": "连续发布同一虚拟角色的创作者",
+          "job_to_be_done": "选定脸、衣服和姿势，生成这个角色的下一张照片",
+          "page_ids": [
+            "wavespeed-0003"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/free-tools/ai-character-builder ，核对了 title、H1 和 description，未点击生成"
+          ]
+        },
+        {
+          "id": "wavespeed-seedream-55-api",
+          "name": "Seedream 5.5 API 总览",
+          "category": "model_api",
+          "summary": "已打开 API 落地页。标题写透明 PNG、3K 和图像图层。描述列出 Image-Tools、Text-To-Image、Image-To-Image，共 3 个端点，摘要里出现起步价。",
+          "audience": "要接入字节 Seedream 5.5 的开发者",
+          "job_to_be_done": "查看 Seedream 5.5 有哪些端点并开始调用",
+          "page_ids": [
+            "wavespeed-0024"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/seedream-5-5-api ，核对了 title、H1 和 description",
+            "摘要中的起步价只说明标价，不代表需求强度"
+          ]
+        },
+        {
+          "id": "wavespeed-gemini-omni-text-to-video",
+          "name": "Gemini Omni 1.2 Flash 文生视频",
+          "category": "model_api",
+          "summary": "已打开模型页。H1 为文生视频 API。描述写用文字提示生成带同步音频的短视频，摘要里出现起步价。",
+          "audience": "要批量生成带声音短视频的开发者",
+          "job_to_be_done": "用文字提示生成一段带同步音频的短视频",
+          "page_ids": [
+            "wavespeed-0025"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video ，核对了 title、H1 和 description，未发起调用",
+            "摘要中的起步价只说明标价，不代表需求强度"
+          ]
+        },
+        {
+          "id": "wavespeed-gemini-omni-image-to-video",
+          "name": "Gemini Omni 1.2 Flash 图生视频",
+          "category": "model_api",
+          "summary": "路径为 gemini-omni-1.2-flash/image-to-video，与同模型的文生视频、参考生视频、视频编辑并列，对应从图片生成视频。",
+          "audience": "要把静图做成短视频的开发者",
+          "job_to_be_done": "用一张图片生成 Gemini Omni 1.2 Flash 短视频",
+          "page_ids": [
+            "wavespeed-0026"
+          ],
+          "signal": "模型接口",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "只根据 slug image-to-video 判断，未打开页面"
+          ]
+        },
+        {
+          "id": "wavespeed-gemini-omni-reference-to-video",
+          "name": "Gemini Omni 1.2 Flash 参考生视频",
+          "category": "model_api",
+          "summary": "已打开模型页。正文写从文字提示加上可选的图像和视频参考，生成带同步音频的短视频，并支持角色一致和视觉参考。摘要里出现起步价。",
+          "audience": "要保持角色一致、并带参考画面的视频开发者",
+          "job_to_be_done": "用文字加上图像或视频参考，生成角色一致的有声短视频",
+          "page_ids": [
+            "wavespeed-0027"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video ，核对了 title、description 和页面正文中的能力说明，未发起调用",
+            "摘要中的起步价只说明标价，不代表需求强度"
+          ]
+        },
+        {
+          "id": "wavespeed-gemini-omni-video-edit",
+          "name": "Gemini Omni 1.2 Flash 视频编辑",
+          "category": "model_api",
+          "summary": "路径为 gemini-omni-1.2-flash/video-edit，与同模型的其他视频端点并列，对应编辑已有视频。",
+          "audience": "要用该模型改视频的开发者",
+          "job_to_be_done": "调用 Gemini Omni 1.2 Flash 编辑一段视频",
+          "page_ids": [
+            "wavespeed-0028"
+          ],
+          "signal": "模型接口",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "只根据 slug video-edit 判断，未打开页面"
+          ]
+        },
+        {
+          "id": "wavespeed-seedream-55-edit",
+          "name": "Seedream 5.5 图像编辑",
+          "category": "model_api",
+          "summary": "已打开模型页。H1 为图像编辑 API。描述写单图或多参考图编辑和生成，摘要里出现起步价。",
+          "audience": "要接入 Seedream 5.5 改图的开发者",
+          "job_to_be_done": "用单张图或多张参考图编辑并生成图片",
+          "page_ids": [
+            "wavespeed-0029"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/models/bytedance/seedream-v5.5/edit ，核对了 title、H1 和 description，未发起调用",
+            "摘要中的起步价只说明标价，不代表需求强度"
+          ]
+        },
+        {
+          "id": "wavespeed-seedream-55-text-to-image",
+          "name": "Seedream 5.5 文生图",
+          "category": "model_api",
+          "summary": "已打开模型页。H1 为文生图 API。描述写由字节提供、从文字提示生成图片，并提到摄影真实感，摘要里出现起步价。",
+          "audience": "要接入 Seedream 5.5 出图的开发者",
+          "job_to_be_done": "用文字提示调用 Seedream 5.5 生成图片",
+          "page_ids": [
+            "wavespeed-0030"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/models/bytedance/seedream-v5.5 ，核对了 title、H1 和 description，未发起调用",
+            "摘要中的起步价只说明标价，不代表需求强度"
+          ]
+        },
+        {
+          "id": "wavespeed-seedream-55-layer-decomposition",
+          "name": "Seedream 5.5 图层拆解",
+          "category": "model_api",
+          "summary": "已打开模型页。H1 为图层拆解 API。描述写把一张图拆成底图和透明图层，摘要里出现起步价。",
+          "audience": "需要可分层素材的设计和合成人员",
+          "job_to_be_done": "把一张图片拆成底图和若干透明图层",
+          "page_ids": [
+            "wavespeed-0031"
+          ],
+          "signal": "模型接口",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition ，核对了 title、H1 和 description，未发起调用",
+            "摘要中的起步价只说明标价，不代表需求强度"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    }
+  ],
+  "highlights": [
+    {
+      "site": "supermaker",
+      "demand_id": "supermaker-24k-magic-dance",
+      "reason": "上传照片即可生成指定舞蹈视频，任务边界清楚，可以单独做成一个效果。"
+    },
+    {
+      "site": "wavespeed",
+      "demand_id": "wavespeed-gemini-omni-reference-to-video",
+      "reason": "参考图或参考视频加上文字，生成角色一致、带同步音频的短视频，是当天最具体的视频生成接口。"
+    },
+    {
+      "site": "wavespeed",
+      "demand_id": "wavespeed-gemini-omni-text-to-video",
+      "reason": "同一模型的文生视频页写明输出带同步音频，适合作为有声短视频接口单独看。"
+    },
+    {
+      "site": "higgsfield",
+      "demand_id": "higgsfield-micro-drama-ads",
+      "reason": "短剧结构的产品广告，带虚拟人和故事卡，是区别于普通口播的视频任务。"
+    },
+    {
+      "site": "fotor",
+      "demand_id": "fotor-text-animation",
+      "reason": "给标题、字幕和动态排版加动画，工具页已经写明用途，可以独立做。"
+    },
+    {
+      "site": "fotor",
+      "demand_id": "fotor-video-compilation",
+      "reason": "多段视频和照片自动找高光合集，输入和结果都明确。"
+    },
+    {
+      "site": "fotor",
+      "demand_id": "fotor-remove-filler-words",
+      "reason": "去掉口播填充词是单独的剪辑任务。此条只根据 slug，还没打开页面。"
+    },
+    {
+      "site": "fotor",
+      "demand_id": "fotor-youtube-to-instagram",
+      "reason": "从 YouTube 链接到 Reels、Stories 和 Feed，包含找片段、改画幅和字幕。"
+    },
+    {
+      "site": "wavespeed",
+      "demand_id": "wavespeed-ai-character-builder",
+      "reason": "脸、衣服、姿势三选一生成同一角色的下一张图，可以连同旁边的图库一起做成角色工具。"
+    },
+    {
+      "site": "wavespeed",
+      "demand_id": "wavespeed-seedream-55-layer-decomposition",
+      "reason": "把一张图拆成底图和透明图层，和普通文生图、改图是不同操作。"
+    }
+  ],
+  "cross_site_themes": [
+    {
+      "name": "GPT Image 2.6",
+      "sites": [
+        "mindvideo",
+        "pixexact",
+        "vidguru"
+      ],
+      "demand_ids": [
+        "mindvideo-gpt-image-26",
+        "pixexact-gpt-image-26",
+        "vidguru-gpt-image-26-text-to-image",
+        "vidguru-gpt-image-26-image-edit",
+        "vidguru-gpt-image-26-model-pages"
+      ],
+      "description": "三个站同一天出现 GPT Image 2.6。MindVideo 是生成加编辑的落地页。PixExact 把 Flare 写成快速草稿、Sunburst 写成精细细节，并强调精确像素尺寸。Vidguru 为两个变体分别做了文生图、图像编辑和模型说明页。"
+    },
+    {
+      "name": "AI 时尚与穿搭参考",
+      "sites": [
+        "imagine",
+        "wavespeed"
+      ],
+      "demand_ids": [
+        "imagine-ai-fashion",
+        "wavespeed-ai-outfit-gallery"
+      ],
+      "description": "Imagine 发了一篇 AI 时尚在设计、摄影和零售中的用法。WaveSpeed 上线按场合分类的穿搭参考图库，并可以跳到图像生成。"
+    },
+    {
+      "name": "AI 视频剪辑小工具",
+      "sites": [
+        "fotor",
+        "higgsfield"
+      ],
+      "demand_ids": [
+        "fotor-text-animation",
+        "fotor-remove-filler-words",
+        "fotor-youtube-to-instagram",
+        "fotor-resize-instagram-video",
+        "fotor-video-compilation",
+        "higgsfield-video-editing-roundup"
+      ],
+      "description": "Fotor 当天新增文字动画、去填充词、YouTube 转 Instagram、改 Instagram 尺寸和自动合集。Higgsfield 发了一篇面向专业用户的 2026 AI 视频编辑工具盘点。"
+    }
+  ],
+  "notes": [
+    "这是 diff/20261107 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+    "已打开部分页面，核对 title、H1 和 description；Gemini 参考生视频还核对了正文里的能力句。未打开的需求标明只根据 slug。",
+    "WaveSpeed 多个模型页摘要里出现起步价，标价只说明页面上的定价信息。"
+  ]
+}

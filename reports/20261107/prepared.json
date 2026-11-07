@@ -1,0 +1,786 @@
+{
+  "date": "20261107",
+  "sites": [
+    {
+      "site": "fotor",
+      "source_file": "diff/20261107/fotor.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "fotor-0001",
+          "url": "https://www.fotor.com/ai-video-editor/text-animation/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/text-animation",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/text-animation/"
+          ],
+          "page_type": "other",
+          "slug": "text-animation"
+        },
+        {
+          "page_id": "fotor-0002",
+          "url": "https://www.fotor.com/ai-video-editor/remove-video-filler-words/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/remove-video-filler-words",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/remove-video-filler-words/"
+          ],
+          "page_type": "other",
+          "slug": "remove-video-filler-words"
+        },
+        {
+          "page_id": "fotor-0003",
+          "url": "https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/youtube-to-instagram-converter/"
+          ],
+          "page_type": "other",
+          "slug": "youtube-to-instagram-converter"
+        },
+        {
+          "page_id": "fotor-0004",
+          "url": "https://www.fotor.com/features/remove-tattoo-from-photo/",
+          "canonical_url": "https://www.fotor.com/features/remove-tattoo-from-photo",
+          "original_urls": [
+            "https://www.fotor.com/features/remove-tattoo-from-photo/"
+          ],
+          "page_type": "other",
+          "slug": "remove-tattoo-from-photo"
+        },
+        {
+          "page_id": "fotor-0005",
+          "url": "https://www.fotor.com/ai-video-editor/resize-instagram-video/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/resize-instagram-video",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/resize-instagram-video/"
+          ],
+          "page_type": "other",
+          "slug": "resize-instagram-video"
+        },
+        {
+          "page_id": "fotor-0006",
+          "url": "https://www.fotor.com/ai-video-editor/video-compilation/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/video-compilation",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/video-compilation/"
+          ],
+          "page_type": "other",
+          "slug": "video-compilation"
+        }
+      ]
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261107/higgsfield.json",
+      "raw_url_count": 20,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 20,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/community/rooms/found-footage",
+          "canonical_url": "https://higgsfield.ai/community/rooms/found-footage",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/found-footage"
+          ],
+          "page_type": "community",
+          "slug": "found-footage"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms/funkylife",
+          "canonical_url": "https://higgsfield.ai/community/rooms/funkylife",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/funkylife"
+          ],
+          "page_type": "community",
+          "slug": "funkylife"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/animation-tales",
+          "canonical_url": "https://higgsfield.ai/community/rooms/animation-tales",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/animation-tales"
+          ],
+          "page_type": "community",
+          "slug": "animation-tales"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/community/rooms/gothic-fantasy",
+          "canonical_url": "https://higgsfield.ai/community/rooms/gothic-fantasy",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/gothic-fantasy"
+          ],
+          "page_type": "community",
+          "slug": "gothic-fantasy"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/community/rooms/cinematic-mysteries",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinematic-mysteries",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinematic-mysteries"
+          ],
+          "page_type": "community",
+          "slug": "cinematic-mysteries"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/community/rooms/turkish-football",
+          "canonical_url": "https://higgsfield.ai/community/rooms/turkish-football",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/turkish-football"
+          ],
+          "page_type": "community",
+          "slug": "turkish-football"
+        },
+        {
+          "page_id": "higgsfield-0007",
+          "url": "https://higgsfield.ai/community/rooms/side-hustle",
+          "canonical_url": "https://higgsfield.ai/community/rooms/side-hustle",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/side-hustle"
+          ],
+          "page_type": "community",
+          "slug": "side-hustle"
+        },
+        {
+          "page_id": "higgsfield-0008",
+          "url": "https://higgsfield.ai/community/rooms/abz",
+          "canonical_url": "https://higgsfield.ai/community/rooms/abz",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/abz"
+          ],
+          "page_type": "community",
+          "slug": "abz"
+        },
+        {
+          "page_id": "higgsfield-0009",
+          "url": "https://higgsfield.ai/community/rooms/sonic-society-the-music-room",
+          "canonical_url": "https://higgsfield.ai/community/rooms/sonic-society-the-music-room",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/sonic-society-the-music-room"
+          ],
+          "page_type": "community",
+          "slug": "sonic-society-the-music-room"
+        },
+        {
+          "page_id": "higgsfield-0010",
+          "url": "https://higgsfield.ai/community/rooms/retro-meets-ai",
+          "canonical_url": "https://higgsfield.ai/community/rooms/retro-meets-ai",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/retro-meets-ai"
+          ],
+          "page_type": "community",
+          "slug": "retro-meets-ai"
+        },
+        {
+          "page_id": "higgsfield-0011",
+          "url": "https://higgsfield.ai/community/rooms/knightcat-universe",
+          "canonical_url": "https://higgsfield.ai/community/rooms/knightcat-universe",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/knightcat-universe"
+          ],
+          "page_type": "community",
+          "slug": "knightcat-universe"
+        },
+        {
+          "page_id": "higgsfield-0012",
+          "url": "https://higgsfield.ai/community/rooms/ai-anime-2d-2-5d-sh-nen",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-anime-2d-2-5d-sh-nen",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-anime-2d-2-5d-sh-nen"
+          ],
+          "page_type": "community",
+          "slug": "ai-anime-2d-2-5d-sh-nen"
+        },
+        {
+          "page_id": "higgsfield-0013",
+          "url": "https://higgsfield.ai/community/rooms/noir-hollows",
+          "canonical_url": "https://higgsfield.ai/community/rooms/noir-hollows",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/noir-hollows"
+          ],
+          "page_type": "community",
+          "slug": "noir-hollows"
+        },
+        {
+          "page_id": "higgsfield-0014",
+          "url": "https://higgsfield.ai/community/rooms/yyy-studio-the-filmmaking-room",
+          "canonical_url": "https://higgsfield.ai/community/rooms/yyy-studio-the-filmmaking-room",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/yyy-studio-the-filmmaking-room"
+          ],
+          "page_type": "community",
+          "slug": "yyy-studio-the-filmmaking-room"
+        },
+        {
+          "page_id": "higgsfield-0015",
+          "url": "https://higgsfield.ai/community/rooms/yyy-studio-music-video-lab",
+          "canonical_url": "https://higgsfield.ai/community/rooms/yyy-studio-music-video-lab",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/yyy-studio-music-video-lab"
+          ],
+          "page_type": "community",
+          "slug": "yyy-studio-music-video-lab"
+        },
+        {
+          "page_id": "higgsfield-0016",
+          "url": "https://higgsfield.ai/community/rooms/yyy-studio-experimental-cinema",
+          "canonical_url": "https://higgsfield.ai/community/rooms/yyy-studio-experimental-cinema",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/yyy-studio-experimental-cinema"
+          ],
+          "page_type": "community",
+          "slug": "yyy-studio-experimental-cinema"
+        },
+        {
+          "page_id": "higgsfield-0017",
+          "url": "https://higgsfield.ai/community/rooms/k-heritage-music-society",
+          "canonical_url": "https://higgsfield.ai/community/rooms/k-heritage-music-society",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/k-heritage-music-society"
+          ],
+          "page_type": "community",
+          "slug": "k-heritage-music-society"
+        },
+        {
+          "page_id": "higgsfield-0018",
+          "url": "https://higgsfield.ai/community/rooms/after-dark",
+          "canonical_url": "https://higgsfield.ai/community/rooms/after-dark",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/after-dark"
+          ],
+          "page_type": "community",
+          "slug": "after-dark"
+        },
+        {
+          "page_id": "higgsfield-0019",
+          "url": "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio",
+          "canonical_url": "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio",
+          "original_urls": [
+            "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio"
+          ],
+          "page_type": "blog",
+          "slug": "micro-drama-ads-higgsfield-ads-studio"
+        },
+        {
+          "page_id": "higgsfield-0020",
+          "url": "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-video-editing-tools-professionals-2026"
+        }
+      ]
+    },
+    {
+      "site": "imagine",
+      "source_file": "diff/20261107/imagine.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "imagine-0001",
+          "url": "https://www.imagine.art/imagine-computer/models/gpt-5-6",
+          "canonical_url": "https://www.imagine.art/imagine-computer/models/gpt-5-6",
+          "original_urls": [
+            "https://www.imagine.art/imagine-computer/models/gpt-5-6"
+          ],
+          "page_type": "other",
+          "slug": "gpt-5-6"
+        },
+        {
+          "page_id": "imagine-0002",
+          "url": "https://www.imagine.art/insights/what-is-ai-fashion",
+          "canonical_url": "https://www.imagine.art/insights/what-is-ai-fashion",
+          "original_urls": [
+            "https://www.imagine.art/insights/what-is-ai-fashion"
+          ],
+          "page_type": "other",
+          "slug": "what-is-ai-fashion"
+        }
+      ]
+    },
+    {
+      "site": "mindvideo",
+      "source_file": "diff/20261107/mindvideo.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "mindvideo-0001",
+          "url": "https://www.mindvideo.ai/gpt-image-2-6/",
+          "canonical_url": "https://www.mindvideo.ai/gpt-image-2-6",
+          "original_urls": [
+            "https://www.mindvideo.ai/gpt-image-2-6/"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        }
+      ]
+    },
+    {
+      "site": "nanobanana",
+      "source_file": "diff/20261107/nanobanana.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "nanobanana-0001",
+          "url": "https://nanobanana.io/image-upscaler",
+          "canonical_url": "https://nanobanana.io/image-upscaler",
+          "original_urls": [
+            "https://nanobanana.io/image-upscaler"
+          ],
+          "page_type": "other",
+          "slug": "image-upscaler"
+        }
+      ]
+    },
+    {
+      "site": "pixexact",
+      "source_file": "diff/20261107/pixexact.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "pixexact-0001",
+          "url": "https://www.pixexact.com/models/gpt-image-2.6",
+          "canonical_url": "https://www.pixexact.com/models/gpt-image-2.6",
+          "original_urls": [
+            "https://www.pixexact.com/models/gpt-image-2.6",
+            "https://www.pixexact.com/nb/models/gpt-image-2.6"
+          ],
+          "page_type": "model_api",
+          "slug": "gpt-image-2.6"
+        }
+      ]
+    },
+    {
+      "site": "supermaker",
+      "source_file": "diff/20261107/supermaker.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "supermaker-0001",
+          "url": "https://supermaker.ai/video/24k-magic-dance/",
+          "canonical_url": "https://supermaker.ai/video/24k-magic-dance",
+          "original_urls": [
+            "https://supermaker.ai/video/24k-magic-dance/"
+          ],
+          "page_type": "other",
+          "slug": "24k-magic-dance"
+        }
+      ]
+    },
+    {
+      "site": "vidguru",
+      "source_file": "diff/20261107/vidguru.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "vidguru-0001",
+          "url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare",
+          "canonical_url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare",
+          "original_urls": [
+            "https://www.vidguru.ai/text-to-image/gpt-image-2.6-flare"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-flare"
+        },
+        {
+          "page_id": "vidguru-0002",
+          "url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst",
+          "canonical_url": "https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst",
+          "original_urls": [
+            "https://www.vidguru.ai/text-to-image/gpt-image-2.6-sunburst"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-sunburst"
+        },
+        {
+          "page_id": "vidguru-0003",
+          "url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare",
+          "canonical_url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-flare"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-flare"
+        },
+        {
+          "page_id": "vidguru-0004",
+          "url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-sunburst",
+          "canonical_url": "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-sunburst",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-image-edit/gpt-image-2.6-sunburst"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-sunburst"
+        },
+        {
+          "page_id": "vidguru-0005",
+          "url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-flare",
+          "canonical_url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-flare",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-models/gpt-image-2.6-flare"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-flare"
+        },
+        {
+          "page_id": "vidguru-0006",
+          "url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst",
+          "canonical_url": "https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-models/gpt-image-2.6-sunburst"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2.6-sunburst"
+        }
+      ]
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261107/wavespeed.json",
+      "raw_url_count": 31,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 31,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-outfit-gallery"
+        },
+        {
+          "page_id": "wavespeed-0002",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-face-gallery"
+        },
+        {
+          "page_id": "wavespeed-0003",
+          "url": "https://wavespeed.ai/free-tools/ai-character-builder",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-character-builder",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-character-builder"
+          ],
+          "page_type": "other",
+          "slug": "ai-character-builder"
+        },
+        {
+          "page_id": "wavespeed-0004",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/spring",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/spring",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/spring"
+          ],
+          "page_type": "other",
+          "slug": "spring"
+        },
+        {
+          "page_id": "wavespeed-0005",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/summer",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/summer",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/summer"
+          ],
+          "page_type": "other",
+          "slug": "summer"
+        },
+        {
+          "page_id": "wavespeed-0006",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/autumn",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/autumn",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/autumn"
+          ],
+          "page_type": "other",
+          "slug": "autumn"
+        },
+        {
+          "page_id": "wavespeed-0007",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/winter",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/winter",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/winter"
+          ],
+          "page_type": "other",
+          "slug": "winter"
+        },
+        {
+          "page_id": "wavespeed-0008",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/work",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/work",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/work"
+          ],
+          "page_type": "other",
+          "slug": "work"
+        },
+        {
+          "page_id": "wavespeed-0009",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/formal",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/formal",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/formal"
+          ],
+          "page_type": "other",
+          "slug": "formal"
+        },
+        {
+          "page_id": "wavespeed-0010",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/street",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/street",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/street"
+          ],
+          "page_type": "other",
+          "slug": "street"
+        },
+        {
+          "page_id": "wavespeed-0011",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/sport",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/sport",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/sport"
+          ],
+          "page_type": "other",
+          "slug": "sport"
+        },
+        {
+          "page_id": "wavespeed-0012",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/traditional",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/traditional",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/traditional"
+          ],
+          "page_type": "other",
+          "slug": "traditional"
+        },
+        {
+          "page_id": "wavespeed-0013",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/uniform",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/uniform",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/uniform"
+          ],
+          "page_type": "other",
+          "slug": "uniform"
+        },
+        {
+          "page_id": "wavespeed-0014",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/swimwear",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/swimwear",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/swimwear"
+          ],
+          "page_type": "other",
+          "slug": "swimwear"
+        },
+        {
+          "page_id": "wavespeed-0015",
+          "url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/lingerie",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-outfit-gallery/lingerie",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-outfit-gallery/lingerie"
+          ],
+          "page_type": "other",
+          "slug": "lingerie"
+        },
+        {
+          "page_id": "wavespeed-0016",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/short",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/short",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/short"
+          ],
+          "page_type": "other",
+          "slug": "short"
+        },
+        {
+          "page_id": "wavespeed-0017",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/bob",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/bob",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/bob"
+          ],
+          "page_type": "other",
+          "slug": "bob"
+        },
+        {
+          "page_id": "wavespeed-0018",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/medium",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/medium",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/medium"
+          ],
+          "page_type": "other",
+          "slug": "medium"
+        },
+        {
+          "page_id": "wavespeed-0019",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/long",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/long",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/long"
+          ],
+          "page_type": "other",
+          "slug": "long"
+        },
+        {
+          "page_id": "wavespeed-0020",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/curly",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/curly",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/curly"
+          ],
+          "page_type": "other",
+          "slug": "curly"
+        },
+        {
+          "page_id": "wavespeed-0021",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/braids",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/braids",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/braids"
+          ],
+          "page_type": "other",
+          "slug": "braids"
+        },
+        {
+          "page_id": "wavespeed-0022",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/updo",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/updo",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/updo"
+          ],
+          "page_type": "other",
+          "slug": "updo"
+        },
+        {
+          "page_id": "wavespeed-0023",
+          "url": "https://wavespeed.ai/free-tools/ai-face-gallery/buzz",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-face-gallery/buzz",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-face-gallery/buzz"
+          ],
+          "page_type": "other",
+          "slug": "buzz"
+        },
+        {
+          "page_id": "wavespeed-0024",
+          "url": "https://wavespeed.ai/seedream-5-5-api",
+          "canonical_url": "https://wavespeed.ai/seedream-5-5-api",
+          "original_urls": [
+            "https://wavespeed.ai/seedream-5-5-api"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5-api"
+        },
+        {
+          "page_id": "wavespeed-0025",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-video"
+        },
+        {
+          "page_id": "wavespeed-0026",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "image-to-video"
+        },
+        {
+          "page_id": "wavespeed-0027",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "reference-to-video"
+        },
+        {
+          "page_id": "wavespeed-0028",
+          "url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/video-edit",
+          "canonical_url": "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/video-edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/google/gemini-omni-1.2-flash/video-edit"
+          ],
+          "page_type": "model_api",
+          "slug": "video-edit"
+        },
+        {
+          "page_id": "wavespeed-0029",
+          "url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/edit",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedream-v5.5/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0030",
+          "url": "https://wavespeed.ai/models/bytedance/seedream-v5.5",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedream-v5.5",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedream-v5.5"
+          ],
+          "page_type": "model_api",
+          "slug": "seedream-v5.5"
+        },
+        {
+          "page_id": "wavespeed-0031",
+          "url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedream-v5.5/layer-decomposition"
+          ],
+          "page_type": "model_api",
+          "slug": "layer-decomposition"
+        }
+      ]
+    }
+  ]
+}
