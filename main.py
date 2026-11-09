@@ -4,7 +4,6 @@ import time
 from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
-from urllib.parse import urlunparse
 from xml.etree import ElementTree as ET
 
 import cloudscraper
@@ -13,20 +12,6 @@ import yaml
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-LANGUAGE_CODES = {
-    'ar', 'bg', 'cs', 'da', 'de', 'el', 'en', 'en-gb', 'en-us', 'es', 'es-mx',
-    'et', 'fi', 'fil', 'fr', 'fr-ca', 'he', 'hi', 'hr', 'hu', 'id', 'it', 'ja', 'ko',
-    'lt', 'lv', 'mk', 'ms', 'nl', 'no', 'pl', 'pt', 'pt-br', 'pt-pt', 'ro',
-    'ru', 'sk', 'sl', 'sr', 'sv', 'th', 'tr', 'uk', 'vi', 'zh', 'zh-cn', 'zh-tw',
-}
-
-LANGUAGE_CODE_ALIASES = {
-    'br': 'pt-br',
-    'jp': 'ja',
-    'ph': 'fil',
-    'tw': 'zh-tw',
-}
 
 RETRYABLE_STATUS = {429, 500, 502, 503, 504}
 MAX_RETRY_DELAY = 60
@@ -79,70 +64,6 @@ def is_http_url(value):
     except ValueError:
         return False
     return parsed.scheme in ('http', 'https') and bool(parsed.netloc)
-
-
-def split_language_segment(path):
-    segments = [segment for segment in path.split('/') if segment]
-    if not segments:
-        return None, path or '/'
-
-    first_segment = segments[0].lower()
-    first_segment = LANGUAGE_CODE_ALIASES.get(first_segment, first_segment)
-    if first_segment not in LANGUAGE_CODES:
-        return None, path or '/'
-
-    remaining_segments = segments[1:]
-    normalized_path = '/' + '/'.join(remaining_segments) if remaining_segments else '/'
-    if path.endswith('/') and normalized_path != '/':
-        normalized_path += '/'
-    return first_segment, normalized_path
-
-
-def get_url_identity(url):
-    parsed = urlparse(url.strip())
-    _, normalized_path = split_language_segment(parsed.path or '/')
-    return urlunparse((
-        parsed.scheme,
-        parsed.netloc,
-        normalized_path,
-        parsed.params,
-        parsed.query,
-        '',
-    ))
-
-
-def pick_canonical_url(urls):
-    default_urls = []
-    english_urls = []
-
-    for url in urls:
-        parsed = urlparse(url)
-        language_code, _ = split_language_segment(parsed.path or '/')
-        if language_code is None:
-            default_urls.append(url)
-            continue
-        if language_code.startswith('en'):
-            english_urls.append(url)
-
-    if default_urls:
-        return default_urls[0]
-    if english_urls:
-        return english_urls[0]
-    return urls[0]
-
-
-def collapse_multilingual_urls(urls):
-    grouped_urls = {}
-    for url in urls:
-        identity = get_url_identity(url)
-        grouped_urls.setdefault(identity, []).append(url)
-
-    collapsed_urls = []
-    filtered_count = 0
-    for grouped in grouped_urls.values():
-        collapsed_urls.append(pick_canonical_url(grouped))
-        filtered_count += len(grouped) - 1
-    return collapsed_urls, filtered_count
 
 
 def is_html_response(content_lower):
@@ -404,9 +325,8 @@ def compare_data(site_name, new_urls):
     if not latest_file.exists():
         return []
 
-    last_urls = read_stored_urls(latest_file)
-    last_identities = {get_url_identity(url) for url in last_urls}
-    return [url for url in new_urls if get_url_identity(url) not in last_identities]
+    last_urls = set(read_stored_urls(latest_file))
+    return [url for url in new_urls if url not in last_urls]
 
 
 def send_feishu_notification(new_urls, config, site_name):
@@ -493,13 +413,6 @@ def main(config_path='config.yaml', scraper=None, sleeper=None, now=None):
             continue
 
         unique_urls = [url for url in {url: None for url in all_urls}.keys() if is_http_url(url)]
-        unique_urls, filtered_count = collapse_multilingual_urls(unique_urls)
-        if filtered_count:
-            logging.info(
-                "Collapsed %s multilingual URLs for %s",
-                filtered_count,
-                site['name'],
-            )
 
         latest_file = snapshot_path(site['name'])
         if not unique_urls and latest_file.exists():
