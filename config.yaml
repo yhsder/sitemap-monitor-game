@@ -95,6 +95,42 @@ sites:
     sitemap_urls:
       - "https://pixomi.ai/sitemap.xml"
     active: true
+  - name: "renoise"
+    sitemap_urls:
+      - "https://renoise.ai/sitemap-seo.xml"
+    active: true
+  - name: "mitte"
+    sitemap_urls:
+      - "https://mitte.ai/sitemap.xml"
+    active: true
+  - name: "lightxeditor"
+    sitemap_urls:
+      - "https://www.lightxeditor.com/sitemap.xml"
+    active: true
+  - name: "getstarrd"
+    sitemap_urls:
+      - "https://www.getstarrd.app/sitemap.xml"
+    active: true
+  - name: "affogato"
+    sitemap_urls:
+      - "https://affogato.ai/sitemap.xml"
+    active: true
+  - name: "vismuse"
+    sitemap_urls:
+      - "https://vismuse.com/sitemap-en.xml"
+    active: true
+  - name: "piclumen"
+    sitemap_urls:
+      - "https://www.piclumen.com/pages.xml"
+    active: true
+  - name: "flyu"
+    sitemap_urls:
+      - "https://flyu.ai/sitemap.xml"
+    active: true
+  - name: "wireflow"
+    sitemap_urls:
+      - "https://www.wireflow.ai/sitemap.xml"
+    active: true
 
 
 sitemap:
