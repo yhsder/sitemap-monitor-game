@@ -1,0 +1,2084 @@
+{
+  "date": "20261112",
+  "sites": [
+    {
+      "site": "a2e",
+      "source_file": "diff/20261112/a2e.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "a2e-0001",
+          "url": "https://a2e.ai/seedream-5-5/",
+          "canonical_url": "https://a2e.ai/seedream-5-5",
+          "original_urls": [
+            "https://a2e.ai/seedream-5-5/"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        }
+      ],
+      "demands": [
+        {
+          "id": "a2e-seedream-5-5",
+          "name": "Seedream 5.5 图片生成页",
+          "category": "tool",
+          "summary": "Seedream 5.5 的独立生成落地页。 当日新增 1 个页面，slug：seedream-5-5。",
+          "audience": "图片创作者",
+          "job_to_be_done": "用新模型生成图片",
+          "page_ids": [
+            "a2e-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "affogato",
+      "source_file": "diff/20261112/affogato.json",
+      "raw_url_count": 32,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 21,
+      "pages": [
+        {
+          "page_id": "affogato-0001",
+          "url": "https://affogato.ai/blog/criar-videos-com-ia-a-partir-de-fotos",
+          "canonical_url": "https://affogato.ai/blog/criar-videos-com-ia-a-partir-de-fotos",
+          "original_urls": [
+            "https://affogato.ai/blog/criar-videos-com-ia-a-partir-de-fotos"
+          ],
+          "page_type": "blog",
+          "slug": "criar-videos-com-ia-a-partir-de-fotos"
+        },
+        {
+          "page_id": "affogato-0002",
+          "url": "https://affogato.ai/blog/criar-imagens-com-ia",
+          "canonical_url": "https://affogato.ai/blog/criar-imagens-com-ia",
+          "original_urls": [
+            "https://affogato.ai/blog/criar-imagens-com-ia"
+          ],
+          "page_type": "blog",
+          "slug": "criar-imagens-com-ia"
+        },
+        {
+          "page_id": "affogato-0003",
+          "url": "https://affogato.ai/blog/creer-video-ia-a-partir-photo",
+          "canonical_url": "https://affogato.ai/blog/creer-video-ia-a-partir-photo",
+          "original_urls": [
+            "https://affogato.ai/blog/creer-video-ia-a-partir-photo"
+          ],
+          "page_type": "blog",
+          "slug": "creer-video-ia-a-partir-photo"
+        },
+        {
+          "page_id": "affogato-0004",
+          "url": "https://affogato.ai/blog/retouche-photo-ia-preserver-visage",
+          "canonical_url": "https://affogato.ai/blog/retouche-photo-ia-preserver-visage",
+          "original_urls": [
+            "https://affogato.ai/blog/retouche-photo-ia-preserver-visage"
+          ],
+          "page_type": "blog",
+          "slug": "retouche-photo-ia-preserver-visage"
+        },
+        {
+          "page_id": "affogato-0005",
+          "url": "https://affogato.ai/blog/sajin-ai-yeongsang-mandeulgi",
+          "canonical_url": "https://affogato.ai/blog/sajin-ai-yeongsang-mandeulgi",
+          "original_urls": [
+            "https://affogato.ai/blog/sajin-ai-yeongsang-mandeulgi"
+          ],
+          "page_type": "blog",
+          "slug": "sajin-ai-yeongsang-mandeulgi"
+        },
+        {
+          "page_id": "affogato-0006",
+          "url": "https://affogato.ai/blog/ai-influencer-mandeulgi",
+          "canonical_url": "https://affogato.ai/blog/ai-influencer-mandeulgi",
+          "original_urls": [
+            "https://affogato.ai/blog/ai-influencer-mandeulgi"
+          ],
+          "page_type": "blog",
+          "slug": "ai-influencer-mandeulgi"
+        },
+        {
+          "page_id": "affogato-0007",
+          "url": "https://affogato.ai/blog/gazou-kara-ai-douga-tsukurikata",
+          "canonical_url": "https://affogato.ai/blog/gazou-kara-ai-douga-tsukurikata",
+          "original_urls": [
+            "https://affogato.ai/blog/gazou-kara-ai-douga-tsukurikata"
+          ],
+          "page_type": "blog",
+          "slug": "gazou-kara-ai-douga-tsukurikata"
+        },
+        {
+          "page_id": "affogato-0008",
+          "url": "https://affogato.ai/blog/ai-douga-prompt-rei",
+          "canonical_url": "https://affogato.ai/blog/ai-douga-prompt-rei",
+          "original_urls": [
+            "https://affogato.ai/blog/ai-douga-prompt-rei"
+          ],
+          "page_type": "blog",
+          "slug": "ai-douga-prompt-rei"
+        },
+        {
+          "page_id": "affogato-0009",
+          "url": "https://affogato.ai/blog/editar-fotos-con-ia-sin-cambiar-persona",
+          "canonical_url": "https://affogato.ai/blog/editar-fotos-con-ia-sin-cambiar-persona",
+          "original_urls": [
+            "https://affogato.ai/blog/editar-fotos-con-ia-sin-cambiar-persona"
+          ],
+          "page_type": "blog",
+          "slug": "editar-fotos-con-ia-sin-cambiar-persona"
+        },
+        {
+          "page_id": "affogato-0010",
+          "url": "https://affogato.ai/blog/crear-influencer-con-ia",
+          "canonical_url": "https://affogato.ai/blog/crear-influencer-con-ia",
+          "original_urls": [
+            "https://affogato.ai/blog/crear-influencer-con-ia"
+          ],
+          "page_type": "blog",
+          "slug": "crear-influencer-con-ia"
+        },
+        {
+          "page_id": "affogato-0011",
+          "url": "https://affogato.ai/blog/crear-imagenes-con-ia",
+          "canonical_url": "https://affogato.ai/blog/crear-imagenes-con-ia",
+          "original_urls": [
+            "https://affogato.ai/blog/crear-imagenes-con-ia"
+          ],
+          "page_type": "blog",
+          "slug": "crear-imagenes-con-ia"
+        },
+        {
+          "page_id": "affogato-0012",
+          "url": "https://affogato.ai/blog/crear-videos-con-ia-desde-fotos",
+          "canonical_url": "https://affogato.ai/blog/crear-videos-con-ia-desde-fotos",
+          "original_urls": [
+            "https://affogato.ai/blog/crear-videos-con-ia-desde-fotos"
+          ],
+          "page_type": "blog",
+          "slug": "crear-videos-con-ia-desde-fotos"
+        },
+        {
+          "page_id": "affogato-0013",
+          "url": "https://affogato.ai/blog/prompts-seedance-2-5-es",
+          "canonical_url": "https://affogato.ai/blog/prompts-seedance-2-5-es",
+          "original_urls": [
+            "https://affogato.ai/blog/prompts-seedance-2-5-es"
+          ],
+          "page_type": "blog",
+          "slug": "prompts-seedance-2-5-es"
+        },
+        {
+          "page_id": "affogato-0014",
+          "url": "https://affogato.ai/blog/seedance-2-5-api-es",
+          "canonical_url": "https://affogato.ai/blog/seedance-2-5-api-es",
+          "original_urls": [
+            "https://affogato.ai/blog/seedance-2-5-api-es"
+          ],
+          "page_type": "blog",
+          "slug": "seedance-2-5-api-es"
+        },
+        {
+          "page_id": "affogato-0015",
+          "url": "https://affogato.ai/blog/como-usar-seedance-2-5",
+          "canonical_url": "https://affogato.ai/blog/como-usar-seedance-2-5",
+          "original_urls": [
+            "https://affogato.ai/blog/como-usar-seedance-2-5"
+          ],
+          "page_type": "blog",
+          "slug": "como-usar-seedance-2-5"
+        },
+        {
+          "page_id": "affogato-0016",
+          "url": "https://affogato.ai/blog/seedance-2-5-personas-reales",
+          "canonical_url": "https://affogato.ai/blog/seedance-2-5-personas-reales",
+          "original_urls": [
+            "https://affogato.ai/blog/seedance-2-5-personas-reales"
+          ],
+          "page_type": "blog",
+          "slug": "seedance-2-5-personas-reales"
+        },
+        {
+          "page_id": "affogato-0017",
+          "url": "https://affogato.ai/blog/seedance-2-5-prompts",
+          "canonical_url": "https://affogato.ai/blog/seedance-2-5-prompts",
+          "original_urls": [
+            "https://affogato.ai/blog/seedance-2-5-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "seedance-2-5-prompts"
+        },
+        {
+          "page_id": "affogato-0018",
+          "url": "https://affogato.ai/es/blog",
+          "canonical_url": "https://affogato.ai/blog",
+          "original_urls": [
+            "https://affogato.ai/es/blog",
+            "https://affogato.ai/pt-br/blog",
+            "https://affogato.ai/fr/blog",
+            "https://affogato.ai/ko/blog",
+            "https://affogato.ai/ja/blog"
+          ],
+          "page_type": "blog",
+          "slug": "blog"
+        },
+        {
+          "page_id": "affogato-0019",
+          "url": "https://affogato.ai/es/blog/category/others",
+          "canonical_url": "https://affogato.ai/blog/category/others",
+          "original_urls": [
+            "https://affogato.ai/es/blog/category/others",
+            "https://affogato.ai/pt-br/blog/category/others",
+            "https://affogato.ai/fr/blog/category/others"
+          ],
+          "page_type": "blog",
+          "slug": "others"
+        },
+        {
+          "page_id": "affogato-0020",
+          "url": "https://affogato.ai/es/blog/category/ai-influencer",
+          "canonical_url": "https://affogato.ai/blog/category/ai-influencer",
+          "original_urls": [
+            "https://affogato.ai/es/blog/category/ai-influencer",
+            "https://affogato.ai/ko/blog/category/ai-influencer"
+          ],
+          "page_type": "blog",
+          "slug": "ai-influencer"
+        },
+        {
+          "page_id": "affogato-0021",
+          "url": "https://affogato.ai/es/blog/category/ai-video",
+          "canonical_url": "https://affogato.ai/blog/category/ai-video",
+          "original_urls": [
+            "https://affogato.ai/es/blog/category/ai-video",
+            "https://affogato.ai/pt-br/blog/category/ai-video",
+            "https://affogato.ai/fr/blog/category/ai-video",
+            "https://affogato.ai/ko/blog/category/ai-video",
+            "https://affogato.ai/ja/blog/category/ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "ai-video"
+        }
+      ],
+      "demands": [
+        {
+          "id": "affogato-seedance-2-5",
+          "name": "Seedance 2.5 西语教程簇",
+          "category": "content_strategy",
+          "summary": "围绕 Seedance 2.5 的提示词、API、使用方法和真人效果，一天新增 5 篇西语内容。 当日新增 5 个页面，slug：prompts-seedance-2-5-es、seedance-2-5-api-es、como-usar-seedance-2-5、seedance-2-5-personas-reales、seedance-2-5-prompts。",
+          "audience": "西语视频创作者",
+          "job_to_be_done": "学会用 Seedance 2.5",
+          "page_ids": [
+            "affogato-0013",
+            "affogato-0014",
+            "affogato-0015",
+            "affogato-0016",
+            "affogato-0017"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-multilang-tutorials",
+          "name": "多语言图片与视频教程",
+          "category": "content_strategy",
+          "summary": "把图片生成、视频生成、AI 网红和修图教程翻译成葡语、西语、法语、韩语和日语。 当日新增 12 个页面，slug：criar-videos-com-ia-a-partir-de-fotos、criar-imagens-com-ia、creer-video-ia-a-partir-photo、retouche-photo-ia-preserver-visage、sajin-ai-yeongsang-mandeulgi、ai-influencer-mandeulgi、gazou-kara-ai-douga-tsukurikata、ai-douga-prompt-rei、editar-fotos-con-ia-sin-cambiar-persona、crear-influencer-con-ia、crear-imagenes-con-ia、crear-videos-con-ia-desde-fotos。",
+          "audience": "非英语市场创作者",
+          "job_to_be_done": "用母语学会一个 AI 任务",
+          "page_ids": [
+            "affogato-0001",
+            "affogato-0002",
+            "affogato-0003",
+            "affogato-0004",
+            "affogato-0005",
+            "affogato-0006",
+            "affogato-0007",
+            "affogato-0008",
+            "affogato-0009",
+            "affogato-0010",
+            "affogato-0011",
+            "affogato-0012"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-blog-index",
+          "name": "博客索引与分类页",
+          "category": "platform_update",
+          "summary": "博客首页和分类归档页。 当日新增 4 个页面，slug：blog、others、ai-influencer、ai-video。",
+          "audience": "内容读者",
+          "job_to_be_done": "浏览文章分类",
+          "page_ids": [
+            "affogato-0018",
+            "affogato-0019",
+            "affogato-0020",
+            "affogato-0021"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "flyu",
+      "source_file": "diff/20261112/flyu.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "flyu-0001",
+          "url": "https://flyu.ai/blog/reggaeton-music-video-guide",
+          "canonical_url": "https://flyu.ai/blog/reggaeton-music-video-guide",
+          "original_urls": [
+            "https://flyu.ai/blog/reggaeton-music-video-guide"
+          ],
+          "page_type": "blog",
+          "slug": "reggaeton-music-video-guide"
+        }
+      ],
+      "demands": [
+        {
+          "id": "flyu-reggaeton-guide",
+          "name": "雷鬼音乐视频制作指南",
+          "category": "content_strategy",
+          "summary": "教用户做雷鬼风格音乐视频。 当日新增 1 个页面，slug：reggaeton-music-video-guide。",
+          "audience": "音乐视频创作者",
+          "job_to_be_done": "做一支雷鬼 MV",
+          "page_ids": [
+            "flyu-0001"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "fotor",
+      "source_file": "diff/20261112/fotor.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "fotor-0001",
+          "url": "https://www.fotor.com/ai-video-generator/video-overlay/",
+          "canonical_url": "https://www.fotor.com/ai-video-generator/video-overlay",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-generator/video-overlay/"
+          ],
+          "page_type": "other",
+          "slug": "video-overlay"
+        },
+        {
+          "page_id": "fotor-0002",
+          "url": "https://www.fotor.com/jp/features/3d-avatar-creator/",
+          "canonical_url": "https://www.fotor.com/jp/features/3d-avatar-creator",
+          "original_urls": [
+            "https://www.fotor.com/jp/features/3d-avatar-creator/"
+          ],
+          "page_type": "other",
+          "slug": "3d-avatar-creator"
+        },
+        {
+          "page_id": "fotor-0003",
+          "url": "https://www.fotor.com/ai-video-editor/subtitle-generator/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/subtitle-generator",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/subtitle-generator/"
+          ],
+          "page_type": "other",
+          "slug": "subtitle-generator"
+        },
+        {
+          "page_id": "fotor-0004",
+          "url": "https://www.fotor.com/de/ai-image-generator/girlfriend/",
+          "canonical_url": "https://www.fotor.com/ai-image-generator/girlfriend",
+          "original_urls": [
+            "https://www.fotor.com/de/ai-image-generator/girlfriend/"
+          ],
+          "page_type": "other",
+          "slug": "girlfriend"
+        },
+        {
+          "page_id": "fotor-0005",
+          "url": "https://www.fotor.com/jp/features/clone-stamp-tool/",
+          "canonical_url": "https://www.fotor.com/jp/features/clone-stamp-tool",
+          "original_urls": [
+            "https://www.fotor.com/jp/features/clone-stamp-tool/"
+          ],
+          "page_type": "other",
+          "slug": "clone-stamp-tool"
+        },
+        {
+          "page_id": "fotor-0006",
+          "url": "https://www.fotor.com/ai-video-editor/green-screen/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/green-screen",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/green-screen/"
+          ],
+          "page_type": "other",
+          "slug": "green-screen"
+        }
+      ],
+      "demands": [
+        {
+          "id": "fotor-video-edit-tools",
+          "name": "视频叠加、字幕与绿幕工具",
+          "category": "tool",
+          "summary": "视频叠加、自动字幕和绿幕抠像三个后期工具。 当日新增 3 个页面，slug：video-overlay、subtitle-generator、green-screen。",
+          "audience": "视频创作者",
+          "job_to_be_done": "完成一段视频的后期处理",
+          "page_ids": [
+            "fotor-0001",
+            "fotor-0003",
+            "fotor-0006"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-girlfriend-image",
+          "name": "AI 女友图片生成",
+          "category": "tool",
+          "summary": "生成虚拟女友风格图片。 当日新增 1 个页面，slug：girlfriend。",
+          "audience": "娱乐向用户",
+          "job_to_be_done": "生成人物图片",
+          "page_ids": [
+            "fotor-0004"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-jp-3d-avatar",
+          "name": "3D 头像生成（日语页）",
+          "category": "tool",
+          "summary": "日语路径下的 3D 头像生成工具。 当日新增 1 个页面，slug：3d-avatar-creator。",
+          "audience": "日本市场用户",
+          "job_to_be_done": "生成 3D 头像",
+          "page_ids": [
+            "fotor-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅日语路径，疑为本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-clone-stamp",
+          "name": "克隆图章修图（日语页）",
+          "category": "tool",
+          "summary": "日语路径下的克隆图章修图工具。 当日新增 1 个页面，slug：clone-stamp-tool。",
+          "audience": "日本市场修图用户",
+          "job_to_be_done": "用克隆图章修补图片",
+          "page_ids": [
+            "fotor-0005"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅日语路径，疑为本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "getstarrd",
+      "source_file": "diff/20261112/getstarrd.json",
+      "raw_url_count": 9,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 9,
+      "pages": [
+        {
+          "page_id": "getstarrd-0001",
+          "url": "https://www.getstarrd.app/image-to-video",
+          "canonical_url": "https://www.getstarrd.app/image-to-video",
+          "original_urls": [
+            "https://www.getstarrd.app/image-to-video"
+          ],
+          "page_type": "other",
+          "slug": "image-to-video"
+        },
+        {
+          "page_id": "getstarrd-0002",
+          "url": "https://www.getstarrd.app/template/beans-greens-potatoes-tomatoes-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/beans-greens-potatoes-tomatoes-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/beans-greens-potatoes-tomatoes-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "beans-greens-potatoes-tomatoes-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0003",
+          "url": "https://www.getstarrd.app/template/is-this-how-you-cut-it-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/is-this-how-you-cut-it-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/is-this-how-you-cut-it-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "is-this-how-you-cut-it-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0004",
+          "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "bro-took-the-whole-bag-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0005",
+          "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "the-notebook-tigran-gertz-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0006",
+          "url": "https://www.getstarrd.app/blog/how-to-make-an-ai-cat-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-an-ai-cat-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-an-ai-cat-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-an-ai-cat-video"
+        },
+        {
+          "page_id": "getstarrd-0007",
+          "url": "https://www.getstarrd.app/blog/how-to-make-an-ai-dog-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-an-ai-dog-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-an-ai-dog-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-an-ai-dog-video"
+        },
+        {
+          "page_id": "getstarrd-0008",
+          "url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-mr-and-mrs-smith-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0009",
+          "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-the-hot-chick-ice-cream-scene-ai-video"
+        }
+      ],
+      "demands": [
+        {
+          "id": "getstarrd-image-to-video",
+          "name": "图片转视频入口",
+          "category": "tool",
+          "summary": "站内图生视频总入口。 当日新增 1 个页面，slug：image-to-video。",
+          "audience": "短视频创作者",
+          "job_to_be_done": "把图片变成视频",
+          "page_ids": [
+            "getstarrd-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "getstarrd-meme-templates",
+          "name": "梗视频模板",
+          "category": "trend_template",
+          "summary": "豆子青菜、切菜梗、整袋拿走和恋恋笔记本四个模板。 当日新增 4 个页面，slug：beans-greens-potatoes-tomatoes-ai-video、is-this-how-you-cut-it-ai-video、bro-took-the-whole-bag-ai-video、the-notebook-tigran-gertz-ai-video。",
+          "audience": "追梗的短视频创作者",
+          "job_to_be_done": "套用梗模板生成视频",
+          "page_ids": [
+            "getstarrd-0002",
+            "getstarrd-0003",
+            "getstarrd-0004",
+            "getstarrd-0005"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "getstarrd-pet-and-movie-tutorials",
+          "name": "宠物与影视模板教程",
+          "category": "content_strategy",
+          "summary": "猫、狗、史密斯夫妇和冰淇淋场景四个模板教程。 当日新增 4 个页面，slug：how-to-make-an-ai-cat-video、how-to-make-an-ai-dog-video、how-to-make-mr-and-mrs-smith-ai-video、how-to-make-the-hot-chick-ice-cream-scene-ai-video。",
+          "audience": "新用户",
+          "job_to_be_done": "照着教程复现模板",
+          "page_ids": [
+            "getstarrd-0006",
+            "getstarrd-0007",
+            "getstarrd-0008",
+            "getstarrd-0009"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261112/higgsfield.json",
+      "raw_url_count": 10,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 10,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/community/rooms/room-3d0eb4",
+          "canonical_url": "https://higgsfield.ai/community/rooms/room-3d0eb4",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/room-3d0eb4"
+          ],
+          "page_type": "community",
+          "slug": "room-3d0eb4"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms/viral-remakes",
+          "canonical_url": "https://higgsfield.ai/community/rooms/viral-remakes",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/viral-remakes"
+          ],
+          "page_type": "community",
+          "slug": "viral-remakes"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/ai-bloopers",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-bloopers",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-bloopers"
+          ],
+          "page_type": "community",
+          "slug": "ai-bloopers"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/community/rooms/ai-meme-factory",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-meme-factory",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-meme-factory"
+          ],
+          "page_type": "community",
+          "slug": "ai-meme-factory"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/blog/higgsfield-11-11-deals",
+          "canonical_url": "https://higgsfield.ai/blog/higgsfield-11-11-deals",
+          "original_urls": [
+            "https://higgsfield.ai/blog/higgsfield-11-11-deals"
+          ],
+          "page_type": "blog",
+          "slug": "higgsfield-11-11-deals"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/blog/best-image-to-video-ai-generators-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-image-to-video-ai-generators-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-image-to-video-ai-generators-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-image-to-video-ai-generators-2026"
+        },
+        {
+          "page_id": "higgsfield-0007",
+          "url": "https://higgsfield.ai/blog/higgsfield-soc-2-type-ii-gdpr-assessment",
+          "canonical_url": "https://higgsfield.ai/blog/higgsfield-soc-2-type-ii-gdpr-assessment",
+          "original_urls": [
+            "https://higgsfield.ai/blog/higgsfield-soc-2-type-ii-gdpr-assessment"
+          ],
+          "page_type": "blog",
+          "slug": "higgsfield-soc-2-type-ii-gdpr-assessment"
+        },
+        {
+          "page_id": "higgsfield-0008",
+          "url": "https://higgsfield.ai/blog/best-ai-video-upscalers-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-ai-video-upscalers-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-ai-video-upscalers-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-video-upscalers-2026"
+        },
+        {
+          "page_id": "higgsfield-0009",
+          "url": "https://higgsfield.ai/creator-hub/help-center/plans/what-does-the-free-plan-include",
+          "canonical_url": "https://higgsfield.ai/creator-hub/help-center/plans/what-does-the-free-plan-include",
+          "original_urls": [
+            "https://higgsfield.ai/creator-hub/help-center/plans/what-does-the-free-plan-include"
+          ],
+          "page_type": "other",
+          "slug": "what-does-the-free-plan-include"
+        },
+        {
+          "page_id": "higgsfield-0010",
+          "url": "https://higgsfield.ai/creator-hub/case-studies/dream-slate-pictures-brings-40-years-of-indian-filmmaking-to-global-brands-with-higgsfield",
+          "canonical_url": "https://higgsfield.ai/creator-hub/case-studies/dream-slate-pictures-brings-40-years-of-indian-filmmaking-to-global-brands-with-higgsfield",
+          "original_urls": [
+            "https://higgsfield.ai/creator-hub/case-studies/dream-slate-pictures-brings-40-years-of-indian-filmmaking-to-global-brands-with-higgsfield"
+          ],
+          "page_type": "other",
+          "slug": "dream-slate-pictures-brings-40-years-of-indian-filmmaking-to-global-brands-with-higgsfield"
+        }
+      ],
+      "demands": [
+        {
+          "id": "higgsfield-community-rooms",
+          "name": "社区创作房间",
+          "category": "platform_update",
+          "summary": "新增 3D、病毒式翻拍、AI 花絮和梗图工厂四个房间。 当日新增 4 个页面，slug：room-3d0eb4、viral-remakes、ai-bloopers、ai-meme-factory。",
+          "audience": "社区用户",
+          "job_to_be_done": "进入同题材房间",
+          "page_ids": [
+            "higgsfield-0001",
+            "higgsfield-0002",
+            "higgsfield-0003",
+            "higgsfield-0004"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "higgsfield-roundup-blogs",
+          "name": "图生视频与视频放大榜单",
+          "category": "content_strategy",
+          "summary": "2026 图生视频工具和视频放大工具两个榜单。 当日新增 2 个页面，slug：best-image-to-video-ai-generators-2026、best-ai-video-upscalers-2026。",
+          "audience": "选型用户",
+          "job_to_be_done": "挑一个工具",
+          "page_ids": [
+            "higgsfield-0006",
+            "higgsfield-0008"
+          ],
+          "signal": "榜单内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "higgsfield-deals-and-compliance",
+          "name": "促销、合规与套餐说明",
+          "category": "platform_update",
+          "summary": "双十一促销、SOC 2 / GDPR 评估和免费套餐说明。 当日新增 3 个页面，slug：higgsfield-11-11-deals、higgsfield-soc-2-type-ii-gdpr-assessment、what-does-the-free-plan-include。",
+          "audience": "购买决策用户",
+          "job_to_be_done": "了解价格与合规",
+          "page_ids": [
+            "higgsfield-0005",
+            "higgsfield-0007",
+            "higgsfield-0009"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "higgsfield-case-study",
+          "name": "印度电影制作客户案例",
+          "category": "content_strategy",
+          "summary": "一家印度电影制作公司用 Higgsfield 服务全球品牌的案例。 当日新增 1 个页面，slug：dream-slate-pictures-brings-40-years-of-indian-filmmaking-to-global-brands-with-higgsfield。",
+          "audience": "品牌和制作公司",
+          "job_to_be_done": "评估 AI 视频制作能力",
+          "page_ids": [
+            "higgsfield-0010"
+          ],
+          "signal": "案例内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "imagine",
+      "source_file": "diff/20261112/imagine.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "imagine-0001",
+          "url": "https://www.imagine.art/insights/best-photo-editing-apps-for-iphone-android",
+          "canonical_url": "https://www.imagine.art/insights/best-photo-editing-apps-for-iphone-android",
+          "original_urls": [
+            "https://www.imagine.art/insights/best-photo-editing-apps-for-iphone-android"
+          ],
+          "page_type": "other",
+          "slug": "best-photo-editing-apps-for-iphone-android"
+        },
+        {
+          "page_id": "imagine-0002",
+          "url": "https://www.imagine.art/models/openai/gpt-image-2-6",
+          "canonical_url": "https://www.imagine.art/models/openai/gpt-image-2-6",
+          "original_urls": [
+            "https://www.imagine.art/models/openai/gpt-image-2-6"
+          ],
+          "page_type": "model_api",
+          "slug": "gpt-image-2-6"
+        }
+      ],
+      "demands": [
+        {
+          "id": "imagine-photo-apps-roundup",
+          "name": "手机修图 App 盘点",
+          "category": "content_strategy",
+          "summary": "iPhone 和 Android 修图 App 榜单。 当日新增 1 个页面，slug：best-photo-editing-apps-for-iphone-android。",
+          "audience": "普通用户",
+          "job_to_be_done": "挑一个修图 App",
+          "page_ids": [
+            "imagine-0001"
+          ],
+          "signal": "榜单内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "imagine-gpt-image-2-6",
+          "name": "GPT Image 2.6 模型页",
+          "category": "model_api",
+          "summary": "GPT Image 2.6 的模型说明与入口。 当日新增 1 个页面，slug：gpt-image-2-6。",
+          "audience": "图片创作者",
+          "job_to_be_done": "用新模型生成图片",
+          "page_ids": [
+            "imagine-0002"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "mindvideo",
+      "source_file": "diff/20261112/mindvideo.json",
+      "raw_url_count": 11,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "mindvideo-0001",
+          "url": "https://www.mindvideo.ai/seedream-5-5/",
+          "canonical_url": "https://www.mindvideo.ai/seedream-5-5",
+          "original_urls": [
+            "https://www.mindvideo.ai/seedream-5-5/",
+            "https://www.mindvideo.ai/zh/seedream-5-5/",
+            "https://www.mindvideo.ai/zh-TW/seedream-5-5/",
+            "https://www.mindvideo.ai/de/seedream-5-5/",
+            "https://www.mindvideo.ai/fr/seedream-5-5/",
+            "https://www.mindvideo.ai/it/seedream-5-5/",
+            "https://www.mindvideo.ai/pt/seedream-5-5/",
+            "https://www.mindvideo.ai/ja/seedream-5-5/",
+            "https://www.mindvideo.ai/ko/seedream-5-5/",
+            "https://www.mindvideo.ai/es/seedream-5-5/",
+            "https://www.mindvideo.ai/nl/seedream-5-5/"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        }
+      ],
+      "demands": [
+        {
+          "id": "mindvideo-seedream-5-5",
+          "name": "Seedream 5.5 模型页",
+          "category": "model_api",
+          "summary": "Seedream 5.5 的独立模型页。 当日新增 1 个页面，slug：seedream-5-5。",
+          "audience": "图片创作者",
+          "job_to_be_done": "用新模型生成图片",
+          "page_ids": [
+            "mindvideo-0001"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "mitte",
+      "source_file": "diff/20261112/mitte.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "mitte-0001",
+          "url": "https://mitte.ai/node/minimax-h3-image",
+          "canonical_url": "https://mitte.ai/node/minimax-h3-image",
+          "original_urls": [
+            "https://mitte.ai/node/minimax-h3-image"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        }
+      ],
+      "demands": [
+        {
+          "id": "mitte-minimax-h3-image",
+          "name": "MiniMax H3 图像节点",
+          "category": "model_api",
+          "summary": "把 MiniMax H3 图像能力做成节点接入。 当日新增 1 个页面，slug：minimax-h3-image。",
+          "audience": "用节点编排的创作者",
+          "job_to_be_done": "在工作流里接入 H3 图像",
+          "page_ids": [
+            "mitte-0001"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "piclumen",
+      "source_file": "diff/20261112/piclumen.json",
+      "raw_url_count": 10,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 10,
+      "pages": [
+        {
+          "page_id": "piclumen-0001",
+          "url": "https://www.piclumen.com/ai-image-generator/ai-thanksgivng/",
+          "canonical_url": "https://www.piclumen.com/ai-image-generator/ai-thanksgivng",
+          "original_urls": [
+            "https://www.piclumen.com/ai-image-generator/ai-thanksgivng/"
+          ],
+          "page_type": "other",
+          "slug": "ai-thanksgivng"
+        },
+        {
+          "page_id": "piclumen-0002",
+          "url": "https://www.piclumen.com/ai-image-generator/funny-face-filter/",
+          "canonical_url": "https://www.piclumen.com/ai-image-generator/funny-face-filter",
+          "original_urls": [
+            "https://www.piclumen.com/ai-image-generator/funny-face-filter/"
+          ],
+          "page_type": "other",
+          "slug": "funny-face-filter"
+        },
+        {
+          "page_id": "piclumen-0003",
+          "url": "https://www.piclumen.com/ai-tools/Vidu/",
+          "canonical_url": "https://www.piclumen.com/ai-tools/Vidu",
+          "original_urls": [
+            "https://www.piclumen.com/ai-tools/Vidu/"
+          ],
+          "page_type": "other",
+          "slug": "vidu"
+        },
+        {
+          "page_id": "piclumen-0004",
+          "url": "https://www.piclumen.com/ai-video-generator/face-animator/",
+          "canonical_url": "https://www.piclumen.com/ai-video-generator/face-animator",
+          "original_urls": [
+            "https://www.piclumen.com/ai-video-generator/face-animator/"
+          ],
+          "page_type": "other",
+          "slug": "face-animator"
+        },
+        {
+          "page_id": "piclumen-0005",
+          "url": "https://www.piclumen.com/apps/ai-outfit-change-video-generator/",
+          "canonical_url": "https://www.piclumen.com/apps/ai-outfit-change-video-generator",
+          "original_urls": [
+            "https://www.piclumen.com/apps/ai-outfit-change-video-generator/"
+          ],
+          "page_type": "other",
+          "slug": "ai-outfit-change-video-generator"
+        },
+        {
+          "page_id": "piclumen-0006",
+          "url": "https://www.piclumen.com/apps/effects-can-i-ride-dance-ai/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-can-i-ride-dance-ai",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-can-i-ride-dance-ai/"
+          ],
+          "page_type": "other",
+          "slug": "effects-can-i-ride-dance-ai"
+        },
+        {
+          "page_id": "piclumen-0007",
+          "url": "https://www.piclumen.com/apps/effects-deck-the-halls-dance-duo/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-deck-the-halls-dance-duo",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-deck-the-halls-dance-duo/"
+          ],
+          "page_type": "other",
+          "slug": "effects-deck-the-halls-dance-duo"
+        },
+        {
+          "page_id": "piclumen-0008",
+          "url": "https://www.piclumen.com/apps/effects-i-love-the-smiths-ai/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-i-love-the-smiths-ai",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-i-love-the-smiths-ai/"
+          ],
+          "page_type": "other",
+          "slug": "effects-i-love-the-smiths-ai"
+        },
+        {
+          "page_id": "piclumen-0009",
+          "url": "https://www.piclumen.com/apps/effects-standing-animals-eme/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-standing-animals-eme",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-standing-animals-eme/"
+          ],
+          "page_type": "other",
+          "slug": "effects-standing-animals-eme"
+        },
+        {
+          "page_id": "piclumen-0010",
+          "url": "https://www.piclumen.com/apps/tools-sunset-bikini/",
+          "canonical_url": "https://www.piclumen.com/apps/tools-sunset-bikini",
+          "original_urls": [
+            "https://www.piclumen.com/apps/tools-sunset-bikini/"
+          ],
+          "page_type": "other",
+          "slug": "tools-sunset-bikini"
+        }
+      ],
+      "demands": [
+        {
+          "id": "piclumen-thanksgiving-filter",
+          "name": "感恩节图片效果",
+          "category": "tool",
+          "summary": "感恩节主题图片效果页（slug 有拼写错误）。 当日新增 1 个页面，slug：ai-thanksgivng。",
+          "audience": "节日内容创作者",
+          "job_to_be_done": "生成感恩节主题图",
+          "page_ids": [
+            "piclumen-0001"
+          ],
+          "signal": "模板簇",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "piclumen-funny-face-filter",
+          "name": "搞笑脸滤镜",
+          "category": "tool",
+          "summary": "把脸变形的搞笑滤镜。 当日新增 1 个页面，slug：funny-face-filter。",
+          "audience": "社交平台用户",
+          "job_to_be_done": "生成搞笑头像",
+          "page_ids": [
+            "piclumen-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "piclumen-vidu-tool",
+          "name": "Vidu 工具条目页",
+          "category": "model_api",
+          "summary": "第三方视频模型 Vidu 的条目页。 当日新增 1 个页面，slug：vidu。",
+          "audience": "选型用户",
+          "job_to_be_done": "了解并跳转 Vidu",
+          "page_ids": [
+            "piclumen-0003"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "piclumen-face-animator",
+          "name": "人脸动画工具",
+          "category": "tool",
+          "summary": "让静态人脸动起来的工具。 当日新增 1 个页面，slug：face-animator。",
+          "audience": "口播和头像创作者",
+          "job_to_be_done": "让照片里的人动起来",
+          "page_ids": [
+            "piclumen-0004"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "piclumen-outfit-change-video",
+          "name": "换装视频生成",
+          "category": "tool",
+          "summary": "生成人物换装过程的视频。 当日新增 1 个页面，slug：ai-outfit-change-video-generator。",
+          "audience": "时尚和电商创作者",
+          "job_to_be_done": "生成换装视频",
+          "page_ids": [
+            "piclumen-0005"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://www.piclumen.com/apps/ai-outfit-change-video-generator",
+            "已打开页面，title 为 AI Outfit Change Video Generator，描述为把穿搭图变成写实换装短片并保持人物身份"
+          ]
+        },
+        {
+          "id": "piclumen-effects-cluster",
+          "name": "现象级效果模板",
+          "category": "trend_template",
+          "summary": "骑马舞、圣诞二重唱、史密斯夫妇、站立动物和日落比基尼五个模板。 当日新增 5 个页面，slug：effects-can-i-ride-dance-ai、effects-deck-the-halls-dance-duo、effects-i-love-the-smiths-ai、effects-standing-animals-eme、tools-sunset-bikini。",
+          "audience": "追热点的短视频创作者",
+          "job_to_be_done": "套用效果生成视频",
+          "page_ids": [
+            "piclumen-0006",
+            "piclumen-0007",
+            "piclumen-0008",
+            "piclumen-0009",
+            "piclumen-0010"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "pixlio",
+      "source_file": "diff/20261112/pixlio.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "pixlio-0001",
+          "url": "https://pixlio.net/ai-talking-photo-generator",
+          "canonical_url": "https://pixlio.net/ai-talking-photo-generator",
+          "original_urls": [
+            "https://pixlio.net/ai-talking-photo-generator"
+          ],
+          "page_type": "tool",
+          "slug": "ai-talking-photo-generator"
+        }
+      ],
+      "demands": [
+        {
+          "id": "pixlio-talking-photo",
+          "name": "会说话的照片生成",
+          "category": "tool",
+          "summary": "上传照片生成会说话的视频。 当日新增 1 个页面，slug：ai-talking-photo-generator。",
+          "audience": "口播和情感内容创作者",
+          "job_to_be_done": "让老照片开口说话",
+          "page_ids": [
+            "pixlio-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "renoise",
+      "source_file": "diff/20261112/renoise.json",
+      "raw_url_count": 86,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 9,
+      "pages": [
+        {
+          "page_id": "renoise-0001",
+          "url": "https://renoise.ai/ar/models/gpt-image-2-6",
+          "canonical_url": "https://renoise.ai/models/gpt-image-2-6",
+          "original_urls": [
+            "https://renoise.ai/ar/models/gpt-image-2-6",
+            "https://renoise.ai/de/models/gpt-image-2-6",
+            "https://renoise.ai/models/gpt-image-2-6",
+            "https://renoise.ai/es/models/gpt-image-2-6",
+            "https://renoise.ai/fr/models/gpt-image-2-6",
+            "https://renoise.ai/it/models/gpt-image-2-6",
+            "https://renoise.ai/ja/models/gpt-image-2-6",
+            "https://renoise.ai/ko/models/gpt-image-2-6",
+            "https://renoise.ai/pt-BR/models/gpt-image-2-6",
+            "https://renoise.ai/ru/models/gpt-image-2-6",
+            "https://renoise.ai/tr/models/gpt-image-2-6",
+            "https://renoise.ai/zh-CN/models/gpt-image-2-6"
+          ],
+          "page_type": "model_api",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "renoise-0002",
+          "url": "https://renoise.ai/ar/models/nano-banana-2-1",
+          "canonical_url": "https://renoise.ai/models/nano-banana-2-1",
+          "original_urls": [
+            "https://renoise.ai/ar/models/nano-banana-2-1",
+            "https://renoise.ai/de/models/nano-banana-2-1",
+            "https://renoise.ai/models/nano-banana-2-1",
+            "https://renoise.ai/es/models/nano-banana-2-1",
+            "https://renoise.ai/fr/models/nano-banana-2-1",
+            "https://renoise.ai/it/models/nano-banana-2-1",
+            "https://renoise.ai/ja/models/nano-banana-2-1",
+            "https://renoise.ai/ko/models/nano-banana-2-1",
+            "https://renoise.ai/pt-BR/models/nano-banana-2-1",
+            "https://renoise.ai/ru/models/nano-banana-2-1",
+            "https://renoise.ai/tr/models/nano-banana-2-1",
+            "https://renoise.ai/zh-CN/models/nano-banana-2-1"
+          ],
+          "page_type": "model_api",
+          "slug": "nano-banana-2-1"
+        },
+        {
+          "page_id": "renoise-0003",
+          "url": "https://renoise.ai/ar/models/omnihuman",
+          "canonical_url": "https://renoise.ai/models/omnihuman",
+          "original_urls": [
+            "https://renoise.ai/ar/models/omnihuman",
+            "https://renoise.ai/de/models/omnihuman",
+            "https://renoise.ai/models/omnihuman",
+            "https://renoise.ai/es/models/omnihuman",
+            "https://renoise.ai/fr/models/omnihuman",
+            "https://renoise.ai/it/models/omnihuman",
+            "https://renoise.ai/ja/models/omnihuman",
+            "https://renoise.ai/ko/models/omnihuman",
+            "https://renoise.ai/pt-BR/models/omnihuman",
+            "https://renoise.ai/ru/models/omnihuman",
+            "https://renoise.ai/tr/models/omnihuman",
+            "https://renoise.ai/zh-CN/models/omnihuman"
+          ],
+          "page_type": "model_api",
+          "slug": "omnihuman"
+        },
+        {
+          "page_id": "renoise-0004",
+          "url": "https://renoise.ai/ar/models/qwen-image-3",
+          "canonical_url": "https://renoise.ai/models/qwen-image-3",
+          "original_urls": [
+            "https://renoise.ai/ar/models/qwen-image-3",
+            "https://renoise.ai/de/models/qwen-image-3",
+            "https://renoise.ai/models/qwen-image-3",
+            "https://renoise.ai/es/models/qwen-image-3",
+            "https://renoise.ai/fr/models/qwen-image-3",
+            "https://renoise.ai/it/models/qwen-image-3",
+            "https://renoise.ai/ja/models/qwen-image-3",
+            "https://renoise.ai/ko/models/qwen-image-3",
+            "https://renoise.ai/pt-BR/models/qwen-image-3",
+            "https://renoise.ai/ru/models/qwen-image-3",
+            "https://renoise.ai/tr/models/qwen-image-3",
+            "https://renoise.ai/zh-CN/models/qwen-image-3"
+          ],
+          "page_type": "model_api",
+          "slug": "qwen-image-3"
+        },
+        {
+          "page_id": "renoise-0005",
+          "url": "https://renoise.ai/ar/models/seedream-5-5",
+          "canonical_url": "https://renoise.ai/models/seedream-5-5",
+          "original_urls": [
+            "https://renoise.ai/ar/models/seedream-5-5",
+            "https://renoise.ai/de/models/seedream-5-5",
+            "https://renoise.ai/models/seedream-5-5",
+            "https://renoise.ai/es/models/seedream-5-5",
+            "https://renoise.ai/fr/models/seedream-5-5",
+            "https://renoise.ai/it/models/seedream-5-5",
+            "https://renoise.ai/ja/models/seedream-5-5",
+            "https://renoise.ai/ko/models/seedream-5-5",
+            "https://renoise.ai/pt-BR/models/seedream-5-5",
+            "https://renoise.ai/ru/models/seedream-5-5",
+            "https://renoise.ai/tr/models/seedream-5-5",
+            "https://renoise.ai/zh-CN/models/seedream-5-5"
+          ],
+          "page_type": "model_api",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "renoise-0006",
+          "url": "https://renoise.ai/ar/models/wan-3",
+          "canonical_url": "https://renoise.ai/models/wan-3",
+          "original_urls": [
+            "https://renoise.ai/ar/models/wan-3",
+            "https://renoise.ai/de/models/wan-3",
+            "https://renoise.ai/models/wan-3",
+            "https://renoise.ai/es/models/wan-3",
+            "https://renoise.ai/fr/models/wan-3",
+            "https://renoise.ai/it/models/wan-3",
+            "https://renoise.ai/ja/models/wan-3",
+            "https://renoise.ai/ko/models/wan-3",
+            "https://renoise.ai/pt-BR/models/wan-3",
+            "https://renoise.ai/ru/models/wan-3",
+            "https://renoise.ai/tr/models/wan-3",
+            "https://renoise.ai/zh-CN/models/wan-3"
+          ],
+          "page_type": "model_api",
+          "slug": "wan-3"
+        },
+        {
+          "page_id": "renoise-0007",
+          "url": "https://renoise.ai/de/models/flux-3",
+          "canonical_url": "https://renoise.ai/models/flux-3",
+          "original_urls": [
+            "https://renoise.ai/de/models/flux-3",
+            "https://renoise.ai/models/flux-3",
+            "https://renoise.ai/fr/models/flux-3",
+            "https://renoise.ai/ko/models/flux-3",
+            "https://renoise.ai/zh-CN/models/flux-3"
+          ],
+          "page_type": "model_api",
+          "slug": "flux-3"
+        },
+        {
+          "page_id": "renoise-0008",
+          "url": "https://renoise.ai/de/models/vidu-q4",
+          "canonical_url": "https://renoise.ai/models/vidu-q4",
+          "original_urls": [
+            "https://renoise.ai/de/models/vidu-q4",
+            "https://renoise.ai/models/vidu-q4",
+            "https://renoise.ai/es/models/vidu-q4",
+            "https://renoise.ai/fr/models/vidu-q4",
+            "https://renoise.ai/ja/models/vidu-q4",
+            "https://renoise.ai/ko/models/vidu-q4",
+            "https://renoise.ai/pt-BR/models/vidu-q4",
+            "https://renoise.ai/zh-CN/models/vidu-q4"
+          ],
+          "page_type": "model_api",
+          "slug": "vidu-q4"
+        },
+        {
+          "page_id": "renoise-0009",
+          "url": "https://renoise.ai/blog/claude-fable-5-2-video-image-prompts",
+          "canonical_url": "https://renoise.ai/blog/claude-fable-5-2-video-image-prompts",
+          "original_urls": [
+            "https://renoise.ai/blog/claude-fable-5-2-video-image-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "claude-fable-5-2-video-image-prompts"
+        }
+      ],
+      "demands": [
+        {
+          "id": "renoise-models-batch",
+          "name": "模型接入页批量新增",
+          "category": "model_api",
+          "summary": "GPT Image 2.6、Nano Banana 2.1、OmniHuman、Qwen Image 3、Seedream 5.5、Wan 3、Flux 3、Vidu Q4 八个模型页一天上线。 当日新增 8 个页面，slug：gpt-image-2-6、nano-banana-2-1、omnihuman、qwen-image-3、seedream-5-5、wan-3、flux-3、vidu-q4。",
+          "audience": "要比较模型的创作者",
+          "job_to_be_done": "按模型生成内容",
+          "page_ids": [
+            "renoise-0001",
+            "renoise-0002",
+            "renoise-0003",
+            "renoise-0004",
+            "renoise-0005",
+            "renoise-0006",
+            "renoise-0007",
+            "renoise-0008"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "renoise-claude-prompts",
+          "name": "Claude 视频与图片提示词",
+          "category": "content_strategy",
+          "summary": "围绕 Claude Fable 5.2 的视频和图片提示词内容。 当日新增 1 个页面，slug：claude-fable-5-2-video-image-prompts。",
+          "audience": "写提示词的用户",
+          "job_to_be_done": "复用提示词",
+          "page_ids": [
+            "renoise-0009"
+          ],
+          "signal": "提示词内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "vismuse",
+      "source_file": "diff/20261112/vismuse.json",
+      "raw_url_count": 9,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 9,
+      "pages": [
+        {
+          "page_id": "vismuse-0001",
+          "url": "https://vismuse.com/take-me-ai",
+          "canonical_url": "https://vismuse.com/take-me-ai",
+          "original_urls": [
+            "https://vismuse.com/take-me-ai"
+          ],
+          "page_type": "other",
+          "slug": "take-me-ai"
+        },
+        {
+          "page_id": "vismuse-0002",
+          "url": "https://vismuse.com/tools/take-me-ai",
+          "canonical_url": "https://vismuse.com/tools/take-me-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/take-me-ai"
+          ],
+          "page_type": "tool",
+          "slug": "take-me-ai"
+        },
+        {
+          "page_id": "vismuse-0003",
+          "url": "https://vismuse.com/tools/2027-new-year-ai",
+          "canonical_url": "https://vismuse.com/tools/2027-new-year-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/2027-new-year-ai"
+          ],
+          "page_type": "tool",
+          "slug": "2027-new-year-ai"
+        },
+        {
+          "page_id": "vismuse-0004",
+          "url": "https://vismuse.com/tools/ai-doorbell-video",
+          "canonical_url": "https://vismuse.com/tools/ai-doorbell-video",
+          "original_urls": [
+            "https://vismuse.com/tools/ai-doorbell-video"
+          ],
+          "page_type": "tool",
+          "slug": "ai-doorbell-video"
+        },
+        {
+          "page_id": "vismuse-0005",
+          "url": "https://vismuse.com/tools/hotline-bling-dance-ai",
+          "canonical_url": "https://vismuse.com/tools/hotline-bling-dance-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/hotline-bling-dance-ai"
+          ],
+          "page_type": "tool",
+          "slug": "hotline-bling-dance-ai"
+        },
+        {
+          "page_id": "vismuse-0006",
+          "url": "https://vismuse.com/tools/iconic-by-mistake-ai",
+          "canonical_url": "https://vismuse.com/tools/iconic-by-mistake-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/iconic-by-mistake-ai"
+          ],
+          "page_type": "tool",
+          "slug": "iconic-by-mistake-ai"
+        },
+        {
+          "page_id": "vismuse-0007",
+          "url": "https://vismuse.com/tools/aeropickles-dance-ai",
+          "canonical_url": "https://vismuse.com/tools/aeropickles-dance-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/aeropickles-dance-ai"
+          ],
+          "page_type": "tool",
+          "slug": "aeropickles-dance-ai"
+        },
+        {
+          "page_id": "vismuse-0008",
+          "url": "https://vismuse.com/mellojoy-dance-ai",
+          "canonical_url": "https://vismuse.com/mellojoy-dance-ai",
+          "original_urls": [
+            "https://vismuse.com/mellojoy-dance-ai"
+          ],
+          "page_type": "other",
+          "slug": "mellojoy-dance-ai"
+        },
+        {
+          "page_id": "vismuse-0009",
+          "url": "https://vismuse.com/tools/mellojoy-dance-ai",
+          "canonical_url": "https://vismuse.com/tools/mellojoy-dance-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/mellojoy-dance-ai"
+          ],
+          "page_type": "tool",
+          "slug": "mellojoy-dance-ai"
+        }
+      ],
+      "demands": [
+        {
+          "id": "vismuse-meme-dance-templates",
+          "name": "热梗与舞蹈模板簇",
+          "category": "trend_template",
+          "summary": "Take Me、2027 新年、门铃、Hotline Bling 舞、Iconic by Mistake、Aeropickles 和 Mellojoy 一批模板，含重复路径。 当日新增 9 个页面，slug：take-me-ai、2027-new-year-ai、ai-doorbell-video、hotline-bling-dance-ai、iconic-by-mistake-ai、aeropickles-dance-ai、mellojoy-dance-ai。",
+          "audience": "追梗和舞蹈创作者",
+          "job_to_be_done": "套用热梗生成视频",
+          "page_ids": [
+            "vismuse-0001",
+            "vismuse-0002",
+            "vismuse-0003",
+            "vismuse-0004",
+            "vismuse-0005",
+            "vismuse-0006",
+            "vismuse-0007",
+            "vismuse-0008",
+            "vismuse-0009"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261112/wavespeed.json",
+      "raw_url_count": 71,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 7,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/novel-ai-alternative",
+          "canonical_url": "https://wavespeed.ai/novel-ai-alternative",
+          "original_urls": [
+            "https://wavespeed.ai/novel-ai-alternative",
+            "https://wavespeed.ai/es/novel-ai-alternative",
+            "https://wavespeed.ai/pt/novel-ai-alternative",
+            "https://wavespeed.ai/fr/novel-ai-alternative",
+            "https://wavespeed.ai/de/novel-ai-alternative",
+            "https://wavespeed.ai/it/novel-ai-alternative",
+            "https://wavespeed.ai/ru/novel-ai-alternative",
+            "https://wavespeed.ai/tr/novel-ai-alternative",
+            "https://wavespeed.ai/pl/novel-ai-alternative",
+            "https://wavespeed.ai/id/novel-ai-alternative",
+            "https://wavespeed.ai/vi/novel-ai-alternative",
+            "https://wavespeed.ai/th/novel-ai-alternative",
+            "https://wavespeed.ai/hi/novel-ai-alternative",
+            "https://wavespeed.ai/ja/novel-ai-alternative",
+            "https://wavespeed.ai/ko/novel-ai-alternative",
+            "https://wavespeed.ai/zh-CN/novel-ai-alternative",
+            "https://wavespeed.ai/zh-TW/novel-ai-alternative"
+          ],
+          "page_type": "other",
+          "slug": "novel-ai-alternative"
+        },
+        {
+          "page_id": "wavespeed-0002",
+          "url": "https://wavespeed.ai/vidnoz-ai-alternative",
+          "canonical_url": "https://wavespeed.ai/vidnoz-ai-alternative",
+          "original_urls": [
+            "https://wavespeed.ai/vidnoz-ai-alternative",
+            "https://wavespeed.ai/es/vidnoz-ai-alternative",
+            "https://wavespeed.ai/pt/vidnoz-ai-alternative",
+            "https://wavespeed.ai/fr/vidnoz-ai-alternative",
+            "https://wavespeed.ai/de/vidnoz-ai-alternative",
+            "https://wavespeed.ai/it/vidnoz-ai-alternative",
+            "https://wavespeed.ai/ru/vidnoz-ai-alternative",
+            "https://wavespeed.ai/tr/vidnoz-ai-alternative",
+            "https://wavespeed.ai/pl/vidnoz-ai-alternative",
+            "https://wavespeed.ai/id/vidnoz-ai-alternative",
+            "https://wavespeed.ai/vi/vidnoz-ai-alternative",
+            "https://wavespeed.ai/th/vidnoz-ai-alternative",
+            "https://wavespeed.ai/hi/vidnoz-ai-alternative",
+            "https://wavespeed.ai/ja/vidnoz-ai-alternative",
+            "https://wavespeed.ai/ko/vidnoz-ai-alternative",
+            "https://wavespeed.ai/zh-CN/vidnoz-ai-alternative",
+            "https://wavespeed.ai/zh-TW/vidnoz-ai-alternative"
+          ],
+          "page_type": "other",
+          "slug": "vidnoz-ai-alternative"
+        },
+        {
+          "page_id": "wavespeed-0003",
+          "url": "https://wavespeed.ai/luma-ai-alternative",
+          "canonical_url": "https://wavespeed.ai/luma-ai-alternative",
+          "original_urls": [
+            "https://wavespeed.ai/luma-ai-alternative",
+            "https://wavespeed.ai/es/luma-ai-alternative",
+            "https://wavespeed.ai/pt/luma-ai-alternative",
+            "https://wavespeed.ai/fr/luma-ai-alternative",
+            "https://wavespeed.ai/de/luma-ai-alternative",
+            "https://wavespeed.ai/it/luma-ai-alternative",
+            "https://wavespeed.ai/ru/luma-ai-alternative",
+            "https://wavespeed.ai/tr/luma-ai-alternative",
+            "https://wavespeed.ai/pl/luma-ai-alternative",
+            "https://wavespeed.ai/id/luma-ai-alternative",
+            "https://wavespeed.ai/vi/luma-ai-alternative",
+            "https://wavespeed.ai/th/luma-ai-alternative",
+            "https://wavespeed.ai/hi/luma-ai-alternative",
+            "https://wavespeed.ai/ja/luma-ai-alternative",
+            "https://wavespeed.ai/ko/luma-ai-alternative",
+            "https://wavespeed.ai/zh-CN/luma-ai-alternative",
+            "https://wavespeed.ai/zh-TW/luma-ai-alternative"
+          ],
+          "page_type": "other",
+          "slug": "luma-ai-alternative"
+        },
+        {
+          "page_id": "wavespeed-0004",
+          "url": "https://wavespeed.ai/tools/video-background-remover-pro",
+          "canonical_url": "https://wavespeed.ai/tools/video-background-remover-pro",
+          "original_urls": [
+            "https://wavespeed.ai/tools/video-background-remover-pro",
+            "https://wavespeed.ai/es/tools/video-background-remover-pro",
+            "https://wavespeed.ai/pt/tools/video-background-remover-pro",
+            "https://wavespeed.ai/fr/tools/video-background-remover-pro",
+            "https://wavespeed.ai/de/tools/video-background-remover-pro",
+            "https://wavespeed.ai/it/tools/video-background-remover-pro",
+            "https://wavespeed.ai/ru/tools/video-background-remover-pro",
+            "https://wavespeed.ai/tr/tools/video-background-remover-pro",
+            "https://wavespeed.ai/pl/tools/video-background-remover-pro",
+            "https://wavespeed.ai/id/tools/video-background-remover-pro",
+            "https://wavespeed.ai/vi/tools/video-background-remover-pro",
+            "https://wavespeed.ai/th/tools/video-background-remover-pro",
+            "https://wavespeed.ai/hi/tools/video-background-remover-pro",
+            "https://wavespeed.ai/ja/tools/video-background-remover-pro",
+            "https://wavespeed.ai/ko/tools/video-background-remover-pro",
+            "https://wavespeed.ai/zh-CN/tools/video-background-remover-pro",
+            "https://wavespeed.ai/zh-TW/tools/video-background-remover-pro"
+          ],
+          "page_type": "tool",
+          "slug": "video-background-remover-pro"
+        },
+        {
+          "page_id": "wavespeed-0005",
+          "url": "https://wavespeed.ai/llm/google/gemini-4-carbon",
+          "canonical_url": "https://wavespeed.ai/llm/google/gemini-4-carbon",
+          "original_urls": [
+            "https://wavespeed.ai/llm/google/gemini-4-carbon"
+          ],
+          "page_type": "other",
+          "slug": "gemini-4-carbon"
+        },
+        {
+          "page_id": "wavespeed-0006",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/3d-to-video",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/3d-to-video",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/3d-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "3d-to-video"
+        },
+        {
+          "page_id": "wavespeed-0007",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/video-background-remover-pro",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/video-background-remover-pro",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/video-background-remover-pro"
+          ],
+          "page_type": "model_api",
+          "slug": "video-background-remover-pro"
+        }
+      ],
+      "demands": [
+        {
+          "id": "wavespeed-alternatives",
+          "name": "竞品替代页",
+          "category": "content_strategy",
+          "summary": "NovelAI、Vidnoz、Luma 三个竞品的替代页。 当日新增 3 个页面，slug：novel-ai-alternative、vidnoz-ai-alternative、luma-ai-alternative。",
+          "audience": "选型用户",
+          "job_to_be_done": "比较并迁移",
+          "page_ids": [
+            "wavespeed-0001",
+            "wavespeed-0002",
+            "wavespeed-0003"
+          ],
+          "signal": "榜单内容",
+          "confidence": "high",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "wavespeed-video-bg-remover",
+          "name": "视频背景移除专业版",
+          "category": "tool",
+          "summary": "视频背景移除专业版，同时有工具页和模型页。 当日新增 2 个页面，slug：video-background-remover-pro。",
+          "audience": "电商和视频创作者",
+          "job_to_be_done": "去掉视频背景",
+          "page_ids": [
+            "wavespeed-0004",
+            "wavespeed-0007"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "工具页与模型页指向同一能力",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "wavespeed-gemini-4-carbon",
+          "name": "Gemini 4 Carbon 模型页",
+          "category": "model_api",
+          "summary": "Gemini 4 Carbon 的 LLM 接入页。 当日新增 1 个页面，slug：gemini-4-carbon。",
+          "audience": "开发者",
+          "job_to_be_done": "接入新版本 Gemini",
+          "page_ids": [
+            "wavespeed-0005"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "wavespeed-3d-to-video",
+          "name": "3D 转视频模型",
+          "category": "model_api",
+          "summary": "把 3D 资产转成视频的模型接口。 当日新增 1 个页面，slug：3d-to-video。",
+          "audience": "3D 和视频创作者",
+          "job_to_be_done": "把 3D 场景输出成视频",
+          "page_ids": [
+            "wavespeed-0006"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "wireflow",
+      "source_file": "diff/20261112/wireflow.json",
+      "raw_url_count": 3,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "wireflow-0001",
+          "url": "https://www.wireflow.ai/features/training-video-maker",
+          "canonical_url": "https://www.wireflow.ai/features/training-video-maker",
+          "original_urls": [
+            "https://www.wireflow.ai/features/training-video-maker"
+          ],
+          "page_type": "other",
+          "slug": "training-video-maker"
+        },
+        {
+          "page_id": "wireflow-0002",
+          "url": "https://www.wireflow.ai/features/higgsfield-alternative",
+          "canonical_url": "https://www.wireflow.ai/features/higgsfield-alternative",
+          "original_urls": [
+            "https://www.wireflow.ai/features/higgsfield-alternative"
+          ],
+          "page_type": "other",
+          "slug": "higgsfield-alternative"
+        },
+        {
+          "page_id": "wireflow-0003",
+          "url": "https://www.wireflow.ai/docs/skills/ai-sound-effects-for-video-ads",
+          "canonical_url": "https://www.wireflow.ai/docs/skills/ai-sound-effects-for-video-ads",
+          "original_urls": [
+            "https://www.wireflow.ai/docs/skills/ai-sound-effects-for-video-ads"
+          ],
+          "page_type": "other",
+          "slug": "ai-sound-effects-for-video-ads"
+        }
+      ],
+      "demands": [
+        {
+          "id": "wireflow-training-video",
+          "name": "培训视频制作",
+          "category": "tool",
+          "summary": "面向企业培训的视频制作功能页。 当日新增 1 个页面，slug：training-video-maker。",
+          "audience": "企业培训和 HR",
+          "job_to_be_done": "做一支培训视频",
+          "page_ids": [
+            "wireflow-0001"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "wireflow-higgsfield-alternative",
+          "name": "Higgsfield 替代页",
+          "category": "content_strategy",
+          "summary": "面向 Higgsfield 用户的替代方案页。 当日新增 1 个页面，slug：higgsfield-alternative。",
+          "audience": "选型用户",
+          "job_to_be_done": "比较并迁移",
+          "page_ids": [
+            "wireflow-0002"
+          ],
+          "signal": "榜单内容",
+          "confidence": "high",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "wireflow-sound-effects-skill",
+          "name": "广告音效技能文档",
+          "category": "content_strategy",
+          "summary": "教用户给广告配 AI 音效的技能文档。 当日新增 1 个页面，slug：ai-sound-effects-for-video-ads。",
+          "audience": "广告创作者",
+          "job_to_be_done": "给广告加上音效",
+          "page_ids": [
+            "wireflow-0003"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    }
+  ],
+  "cross_site_themes": [
+    {
+      "name": "Seedream 5.5 同日多站上线",
+      "sites": [
+        "a2e",
+        "mindvideo",
+        "renoise"
+      ],
+      "demand_ids": [
+        "a2e-seedream-5-5",
+        "mindvideo-seedream-5-5",
+        "renoise-models-batch"
+      ],
+      "description": "同一天三个站为 Seedream 5.5 建页，Renoise 还把它和另外七个模型一起批量上线。"
+    },
+    {
+      "name": "热梗与效应模板",
+      "sites": [
+        "getstarrd",
+        "piclumen",
+        "vismuse"
+      ],
+      "demand_ids": [
+        "getstarrd-meme-templates",
+        "piclumen-effects-cluster",
+        "vismuse-meme-dance-templates"
+      ],
+      "description": "豆子青菜、史密斯夫妇、Hotline Bling 舞、Take Me 等热梗继续被包装成模板，Vismuse 一天铺了 9 个。"
+    },
+    {
+      "name": "多语言内容与本地化页面",
+      "sites": [
+        "affogato",
+        "fotor"
+      ],
+      "demand_ids": [
+        "affogato-multilang-tutorials",
+        "fotor-jp-3d-avatar"
+      ],
+      "description": "Affogato 把 12 篇教程翻成葡语、西语、法语、韩语和日语，Fotor 的日语功能页也在增加。"
+    },
+    {
+      "name": "模型页批量补充",
+      "sites": [
+        "renoise",
+        "imagine",
+        "wavespeed"
+      ],
+      "demand_ids": [
+        "renoise-models-batch",
+        "imagine-gpt-image-2-6",
+        "wavespeed-gemini-4-carbon"
+      ],
+      "description": "GPT Image 2.6、Gemini 4 Carbon、八个模型页同天出现，模型页仍是主要的 SEO 载体。"
+    }
+  ],
+  "highlights": [
+    {
+      "site": "piclumen",
+      "demand_id": "piclumen-outfit-change-video",
+      "reason": "换装视频写明保持人物身份和发型，是电商和时尚场景里可直接验证的任务。"
+    },
+    {
+      "site": "renoise",
+      "demand_id": "renoise-models-batch",
+      "reason": "一天上八个模型页，覆盖图片、视频和数字人，适合反推模型聚合站的机会。"
+    },
+    {
+      "site": "vismuse",
+      "demand_id": "vismuse-meme-dance-templates",
+      "reason": "9 个热梗模板集中上线，且同一模板有根路径和 tools 路径两种入口，结构值得抄。"
+    },
+    {
+      "site": "affogato",
+      "demand_id": "affogato-seedance-2-5",
+      "reason": "一个模型一天出 5 篇西语教程，说明非英语市场的教程缺口还在。"
+    },
+    {
+      "site": "wireflow",
+      "demand_id": "wireflow-training-video",
+      "reason": "企业培训视频是少见的 B2B 任务，和娱乐向模板区分明显，值得单独研究。"
+    }
+  ],
+  "notes": [
+    "这是 diff/20261112 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+    "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+    "同一批页面在多个语言路径下复制时（如 tw/jp/hu），合并为一条本地化记录，不重复计任务。"
+  ]
+}

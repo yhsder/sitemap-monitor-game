@@ -4,10 +4,10 @@
     {
       "site": "fotor",
       "source_file": "diff/20261107/fotor.json",
-      "raw_url_count": 6,
+      "raw_url_count": 12,
       "invalid_count": 0,
       "excluded_count": 0,
-      "canonical_page_count": 6,
+      "canonical_page_count": 12,
       "pages": [
         {
           "page_id": "fotor-0001",
@@ -68,6 +68,66 @@
           ],
           "page_type": "other",
           "slug": "video-compilation"
+        },
+        {
+          "page_id": "fotor-0007",
+          "url": "https://www.fotor.com/ai-video-generator/podcast/",
+          "canonical_url": "https://www.fotor.com/ai-video-generator/podcast",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-generator/podcast/"
+          ],
+          "page_type": "other",
+          "slug": "podcast"
+        },
+        {
+          "page_id": "fotor-0008",
+          "url": "https://www.fotor.com/ai-video-generator/lyric-video-maker/",
+          "canonical_url": "https://www.fotor.com/ai-video-generator/lyric-video-maker",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-generator/lyric-video-maker/"
+          ],
+          "page_type": "other",
+          "slug": "lyric-video-maker"
+        },
+        {
+          "page_id": "fotor-0009",
+          "url": "https://www.fotor.com/ai-models/gpt-image-2-6/",
+          "canonical_url": "https://www.fotor.com/ai-models/gpt-image-2-6",
+          "original_urls": [
+            "https://www.fotor.com/ai-models/gpt-image-2-6/"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "fotor-0010",
+          "url": "https://www.fotor.com/features/vectorize-image/",
+          "canonical_url": "https://www.fotor.com/features/vectorize-image",
+          "original_urls": [
+            "https://www.fotor.com/features/vectorize-image/"
+          ],
+          "page_type": "other",
+          "slug": "vectorize-image"
+        },
+        {
+          "page_id": "fotor-0011",
+          "url": "https://www.fotor.com/ai-video-editor/add-subtitles-to-video/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/add-subtitles-to-video",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/add-subtitles-to-video/"
+          ],
+          "page_type": "other",
+          "slug": "add-subtitles-to-video"
+        },
+        {
+          "page_id": "fotor-0012",
+          "url": "https://www.fotor.com/ai-video-editor/remove-audio-from-video/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/remove-audio-from-video",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/remove-audio-from-video/"
+          ],
+          "page_type": "other",
+          "slug": "remove-audio-from-video"
         }
       ],
       "demands": [
@@ -178,6 +238,80 @@
           "caveats": [
             "已打开 https://www.fotor.com/ai-video-editor/video-compilation/ ，核对了 title、H1 和 description，未上传素材"
           ]
+        },
+        {
+          "id": "fotor-gpt-image-26-model",
+          "name": "Fotor 上的 GPT Image 2.6 模型页",
+          "category": "model_api",
+          "summary": "GPT Image 2.6 的站内模型说明与入口。 当日新增 1 个页面。",
+          "audience": "要比较模型的创作者",
+          "job_to_be_done": "用 GPT Image 2.6 出图",
+          "page_ids": [
+            "fotor-0009"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-podcast-lyric-video",
+          "name": "播客与歌词视频生成",
+          "category": "tool",
+          "summary": "把长音频或歌曲做成播客视频与歌词视频。 当日新增 2 个页面。",
+          "audience": "播客和音乐创作者",
+          "job_to_be_done": "把音频变成带画面的视频",
+          "page_ids": [
+            "fotor-0007",
+            "fotor-0008"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-video-audio-subtitles",
+          "name": "视频加字幕与去音轨",
+          "category": "tool",
+          "summary": "给视频自动加字幕，或去掉原视频音轨。 当日新增 2 个页面。",
+          "audience": "视频创作者",
+          "job_to_be_done": "完成字幕或音轨处理",
+          "page_ids": [
+            "fotor-0011",
+            "fotor-0012"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "fotor-vectorize-image",
+          "name": "图片矢量化",
+          "category": "tool",
+          "summary": "把位图转成可缩放的矢量图。 当日新增 1 个页面。",
+          "audience": "设计和印刷用户",
+          "job_to_be_done": "把图片转成矢量文件",
+          "page_ids": [
+            "fotor-0010"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
         }
       ],
       "uncertain_page_ids": []
@@ -185,10 +319,10 @@
     {
       "site": "higgsfield",
       "source_file": "diff/20261107/higgsfield.json",
-      "raw_url_count": 20,
+      "raw_url_count": 23,
       "invalid_count": 0,
       "excluded_count": 0,
-      "canonical_page_count": 20,
+      "canonical_page_count": 23,
       "pages": [
         {
           "page_id": "higgsfield-0001",
@@ -389,6 +523,36 @@
           ],
           "page_type": "blog",
           "slug": "best-ai-video-editing-tools-professionals-2026"
+        },
+        {
+          "page_id": "higgsfield-0021",
+          "url": "https://higgsfield.ai/community/rooms/ai-comedy-film-room",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-comedy-film-room",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-comedy-film-room"
+          ],
+          "page_type": "community",
+          "slug": "ai-comedy-film-room"
+        },
+        {
+          "page_id": "higgsfield-0022",
+          "url": "https://higgsfield.ai/community/rooms/fashion-lifestyle",
+          "canonical_url": "https://higgsfield.ai/community/rooms/fashion-lifestyle",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/fashion-lifestyle"
+          ],
+          "page_type": "community",
+          "slug": "fashion-lifestyle"
+        },
+        {
+          "page_id": "higgsfield-0023",
+          "url": "https://higgsfield.ai/blog/best-ai-animation-platforms-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-ai-animation-platforms-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-ai-animation-platforms-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-animation-platforms-2026"
         }
       ],
       "demands": [
@@ -417,7 +581,9 @@
             "higgsfield-0015",
             "higgsfield-0016",
             "higgsfield-0017",
-            "higgsfield-0018"
+            "higgsfield-0018",
+            "higgsfield-0021",
+            "higgsfield-0022"
           ],
           "signal": "社区房间",
           "confidence": "medium",
@@ -425,7 +591,8 @@
           "evidence": "inferred",
           "caveats": [
             "只根据 /community/rooms/ 路径判断为社区房间，未打开房间页",
-            "slug abz 读不出题材，仍属于同一批房间 URL"
+            "slug abz 读不出题材，仍属于同一批房间 URL",
+            "新增的 ai-comedy-film-room 与 fashion-lifestyle 仅根据 URL 归类"
           ]
         },
         {
@@ -462,6 +629,24 @@
           "evidence": "observed",
           "caveats": [
             "已打开 https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026 ，核对了 title、H1 和 description，未读完全文"
+          ]
+        },
+        {
+          "id": "higgsfield-animation-platforms-roundup",
+          "name": "2026 AI 动画平台盘点",
+          "category": "content_strategy",
+          "summary": "盘点 2026 年可用的 AI 动画平台。 当日新增 1 个页面。",
+          "audience": "做动画的创作者",
+          "job_to_be_done": "挑选动画平台",
+          "page_ids": [
+            "higgsfield-0023"
+          ],
+          "signal": "榜单内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
           ]
         }
       ],
@@ -621,10 +806,10 @@
     {
       "site": "pixexact",
       "source_file": "diff/20261107/pixexact.json",
-      "raw_url_count": 2,
+      "raw_url_count": 4,
       "invalid_count": 0,
       "excluded_count": 0,
-      "canonical_page_count": 1,
+      "canonical_page_count": 2,
       "pages": [
         {
           "page_id": "pixexact-0001",
@@ -636,6 +821,17 @@
           ],
           "page_type": "model_api",
           "slug": "gpt-image-2.6"
+        },
+        {
+          "page_id": "pixexact-0002",
+          "url": "https://www.pixexact.com/reference-to-video",
+          "canonical_url": "https://www.pixexact.com/reference-to-video",
+          "original_urls": [
+            "https://www.pixexact.com/reference-to-video",
+            "https://www.pixexact.com/nb/reference-to-video"
+          ],
+          "page_type": "other",
+          "slug": "reference-to-video"
         }
       ],
       "demands": [
@@ -655,6 +851,24 @@
           "evidence": "observed",
           "caveats": [
             "已打开 https://www.pixexact.com/models/gpt-image-2.6 ，核对了 title、H1 和 description，未实际生成"
+          ]
+        },
+        {
+          "id": "pixexact-reference-to-video",
+          "name": "参考生视频页面",
+          "category": "tool",
+          "summary": "用参考图或参考视频生成一致角色的视频。 当日新增 1 个页面。",
+          "audience": "需要角色一致性的创作者",
+          "job_to_be_done": "用参考素材生成视频",
+          "page_ids": [
+            "pixexact-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
           ]
         }
       ],

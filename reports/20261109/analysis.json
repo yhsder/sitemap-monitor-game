@@ -1,0 +1,348 @@
+{
+  "date": "20261109",
+  "sites": [
+    {
+      "site": "basedlabs",
+      "source_file": "diff/20261109/basedlabs.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "basedlabs-0001",
+          "url": "https://www.basedlabs.ai/prompts/muscular-barbarian-warrior-with-greatsword-cmvoima2x000dl209cqbxqejl",
+          "canonical_url": "https://www.basedlabs.ai/prompts/muscular-barbarian-warrior-with-greatsword-cmvoima2x000dl209cqbxqejl",
+          "original_urls": [
+            "https://www.basedlabs.ai/prompts/muscular-barbarian-warrior-with-greatsword-cmvoima2x000dl209cqbxqejl"
+          ],
+          "page_type": "other",
+          "slug": "muscular-barbarian-warrior-with-greatsword-cmvoima2x000dl209cqbxqejl"
+        }
+      ],
+      "demands": [
+        {
+          "id": "basedlabs-barbarian-prompt",
+          "name": "奇幻角色提示词页",
+          "category": "content_strategy",
+          "summary": "一个大剑蛮族战士的提示词详情页，供角色图生成复用。 当日新增 1 个页面，slug：muscular-barbarian-warrior-with-greatsword-cmvoima2x000dl209cqbxqejl。",
+          "audience": "写提示词的创作者",
+          "job_to_be_done": "复用角色提示词生成图片",
+          "page_ids": [
+            "basedlabs-0001"
+          ],
+          "signal": "提示词内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "easemate",
+      "source_file": "diff/20261109/easemate.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "easemate-0001",
+          "url": "https://www.easemate.ai/bicep-heart-trend-ai-video",
+          "canonical_url": "https://www.easemate.ai/bicep-heart-trend-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/bicep-heart-trend-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "bicep-heart-trend-ai-video"
+        }
+      ],
+      "demands": [
+        {
+          "id": "easemate-bicep-heart-trend",
+          "name": "肱二头肌爱心趋势视频",
+          "category": "trend_template",
+          "summary": "把一个流行身材梗做成 AI 视频模板。 当日新增 1 个页面，slug：bicep-heart-trend-ai-video。",
+          "audience": "健身和颜值类创作者",
+          "job_to_be_done": "上传照片生成趋势视频",
+          "page_ids": [
+            "easemate-0001"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261109/higgsfield.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/community/rooms/the-puggsy-show",
+          "canonical_url": "https://higgsfield.ai/community/rooms/the-puggsy-show",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/the-puggsy-show"
+          ],
+          "page_type": "community",
+          "slug": "the-puggsy-show"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms/soul-fashion",
+          "canonical_url": "https://higgsfield.ai/community/rooms/soul-fashion",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/soul-fashion"
+          ],
+          "page_type": "community",
+          "slug": "soul-fashion"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/led-screens",
+          "canonical_url": "https://higgsfield.ai/community/rooms/led-screens",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/led-screens"
+          ],
+          "page_type": "community",
+          "slug": "led-screens"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/community/rooms/ai-cinematic-components-of-poih-projects",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-cinematic-components-of-poih-projects",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-cinematic-components-of-poih-projects"
+          ],
+          "page_type": "community",
+          "slug": "ai-cinematic-components-of-poih-projects"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/community/rooms/indian-mythology",
+          "canonical_url": "https://higgsfield.ai/community/rooms/indian-mythology",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/indian-mythology"
+          ],
+          "page_type": "community",
+          "slug": "indian-mythology"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/community/rooms/world-of-arkaden",
+          "canonical_url": "https://higgsfield.ai/community/rooms/world-of-arkaden",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/world-of-arkaden"
+          ],
+          "page_type": "community",
+          "slug": "world-of-arkaden"
+        }
+      ],
+      "demands": [
+        {
+          "id": "higgsfield-community-rooms",
+          "name": "社区创作房间批量新增",
+          "category": "platform_update",
+          "summary": "一天新增 6 个按题材划分的社区房间，覆盖时尚、LED、印度神话等。 当日新增 6 个页面，slug：the-puggsy-show、soul-fashion、led-screens、ai-cinematic-components-of-poih-projects、indian-mythology、world-of-arkaden。",
+          "audience": "社区用户",
+          "job_to_be_done": "进入同题材房间",
+          "page_ids": [
+            "higgsfield-0001",
+            "higgsfield-0002",
+            "higgsfield-0003",
+            "higgsfield-0004",
+            "higgsfield-0005",
+            "higgsfield-0006"
+          ],
+          "signal": "站点导航",
+          "confidence": "high",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "pixomi",
+      "source_file": "diff/20261109/pixomi.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "pixomi-0001",
+          "url": "https://pixomi.ai/prompts/black-friday-ad-examples/",
+          "canonical_url": "https://pixomi.ai/prompts/black-friday-ad-examples",
+          "original_urls": [
+            "https://pixomi.ai/prompts/black-friday-ad-examples/"
+          ],
+          "page_type": "other",
+          "slug": "black-friday-ad-examples"
+        }
+      ],
+      "demands": [
+        {
+          "id": "pixomi-black-friday-prompts",
+          "name": "黑五广告提示词合集",
+          "category": "content_strategy",
+          "summary": "黑五广告示例提示词，用于电商促销图生成。 当日新增 1 个页面，slug：black-friday-ad-examples。",
+          "audience": "电商运营",
+          "job_to_be_done": "复用节日广告提示词",
+          "page_ids": [
+            "pixomi-0001"
+          ],
+          "signal": "提示词内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "supermaker",
+      "source_file": "diff/20261109/supermaker.json",
+      "raw_url_count": 3,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "supermaker-0001",
+          "url": "https://supermaker.ai/video/coldplay-kiss-cam-ai-video/",
+          "canonical_url": "https://supermaker.ai/video/coldplay-kiss-cam-ai-video",
+          "original_urls": [
+            "https://supermaker.ai/video/coldplay-kiss-cam-ai-video/"
+          ],
+          "page_type": "other",
+          "slug": "coldplay-kiss-cam-ai-video"
+        },
+        {
+          "page_id": "supermaker-0002",
+          "url": "https://supermaker.ai/video/grandpa-said-hed-handle-dinner/",
+          "canonical_url": "https://supermaker.ai/video/grandpa-said-hed-handle-dinner",
+          "original_urls": [
+            "https://supermaker.ai/video/grandpa-said-hed-handle-dinner/"
+          ],
+          "page_type": "other",
+          "slug": "grandpa-said-hed-handle-dinner"
+        },
+        {
+          "page_id": "supermaker-0003",
+          "url": "https://supermaker.ai/blog/how-to-make-fish-cutting-meme-ai-video/",
+          "canonical_url": "https://supermaker.ai/blog/how-to-make-fish-cutting-meme-ai-video",
+          "original_urls": [
+            "https://supermaker.ai/blog/how-to-make-fish-cutting-meme-ai-video/"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-fish-cutting-meme-ai-video"
+        }
+      ],
+      "demands": [
+        {
+          "id": "supermaker-trend-videos",
+          "name": "流行梗视频模板",
+          "category": "trend_template",
+          "summary": "Coldplay 亲吻镜头和爷爷端饭两个流行梗视频模板。 当日新增 2 个页面，slug：coldplay-kiss-cam-ai-video、grandpa-said-hed-handle-dinner。",
+          "audience": "追热点的短视频创作者",
+          "job_to_be_done": "套用流行梗生成视频",
+          "page_ids": [
+            "supermaker-0001",
+            "supermaker-0002"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://supermaker.ai/video/coldplay-kiss-cam-ai-video",
+            "已打开页面，页面写明上传两张照片即可复刻演唱会大屏亲吻镜头"
+          ]
+        },
+        {
+          "id": "supermaker-fish-cutting-tutorial",
+          "name": "切鱼梗视频教程",
+          "category": "content_strategy",
+          "summary": "教用户怎么做出切鱼梗 AI 视频。 当日新增 1 个页面，slug：how-to-make-fish-cutting-meme-ai-video。",
+          "audience": "追梗的短视频创作者",
+          "job_to_be_done": "照着教程复现一个梗视频",
+          "page_ids": [
+            "supermaker-0003"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    }
+  ],
+  "cross_site_themes": [
+    {
+      "name": "流行梗视频模板",
+      "sites": [
+        "easemate",
+        "supermaker"
+      ],
+      "demand_ids": [
+        "easemate-bicep-heart-trend",
+        "supermaker-trend-videos"
+      ],
+      "description": "同一天两个站都在做可上传照片直接生成的热点模板：一个是肱二头肌爱心，一个是 Coldplay 亲吻镜头和爷爷端饭。"
+    },
+    {
+      "name": "提示词驱动的角色与节日图",
+      "sites": [
+        "basedlabs",
+        "pixomi"
+      ],
+      "demand_ids": [
+        "basedlabs-barbarian-prompt",
+        "pixomi-black-friday-prompts"
+      ],
+      "description": "BasedLabs 新增奇幻角色提示词页，Pixomi 新增黑五广告提示词合集，都属于可直接复用的图像提示词内容。"
+    }
+  ],
+  "highlights": [
+    {
+      "site": "supermaker",
+      "demand_id": "supermaker-trend-videos",
+      "reason": "Coldplay 亲吻镜头写明上传两张照片即可复刻演唱会大屏，任务边界清楚。"
+    },
+    {
+      "site": "easemate",
+      "demand_id": "easemate-bicep-heart-trend",
+      "reason": "身材梗模板只需要一张照片，适合单独做成一个效果页。"
+    }
+  ],
+  "notes": [
+    "这是 diff/20261109 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+    "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+    "同一批页面在多个语言路径下复制时（如 tw/jp/hu），合并为一条本地化记录，不重复计任务。"
+  ]
+}

@@ -131,6 +131,10 @@ sites:
     sitemap_urls:
       - "https://www.wireflow.ai/sitemap.xml"
     active: true
+  - name: "easyfaceswap"
+    sitemap_urls:
+      - "https://easyfaceswap.com/sitemap.xml"
+    active: true
 
 
 sitemap:

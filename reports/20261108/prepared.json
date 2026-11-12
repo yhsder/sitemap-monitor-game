@@ -1,0 +1,35 @@
+{
+  "date": "20261108",
+  "sites": [
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261108/higgsfield.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/community/rooms/cinematic-essences",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinematic-essences",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinematic-essences"
+          ],
+          "page_type": "community",
+          "slug": "cinematic-essences"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights",
+          "canonical_url": "https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights",
+          "original_urls": [
+            "https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights"
+          ],
+          "page_type": "other",
+          "slug": "video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights"
+        }
+      ]
+    }
+  ]
+}

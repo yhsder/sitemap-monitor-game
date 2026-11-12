@@ -4,10 +4,10 @@
     {
       "site": "fotor",
       "source_file": "diff/20261107/fotor.json",
-      "raw_url_count": 6,
+      "raw_url_count": 12,
       "invalid_count": 0,
       "excluded_count": 0,
-      "canonical_page_count": 6,
+      "canonical_page_count": 12,
       "pages": [
         {
           "page_id": "fotor-0001",
@@ -68,16 +68,76 @@
           ],
           "page_type": "other",
           "slug": "video-compilation"
+        },
+        {
+          "page_id": "fotor-0007",
+          "url": "https://www.fotor.com/ai-video-generator/podcast/",
+          "canonical_url": "https://www.fotor.com/ai-video-generator/podcast",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-generator/podcast/"
+          ],
+          "page_type": "other",
+          "slug": "podcast"
+        },
+        {
+          "page_id": "fotor-0008",
+          "url": "https://www.fotor.com/ai-video-generator/lyric-video-maker/",
+          "canonical_url": "https://www.fotor.com/ai-video-generator/lyric-video-maker",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-generator/lyric-video-maker/"
+          ],
+          "page_type": "other",
+          "slug": "lyric-video-maker"
+        },
+        {
+          "page_id": "fotor-0009",
+          "url": "https://www.fotor.com/ai-models/gpt-image-2-6/",
+          "canonical_url": "https://www.fotor.com/ai-models/gpt-image-2-6",
+          "original_urls": [
+            "https://www.fotor.com/ai-models/gpt-image-2-6/"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "fotor-0010",
+          "url": "https://www.fotor.com/features/vectorize-image/",
+          "canonical_url": "https://www.fotor.com/features/vectorize-image",
+          "original_urls": [
+            "https://www.fotor.com/features/vectorize-image/"
+          ],
+          "page_type": "other",
+          "slug": "vectorize-image"
+        },
+        {
+          "page_id": "fotor-0011",
+          "url": "https://www.fotor.com/ai-video-editor/add-subtitles-to-video/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/add-subtitles-to-video",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/add-subtitles-to-video/"
+          ],
+          "page_type": "other",
+          "slug": "add-subtitles-to-video"
+        },
+        {
+          "page_id": "fotor-0012",
+          "url": "https://www.fotor.com/ai-video-editor/remove-audio-from-video/",
+          "canonical_url": "https://www.fotor.com/ai-video-editor/remove-audio-from-video",
+          "original_urls": [
+            "https://www.fotor.com/ai-video-editor/remove-audio-from-video/"
+          ],
+          "page_type": "other",
+          "slug": "remove-audio-from-video"
         }
       ]
     },
     {
       "site": "higgsfield",
       "source_file": "diff/20261107/higgsfield.json",
-      "raw_url_count": 20,
+      "raw_url_count": 23,
       "invalid_count": 0,
       "excluded_count": 0,
-      "canonical_page_count": 20,
+      "canonical_page_count": 23,
       "pages": [
         {
           "page_id": "higgsfield-0001",
@@ -278,6 +338,36 @@
           ],
           "page_type": "blog",
           "slug": "best-ai-video-editing-tools-professionals-2026"
+        },
+        {
+          "page_id": "higgsfield-0021",
+          "url": "https://higgsfield.ai/community/rooms/ai-comedy-film-room",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-comedy-film-room",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-comedy-film-room"
+          ],
+          "page_type": "community",
+          "slug": "ai-comedy-film-room"
+        },
+        {
+          "page_id": "higgsfield-0022",
+          "url": "https://higgsfield.ai/community/rooms/fashion-lifestyle",
+          "canonical_url": "https://higgsfield.ai/community/rooms/fashion-lifestyle",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/fashion-lifestyle"
+          ],
+          "page_type": "community",
+          "slug": "fashion-lifestyle"
+        },
+        {
+          "page_id": "higgsfield-0023",
+          "url": "https://higgsfield.ai/blog/best-ai-animation-platforms-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-ai-animation-platforms-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-ai-animation-platforms-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-animation-platforms-2026"
         }
       ]
     },
@@ -354,10 +444,10 @@
     {
       "site": "pixexact",
       "source_file": "diff/20261107/pixexact.json",
-      "raw_url_count": 2,
+      "raw_url_count": 4,
       "invalid_count": 0,
       "excluded_count": 0,
-      "canonical_page_count": 1,
+      "canonical_page_count": 2,
       "pages": [
         {
           "page_id": "pixexact-0001",
@@ -369,6 +459,17 @@
           ],
           "page_type": "model_api",
           "slug": "gpt-image-2.6"
+        },
+        {
+          "page_id": "pixexact-0002",
+          "url": "https://www.pixexact.com/reference-to-video",
+          "canonical_url": "https://www.pixexact.com/reference-to-video",
+          "original_urls": [
+            "https://www.pixexact.com/reference-to-video",
+            "https://www.pixexact.com/nb/reference-to-video"
+          ],
+          "page_type": "other",
+          "slug": "reference-to-video"
         }
       ]
     },

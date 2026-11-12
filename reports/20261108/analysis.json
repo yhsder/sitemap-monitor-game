@@ -1,0 +1,88 @@
+{
+  "date": "20261108",
+  "sites": [
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261108/higgsfield.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/community/rooms/cinematic-essences",
+          "canonical_url": "https://higgsfield.ai/community/rooms/cinematic-essences",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/cinematic-essences"
+          ],
+          "page_type": "community",
+          "slug": "cinematic-essences"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights",
+          "canonical_url": "https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights",
+          "original_urls": [
+            "https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights"
+          ],
+          "page_type": "other",
+          "slug": "video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights"
+        }
+      ],
+      "demands": [
+        {
+          "id": "higgsfield-community-rooms",
+          "name": "社区创作房间",
+          "category": "platform_update",
+          "summary": "新增一个电影感创作房间，属于社区内容组织。 当日新增 1 个页面，slug：cinematic-essences。",
+          "audience": "社区用户",
+          "job_to_be_done": "进入同题材房间",
+          "page_ids": [
+            "higgsfield-0001"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "higgsfield-case-study-video-ads",
+          "name": "两小时做视频广告的客户案例",
+          "category": "content_strategy",
+          "summary": "一篇用 MCP 在两小时内完成视频广告的客户案例。 当日新增 1 个页面，slug：video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights。",
+          "audience": "考虑用 AI 做广告的品牌和代理",
+          "job_to_be_done": "评估能否快速产出广告片",
+          "page_ids": [
+            "higgsfield-0002"
+          ],
+          "signal": "案例内容",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://higgsfield.ai/creator-hub/case-studies/video-ads-in-just-2-hours-with-higgsfield-mcp-alya-health-shares-their-insights",
+            "已打开页面，title 为 Video Ads in Just 2 Hours with Higgsfield MCP: Alya Health shares their insights，正文提到用 Higgsfield MCP 和 Supercomputer 在 Claude 里完成广告片"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    }
+  ],
+  "cross_site_themes": [],
+  "highlights": [
+    {
+      "site": "higgsfield",
+      "demand_id": "higgsfield-case-study-video-ads",
+      "reason": "MCP 两小时产出视频广告的完整案例，说明广告片工作流已经能替代外包。"
+    }
+  ],
+  "notes": [
+    "这是 diff/20261108 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+    "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+    "同一批页面在多个语言路径下复制时（如 tw/jp/hu），合并为一条本地化记录，不重复计任务。"
+  ]
+}

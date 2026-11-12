@@ -1,0 +1,3132 @@
+{
+  "date": "20261111",
+  "sites": [
+    {
+      "site": "affogato",
+      "source_file": "diff/20261111/affogato.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "affogato-0001",
+          "url": "https://affogato.ai/blog/seedance-2-5-guide",
+          "canonical_url": "https://affogato.ai/blog/seedance-2-5-guide",
+          "original_urls": [
+            "https://affogato.ai/blog/seedance-2-5-guide"
+          ],
+          "page_type": "blog",
+          "slug": "seedance-2-5-guide"
+        },
+        {
+          "page_id": "affogato-0002",
+          "url": "https://affogato.ai/blog/category/ai-video",
+          "canonical_url": "https://affogato.ai/blog/category/ai-video",
+          "original_urls": [
+            "https://affogato.ai/blog/category/ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "ai-video"
+        }
+      ]
+    },
+    {
+      "site": "basedlabs",
+      "source_file": "diff/20261111/basedlabs.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "basedlabs-0001",
+          "url": "https://www.basedlabs.ai/articles/things-to-consider-while-building-an-html-email-template",
+          "canonical_url": "https://www.basedlabs.ai/articles/things-to-consider-while-building-an-html-email-template",
+          "original_urls": [
+            "https://www.basedlabs.ai/articles/things-to-consider-while-building-an-html-email-template"
+          ],
+          "page_type": "blog",
+          "slug": "things-to-consider-while-building-an-html-email-template"
+        }
+      ]
+    },
+    {
+      "site": "easemate",
+      "source_file": "diff/20261111/easemate.json",
+      "raw_url_count": 17,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 5,
+      "pages": [
+        {
+          "page_id": "easemate-0001",
+          "url": "https://www.easemate.ai/i-love-smiths-ai-video",
+          "canonical_url": "https://www.easemate.ai/i-love-smiths-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/i-love-smiths-ai-video",
+            "https://www.easemate.ai/ko/i-love-smiths-ai-video",
+            "https://www.easemate.ai/de/i-love-smiths-ai-video",
+            "https://www.easemate.ai/es/i-love-smiths-ai-video",
+            "https://www.easemate.ai/fr/i-love-smiths-ai-video",
+            "https://www.easemate.ai/it/i-love-smiths-ai-video",
+            "https://www.easemate.ai/ru/i-love-smiths-ai-video",
+            "https://www.easemate.ai/ms/i-love-smiths-ai-video",
+            "https://www.easemate.ai/id/i-love-smiths-ai-video",
+            "https://www.easemate.ai/tr/i-love-smiths-ai-video",
+            "https://www.easemate.ai/pl/i-love-smiths-ai-video",
+            "https://www.easemate.ai/nl/i-love-smiths-ai-video",
+            "https://www.easemate.ai/sv/i-love-smiths-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "i-love-smiths-ai-video"
+        },
+        {
+          "page_id": "easemate-0002",
+          "url": "https://www.easemate.ai/jp/i-love-smiths-ai-video",
+          "canonical_url": "https://www.easemate.ai/jp/i-love-smiths-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/jp/i-love-smiths-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "i-love-smiths-ai-video"
+        },
+        {
+          "page_id": "easemate-0003",
+          "url": "https://www.easemate.ai/tw/i-love-smiths-ai-video",
+          "canonical_url": "https://www.easemate.ai/tw/i-love-smiths-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/tw/i-love-smiths-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "i-love-smiths-ai-video"
+        },
+        {
+          "page_id": "easemate-0004",
+          "url": "https://www.easemate.ai/br/i-love-smiths-ai-video",
+          "canonical_url": "https://www.easemate.ai/br/i-love-smiths-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/br/i-love-smiths-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "i-love-smiths-ai-video"
+        },
+        {
+          "page_id": "easemate-0005",
+          "url": "https://www.easemate.ai/ph/i-love-smiths-ai-video",
+          "canonical_url": "https://www.easemate.ai/ph/i-love-smiths-ai-video",
+          "original_urls": [
+            "https://www.easemate.ai/ph/i-love-smiths-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "i-love-smiths-ai-video"
+        }
+      ]
+    },
+    {
+      "site": "fotor",
+      "source_file": "diff/20261111/fotor.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "fotor-0001",
+          "url": "https://www.fotor.com/de/features/ai-pregnant-filter/",
+          "canonical_url": "https://www.fotor.com/features/ai-pregnant-filter",
+          "original_urls": [
+            "https://www.fotor.com/de/features/ai-pregnant-filter/"
+          ],
+          "page_type": "other",
+          "slug": "ai-pregnant-filter"
+        },
+        {
+          "page_id": "fotor-0002",
+          "url": "https://www.fotor.com/de/features/celebrity-look-alike-finder/",
+          "canonical_url": "https://www.fotor.com/features/celebrity-look-alike-finder",
+          "original_urls": [
+            "https://www.fotor.com/de/features/celebrity-look-alike-finder/"
+          ],
+          "page_type": "other",
+          "slug": "celebrity-look-alike-finder"
+        }
+      ]
+    },
+    {
+      "site": "getstarrd",
+      "source_file": "diff/20261111/getstarrd.json",
+      "raw_url_count": 9,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 9,
+      "pages": [
+        {
+          "page_id": "getstarrd-0001",
+          "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "the-hot-chick-ice-cream-scene-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0002",
+          "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "mr-and-mrs-smith-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0003",
+          "url": "https://www.getstarrd.app/template/its-my-life-dog-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/its-my-life-dog-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/its-my-life-dog-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "its-my-life-dog-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0004",
+          "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "drake-hotline-bling-dance-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0005",
+          "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "fantasy-rush-hour-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0006",
+          "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-drake-hotline-bling-dance-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0007",
+          "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-fantasy-rush-hour-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0008",
+          "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-its-my-life-dog-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0009",
+          "url": "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-easy-a-pocketful-of-sunshine-ai-video"
+        }
+      ]
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261111/higgsfield.json",
+      "raw_url_count": 7,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 7,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/ads-studio/google-ads",
+          "canonical_url": "https://higgsfield.ai/ads-studio/google-ads",
+          "original_urls": [
+            "https://higgsfield.ai/ads-studio/google-ads"
+          ],
+          "page_type": "other",
+          "slug": "google-ads"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms/ai-realism",
+          "canonical_url": "https://higgsfield.ai/community/rooms/ai-realism",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/ai-realism"
+          ],
+          "page_type": "community",
+          "slug": "ai-realism"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/explainer-videos",
+          "canonical_url": "https://higgsfield.ai/community/rooms/explainer-videos",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/explainer-videos"
+          ],
+          "page_type": "community",
+          "slug": "explainer-videos"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/@kniga6767/projects/strawberry-summer",
+          "canonical_url": "https://higgsfield.ai/@kniga6767/projects/strawberry-summer",
+          "original_urls": [
+            "https://higgsfield.ai/@kniga6767/projects/strawberry-summer"
+          ],
+          "page_type": "other",
+          "slug": "strawberry-summer"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/blog/best-capcut-alternatives-ai-videos-2026",
+          "canonical_url": "https://higgsfield.ai/blog/best-capcut-alternatives-ai-videos-2026",
+          "original_urls": [
+            "https://higgsfield.ai/blog/best-capcut-alternatives-ai-videos-2026"
+          ],
+          "page_type": "blog",
+          "slug": "best-capcut-alternatives-ai-videos-2026"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/blog/munira-alkharraz-higgsfield",
+          "canonical_url": "https://higgsfield.ai/blog/munira-alkharraz-higgsfield",
+          "original_urls": [
+            "https://higgsfield.ai/blog/munira-alkharraz-higgsfield"
+          ],
+          "page_type": "blog",
+          "slug": "munira-alkharraz-higgsfield"
+        },
+        {
+          "page_id": "higgsfield-0007",
+          "url": "https://higgsfield.ai/blog/seedream-5-5-higgsfield",
+          "canonical_url": "https://higgsfield.ai/blog/seedream-5-5-higgsfield",
+          "original_urls": [
+            "https://higgsfield.ai/blog/seedream-5-5-higgsfield"
+          ],
+          "page_type": "blog",
+          "slug": "seedream-5-5-higgsfield"
+        }
+      ]
+    },
+    {
+      "site": "piclumen",
+      "source_file": "diff/20261111/piclumen.json",
+      "raw_url_count": 10,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 10,
+      "pages": [
+        {
+          "page_id": "piclumen-0001",
+          "url": "https://www.piclumen.com/ai-image-generator/rainbow-filter/",
+          "canonical_url": "https://www.piclumen.com/ai-image-generator/rainbow-filter",
+          "original_urls": [
+            "https://www.piclumen.com/ai-image-generator/rainbow-filter/"
+          ],
+          "page_type": "other",
+          "slug": "rainbow-filter"
+        },
+        {
+          "page_id": "piclumen-0002",
+          "url": "https://www.piclumen.com/ai-tools/Dreamina/",
+          "canonical_url": "https://www.piclumen.com/ai-tools/Dreamina",
+          "original_urls": [
+            "https://www.piclumen.com/ai-tools/Dreamina/"
+          ],
+          "page_type": "other",
+          "slug": "dreamina"
+        },
+        {
+          "page_id": "piclumen-0003",
+          "url": "https://www.piclumen.com/ai-tools/luma-ai/",
+          "canonical_url": "https://www.piclumen.com/ai-tools/luma-ai",
+          "original_urls": [
+            "https://www.piclumen.com/ai-tools/luma-ai/"
+          ],
+          "page_type": "other",
+          "slug": "luma-ai"
+        },
+        {
+          "page_id": "piclumen-0004",
+          "url": "https://www.piclumen.com/ai-tools/openart/",
+          "canonical_url": "https://www.piclumen.com/ai-tools/openart",
+          "original_urls": [
+            "https://www.piclumen.com/ai-tools/openart/"
+          ],
+          "page_type": "other",
+          "slug": "openart"
+        },
+        {
+          "page_id": "piclumen-0005",
+          "url": "https://www.piclumen.com/ai-tools/recraft-ai/",
+          "canonical_url": "https://www.piclumen.com/ai-tools/recraft-ai",
+          "original_urls": [
+            "https://www.piclumen.com/ai-tools/recraft-ai/"
+          ],
+          "page_type": "other",
+          "slug": "recraft-ai"
+        },
+        {
+          "page_id": "piclumen-0006",
+          "url": "https://www.piclumen.com/ai-video-generator/online-video-editor/",
+          "canonical_url": "https://www.piclumen.com/ai-video-generator/online-video-editor",
+          "original_urls": [
+            "https://www.piclumen.com/ai-video-generator/online-video-editor/"
+          ],
+          "page_type": "other",
+          "slug": "online-video-editor"
+        },
+        {
+          "page_id": "piclumen-0007",
+          "url": "https://www.piclumen.com/apps/effects-bicep-heart-trend-ai-video/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-bicep-heart-trend-ai-video",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-bicep-heart-trend-ai-video/"
+          ],
+          "page_type": "other",
+          "slug": "effects-bicep-heart-trend-ai-video"
+        },
+        {
+          "page_id": "piclumen-0008",
+          "url": "https://www.piclumen.com/apps/effects-coldplay-kiss-cam-ai-video/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-coldplay-kiss-cam-ai-video",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-coldplay-kiss-cam-ai-video/"
+          ],
+          "page_type": "other",
+          "slug": "effects-coldplay-kiss-cam-ai-video"
+        },
+        {
+          "page_id": "piclumen-0009",
+          "url": "https://www.piclumen.com/apps/effects-thanksgiving-pfp-ai/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-thanksgiving-pfp-ai",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-thanksgiving-pfp-ai/"
+          ],
+          "page_type": "other",
+          "slug": "effects-thanksgiving-pfp-ai"
+        },
+        {
+          "page_id": "piclumen-0010",
+          "url": "https://www.piclumen.com/blog/cheapest-ai-video-generators-pricing/",
+          "canonical_url": "https://www.piclumen.com/blog/cheapest-ai-video-generators-pricing",
+          "original_urls": [
+            "https://www.piclumen.com/blog/cheapest-ai-video-generators-pricing/"
+          ],
+          "page_type": "blog",
+          "slug": "cheapest-ai-video-generators-pricing"
+        }
+      ]
+    },
+    {
+      "site": "pixexact",
+      "source_file": "diff/20261111/pixexact.json",
+      "raw_url_count": 38,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "pixexact-0001",
+          "url": "https://www.pixexact.com/models/kling-3.0",
+          "canonical_url": "https://www.pixexact.com/models/kling-3.0",
+          "original_urls": [
+            "https://www.pixexact.com/models/kling-3.0",
+            "https://www.pixexact.com/de/models/kling-3.0",
+            "https://www.pixexact.com/fr/models/kling-3.0",
+            "https://www.pixexact.com/es/models/kling-3.0",
+            "https://www.pixexact.com/ja/models/kling-3.0",
+            "https://www.pixexact.com/zh/models/kling-3.0",
+            "https://www.pixexact.com/ko/models/kling-3.0",
+            "https://www.pixexact.com/pt/models/kling-3.0",
+            "https://www.pixexact.com/it/models/kling-3.0",
+            "https://www.pixexact.com/ru/models/kling-3.0",
+            "https://www.pixexact.com/da/models/kling-3.0",
+            "https://www.pixexact.com/nl/models/kling-3.0",
+            "https://www.pixexact.com/pl/models/kling-3.0",
+            "https://www.pixexact.com/tr/models/kling-3.0",
+            "https://www.pixexact.com/nb/models/kling-3.0",
+            "https://www.pixexact.com/vi/models/kling-3.0",
+            "https://www.pixexact.com/th/models/kling-3.0",
+            "https://www.pixexact.com/ar/models/kling-3.0",
+            "https://www.pixexact.com/id/models/kling-3.0"
+          ],
+          "page_type": "model_api",
+          "slug": "kling-3.0"
+        },
+        {
+          "page_id": "pixexact-0002",
+          "url": "https://www.pixexact.com/models/kling-4.0",
+          "canonical_url": "https://www.pixexact.com/models/kling-4.0",
+          "original_urls": [
+            "https://www.pixexact.com/models/kling-4.0",
+            "https://www.pixexact.com/de/models/kling-4.0",
+            "https://www.pixexact.com/fr/models/kling-4.0",
+            "https://www.pixexact.com/es/models/kling-4.0",
+            "https://www.pixexact.com/ja/models/kling-4.0",
+            "https://www.pixexact.com/zh/models/kling-4.0",
+            "https://www.pixexact.com/ko/models/kling-4.0",
+            "https://www.pixexact.com/pt/models/kling-4.0",
+            "https://www.pixexact.com/it/models/kling-4.0",
+            "https://www.pixexact.com/ru/models/kling-4.0",
+            "https://www.pixexact.com/da/models/kling-4.0",
+            "https://www.pixexact.com/nl/models/kling-4.0",
+            "https://www.pixexact.com/pl/models/kling-4.0",
+            "https://www.pixexact.com/tr/models/kling-4.0",
+            "https://www.pixexact.com/nb/models/kling-4.0",
+            "https://www.pixexact.com/vi/models/kling-4.0",
+            "https://www.pixexact.com/th/models/kling-4.0",
+            "https://www.pixexact.com/ar/models/kling-4.0",
+            "https://www.pixexact.com/id/models/kling-4.0"
+          ],
+          "page_type": "model_api",
+          "slug": "kling-4.0"
+        }
+      ]
+    },
+    {
+      "site": "pixomi",
+      "source_file": "diff/20261111/pixomi.json",
+      "raw_url_count": 14,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "pixomi-0001",
+          "url": "https://pixomi.ai/image/seedream-5-5/",
+          "canonical_url": "https://pixomi.ai/image/seedream-5-5",
+          "original_urls": [
+            "https://pixomi.ai/image/seedream-5-5/",
+            "https://pixomi.ai/zh/image/seedream-5-5/",
+            "https://pixomi.ai/pt/image/seedream-5-5/",
+            "https://pixomi.ai/de/image/seedream-5-5/",
+            "https://pixomi.ai/fr/image/seedream-5-5/",
+            "https://pixomi.ai/es/image/seedream-5-5/",
+            "https://pixomi.ai/ko/image/seedream-5-5/",
+            "https://pixomi.ai/ja/image/seedream-5-5/",
+            "https://pixomi.ai/vi/image/seedream-5-5/",
+            "https://pixomi.ai/ar/image/seedream-5-5/",
+            "https://pixomi.ai/nl/image/seedream-5-5/",
+            "https://pixomi.ai/pl/image/seedream-5-5/"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "pixomi-0002",
+          "url": "https://pixomi.ai/tw/image/seedream-5-5/",
+          "canonical_url": "https://pixomi.ai/tw/image/seedream-5-5",
+          "original_urls": [
+            "https://pixomi.ai/tw/image/seedream-5-5/"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "pixomi-0003",
+          "url": "https://pixomi.ai/hu/image/seedream-5-5/",
+          "canonical_url": "https://pixomi.ai/hu/image/seedream-5-5",
+          "original_urls": [
+            "https://pixomi.ai/hu/image/seedream-5-5/"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        }
+      ]
+    },
+    {
+      "site": "vismuse",
+      "source_file": "diff/20261111/vismuse.json",
+      "raw_url_count": 3,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "vismuse-0001",
+          "url": "https://vismuse.com/tools/chiikawa-dancing-nokia-ai",
+          "canonical_url": "https://vismuse.com/tools/chiikawa-dancing-nokia-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/chiikawa-dancing-nokia-ai"
+          ],
+          "page_type": "tool",
+          "slug": "chiikawa-dancing-nokia-ai"
+        },
+        {
+          "page_id": "vismuse-0002",
+          "url": "https://vismuse.com/tools/glow-trio-ai",
+          "canonical_url": "https://vismuse.com/tools/glow-trio-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/glow-trio-ai"
+          ],
+          "page_type": "tool",
+          "slug": "glow-trio-ai"
+        },
+        {
+          "page_id": "vismuse-0003",
+          "url": "https://vismuse.com/tools/ukwu-dance-ai",
+          "canonical_url": "https://vismuse.com/tools/ukwu-dance-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/ukwu-dance-ai"
+          ],
+          "page_type": "tool",
+          "slug": "ukwu-dance-ai"
+        }
+      ]
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261111/wavespeed.json",
+      "raw_url_count": 1588,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 100,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-scene-gallery"
+        },
+        {
+          "page_id": "wavespeed-0002",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-hairstyle-gallery"
+        },
+        {
+          "page_id": "wavespeed-0003",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-makeup-gallery"
+        },
+        {
+          "page_id": "wavespeed-0004",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-nail-art-gallery"
+        },
+        {
+          "page_id": "wavespeed-0005",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-tattoo-gallery"
+        },
+        {
+          "page_id": "wavespeed-0006",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-lighting-gallery"
+        },
+        {
+          "page_id": "wavespeed-0007",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-camera-angle-gallery"
+        },
+        {
+          "page_id": "wavespeed-0008",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-art-style-gallery"
+        },
+        {
+          "page_id": "wavespeed-0009",
+          "url": "https://wavespeed.ai/free-tools/ai-voice-gallery",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-voice-gallery",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/es/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/pt/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/fr/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/de/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/it/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/ru/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/tr/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/pl/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/id/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/vi/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/th/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/hi/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/ja/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/ko/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-voice-gallery",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-voice-gallery"
+          ],
+          "page_type": "other",
+          "slug": "ai-voice-gallery"
+        },
+        {
+          "page_id": "wavespeed-0010",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/street",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/street",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/street",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/street"
+          ],
+          "page_type": "other",
+          "slug": "street"
+        },
+        {
+          "page_id": "wavespeed-0011",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/cafe",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/cafe",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/cafe",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/cafe"
+          ],
+          "page_type": "other",
+          "slug": "cafe"
+        },
+        {
+          "page_id": "wavespeed-0012",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/home",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/home",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/home",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/home"
+          ],
+          "page_type": "other",
+          "slug": "home"
+        },
+        {
+          "page_id": "wavespeed-0013",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/office",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/office",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/office",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/office"
+          ],
+          "page_type": "other",
+          "slug": "office"
+        },
+        {
+          "page_id": "wavespeed-0014",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/beach",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/beach",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/beach",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/beach"
+          ],
+          "page_type": "other",
+          "slug": "beach"
+        },
+        {
+          "page_id": "wavespeed-0015",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/nature",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/nature",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/nature",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/nature"
+          ],
+          "page_type": "other",
+          "slug": "nature"
+        },
+        {
+          "page_id": "wavespeed-0016",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/park",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/park",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/park",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/park"
+          ],
+          "page_type": "other",
+          "slug": "park"
+        },
+        {
+          "page_id": "wavespeed-0017",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/night",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/night",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/night",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/night"
+          ],
+          "page_type": "other",
+          "slug": "night"
+        },
+        {
+          "page_id": "wavespeed-0018",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/travel",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/travel",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/travel",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/travel"
+          ],
+          "page_type": "other",
+          "slug": "travel"
+        },
+        {
+          "page_id": "wavespeed-0019",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/luxury",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/luxury",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/luxury",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/luxury"
+          ],
+          "page_type": "other",
+          "slug": "luxury"
+        },
+        {
+          "page_id": "wavespeed-0020",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/sport",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/sport",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/sport",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/sport"
+          ],
+          "page_type": "other",
+          "slug": "sport"
+        },
+        {
+          "page_id": "wavespeed-0021",
+          "url": "https://wavespeed.ai/free-tools/ai-scene-gallery/studio",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-scene-gallery/studio",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/es/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/pt/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/fr/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/de/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/it/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/ru/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/tr/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/pl/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/id/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/vi/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/th/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/hi/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/ja/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/ko/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-scene-gallery/studio",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-scene-gallery/studio"
+          ],
+          "page_type": "other",
+          "slug": "studio"
+        },
+        {
+          "page_id": "wavespeed-0022",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/pixie",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/pixie",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/pixie",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/pixie"
+          ],
+          "page_type": "other",
+          "slug": "pixie"
+        },
+        {
+          "page_id": "wavespeed-0023",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/bob",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/bob",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/bob",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/bob"
+          ],
+          "page_type": "other",
+          "slug": "bob"
+        },
+        {
+          "page_id": "wavespeed-0024",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/lob",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/lob",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/lob",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/lob"
+          ],
+          "page_type": "other",
+          "slug": "lob"
+        },
+        {
+          "page_id": "wavespeed-0025",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/layers",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/layers",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/layers",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/layers"
+          ],
+          "page_type": "other",
+          "slug": "layers"
+        },
+        {
+          "page_id": "wavespeed-0026",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/long",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/long",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/long",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/long"
+          ],
+          "page_type": "other",
+          "slug": "long"
+        },
+        {
+          "page_id": "wavespeed-0027",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/curly",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/curly",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/curly",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/curly"
+          ],
+          "page_type": "other",
+          "slug": "curly"
+        },
+        {
+          "page_id": "wavespeed-0028",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/bangs",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/bangs",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/bangs",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/bangs"
+          ],
+          "page_type": "other",
+          "slug": "bangs"
+        },
+        {
+          "page_id": "wavespeed-0029",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/braids",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/braids",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/braids",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/braids"
+          ],
+          "page_type": "other",
+          "slug": "braids"
+        },
+        {
+          "page_id": "wavespeed-0030",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/updo",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/updo",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/updo",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/updo"
+          ],
+          "page_type": "other",
+          "slug": "updo"
+        },
+        {
+          "page_id": "wavespeed-0031",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/color",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/color",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/color",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/color"
+          ],
+          "page_type": "other",
+          "slug": "color"
+        },
+        {
+          "page_id": "wavespeed-0032",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/menshort",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/menshort",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/menshort",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/menshort"
+          ],
+          "page_type": "other",
+          "slug": "menshort"
+        },
+        {
+          "page_id": "wavespeed-0033",
+          "url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/menlong",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/menlong",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/es/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/pt/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/fr/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/de/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/it/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/ru/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/tr/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/pl/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/id/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/vi/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/th/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/hi/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/ja/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/ko/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-hairstyle-gallery/menlong",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-hairstyle-gallery/menlong"
+          ],
+          "page_type": "other",
+          "slug": "menlong"
+        },
+        {
+          "page_id": "wavespeed-0034",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/natural",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/natural",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/natural",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/natural"
+          ],
+          "page_type": "other",
+          "slug": "natural"
+        },
+        {
+          "page_id": "wavespeed-0035",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/everyday",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/everyday",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/everyday",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/everyday"
+          ],
+          "page_type": "other",
+          "slug": "everyday"
+        },
+        {
+          "page_id": "wavespeed-0036",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/glam",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/glam",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/glam",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/glam"
+          ],
+          "page_type": "other",
+          "slug": "glam"
+        },
+        {
+          "page_id": "wavespeed-0037",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/smoky",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/smoky",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/smoky",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/smoky"
+          ],
+          "page_type": "other",
+          "slug": "smoky"
+        },
+        {
+          "page_id": "wavespeed-0038",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/lips",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/lips",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/lips",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/lips"
+          ],
+          "page_type": "other",
+          "slug": "lips"
+        },
+        {
+          "page_id": "wavespeed-0039",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/bridal",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/bridal",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/bridal",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/bridal"
+          ],
+          "page_type": "other",
+          "slug": "bridal"
+        },
+        {
+          "page_id": "wavespeed-0040",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/korean",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/korean",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/korean",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/korean"
+          ],
+          "page_type": "other",
+          "slug": "korean"
+        },
+        {
+          "page_id": "wavespeed-0041",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/retro",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/retro",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/retro",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/retro"
+          ],
+          "page_type": "other",
+          "slug": "retro"
+        },
+        {
+          "page_id": "wavespeed-0042",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/editorial",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/editorial",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/editorial",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/editorial"
+          ],
+          "page_type": "other",
+          "slug": "editorial"
+        },
+        {
+          "page_id": "wavespeed-0043",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/festival",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/festival",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/festival",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/festival"
+          ],
+          "page_type": "other",
+          "slug": "festival"
+        },
+        {
+          "page_id": "wavespeed-0044",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/dark",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/dark",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/dark",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/dark"
+          ],
+          "page_type": "other",
+          "slug": "dark"
+        },
+        {
+          "page_id": "wavespeed-0045",
+          "url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/men",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-makeup-gallery/men",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/es/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/pt/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/fr/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/de/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/it/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/ru/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/tr/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/pl/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/id/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/vi/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/th/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/hi/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/ja/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/ko/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-makeup-gallery/men",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-makeup-gallery/men"
+          ],
+          "page_type": "other",
+          "slug": "men"
+        },
+        {
+          "page_id": "wavespeed-0046",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/french",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/french",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/french",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/french"
+          ],
+          "page_type": "other",
+          "slug": "french"
+        },
+        {
+          "page_id": "wavespeed-0047",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/nude",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/nude",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/nude",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/nude"
+          ],
+          "page_type": "other",
+          "slug": "nude"
+        },
+        {
+          "page_id": "wavespeed-0048",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/glitter",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/glitter",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/glitter",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/glitter"
+          ],
+          "page_type": "other",
+          "slug": "glitter"
+        },
+        {
+          "page_id": "wavespeed-0049",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/floral",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/floral",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/floral",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/floral"
+          ],
+          "page_type": "other",
+          "slug": "floral"
+        },
+        {
+          "page_id": "wavespeed-0050",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/pattern",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/pattern",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/pattern",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/pattern"
+          ],
+          "page_type": "other",
+          "slug": "pattern"
+        },
+        {
+          "page_id": "wavespeed-0051",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/ombre",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/ombre",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/ombre",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/ombre"
+          ],
+          "page_type": "other",
+          "slug": "ombre"
+        },
+        {
+          "page_id": "wavespeed-0052",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/matte",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/matte",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/matte",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/matte"
+          ],
+          "page_type": "other",
+          "slug": "matte"
+        },
+        {
+          "page_id": "wavespeed-0053",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/gems",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/gems",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/gems",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/gems"
+          ],
+          "page_type": "other",
+          "slug": "gems"
+        },
+        {
+          "page_id": "wavespeed-0054",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/pastel",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/pastel",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/pastel",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/pastel"
+          ],
+          "page_type": "other",
+          "slug": "pastel"
+        },
+        {
+          "page_id": "wavespeed-0055",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/dark",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/dark",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/dark",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/dark"
+          ],
+          "page_type": "other",
+          "slug": "dark"
+        },
+        {
+          "page_id": "wavespeed-0056",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/seasonal",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/seasonal",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/seasonal",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/seasonal"
+          ],
+          "page_type": "other",
+          "slug": "seasonal"
+        },
+        {
+          "page_id": "wavespeed-0057",
+          "url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/short",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-nail-art-gallery/short",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/es/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/pt/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/fr/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/de/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/it/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/ru/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/tr/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/pl/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/id/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/vi/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/th/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/hi/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/ja/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/ko/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-nail-art-gallery/short",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-nail-art-gallery/short"
+          ],
+          "page_type": "other",
+          "slug": "short"
+        },
+        {
+          "page_id": "wavespeed-0058",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/fineline",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/fineline",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/fineline",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/fineline"
+          ],
+          "page_type": "other",
+          "slug": "fineline"
+        },
+        {
+          "page_id": "wavespeed-0059",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/floral",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/floral",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/floral",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/floral"
+          ],
+          "page_type": "other",
+          "slug": "floral"
+        },
+        {
+          "page_id": "wavespeed-0060",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/animal",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/animal",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/animal",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/animal"
+          ],
+          "page_type": "other",
+          "slug": "animal"
+        },
+        {
+          "page_id": "wavespeed-0061",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/geometric",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/geometric",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/geometric",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/geometric"
+          ],
+          "page_type": "other",
+          "slug": "geometric"
+        },
+        {
+          "page_id": "wavespeed-0062",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/minimal",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/minimal",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/minimal",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/minimal"
+          ],
+          "page_type": "other",
+          "slug": "minimal"
+        },
+        {
+          "page_id": "wavespeed-0063",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/script",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/script",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/script",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/script"
+          ],
+          "page_type": "other",
+          "slug": "script"
+        },
+        {
+          "page_id": "wavespeed-0064",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/traditional",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/traditional",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/traditional",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/traditional"
+          ],
+          "page_type": "other",
+          "slug": "traditional"
+        },
+        {
+          "page_id": "wavespeed-0065",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/japanese",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/japanese",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/japanese",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/japanese"
+          ],
+          "page_type": "other",
+          "slug": "japanese"
+        },
+        {
+          "page_id": "wavespeed-0066",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/blackwork",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/blackwork",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/blackwork",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/blackwork"
+          ],
+          "page_type": "other",
+          "slug": "blackwork"
+        },
+        {
+          "page_id": "wavespeed-0067",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/watercolor",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/watercolor",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/watercolor",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/watercolor"
+          ],
+          "page_type": "other",
+          "slug": "watercolor"
+        },
+        {
+          "page_id": "wavespeed-0068",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/celestial",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/celestial",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/celestial",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/celestial"
+          ],
+          "page_type": "other",
+          "slug": "celestial"
+        },
+        {
+          "page_id": "wavespeed-0069",
+          "url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/mandala",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-tattoo-gallery/mandala",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/es/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/pt/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/fr/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/de/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/it/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/ru/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/tr/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/pl/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/id/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/vi/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/th/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/hi/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/ja/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/ko/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-tattoo-gallery/mandala",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-tattoo-gallery/mandala"
+          ],
+          "page_type": "other",
+          "slug": "mandala"
+        },
+        {
+          "page_id": "wavespeed-0070",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/studio",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/studio",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/studio",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/studio"
+          ],
+          "page_type": "other",
+          "slug": "studio"
+        },
+        {
+          "page_id": "wavespeed-0071",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/natural",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/natural",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/natural",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/natural"
+          ],
+          "page_type": "other",
+          "slug": "natural"
+        },
+        {
+          "page_id": "wavespeed-0072",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/golden",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/golden",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/golden",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/golden"
+          ],
+          "page_type": "other",
+          "slug": "golden"
+        },
+        {
+          "page_id": "wavespeed-0073",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/dramatic",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/dramatic",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/dramatic",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/dramatic"
+          ],
+          "page_type": "other",
+          "slug": "dramatic"
+        },
+        {
+          "page_id": "wavespeed-0074",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/color",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/color",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/color",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/color"
+          ],
+          "page_type": "other",
+          "slug": "color"
+        },
+        {
+          "page_id": "wavespeed-0075",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/cinematic",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/cinematic",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/cinematic",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/cinematic"
+          ],
+          "page_type": "other",
+          "slug": "cinematic"
+        },
+        {
+          "page_id": "wavespeed-0076",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/flash",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/flash",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/flash",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/flash"
+          ],
+          "page_type": "other",
+          "slug": "flash"
+        },
+        {
+          "page_id": "wavespeed-0077",
+          "url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/creative",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-lighting-gallery/creative",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/es/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/pt/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/fr/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/de/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/it/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/ru/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/tr/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/pl/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/id/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/vi/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/th/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/hi/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/ja/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/ko/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-lighting-gallery/creative",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-lighting-gallery/creative"
+          ],
+          "page_type": "other",
+          "slug": "creative"
+        },
+        {
+          "page_id": "wavespeed-0078",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/size",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/size",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery/size",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery/size"
+          ],
+          "page_type": "other",
+          "slug": "size"
+        },
+        {
+          "page_id": "wavespeed-0079",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/angle",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/angle",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery/angle",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery/angle"
+          ],
+          "page_type": "other",
+          "slug": "angle"
+        },
+        {
+          "page_id": "wavespeed-0080",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/perspective",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/perspective",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery/perspective",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery/perspective"
+          ],
+          "page_type": "other",
+          "slug": "perspective"
+        },
+        {
+          "page_id": "wavespeed-0081",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/lens",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/lens",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery/lens",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery/lens"
+          ],
+          "page_type": "other",
+          "slug": "lens"
+        },
+        {
+          "page_id": "wavespeed-0082",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/composition",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/composition",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery/composition",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery/composition"
+          ],
+          "page_type": "other",
+          "slug": "composition"
+        },
+        {
+          "page_id": "wavespeed-0083",
+          "url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/phone",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/phone",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/es/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/pt/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/fr/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/de/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/it/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/ru/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/tr/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/pl/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/id/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/vi/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/th/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/hi/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/ja/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/ko/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-camera-angle-gallery/phone",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-camera-angle-gallery/phone"
+          ],
+          "page_type": "other",
+          "slug": "phone"
+        },
+        {
+          "page_id": "wavespeed-0084",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/painting",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/painting",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/painting",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/painting"
+          ],
+          "page_type": "other",
+          "slug": "painting"
+        },
+        {
+          "page_id": "wavespeed-0085",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/drawing",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/drawing",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/drawing",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/drawing"
+          ],
+          "page_type": "other",
+          "slug": "drawing"
+        },
+        {
+          "page_id": "wavespeed-0086",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/anime",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/anime",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/anime",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/anime"
+          ],
+          "page_type": "other",
+          "slug": "anime"
+        },
+        {
+          "page_id": "wavespeed-0087",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/3d",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/3d",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/3d",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/3d"
+          ],
+          "page_type": "other",
+          "slug": "3d"
+        },
+        {
+          "page_id": "wavespeed-0088",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/digital",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/digital",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/digital",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/digital"
+          ],
+          "page_type": "other",
+          "slug": "digital"
+        },
+        {
+          "page_id": "wavespeed-0089",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/print",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/print",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/print",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/print"
+          ],
+          "page_type": "other",
+          "slug": "print"
+        },
+        {
+          "page_id": "wavespeed-0090",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/photo",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/photo",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/photo",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/photo"
+          ],
+          "page_type": "other",
+          "slug": "photo"
+        },
+        {
+          "page_id": "wavespeed-0091",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/craft",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/craft",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/craft",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/craft"
+          ],
+          "page_type": "other",
+          "slug": "craft"
+        },
+        {
+          "page_id": "wavespeed-0092",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/movement",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/movement",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/movement",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/movement"
+          ],
+          "page_type": "other",
+          "slug": "movement"
+        },
+        {
+          "page_id": "wavespeed-0093",
+          "url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/cultural",
+          "canonical_url": "https://wavespeed.ai/free-tools/ai-art-style-gallery/cultural",
+          "original_urls": [
+            "https://wavespeed.ai/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/es/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/pt/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/fr/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/de/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/it/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/ru/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/tr/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/pl/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/id/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/vi/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/th/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/hi/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/ja/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/ko/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/zh-CN/free-tools/ai-art-style-gallery/cultural",
+            "https://wavespeed.ai/zh-TW/free-tools/ai-art-style-gallery/cultural"
+          ],
+          "page_type": "other",
+          "slug": "cultural"
+        },
+        {
+          "page_id": "wavespeed-0094",
+          "url": "https://wavespeed.ai/llm/anthropic/claude-fable-5.2",
+          "canonical_url": "https://wavespeed.ai/llm/anthropic/claude-fable-5.2",
+          "original_urls": [
+            "https://wavespeed.ai/llm/anthropic/claude-fable-5.2"
+          ],
+          "page_type": "other",
+          "slug": "claude-fable-5.2"
+        },
+        {
+          "page_id": "wavespeed-0095",
+          "url": "https://wavespeed.ai/models/minimax/h3-image/edit",
+          "canonical_url": "https://wavespeed.ai/models/minimax/h3-image/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/minimax/h3-image/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0096",
+          "url": "https://wavespeed.ai/models/minimax/h3-image/text-to-image",
+          "canonical_url": "https://wavespeed.ai/models/minimax/h3-image/text-to-image",
+          "original_urls": [
+            "https://wavespeed.ai/models/minimax/h3-image/text-to-image"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-image"
+        },
+        {
+          "page_id": "wavespeed-0097",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/edit-lora",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/edit-lora",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/edit-lora"
+          ],
+          "page_type": "model_api",
+          "slug": "edit-lora"
+        },
+        {
+          "page_id": "wavespeed-0098",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/text-to-image-lora",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/text-to-image-lora",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/text-to-image-lora"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-image-lora"
+        },
+        {
+          "page_id": "wavespeed-0099",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/edit",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/edit",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/edit"
+          ],
+          "page_type": "model_api",
+          "slug": "edit"
+        },
+        {
+          "page_id": "wavespeed-0100",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/text-to-image",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/text-to-image",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/minimax-h3-image/text-to-image"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-image"
+        }
+      ]
+    },
+    {
+      "site": "wireflow",
+      "source_file": "diff/20261111/wireflow.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "wireflow-0001",
+          "url": "https://www.wireflow.ai/blog/claude-marketing-skills",
+          "canonical_url": "https://www.wireflow.ai/blog/claude-marketing-skills",
+          "original_urls": [
+            "https://www.wireflow.ai/blog/claude-marketing-skills"
+          ],
+          "page_type": "blog",
+          "slug": "claude-marketing-skills"
+        },
+        {
+          "page_id": "wireflow-0002",
+          "url": "https://www.wireflow.ai/features/shopify-product-photos",
+          "canonical_url": "https://www.wireflow.ai/features/shopify-product-photos",
+          "original_urls": [
+            "https://www.wireflow.ai/features/shopify-product-photos"
+          ],
+          "page_type": "other",
+          "slug": "shopify-product-photos"
+        }
+      ]
+    }
+  ]
+}
