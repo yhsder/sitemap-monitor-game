@@ -1,0 +1,4033 @@
+{
+  "date": "20261113",
+  "sites": [
+    {
+      "site": "affogato",
+      "source_file": "diff/20261113/affogato.json",
+      "raw_url_count": 25,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 21,
+      "pages": [
+        {
+          "page_id": "affogato-0001",
+          "url": "https://affogato.ai/models",
+          "canonical_url": "https://affogato.ai/models",
+          "original_urls": [
+            "https://affogato.ai/models"
+          ],
+          "page_type": "model_api",
+          "slug": "models"
+        },
+        {
+          "page_id": "affogato-0002",
+          "url": "https://affogato.ai/es/generador-de-imagenes-ia",
+          "canonical_url": "https://affogato.ai/generador-de-imagenes-ia",
+          "original_urls": [
+            "https://affogato.ai/es/generador-de-imagenes-ia"
+          ],
+          "page_type": "other",
+          "slug": "generador-de-imagenes-ia"
+        },
+        {
+          "page_id": "affogato-0003",
+          "url": "https://affogato.ai/es/face-swap",
+          "canonical_url": "https://affogato.ai/face-swap",
+          "original_urls": [
+            "https://affogato.ai/es/face-swap",
+            "https://affogato.ai/pt-br/face-swap"
+          ],
+          "page_type": "other",
+          "slug": "face-swap"
+        },
+        {
+          "page_id": "affogato-0004",
+          "url": "https://affogato.ai/es/editor-de-fotos-ia",
+          "canonical_url": "https://affogato.ai/editor-de-fotos-ia",
+          "original_urls": [
+            "https://affogato.ai/es/editor-de-fotos-ia",
+            "https://affogato.ai/pt-br/editor-de-fotos-ia"
+          ],
+          "page_type": "other",
+          "slug": "editor-de-fotos-ia"
+        },
+        {
+          "page_id": "affogato-0005",
+          "url": "https://affogato.ai/es/generador-de-voz-ia",
+          "canonical_url": "https://affogato.ai/generador-de-voz-ia",
+          "original_urls": [
+            "https://affogato.ai/es/generador-de-voz-ia"
+          ],
+          "page_type": "other",
+          "slug": "generador-de-voz-ia"
+        },
+        {
+          "page_id": "affogato-0006",
+          "url": "https://affogato.ai/es/influencer-ia",
+          "canonical_url": "https://affogato.ai/influencer-ia",
+          "original_urls": [
+            "https://affogato.ai/es/influencer-ia",
+            "https://affogato.ai/pt-br/influencer-ia"
+          ],
+          "page_type": "other",
+          "slug": "influencer-ia"
+        },
+        {
+          "page_id": "affogato-0007",
+          "url": "https://affogato.ai/pt-br/gerador-de-imagens-ia",
+          "canonical_url": "https://affogato.ai/gerador-de-imagens-ia",
+          "original_urls": [
+            "https://affogato.ai/pt-br/gerador-de-imagens-ia"
+          ],
+          "page_type": "other",
+          "slug": "gerador-de-imagens-ia"
+        },
+        {
+          "page_id": "affogato-0008",
+          "url": "https://affogato.ai/pt-br/gerador-de-voz-ia",
+          "canonical_url": "https://affogato.ai/gerador-de-voz-ia",
+          "original_urls": [
+            "https://affogato.ai/pt-br/gerador-de-voz-ia"
+          ],
+          "page_type": "other",
+          "slug": "gerador-de-voz-ia"
+        },
+        {
+          "page_id": "affogato-0009",
+          "url": "https://affogato.ai/es/generador-videos-ia",
+          "canonical_url": "https://affogato.ai/generador-videos-ia",
+          "original_urls": [
+            "https://affogato.ai/es/generador-videos-ia"
+          ],
+          "page_type": "other",
+          "slug": "generador-videos-ia"
+        },
+        {
+          "page_id": "affogato-0010",
+          "url": "https://affogato.ai/pt-br/gerador-videos-ia",
+          "canonical_url": "https://affogato.ai/gerador-videos-ia",
+          "original_urls": [
+            "https://affogato.ai/pt-br/gerador-videos-ia"
+          ],
+          "page_type": "other",
+          "slug": "gerador-videos-ia"
+        },
+        {
+          "page_id": "affogato-0011",
+          "url": "https://affogato.ai/image-to-video",
+          "canonical_url": "https://affogato.ai/image-to-video",
+          "original_urls": [
+            "https://affogato.ai/image-to-video"
+          ],
+          "page_type": "other",
+          "slug": "image-to-video"
+        },
+        {
+          "page_id": "affogato-0012",
+          "url": "https://affogato.ai/es/imagen-a-video-ia",
+          "canonical_url": "https://affogato.ai/imagen-a-video-ia",
+          "original_urls": [
+            "https://affogato.ai/es/imagen-a-video-ia"
+          ],
+          "page_type": "other",
+          "slug": "imagen-a-video-ia"
+        },
+        {
+          "page_id": "affogato-0013",
+          "url": "https://affogato.ai/pt-br/imagem-para-video-ia",
+          "canonical_url": "https://affogato.ai/imagem-para-video-ia",
+          "original_urls": [
+            "https://affogato.ai/pt-br/imagem-para-video-ia"
+          ],
+          "page_type": "other",
+          "slug": "imagem-para-video-ia"
+        },
+        {
+          "page_id": "affogato-0014",
+          "url": "https://affogato.ai/ai-ad-generator",
+          "canonical_url": "https://affogato.ai/ai-ad-generator",
+          "original_urls": [
+            "https://affogato.ai/ai-ad-generator"
+          ],
+          "page_type": "tool",
+          "slug": "ai-ad-generator"
+        },
+        {
+          "page_id": "affogato-0015",
+          "url": "https://affogato.ai/es/generador-anuncios-ia",
+          "canonical_url": "https://affogato.ai/generador-anuncios-ia",
+          "original_urls": [
+            "https://affogato.ai/es/generador-anuncios-ia"
+          ],
+          "page_type": "other",
+          "slug": "generador-anuncios-ia"
+        },
+        {
+          "page_id": "affogato-0016",
+          "url": "https://affogato.ai/pt-br/gerador-anuncios-ia",
+          "canonical_url": "https://affogato.ai/gerador-anuncios-ia",
+          "original_urls": [
+            "https://affogato.ai/pt-br/gerador-anuncios-ia"
+          ],
+          "page_type": "other",
+          "slug": "gerador-anuncios-ia"
+        },
+        {
+          "page_id": "affogato-0017",
+          "url": "https://affogato.ai/gas-station-ai-video",
+          "canonical_url": "https://affogato.ai/gas-station-ai-video",
+          "original_urls": [
+            "https://affogato.ai/gas-station-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "gas-station-ai-video"
+        },
+        {
+          "page_id": "affogato-0018",
+          "url": "https://affogato.ai/es/video-gasolinera-ia",
+          "canonical_url": "https://affogato.ai/video-gasolinera-ia",
+          "original_urls": [
+            "https://affogato.ai/es/video-gasolinera-ia"
+          ],
+          "page_type": "other",
+          "slug": "video-gasolinera-ia"
+        },
+        {
+          "page_id": "affogato-0019",
+          "url": "https://affogato.ai/pt-br/video-posto-gasolina-ia",
+          "canonical_url": "https://affogato.ai/video-posto-gasolina-ia",
+          "original_urls": [
+            "https://affogato.ai/pt-br/video-posto-gasolina-ia"
+          ],
+          "page_type": "other",
+          "slug": "video-posto-gasolina-ia"
+        },
+        {
+          "page_id": "affogato-0020",
+          "url": "https://affogato.ai/hotel-lobby-ai-video",
+          "canonical_url": "https://affogato.ai/hotel-lobby-ai-video",
+          "original_urls": [
+            "https://affogato.ai/hotel-lobby-ai-video"
+          ],
+          "page_type": "other",
+          "slug": "hotel-lobby-ai-video"
+        },
+        {
+          "page_id": "affogato-0021",
+          "url": "https://affogato.ai/es/video-hotel-lobby-ia",
+          "canonical_url": "https://affogato.ai/video-hotel-lobby-ia",
+          "original_urls": [
+            "https://affogato.ai/es/video-hotel-lobby-ia",
+            "https://affogato.ai/pt-br/video-hotel-lobby-ia"
+          ],
+          "page_type": "other",
+          "slug": "video-hotel-lobby-ia"
+        }
+      ],
+      "demands": [
+        {
+          "id": "affogato-models",
+          "name": "模型总览页",
+          "category": "model_api",
+          "summary": "站内模型列表入口页 当日新增 1 个页面，slug：models。",
+          "audience": "图片与视频创作者",
+          "job_to_be_done": "浏览并选择模型",
+          "page_ids": [
+            "affogato-0001"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-image-generator",
+          "name": "AI 图片生成器（西语/葡语）",
+          "category": "tool",
+          "summary": "西语和葡语本地化的图片生成器落地页 当日新增 2 个页面，slug：generador-de-imagenes-ia、gerador-de-imagens-ia。",
+          "audience": "西语/葡语市场创作者",
+          "job_to_be_done": "用 AI 生成图片",
+          "page_ids": [
+            "affogato-0002",
+            "affogato-0007"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "西语与葡语路径下同一工具，属本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-face-swap",
+          "name": "AI 换脸工具",
+          "category": "tool",
+          "summary": "人脸交换工具，西语与葡语路径 当日新增 1 个页面，slug：face-swap。",
+          "audience": "娱乐向用户",
+          "job_to_be_done": "把一张脸换到另一张图上",
+          "page_ids": [
+            "affogato-0003"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-photo-editor",
+          "name": "AI 图片编辑器",
+          "category": "tool",
+          "summary": "西语与葡语路径下的 AI 修图工具 当日新增 1 个页面，slug：editor-de-fotos-ia。",
+          "audience": "修图用户",
+          "job_to_be_done": "用 AI 修图",
+          "page_ids": [
+            "affogato-0004"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-voice-generator",
+          "name": "AI 语音生成器（西语/葡语）",
+          "category": "tool",
+          "summary": "西语和葡语本地化的 AI 语音生成器 当日新增 2 个页面，slug：generador-de-voz-ia、gerador-de-voz-ia。",
+          "audience": "西语/葡语配音创作者",
+          "job_to_be_done": "用 AI 生成语音",
+          "page_ids": [
+            "affogato-0005",
+            "affogato-0008"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "西语与葡语路径下同一工具，属本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-ai-influencer",
+          "name": "AI 网红生成器",
+          "category": "tool",
+          "summary": "生成 AI 虚拟网红的工具页 当日新增 1 个页面，slug：influencer-ia。",
+          "audience": "品牌与社媒运营者",
+          "job_to_be_done": "做一个 AI 网红形象",
+          "page_ids": [
+            "affogato-0006"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-video-generator",
+          "name": "AI 视频生成器（西语/葡语）",
+          "category": "tool",
+          "summary": "西语和葡语本地化的 AI 视频生成器 当日新增 2 个页面，slug：generador-videos-ia、gerador-videos-ia。",
+          "audience": "西语/葡语视频创作者",
+          "job_to_be_done": "用 AI 生成视频",
+          "page_ids": [
+            "affogato-0009",
+            "affogato-0010"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "西语与葡语路径下同一工具，属本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-image-to-video",
+          "name": "图生视频工具",
+          "category": "tool",
+          "summary": "图片转视频工具，含根路径与西语、葡语版本 当日新增 3 个页面，slug：image-to-video、imagen-a-video-ia、imagem-para-video-ia。",
+          "audience": "短视频创作者",
+          "job_to_be_done": "把静态图片变成视频",
+          "page_ids": [
+            "affogato-0011",
+            "affogato-0012",
+            "affogato-0013"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "根路径与西语、葡语路径指向同一工具",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-ad-generator",
+          "name": "AI 广告生成器",
+          "category": "tool",
+          "summary": "生成广告素材的工具，含根路径与西语、葡语版本 当日新增 3 个页面，slug：ai-ad-generator、generador-anuncios-ia、gerador-anuncios-ia。",
+          "audience": "广告投放者",
+          "job_to_be_done": "快速生成广告创意",
+          "page_ids": [
+            "affogato-0014",
+            "affogato-0015",
+            "affogato-0016"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "根路径与西语、葡语路径指向同一工具",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "affogato-scene-video",
+          "name": "商业场景视频模板（加油站/酒店大堂）",
+          "category": "trend_template",
+          "summary": "加油站与酒店大堂两个垂直场景的 AI 视频模板，均带西语、葡语版本 当日新增 5 个页面，slug：gas-station-ai-video、video-gasolinera-ia、video-posto-gasolina-ia、hotel-lobby-ai-video、video-hotel-lobby-ia。",
+          "audience": "本地商户与门店营销者",
+          "job_to_be_done": "给自家门店生成宣传视频",
+          "page_ids": [
+            "affogato-0017",
+            "affogato-0018",
+            "affogato-0019",
+            "affogato-0020",
+            "affogato-0021"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "两个垂直场景各自成页，含多语言版本",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "basedlabs",
+      "source_file": "diff/20261113/basedlabs.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "basedlabs-0001",
+          "url": "https://www.basedlabs.ai/articles/ai-ugc-video-storytelling",
+          "canonical_url": "https://www.basedlabs.ai/articles/ai-ugc-video-storytelling",
+          "original_urls": [
+            "https://www.basedlabs.ai/articles/ai-ugc-video-storytelling"
+          ],
+          "page_type": "blog",
+          "slug": "ai-ugc-video-storytelling"
+        }
+      ],
+      "demands": [
+        {
+          "id": "basedlabs-ugc-storytelling",
+          "name": "UGC 视频叙事文章",
+          "category": "content_strategy",
+          "summary": "讲解用 AI 做 UGC 视频叙事的博客文章 当日新增 1 个页面，slug：ai-ugc-video-storytelling。",
+          "audience": "短视频与品牌内容创作者",
+          "job_to_be_done": "学会用 AI 讲 UGC 故事",
+          "page_ids": [
+            "basedlabs-0001"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "flyu",
+      "source_file": "diff/20261113/flyu.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "flyu-0001",
+          "url": "https://flyu.ai/blog/ai-singer-music-video",
+          "canonical_url": "https://flyu.ai/blog/ai-singer-music-video",
+          "original_urls": [
+            "https://flyu.ai/blog/ai-singer-music-video"
+          ],
+          "page_type": "blog",
+          "slug": "ai-singer-music-video"
+        }
+      ],
+      "demands": [
+        {
+          "id": "flyu-ai-singer",
+          "name": "AI 歌手音乐视频指南",
+          "category": "content_strategy",
+          "summary": "教用户做 AI 歌手音乐视频的博客 当日新增 1 个页面，slug：ai-singer-music-video。",
+          "audience": "音乐视频创作者",
+          "job_to_be_done": "做一支 AI 歌手 MV",
+          "page_ids": [
+            "flyu-0001"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "getstarrd",
+      "source_file": "diff/20261113/getstarrd.json",
+      "raw_url_count": 20,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 20,
+      "pages": [
+        {
+          "page_id": "getstarrd-0001",
+          "url": "https://www.getstarrd.app/templates/holidays",
+          "canonical_url": "https://www.getstarrd.app/templates/holidays",
+          "original_urls": [
+            "https://www.getstarrd.app/templates/holidays"
+          ],
+          "page_type": "template",
+          "slug": "holidays"
+        },
+        {
+          "page_id": "getstarrd-0002",
+          "url": "https://www.getstarrd.app/template/catch-the-grinch-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/catch-the-grinch-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/catch-the-grinch-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "catch-the-grinch-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0003",
+          "url": "https://www.getstarrd.app/template/catch-the-sneaky-elf-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/catch-the-sneaky-elf-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/catch-the-sneaky-elf-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "catch-the-sneaky-elf-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0004",
+          "url": "https://www.getstarrd.app/template/catch-santa-eating-the-cookies-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/catch-santa-eating-the-cookies-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/catch-santa-eating-the-cookies-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "catch-santa-eating-the-cookies-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0005",
+          "url": "https://www.getstarrd.app/template/catch-santa-down-the-chimney-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/catch-santa-down-the-chimney-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/catch-santa-down-the-chimney-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "catch-santa-down-the-chimney-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0006",
+          "url": "https://www.getstarrd.app/template/catch-santa-at-your-tree-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/catch-santa-at-your-tree-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/catch-santa-at-your-tree-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "catch-santa-at-your-tree-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0007",
+          "url": "https://www.getstarrd.app/template/elf-dance-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/elf-dance-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/elf-dance-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "elf-dance-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0008",
+          "url": "https://www.getstarrd.app/template/gangstas-paradise-extended-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/gangstas-paradise-extended-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/gangstas-paradise-extended-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "gangstas-paradise-extended-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0009",
+          "url": "https://www.getstarrd.app/template/gangstas-paradise-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/gangstas-paradise-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/gangstas-paradise-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "gangstas-paradise-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0010",
+          "url": "https://www.getstarrd.app/template/island-boy-ai-trend",
+          "canonical_url": "https://www.getstarrd.app/template/island-boy-ai-trend",
+          "original_urls": [
+            "https://www.getstarrd.app/template/island-boy-ai-trend"
+          ],
+          "page_type": "template",
+          "slug": "island-boy-ai-trend"
+        },
+        {
+          "page_id": "getstarrd-0011",
+          "url": "https://www.getstarrd.app/template/christmas-dance-trend",
+          "canonical_url": "https://www.getstarrd.app/template/christmas-dance-trend",
+          "original_urls": [
+            "https://www.getstarrd.app/template/christmas-dance-trend"
+          ],
+          "page_type": "template",
+          "slug": "christmas-dance-trend"
+        },
+        {
+          "page_id": "getstarrd-0012",
+          "url": "https://www.getstarrd.app/template/barbie-girl-dance",
+          "canonical_url": "https://www.getstarrd.app/template/barbie-girl-dance",
+          "original_urls": [
+            "https://www.getstarrd.app/template/barbie-girl-dance"
+          ],
+          "page_type": "template",
+          "slug": "barbie-girl-dance"
+        },
+        {
+          "page_id": "getstarrd-0013",
+          "url": "https://www.getstarrd.app/template/atm-christmas-wish-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/atm-christmas-wish-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/atm-christmas-wish-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "atm-christmas-wish-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0014",
+          "url": "https://www.getstarrd.app/blog/how-to-make-atm-christmas-wish-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-atm-christmas-wish-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-atm-christmas-wish-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-atm-christmas-wish-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0015",
+          "url": "https://www.getstarrd.app/blog/how-to-make-barbie-girl-dance-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-barbie-girl-dance-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-barbie-girl-dance-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-barbie-girl-dance-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0016",
+          "url": "https://www.getstarrd.app/blog/how-to-make-christmas-dance-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-christmas-dance-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-christmas-dance-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-christmas-dance-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0017",
+          "url": "https://www.getstarrd.app/blog/how-to-make-gangstas-paradise-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-gangstas-paradise-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-gangstas-paradise-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-gangstas-paradise-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0018",
+          "url": "https://www.getstarrd.app/blog/how-to-make-island-boy-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-island-boy-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-island-boy-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-island-boy-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0019",
+          "url": "https://www.getstarrd.app/blog/how-to-make-shes-staring-at-me-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-shes-staring-at-me-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-shes-staring-at-me-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-shes-staring-at-me-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0020",
+          "url": "https://www.getstarrd.app/christmas-ai-photo-prompts",
+          "canonical_url": "https://www.getstarrd.app/christmas-ai-photo-prompts",
+          "original_urls": [
+            "https://www.getstarrd.app/christmas-ai-photo-prompts"
+          ],
+          "page_type": "other",
+          "slug": "christmas-ai-photo-prompts"
+        }
+      ],
+      "demands": [
+        {
+          "id": "getstarrd-holiday-category",
+          "name": "节日模板分类页",
+          "category": "platform_update",
+          "summary": "节日主题模板的总入口页 当日新增 1 个页面，slug：holidays。",
+          "audience": "模板浏览者",
+          "job_to_be_done": "浏览节日模板",
+          "page_ids": [
+            "getstarrd-0001"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "getstarrd-catch-santa",
+          "name": "圣诞捉拍视频模板簇",
+          "category": "trend_template",
+          "summary": "抓圣诞老人、抓精灵、抓圣诞老人吃饼干/下烟囱/在树旁五个圣诞捉拍模板 当日新增 5 个页面，slug：catch-the-grinch-ai-video、catch-the-sneaky-elf-ai-video、catch-santa-eating-the-cookies-ai-video、catch-santa-down-the-chimney-ai-video、catch-santa-at-your-tree-ai-video。",
+          "audience": "亲子与节日短视频创作者",
+          "job_to_be_done": "套用圣诞捉拍模板生成视频",
+          "page_ids": [
+            "getstarrd-0002",
+            "getstarrd-0003",
+            "getstarrd-0004",
+            "getstarrd-0005",
+            "getstarrd-0006"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "getstarrd-dance-meme",
+          "name": "舞蹈与音乐梗模板簇",
+          "category": "trend_template",
+          "summary": "精灵舞、Gangstas Paradise、Island Boy、圣诞舞、Barbie Girl、ATM 圣诞许愿等热点模板 当日新增 7 个页面，slug：elf-dance-ai-video、gangstas-paradise-extended-ai-video、gangstas-paradise-ai-video、island-boy-ai-trend、christmas-dance-trend、barbie-girl-dance、atm-christmas-wish-ai-video。",
+          "audience": "追热点的短视频创作者",
+          "job_to_be_done": "套用热点模板生成视频",
+          "page_ids": [
+            "getstarrd-0007",
+            "getstarrd-0008",
+            "getstarrd-0009",
+            "getstarrd-0010",
+            "getstarrd-0011",
+            "getstarrd-0012",
+            "getstarrd-0013"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "getstarrd-howto-blogs",
+          "name": "模板教程系列",
+          "category": "content_strategy",
+          "summary": "教用户复现 ATM 圣诞许愿、Barbie Girl、圣诞舞、Gangstas Paradise、Island Boy 等模板的教程 当日新增 6 个页面，slug：how-to-make-atm-christmas-wish-ai-video、how-to-make-barbie-girl-dance-ai-video、how-to-make-christmas-dance-ai-video、how-to-make-gangstas-paradise-ai-video、how-to-make-island-boy-ai-video、how-to-make-shes-staring-at-me-ai-video。",
+          "audience": "新用户",
+          "job_to_be_done": "照着教程复现模板",
+          "page_ids": [
+            "getstarrd-0014",
+            "getstarrd-0015",
+            "getstarrd-0016",
+            "getstarrd-0017",
+            "getstarrd-0018",
+            "getstarrd-0019"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "getstarrd-christmas-photo-prompts",
+          "name": "圣诞 AI 图片提示词",
+          "category": "content_strategy",
+          "summary": "圣诞主题 AI 图片提示词合集页 当日新增 1 个页面，slug：christmas-ai-photo-prompts。",
+          "audience": "节日内容创作者",
+          "job_to_be_done": "获取圣诞图片提示词",
+          "page_ids": [
+            "getstarrd-0020"
+          ],
+          "signal": "提示词内容",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261113/higgsfield.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/talent-contest",
+          "canonical_url": "https://higgsfield.ai/talent-contest",
+          "original_urls": [
+            "https://higgsfield.ai/talent-contest"
+          ],
+          "page_type": "other",
+          "slug": "talent-contest"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/community/rooms/serf",
+          "canonical_url": "https://higgsfield.ai/community/rooms/serf",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/serf"
+          ],
+          "page_type": "community",
+          "slug": "serf"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/community/rooms/client-work",
+          "canonical_url": "https://higgsfield.ai/community/rooms/client-work",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/client-work"
+          ],
+          "page_type": "community",
+          "slug": "client-work"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/community/rooms/blaxploitation",
+          "canonical_url": "https://higgsfield.ai/community/rooms/blaxploitation",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/blaxploitation"
+          ],
+          "page_type": "community",
+          "slug": "blaxploitation"
+        },
+        {
+          "page_id": "higgsfield-0005",
+          "url": "https://higgsfield.ai/community/rooms/psychedelic-projects",
+          "canonical_url": "https://higgsfield.ai/community/rooms/psychedelic-projects",
+          "original_urls": [
+            "https://higgsfield.ai/community/rooms/psychedelic-projects"
+          ],
+          "page_type": "community",
+          "slug": "psychedelic-projects"
+        },
+        {
+          "page_id": "higgsfield-0006",
+          "url": "https://higgsfield.ai/blog/scale-ai-video-production-for-clients",
+          "canonical_url": "https://higgsfield.ai/blog/scale-ai-video-production-for-clients",
+          "original_urls": [
+            "https://higgsfield.ai/blog/scale-ai-video-production-for-clients"
+          ],
+          "page_type": "blog",
+          "slug": "scale-ai-video-production-for-clients"
+        }
+      ],
+      "demands": [
+        {
+          "id": "higgsfield-talent-contest",
+          "name": "才艺大赛活动页",
+          "category": "platform_update",
+          "summary": "百万美元奖池的创作者才艺大赛落地页 当日新增 1 个页面，slug：talent-contest。",
+          "audience": "平台创作者",
+          "job_to_be_done": "参加比赛并提交作品",
+          "page_ids": [
+            "higgsfield-0001"
+          ],
+          "signal": "活动",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://higgsfield.ai/talent-contest，title 为 Higgsfield Talent Contest，为 100 万美元奖池、20 个获奖席位的公开创作比赛"
+          ]
+        },
+        {
+          "id": "higgsfield-community-rooms",
+          "name": "社区创作房间",
+          "category": "platform_update",
+          "summary": "serf、client-work、blaxploitation、psychedelic-projects 四个社区房间 当日新增 4 个页面，slug：serf、client-work、blaxploitation、psychedelic-projects。",
+          "audience": "社区用户",
+          "job_to_be_done": "进入同题材房间交流",
+          "page_ids": [
+            "higgsfield-0002",
+            "higgsfield-0003",
+            "higgsfield-0004",
+            "higgsfield-0005"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "higgsfield-client-scaling",
+          "name": "客户视频规模化文章",
+          "category": "content_strategy",
+          "summary": "教用户规模化产出客户视频的博客 当日新增 1 个页面，slug：scale-ai-video-production-for-clients。",
+          "audience": "服务客户的制作团队",
+          "job_to_be_done": "把 AI 视频制作规模化",
+          "page_ids": [
+            "higgsfield-0006"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "imagine",
+      "source_file": "diff/20261113/imagine.json",
+      "raw_url_count": 4,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 4,
+      "pages": [
+        {
+          "page_id": "imagine-0001",
+          "url": "https://www.imagine.art/insights/fashion-photoshoot-cost",
+          "canonical_url": "https://www.imagine.art/insights/fashion-photoshoot-cost",
+          "original_urls": [
+            "https://www.imagine.art/insights/fashion-photoshoot-cost"
+          ],
+          "page_type": "other",
+          "slug": "fashion-photoshoot-cost"
+        },
+        {
+          "page_id": "imagine-0002",
+          "url": "https://www.imagine.art/insights/virtual-try-on-vs-ai-model-photos",
+          "canonical_url": "https://www.imagine.art/insights/virtual-try-on-vs-ai-model-photos",
+          "original_urls": [
+            "https://www.imagine.art/insights/virtual-try-on-vs-ai-model-photos"
+          ],
+          "page_type": "other",
+          "slug": "virtual-try-on-vs-ai-model-photos"
+        },
+        {
+          "page_id": "imagine-0003",
+          "url": "https://www.imagine.art/video-tool/historical-ai-video-generator",
+          "canonical_url": "https://www.imagine.art/video-tool/historical-ai-video-generator",
+          "original_urls": [
+            "https://www.imagine.art/video-tool/historical-ai-video-generator"
+          ],
+          "page_type": "other",
+          "slug": "historical-ai-video-generator"
+        },
+        {
+          "page_id": "imagine-0004",
+          "url": "https://www.imagine.art/video-tool/script-to-video-ai",
+          "canonical_url": "https://www.imagine.art/video-tool/script-to-video-ai",
+          "original_urls": [
+            "https://www.imagine.art/video-tool/script-to-video-ai"
+          ],
+          "page_type": "other",
+          "slug": "script-to-video-ai"
+        }
+      ],
+      "demands": [
+        {
+          "id": "imagine-fashion-insights",
+          "name": "时尚摄影与虚拟试穿洞察",
+          "category": "content_strategy",
+          "summary": "时尚摄影成本和虚拟试穿对比两篇行业洞察文章 当日新增 2 个页面，slug：fashion-photoshoot-cost、virtual-try-on-vs-ai-model-photos。",
+          "audience": "时尚与电商从业者",
+          "job_to_be_done": "了解时尚摄影与 AI 试穿",
+          "page_ids": [
+            "imagine-0001",
+            "imagine-0002"
+          ],
+          "signal": "榜单内容",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "imagine-video-tools",
+          "name": "历史视频与剧本转视频工具",
+          "category": "tool",
+          "summary": "历史题材视频生成器和剧本转视频两个工具页 当日新增 2 个页面，slug：historical-ai-video-generator、script-to-video-ai。",
+          "audience": "影视与短视频创作者",
+          "job_to_be_done": "按剧本或历史题材生成视频",
+          "page_ids": [
+            "imagine-0003",
+            "imagine-0004"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "pixexact",
+      "source_file": "diff/20261113/pixexact.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "pixexact-0001",
+          "url": "https://www.pixexact.com/blog/kling-4-vs-kling-3",
+          "canonical_url": "https://www.pixexact.com/blog/kling-4-vs-kling-3",
+          "original_urls": [
+            "https://www.pixexact.com/blog/kling-4-vs-kling-3"
+          ],
+          "page_type": "blog",
+          "slug": "kling-4-vs-kling-3"
+        }
+      ],
+      "demands": [
+        {
+          "id": "pixexact-kling-compare",
+          "name": "Kling 4 与 Kling 3 对比",
+          "category": "content_strategy",
+          "summary": "Kling 4 对比 Kling 3 的评测文章 当日新增 1 个页面，slug：kling-4-vs-kling-3。",
+          "audience": "选型用户",
+          "job_to_be_done": "比较新旧 Kling 版本",
+          "page_ids": [
+            "pixexact-0001"
+          ],
+          "signal": "榜单内容",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "pixomi",
+      "source_file": "diff/20261113/pixomi.json",
+      "raw_url_count": 13,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "pixomi-0001",
+          "url": "https://pixomi.ai/zh/image/minimax-h3-image/",
+          "canonical_url": "https://pixomi.ai/image/minimax-h3-image",
+          "original_urls": [
+            "https://pixomi.ai/zh/image/minimax-h3-image/",
+            "https://pixomi.ai/pt/image/minimax-h3-image/",
+            "https://pixomi.ai/de/image/minimax-h3-image/",
+            "https://pixomi.ai/fr/image/minimax-h3-image/",
+            "https://pixomi.ai/es/image/minimax-h3-image/",
+            "https://pixomi.ai/ko/image/minimax-h3-image/",
+            "https://pixomi.ai/ja/image/minimax-h3-image/",
+            "https://pixomi.ai/vi/image/minimax-h3-image/",
+            "https://pixomi.ai/ar/image/minimax-h3-image/",
+            "https://pixomi.ai/nl/image/minimax-h3-image/",
+            "https://pixomi.ai/pl/image/minimax-h3-image/"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "pixomi-0002",
+          "url": "https://pixomi.ai/tw/image/minimax-h3-image/",
+          "canonical_url": "https://pixomi.ai/tw/image/minimax-h3-image",
+          "original_urls": [
+            "https://pixomi.ai/tw/image/minimax-h3-image/"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "pixomi-0003",
+          "url": "https://pixomi.ai/hu/image/minimax-h3-image/",
+          "canonical_url": "https://pixomi.ai/hu/image/minimax-h3-image",
+          "original_urls": [
+            "https://pixomi.ai/hu/image/minimax-h3-image/"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        }
+      ],
+      "demands": [
+        {
+          "id": "pixomi-minimax-h3-image",
+          "name": "MiniMax H3 图像模型页（多语言）",
+          "category": "model_api",
+          "summary": "MiniMax H3 图像模型页，含中文、葡语、德语等十余个语言路径 当日新增 3 个页面，slug：minimax-h3-image。",
+          "audience": "全球图片创作者",
+          "job_to_be_done": "用 MiniMax H3 生成图片",
+          "page_ids": [
+            "pixomi-0001",
+            "pixomi-0002",
+            "pixomi-0003"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "同一 slug 在十余个语言路径下复制，属本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "pollo",
+      "source_file": "diff/20261113/pollo.json",
+      "raw_url_count": 984,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 116,
+      "pages": [
+        {
+          "page_id": "pollo-0001",
+          "url": "https://pollo.ai/im/seedream-5-5",
+          "canonical_url": "https://pollo.ai/im/seedream-5-5",
+          "original_urls": [
+            "https://pollo.ai/im/seedream-5-5",
+            "https://pollo.ai/es/im/seedream-5-5",
+            "https://pollo.ai/th/im/seedream-5-5",
+            "https://pollo.ai/fr/im/seedream-5-5",
+            "https://pollo.ai/nb/im/seedream-5-5",
+            "https://pollo.ai/ru/im/seedream-5-5",
+            "https://pollo.ai/ar/im/seedream-5-5",
+            "https://pollo.ai/zh/im/seedream-5-5",
+            "https://pollo.ai/ja/im/seedream-5-5",
+            "https://pollo.ai/id/im/seedream-5-5",
+            "https://pollo.ai/nl/im/seedream-5-5",
+            "https://pollo.ai/pt/im/seedream-5-5",
+            "https://pollo.ai/da/im/seedream-5-5",
+            "https://pollo.ai/tr/im/seedream-5-5",
+            "https://pollo.ai/it/im/seedream-5-5",
+            "https://pollo.ai/de/im/seedream-5-5",
+            "https://pollo.ai/pl/im/seedream-5-5",
+            "https://pollo.ai/ko/im/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "pollo-0002",
+          "url": "https://pollo.ai/challenge/pollo-storyland",
+          "canonical_url": "https://pollo.ai/challenge/pollo-storyland",
+          "original_urls": [
+            "https://pollo.ai/challenge/pollo-storyland",
+            "https://pollo.ai/zh/challenge/pollo-storyland",
+            "https://pollo.ai/pt/challenge/pollo-storyland",
+            "https://pollo.ai/pl/challenge/pollo-storyland",
+            "https://pollo.ai/ru/challenge/pollo-storyland",
+            "https://pollo.ai/tr/challenge/pollo-storyland",
+            "https://pollo.ai/th/challenge/pollo-storyland",
+            "https://pollo.ai/it/challenge/pollo-storyland",
+            "https://pollo.ai/id/challenge/pollo-storyland",
+            "https://pollo.ai/ja/challenge/pollo-storyland",
+            "https://pollo.ai/da/challenge/pollo-storyland",
+            "https://pollo.ai/nb/challenge/pollo-storyland",
+            "https://pollo.ai/fr/challenge/pollo-storyland",
+            "https://pollo.ai/es/challenge/pollo-storyland",
+            "https://pollo.ai/ko/challenge/pollo-storyland",
+            "https://pollo.ai/de/challenge/pollo-storyland",
+            "https://pollo.ai/ar/challenge/pollo-storyland",
+            "https://pollo.ai/nl/challenge/pollo-storyland"
+          ],
+          "page_type": "other",
+          "slug": "pollo-storyland"
+        },
+        {
+          "page_id": "pollo-0003",
+          "url": "https://pollo.ai/im/gpt-image-2-6",
+          "canonical_url": "https://pollo.ai/im/gpt-image-2-6",
+          "original_urls": [
+            "https://pollo.ai/im/gpt-image-2-6",
+            "https://pollo.ai/it/im/gpt-image-2-6",
+            "https://pollo.ai/es/im/gpt-image-2-6",
+            "https://pollo.ai/ko/im/gpt-image-2-6",
+            "https://pollo.ai/de/im/gpt-image-2-6",
+            "https://pollo.ai/ar/im/gpt-image-2-6",
+            "https://pollo.ai/nb/im/gpt-image-2-6",
+            "https://pollo.ai/da/im/gpt-image-2-6",
+            "https://pollo.ai/nl/im/gpt-image-2-6",
+            "https://pollo.ai/th/im/gpt-image-2-6",
+            "https://pollo.ai/fr/im/gpt-image-2-6",
+            "https://pollo.ai/ja/im/gpt-image-2-6",
+            "https://pollo.ai/tr/im/gpt-image-2-6",
+            "https://pollo.ai/zh/im/gpt-image-2-6",
+            "https://pollo.ai/pl/im/gpt-image-2-6",
+            "https://pollo.ai/ru/im/gpt-image-2-6",
+            "https://pollo.ai/id/im/gpt-image-2-6",
+            "https://pollo.ai/pt/im/gpt-image-2-6"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "pollo-0004",
+          "url": "https://pollo.ai/earn",
+          "canonical_url": "https://pollo.ai/earn",
+          "original_urls": [
+            "https://pollo.ai/earn",
+            "https://pollo.ai/nl/earn",
+            "https://pollo.ai/zh/earn",
+            "https://pollo.ai/de/earn",
+            "https://pollo.ai/it/earn",
+            "https://pollo.ai/ru/earn",
+            "https://pollo.ai/ko/earn",
+            "https://pollo.ai/tr/earn",
+            "https://pollo.ai/pl/earn",
+            "https://pollo.ai/da/earn",
+            "https://pollo.ai/ar/earn",
+            "https://pollo.ai/fr/earn",
+            "https://pollo.ai/th/earn",
+            "https://pollo.ai/nb/earn",
+            "https://pollo.ai/id/earn",
+            "https://pollo.ai/ja/earn",
+            "https://pollo.ai/es/earn",
+            "https://pollo.ai/pt/earn"
+          ],
+          "page_type": "other",
+          "slug": "earn"
+        },
+        {
+          "page_id": "pollo-0005",
+          "url": "https://pollo.ai/hub/how-to-use-seedream-5-5",
+          "canonical_url": "https://pollo.ai/hub/how-to-use-seedream-5-5",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/tr/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/nb/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/fr/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/ar/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/id/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/pt/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/it/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/zh/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/th/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/pl/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/ru/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/es/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/nl/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/ko/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/da/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/de/hub/how-to-use-seedream-5-5",
+            "https://pollo.ai/ja/hub/how-to-use-seedream-5-5"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-use-seedream-5-5"
+        },
+        {
+          "page_id": "pollo-0006",
+          "url": "https://pollo.ai/hub/seedream-5-5-review",
+          "canonical_url": "https://pollo.ai/hub/seedream-5-5-review",
+          "original_urls": [
+            "https://pollo.ai/hub/seedream-5-5-review",
+            "https://pollo.ai/ru/hub/seedream-5-5-review",
+            "https://pollo.ai/ja/hub/seedream-5-5-review",
+            "https://pollo.ai/pl/hub/seedream-5-5-review",
+            "https://pollo.ai/da/hub/seedream-5-5-review",
+            "https://pollo.ai/it/hub/seedream-5-5-review",
+            "https://pollo.ai/de/hub/seedream-5-5-review",
+            "https://pollo.ai/tr/hub/seedream-5-5-review",
+            "https://pollo.ai/es/hub/seedream-5-5-review",
+            "https://pollo.ai/zh/hub/seedream-5-5-review",
+            "https://pollo.ai/id/hub/seedream-5-5-review",
+            "https://pollo.ai/pt/hub/seedream-5-5-review",
+            "https://pollo.ai/nl/hub/seedream-5-5-review",
+            "https://pollo.ai/ko/hub/seedream-5-5-review",
+            "https://pollo.ai/fr/hub/seedream-5-5-review",
+            "https://pollo.ai/th/hub/seedream-5-5-review",
+            "https://pollo.ai/ar/hub/seedream-5-5-review",
+            "https://pollo.ai/nb/hub/seedream-5-5-review"
+          ],
+          "page_type": "blog",
+          "slug": "seedream-5-5-review"
+        },
+        {
+          "page_id": "pollo-0007",
+          "url": "https://pollo.ai/tw/im/seedream-5-5",
+          "canonical_url": "https://pollo.ai/tw/im/seedream-5-5",
+          "original_urls": [
+            "https://pollo.ai/tw/im/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "pollo-0008",
+          "url": "https://pollo.ai/ai-video-relight",
+          "canonical_url": "https://pollo.ai/ai-video-relight",
+          "original_urls": [
+            "https://pollo.ai/ai-video-relight",
+            "https://pollo.ai/tr/ai-video-relight",
+            "https://pollo.ai/ar/ai-video-relight",
+            "https://pollo.ai/ru/ai-video-relight",
+            "https://pollo.ai/zh/ai-video-relight",
+            "https://pollo.ai/id/ai-video-relight",
+            "https://pollo.ai/pt/ai-video-relight",
+            "https://pollo.ai/fr/ai-video-relight",
+            "https://pollo.ai/ja/ai-video-relight",
+            "https://pollo.ai/es/ai-video-relight",
+            "https://pollo.ai/ko/ai-video-relight",
+            "https://pollo.ai/da/ai-video-relight",
+            "https://pollo.ai/nl/ai-video-relight",
+            "https://pollo.ai/de/ai-video-relight",
+            "https://pollo.ai/it/ai-video-relight",
+            "https://pollo.ai/pl/ai-video-relight",
+            "https://pollo.ai/nb/ai-video-relight",
+            "https://pollo.ai/th/ai-video-relight"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-relight"
+        },
+        {
+          "page_id": "pollo-0009",
+          "url": "https://pollo.ai/relight",
+          "canonical_url": "https://pollo.ai/relight",
+          "original_urls": [
+            "https://pollo.ai/relight",
+            "https://pollo.ai/it/relight",
+            "https://pollo.ai/fr/relight",
+            "https://pollo.ai/id/relight",
+            "https://pollo.ai/tr/relight",
+            "https://pollo.ai/nb/relight",
+            "https://pollo.ai/pl/relight",
+            "https://pollo.ai/ru/relight",
+            "https://pollo.ai/ko/relight",
+            "https://pollo.ai/zh/relight",
+            "https://pollo.ai/pt/relight",
+            "https://pollo.ai/ja/relight",
+            "https://pollo.ai/ar/relight",
+            "https://pollo.ai/th/relight",
+            "https://pollo.ai/de/relight",
+            "https://pollo.ai/da/relight",
+            "https://pollo.ai/nl/relight",
+            "https://pollo.ai/es/relight"
+          ],
+          "page_type": "other",
+          "slug": "relight"
+        },
+        {
+          "page_id": "pollo-0010",
+          "url": "https://pollo.ai/hub/how-to-upscale-your-image-with-ai",
+          "canonical_url": "https://pollo.ai/hub/how-to-upscale-your-image-with-ai",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/zh/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/pt/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/ar/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/nl/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/tr/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/it/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/ja/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/fr/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/ko/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/de/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/da/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/nb/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/es/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/id/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/pl/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/th/hub/how-to-upscale-your-image-with-ai",
+            "https://pollo.ai/ru/hub/how-to-upscale-your-image-with-ai"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-upscale-your-image-with-ai"
+        },
+        {
+          "page_id": "pollo-0011",
+          "url": "https://pollo.ai/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+          "canonical_url": "https://pollo.ai/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/zh/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/pt/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/nb/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/ru/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/pl/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/ar/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/nl/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/th/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/it/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/ja/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/ko/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/da/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/tr/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/fr/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/de/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/es/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+            "https://pollo.ai/id/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-an-ai-video-with-voiceover-sound-effects-and-music"
+        },
+        {
+          "page_id": "pollo-0012",
+          "url": "https://pollo.ai/hub/how-to-face-swap-video",
+          "canonical_url": "https://pollo.ai/hub/how-to-face-swap-video",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-face-swap-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-face-swap-video"
+        },
+        {
+          "page_id": "pollo-0013",
+          "url": "https://pollo.ai/hub/how-to-use-ai-photo-editor",
+          "canonical_url": "https://pollo.ai/hub/how-to-use-ai-photo-editor",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-use-ai-photo-editor"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-use-ai-photo-editor"
+        },
+        {
+          "page_id": "pollo-0014",
+          "url": "https://pollo.ai/hub/how-to-restore-old-photos",
+          "canonical_url": "https://pollo.ai/hub/how-to-restore-old-photos",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-restore-old-photos",
+            "https://pollo.ai/zh/hub/how-to-restore-old-photos",
+            "https://pollo.ai/pt/hub/how-to-restore-old-photos",
+            "https://pollo.ai/ru/hub/how-to-restore-old-photos",
+            "https://pollo.ai/ja/hub/how-to-restore-old-photos",
+            "https://pollo.ai/nl/hub/how-to-restore-old-photos",
+            "https://pollo.ai/de/hub/how-to-restore-old-photos",
+            "https://pollo.ai/ar/hub/how-to-restore-old-photos",
+            "https://pollo.ai/ko/hub/how-to-restore-old-photos",
+            "https://pollo.ai/es/hub/how-to-restore-old-photos",
+            "https://pollo.ai/id/hub/how-to-restore-old-photos",
+            "https://pollo.ai/tr/hub/how-to-restore-old-photos",
+            "https://pollo.ai/it/hub/how-to-restore-old-photos",
+            "https://pollo.ai/th/hub/how-to-restore-old-photos",
+            "https://pollo.ai/nb/hub/how-to-restore-old-photos",
+            "https://pollo.ai/pl/hub/how-to-restore-old-photos",
+            "https://pollo.ai/fr/hub/how-to-restore-old-photos",
+            "https://pollo.ai/da/hub/how-to-restore-old-photos"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-restore-old-photos"
+        },
+        {
+          "page_id": "pollo-0015",
+          "url": "https://pollo.ai/hub/how-to-uncrop-images-online",
+          "canonical_url": "https://pollo.ai/hub/how-to-uncrop-images-online",
+          "original_urls": [
+            "https://pollo.ai/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/zh/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/pt/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/ru/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/ja/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/nl/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/de/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/ar/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/ko/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/es/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/id/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/tr/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/it/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/th/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/nb/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/fr/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/pl/hub/how-to-uncrop-images-online",
+            "https://pollo.ai/da/hub/how-to-uncrop-images-online"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-uncrop-images-online"
+        },
+        {
+          "page_id": "pollo-0016",
+          "url": "https://pollo.ai/tw/challenge/pollo-storyland",
+          "canonical_url": "https://pollo.ai/tw/challenge/pollo-storyland",
+          "original_urls": [
+            "https://pollo.ai/tw/challenge/pollo-storyland"
+          ],
+          "page_type": "other",
+          "slug": "pollo-storyland"
+        },
+        {
+          "page_id": "pollo-0017",
+          "url": "https://pollo.ai/video-effects/interior-layout",
+          "canonical_url": "https://pollo.ai/video-effects/interior-layout",
+          "original_urls": [
+            "https://pollo.ai/video-effects/interior-layout",
+            "https://pollo.ai/zh/video-effects/interior-layout",
+            "https://pollo.ai/th/video-effects/interior-layout",
+            "https://pollo.ai/id/video-effects/interior-layout",
+            "https://pollo.ai/pt/video-effects/interior-layout",
+            "https://pollo.ai/pl/video-effects/interior-layout",
+            "https://pollo.ai/ru/video-effects/interior-layout",
+            "https://pollo.ai/tr/video-effects/interior-layout",
+            "https://pollo.ai/fr/video-effects/interior-layout",
+            "https://pollo.ai/ja/video-effects/interior-layout",
+            "https://pollo.ai/nb/video-effects/interior-layout",
+            "https://pollo.ai/ko/video-effects/interior-layout",
+            "https://pollo.ai/es/video-effects/interior-layout",
+            "https://pollo.ai/de/video-effects/interior-layout",
+            "https://pollo.ai/da/video-effects/interior-layout",
+            "https://pollo.ai/ar/video-effects/interior-layout",
+            "https://pollo.ai/it/video-effects/interior-layout",
+            "https://pollo.ai/nl/video-effects/interior-layout"
+          ],
+          "page_type": "video_effect",
+          "slug": "interior-layout"
+        },
+        {
+          "page_id": "pollo-0018",
+          "url": "https://pollo.ai/video-effects/parallax-right",
+          "canonical_url": "https://pollo.ai/video-effects/parallax-right",
+          "original_urls": [
+            "https://pollo.ai/video-effects/parallax-right",
+            "https://pollo.ai/zh/video-effects/parallax-right",
+            "https://pollo.ai/th/video-effects/parallax-right",
+            "https://pollo.ai/id/video-effects/parallax-right",
+            "https://pollo.ai/pt/video-effects/parallax-right",
+            "https://pollo.ai/pl/video-effects/parallax-right",
+            "https://pollo.ai/ru/video-effects/parallax-right",
+            "https://pollo.ai/tr/video-effects/parallax-right",
+            "https://pollo.ai/fr/video-effects/parallax-right",
+            "https://pollo.ai/de/video-effects/parallax-right",
+            "https://pollo.ai/ko/video-effects/parallax-right",
+            "https://pollo.ai/da/video-effects/parallax-right",
+            "https://pollo.ai/nl/video-effects/parallax-right",
+            "https://pollo.ai/es/video-effects/parallax-right",
+            "https://pollo.ai/it/video-effects/parallax-right",
+            "https://pollo.ai/ar/video-effects/parallax-right",
+            "https://pollo.ai/nb/video-effects/parallax-right",
+            "https://pollo.ai/ja/video-effects/parallax-right"
+          ],
+          "page_type": "video_effect",
+          "slug": "parallax-right"
+        },
+        {
+          "page_id": "pollo-0019",
+          "url": "https://pollo.ai/video-effects/parallax-left",
+          "canonical_url": "https://pollo.ai/video-effects/parallax-left",
+          "original_urls": [
+            "https://pollo.ai/video-effects/parallax-left",
+            "https://pollo.ai/zh/video-effects/parallax-left",
+            "https://pollo.ai/th/video-effects/parallax-left",
+            "https://pollo.ai/pt/video-effects/parallax-left",
+            "https://pollo.ai/pl/video-effects/parallax-left",
+            "https://pollo.ai/ru/video-effects/parallax-left",
+            "https://pollo.ai/tr/video-effects/parallax-left",
+            "https://pollo.ai/id/video-effects/parallax-left",
+            "https://pollo.ai/de/video-effects/parallax-left",
+            "https://pollo.ai/es/video-effects/parallax-left",
+            "https://pollo.ai/fr/video-effects/parallax-left",
+            "https://pollo.ai/nl/video-effects/parallax-left",
+            "https://pollo.ai/it/video-effects/parallax-left",
+            "https://pollo.ai/ar/video-effects/parallax-left",
+            "https://pollo.ai/da/video-effects/parallax-left",
+            "https://pollo.ai/ko/video-effects/parallax-left",
+            "https://pollo.ai/nb/video-effects/parallax-left",
+            "https://pollo.ai/ja/video-effects/parallax-left"
+          ],
+          "page_type": "video_effect",
+          "slug": "parallax-left"
+        },
+        {
+          "page_id": "pollo-0020",
+          "url": "https://pollo.ai/video-effects/airport-fan-cam",
+          "canonical_url": "https://pollo.ai/video-effects/airport-fan-cam",
+          "original_urls": [
+            "https://pollo.ai/video-effects/airport-fan-cam",
+            "https://pollo.ai/zh/video-effects/airport-fan-cam",
+            "https://pollo.ai/th/video-effects/airport-fan-cam",
+            "https://pollo.ai/pt/video-effects/airport-fan-cam",
+            "https://pollo.ai/pl/video-effects/airport-fan-cam",
+            "https://pollo.ai/ru/video-effects/airport-fan-cam",
+            "https://pollo.ai/tr/video-effects/airport-fan-cam",
+            "https://pollo.ai/id/video-effects/airport-fan-cam",
+            "https://pollo.ai/de/video-effects/airport-fan-cam",
+            "https://pollo.ai/es/video-effects/airport-fan-cam",
+            "https://pollo.ai/fr/video-effects/airport-fan-cam",
+            "https://pollo.ai/nl/video-effects/airport-fan-cam",
+            "https://pollo.ai/ja/video-effects/airport-fan-cam",
+            "https://pollo.ai/it/video-effects/airport-fan-cam",
+            "https://pollo.ai/ko/video-effects/airport-fan-cam",
+            "https://pollo.ai/da/video-effects/airport-fan-cam",
+            "https://pollo.ai/ar/video-effects/airport-fan-cam",
+            "https://pollo.ai/nb/video-effects/airport-fan-cam"
+          ],
+          "page_type": "video_effect",
+          "slug": "airport-fan-cam"
+        },
+        {
+          "page_id": "pollo-0021",
+          "url": "https://pollo.ai/video-effects/dating-show-interview-room",
+          "canonical_url": "https://pollo.ai/video-effects/dating-show-interview-room",
+          "original_urls": [
+            "https://pollo.ai/video-effects/dating-show-interview-room",
+            "https://pollo.ai/zh/video-effects/dating-show-interview-room",
+            "https://pollo.ai/th/video-effects/dating-show-interview-room",
+            "https://pollo.ai/id/video-effects/dating-show-interview-room",
+            "https://pollo.ai/pt/video-effects/dating-show-interview-room",
+            "https://pollo.ai/pl/video-effects/dating-show-interview-room",
+            "https://pollo.ai/ru/video-effects/dating-show-interview-room",
+            "https://pollo.ai/tr/video-effects/dating-show-interview-room",
+            "https://pollo.ai/de/video-effects/dating-show-interview-room",
+            "https://pollo.ai/fr/video-effects/dating-show-interview-room",
+            "https://pollo.ai/es/video-effects/dating-show-interview-room",
+            "https://pollo.ai/nl/video-effects/dating-show-interview-room",
+            "https://pollo.ai/it/video-effects/dating-show-interview-room",
+            "https://pollo.ai/ko/video-effects/dating-show-interview-room",
+            "https://pollo.ai/ja/video-effects/dating-show-interview-room",
+            "https://pollo.ai/nb/video-effects/dating-show-interview-room",
+            "https://pollo.ai/ar/video-effects/dating-show-interview-room",
+            "https://pollo.ai/da/video-effects/dating-show-interview-room"
+          ],
+          "page_type": "video_effect",
+          "slug": "dating-show-interview-room"
+        },
+        {
+          "page_id": "pollo-0022",
+          "url": "https://pollo.ai/video-effects/dynamic-flame",
+          "canonical_url": "https://pollo.ai/video-effects/dynamic-flame",
+          "original_urls": [
+            "https://pollo.ai/video-effects/dynamic-flame",
+            "https://pollo.ai/zh/video-effects/dynamic-flame",
+            "https://pollo.ai/th/video-effects/dynamic-flame",
+            "https://pollo.ai/id/video-effects/dynamic-flame",
+            "https://pollo.ai/pt/video-effects/dynamic-flame",
+            "https://pollo.ai/pl/video-effects/dynamic-flame",
+            "https://pollo.ai/ru/video-effects/dynamic-flame",
+            "https://pollo.ai/tr/video-effects/dynamic-flame",
+            "https://pollo.ai/de/video-effects/dynamic-flame",
+            "https://pollo.ai/es/video-effects/dynamic-flame",
+            "https://pollo.ai/fr/video-effects/dynamic-flame",
+            "https://pollo.ai/nl/video-effects/dynamic-flame",
+            "https://pollo.ai/it/video-effects/dynamic-flame",
+            "https://pollo.ai/nb/video-effects/dynamic-flame",
+            "https://pollo.ai/da/video-effects/dynamic-flame",
+            "https://pollo.ai/ar/video-effects/dynamic-flame",
+            "https://pollo.ai/ja/video-effects/dynamic-flame",
+            "https://pollo.ai/ko/video-effects/dynamic-flame"
+          ],
+          "page_type": "video_effect",
+          "slug": "dynamic-flame"
+        },
+        {
+          "page_id": "pollo-0023",
+          "url": "https://pollo.ai/video-effects/push-in",
+          "canonical_url": "https://pollo.ai/video-effects/push-in",
+          "original_urls": [
+            "https://pollo.ai/video-effects/push-in",
+            "https://pollo.ai/zh/video-effects/push-in",
+            "https://pollo.ai/th/video-effects/push-in",
+            "https://pollo.ai/id/video-effects/push-in",
+            "https://pollo.ai/pt/video-effects/push-in",
+            "https://pollo.ai/pl/video-effects/push-in",
+            "https://pollo.ai/ru/video-effects/push-in",
+            "https://pollo.ai/tr/video-effects/push-in",
+            "https://pollo.ai/de/video-effects/push-in",
+            "https://pollo.ai/es/video-effects/push-in",
+            "https://pollo.ai/fr/video-effects/push-in",
+            "https://pollo.ai/nl/video-effects/push-in",
+            "https://pollo.ai/it/video-effects/push-in",
+            "https://pollo.ai/da/video-effects/push-in",
+            "https://pollo.ai/ja/video-effects/push-in",
+            "https://pollo.ai/ar/video-effects/push-in",
+            "https://pollo.ai/ko/video-effects/push-in",
+            "https://pollo.ai/nb/video-effects/push-in"
+          ],
+          "page_type": "video_effect",
+          "slug": "push-in"
+        },
+        {
+          "page_id": "pollo-0024",
+          "url": "https://pollo.ai/video-effects/construction",
+          "canonical_url": "https://pollo.ai/video-effects/construction",
+          "original_urls": [
+            "https://pollo.ai/video-effects/construction",
+            "https://pollo.ai/zh/video-effects/construction",
+            "https://pollo.ai/th/video-effects/construction",
+            "https://pollo.ai/id/video-effects/construction",
+            "https://pollo.ai/pt/video-effects/construction",
+            "https://pollo.ai/pl/video-effects/construction",
+            "https://pollo.ai/ru/video-effects/construction",
+            "https://pollo.ai/tr/video-effects/construction",
+            "https://pollo.ai/de/video-effects/construction",
+            "https://pollo.ai/es/video-effects/construction",
+            "https://pollo.ai/fr/video-effects/construction",
+            "https://pollo.ai/nl/video-effects/construction",
+            "https://pollo.ai/it/video-effects/construction",
+            "https://pollo.ai/da/video-effects/construction",
+            "https://pollo.ai/ar/video-effects/construction",
+            "https://pollo.ai/ko/video-effects/construction",
+            "https://pollo.ai/nb/video-effects/construction",
+            "https://pollo.ai/ja/video-effects/construction"
+          ],
+          "page_type": "video_effect",
+          "slug": "construction"
+        },
+        {
+          "page_id": "pollo-0025",
+          "url": "https://pollo.ai/hub/reviews/8",
+          "canonical_url": "https://pollo.ai/hub/reviews/8",
+          "original_urls": [
+            "https://pollo.ai/hub/reviews/8"
+          ],
+          "page_type": "blog",
+          "slug": "8"
+        },
+        {
+          "page_id": "pollo-0026",
+          "url": "https://pollo.ai/hub/best-ai-image-editors-free-unlimited",
+          "canonical_url": "https://pollo.ai/hub/best-ai-image-editors-free-unlimited",
+          "original_urls": [
+            "https://pollo.ai/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/th/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/fr/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/id/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/nb/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/ar/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/it/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/zh/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/pt/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/pl/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/ru/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/tr/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/ja/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/ko/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/nl/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/da/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/de/hub/best-ai-image-editors-free-unlimited",
+            "https://pollo.ai/es/hub/best-ai-image-editors-free-unlimited"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-image-editors-free-unlimited"
+        },
+        {
+          "page_id": "pollo-0027",
+          "url": "https://pollo.ai/hub/best-ai-image-upscaler",
+          "canonical_url": "https://pollo.ai/hub/best-ai-image-upscaler",
+          "original_urls": [
+            "https://pollo.ai/hub/best-ai-image-upscaler",
+            "https://pollo.ai/th/hub/best-ai-image-upscaler",
+            "https://pollo.ai/fr/hub/best-ai-image-upscaler",
+            "https://pollo.ai/id/hub/best-ai-image-upscaler",
+            "https://pollo.ai/nb/hub/best-ai-image-upscaler",
+            "https://pollo.ai/ar/hub/best-ai-image-upscaler",
+            "https://pollo.ai/it/hub/best-ai-image-upscaler",
+            "https://pollo.ai/zh/hub/best-ai-image-upscaler",
+            "https://pollo.ai/pt/hub/best-ai-image-upscaler",
+            "https://pollo.ai/pl/hub/best-ai-image-upscaler",
+            "https://pollo.ai/ru/hub/best-ai-image-upscaler",
+            "https://pollo.ai/tr/hub/best-ai-image-upscaler",
+            "https://pollo.ai/ja/hub/best-ai-image-upscaler",
+            "https://pollo.ai/ko/hub/best-ai-image-upscaler",
+            "https://pollo.ai/nl/hub/best-ai-image-upscaler",
+            "https://pollo.ai/da/hub/best-ai-image-upscaler",
+            "https://pollo.ai/es/hub/best-ai-image-upscaler",
+            "https://pollo.ai/de/hub/best-ai-image-upscaler"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-image-upscaler"
+        },
+        {
+          "page_id": "pollo-0028",
+          "url": "https://pollo.ai/hub/best-ai-video-upscalers",
+          "canonical_url": "https://pollo.ai/hub/best-ai-video-upscalers",
+          "original_urls": [
+            "https://pollo.ai/hub/best-ai-video-upscalers",
+            "https://pollo.ai/th/hub/best-ai-video-upscalers",
+            "https://pollo.ai/fr/hub/best-ai-video-upscalers",
+            "https://pollo.ai/id/hub/best-ai-video-upscalers",
+            "https://pollo.ai/nb/hub/best-ai-video-upscalers",
+            "https://pollo.ai/ar/hub/best-ai-video-upscalers",
+            "https://pollo.ai/it/hub/best-ai-video-upscalers",
+            "https://pollo.ai/zh/hub/best-ai-video-upscalers",
+            "https://pollo.ai/pt/hub/best-ai-video-upscalers",
+            "https://pollo.ai/pl/hub/best-ai-video-upscalers",
+            "https://pollo.ai/ru/hub/best-ai-video-upscalers",
+            "https://pollo.ai/tr/hub/best-ai-video-upscalers",
+            "https://pollo.ai/ja/hub/best-ai-video-upscalers",
+            "https://pollo.ai/ko/hub/best-ai-video-upscalers",
+            "https://pollo.ai/nl/hub/best-ai-video-upscalers",
+            "https://pollo.ai/da/hub/best-ai-video-upscalers",
+            "https://pollo.ai/es/hub/best-ai-video-upscalers",
+            "https://pollo.ai/de/hub/best-ai-video-upscalers"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-video-upscalers"
+        },
+        {
+          "page_id": "pollo-0029",
+          "url": "https://pollo.ai/hub/best-ai-flyer-generators",
+          "canonical_url": "https://pollo.ai/hub/best-ai-flyer-generators",
+          "original_urls": [
+            "https://pollo.ai/hub/best-ai-flyer-generators",
+            "https://pollo.ai/th/hub/best-ai-flyer-generators",
+            "https://pollo.ai/fr/hub/best-ai-flyer-generators",
+            "https://pollo.ai/id/hub/best-ai-flyer-generators",
+            "https://pollo.ai/nb/hub/best-ai-flyer-generators",
+            "https://pollo.ai/ar/hub/best-ai-flyer-generators",
+            "https://pollo.ai/it/hub/best-ai-flyer-generators",
+            "https://pollo.ai/zh/hub/best-ai-flyer-generators",
+            "https://pollo.ai/pt/hub/best-ai-flyer-generators",
+            "https://pollo.ai/pl/hub/best-ai-flyer-generators",
+            "https://pollo.ai/ru/hub/best-ai-flyer-generators",
+            "https://pollo.ai/tr/hub/best-ai-flyer-generators",
+            "https://pollo.ai/ja/hub/best-ai-flyer-generators",
+            "https://pollo.ai/ko/hub/best-ai-flyer-generators",
+            "https://pollo.ai/nl/hub/best-ai-flyer-generators",
+            "https://pollo.ai/da/hub/best-ai-flyer-generators",
+            "https://pollo.ai/es/hub/best-ai-flyer-generators",
+            "https://pollo.ai/de/hub/best-ai-flyer-generators"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-flyer-generators"
+        },
+        {
+          "page_id": "pollo-0030",
+          "url": "https://pollo.ai/hub/best-ai-tools/3",
+          "canonical_url": "https://pollo.ai/hub/best-ai-tools/3",
+          "original_urls": [
+            "https://pollo.ai/hub/best-ai-tools/3",
+            "https://pollo.ai/de/hub/best-ai-tools/3",
+            "https://pollo.ai/ru/hub/best-ai-tools/3",
+            "https://pollo.ai/ko/hub/best-ai-tools/3"
+          ],
+          "page_type": "blog",
+          "slug": "3"
+        },
+        {
+          "page_id": "pollo-0031",
+          "url": "https://pollo.ai/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+          "canonical_url": "https://pollo.ai/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+          "original_urls": [
+            "https://pollo.ai/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/th/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/fr/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/id/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/nb/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/ar/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/de/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/it/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/zh/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/pt/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/pl/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/ru/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/tr/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/ja/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/ko/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/nl/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/da/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+            "https://pollo.ai/es/hub/best-free-ai-flyer-generators-for-pro-looking-flyers"
+          ],
+          "page_type": "blog",
+          "slug": "best-free-ai-flyer-generators-for-pro-looking-flyers"
+        },
+        {
+          "page_id": "pollo-0032",
+          "url": "https://pollo.ai/tw/hub/how-to-use-seedream-5-5",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-use-seedream-5-5",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-use-seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "how-to-use-seedream-5-5"
+        },
+        {
+          "page_id": "pollo-0033",
+          "url": "https://pollo.ai/tw/hub/seedream-5-5-review",
+          "canonical_url": "https://pollo.ai/tw/hub/seedream-5-5-review",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/seedream-5-5-review"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5-review"
+        },
+        {
+          "page_id": "pollo-0034",
+          "url": "https://pollo.ai/hub/ai-portrait-animation-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-portrait-animation-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/es/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/th/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/fr/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/nb/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/ru/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/ar/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/zh/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/ja/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/nl/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/pt/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/id/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/da/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/tr/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/de/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/pl/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/ko/hub/ai-portrait-animation-prompts",
+            "https://pollo.ai/it/hub/ai-portrait-animation-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-portrait-animation-prompts"
+        },
+        {
+          "page_id": "pollo-0035",
+          "url": "https://pollo.ai/hub/couple-ai-video-prompts",
+          "canonical_url": "https://pollo.ai/hub/couple-ai-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/couple-ai-video-prompts",
+            "https://pollo.ai/es/hub/couple-ai-video-prompts",
+            "https://pollo.ai/th/hub/couple-ai-video-prompts",
+            "https://pollo.ai/fr/hub/couple-ai-video-prompts",
+            "https://pollo.ai/nb/hub/couple-ai-video-prompts",
+            "https://pollo.ai/ru/hub/couple-ai-video-prompts",
+            "https://pollo.ai/ar/hub/couple-ai-video-prompts",
+            "https://pollo.ai/zh/hub/couple-ai-video-prompts",
+            "https://pollo.ai/ja/hub/couple-ai-video-prompts",
+            "https://pollo.ai/nl/hub/couple-ai-video-prompts",
+            "https://pollo.ai/pt/hub/couple-ai-video-prompts",
+            "https://pollo.ai/id/hub/couple-ai-video-prompts",
+            "https://pollo.ai/da/hub/couple-ai-video-prompts",
+            "https://pollo.ai/tr/hub/couple-ai-video-prompts",
+            "https://pollo.ai/de/hub/couple-ai-video-prompts",
+            "https://pollo.ai/pl/hub/couple-ai-video-prompts",
+            "https://pollo.ai/it/hub/couple-ai-video-prompts",
+            "https://pollo.ai/ko/hub/couple-ai-video-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "couple-ai-video-prompts"
+        },
+        {
+          "page_id": "pollo-0036",
+          "url": "https://pollo.ai/hub/ai-wedding-video-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-wedding-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/es/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/th/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/fr/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/nb/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/ru/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/ar/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/zh/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/ja/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/nl/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/pt/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/id/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/da/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/tr/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/de/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/pl/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/ko/hub/ai-wedding-video-prompts",
+            "https://pollo.ai/it/hub/ai-wedding-video-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-wedding-video-prompts"
+        },
+        {
+          "page_id": "pollo-0037",
+          "url": "https://pollo.ai/hub/ai-travel-vlog-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-travel-vlog-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/es/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/th/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/fr/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/nb/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/ru/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/ar/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/zh/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/ja/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/nl/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/pt/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/id/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/da/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/tr/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/de/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/pl/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/it/hub/ai-travel-vlog-prompts",
+            "https://pollo.ai/ko/hub/ai-travel-vlog-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-travel-vlog-prompts"
+        },
+        {
+          "page_id": "pollo-0038",
+          "url": "https://pollo.ai/hub/29",
+          "canonical_url": "https://pollo.ai/hub/29",
+          "original_urls": [
+            "https://pollo.ai/hub/29",
+            "https://pollo.ai/ko/hub/29",
+            "https://pollo.ai/de/hub/29"
+          ],
+          "page_type": "blog",
+          "slug": "29"
+        },
+        {
+          "page_id": "pollo-0039",
+          "url": "https://pollo.ai/hub/ai-fashion-video-prompts-clothing-campaigns",
+          "canonical_url": "https://pollo.ai/hub/ai-fashion-video-prompts-clothing-campaigns",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/es/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/th/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/fr/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/nb/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/ru/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/ar/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/zh/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/ja/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/nl/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/pt/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/id/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/da/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/tr/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/de/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/pl/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/ko/hub/ai-fashion-video-prompts-clothing-campaigns",
+            "https://pollo.ai/it/hub/ai-fashion-video-prompts-clothing-campaigns"
+          ],
+          "page_type": "blog",
+          "slug": "ai-fashion-video-prompts-clothing-campaigns"
+        },
+        {
+          "page_id": "pollo-0040",
+          "url": "https://pollo.ai/hub/jewelry-video-prompts-product-showcases",
+          "canonical_url": "https://pollo.ai/hub/jewelry-video-prompts-product-showcases",
+          "original_urls": [
+            "https://pollo.ai/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/es/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/th/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/fr/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/nb/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/ru/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/ar/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/zh/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/ja/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/nl/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/pt/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/id/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/da/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/tr/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/de/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/pl/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/ko/hub/jewelry-video-prompts-product-showcases",
+            "https://pollo.ai/it/hub/jewelry-video-prompts-product-showcases"
+          ],
+          "page_type": "blog",
+          "slug": "jewelry-video-prompts-product-showcases"
+        },
+        {
+          "page_id": "pollo-0041",
+          "url": "https://pollo.ai/hub/ai-real-estate-video-prompts-property-tours",
+          "canonical_url": "https://pollo.ai/hub/ai-real-estate-video-prompts-property-tours",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/es/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/th/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/fr/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/nb/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/ru/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/ar/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/zh/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/ja/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/nl/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/pt/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/id/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/da/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/tr/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/de/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/pl/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/ko/hub/ai-real-estate-video-prompts-property-tours",
+            "https://pollo.ai/it/hub/ai-real-estate-video-prompts-property-tours"
+          ],
+          "page_type": "blog",
+          "slug": "ai-real-estate-video-prompts-property-tours"
+        },
+        {
+          "page_id": "pollo-0042",
+          "url": "https://pollo.ai/hub/ai-video-prompt-guide-for-marketing-videos",
+          "canonical_url": "https://pollo.ai/hub/ai-video-prompt-guide-for-marketing-videos",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/es/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/th/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/fr/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/nb/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/ru/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/ar/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/zh/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/ja/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/nl/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/pt/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/id/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/da/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/tr/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/de/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/pl/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/it/hub/ai-video-prompt-guide-for-marketing-videos",
+            "https://pollo.ai/ko/hub/ai-video-prompt-guide-for-marketing-videos"
+          ],
+          "page_type": "blog",
+          "slug": "ai-video-prompt-guide-for-marketing-videos"
+        },
+        {
+          "page_id": "pollo-0043",
+          "url": "https://pollo.ai/hub/ai-food-commercial-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-food-commercial-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/es/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/th/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/fr/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/nb/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/ru/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/ar/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/zh/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/ja/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/nl/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/pt/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/id/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/da/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/tr/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/de/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/pl/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/it/hub/ai-food-commercial-prompts",
+            "https://pollo.ai/ko/hub/ai-food-commercial-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-food-commercial-prompts"
+        },
+        {
+          "page_id": "pollo-0044",
+          "url": "https://pollo.ai/tw/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music"
+          ],
+          "page_type": "other",
+          "slug": "how-to-make-an-ai-video-with-voiceover-sound-effects-and-music"
+        },
+        {
+          "page_id": "pollo-0045",
+          "url": "https://pollo.ai/app/ai-music-generator",
+          "canonical_url": "https://pollo.ai/app/ai-music-generator",
+          "original_urls": [
+            "https://pollo.ai/app/ai-music-generator",
+            "https://pollo.ai/zh/app/ai-music-generator",
+            "https://pollo.ai/pt/app/ai-music-generator",
+            "https://pollo.ai/nb/app/ai-music-generator",
+            "https://pollo.ai/ru/app/ai-music-generator",
+            "https://pollo.ai/ja/app/ai-music-generator",
+            "https://pollo.ai/nl/app/ai-music-generator",
+            "https://pollo.ai/pl/app/ai-music-generator",
+            "https://pollo.ai/ar/app/ai-music-generator",
+            "https://pollo.ai/id/app/ai-music-generator",
+            "https://pollo.ai/de/app/ai-music-generator",
+            "https://pollo.ai/fr/app/ai-music-generator",
+            "https://pollo.ai/th/app/ai-music-generator",
+            "https://pollo.ai/it/app/ai-music-generator",
+            "https://pollo.ai/ko/app/ai-music-generator",
+            "https://pollo.ai/es/app/ai-music-generator",
+            "https://pollo.ai/tr/app/ai-music-generator",
+            "https://pollo.ai/da/app/ai-music-generator"
+          ],
+          "page_type": "tool",
+          "slug": "ai-music-generator"
+        },
+        {
+          "page_id": "pollo-0046",
+          "url": "https://pollo.ai/de/hub/create-kids-story-video-in-german-with-pollo-agent",
+          "canonical_url": "https://pollo.ai/hub/create-kids-story-video-in-german-with-pollo-agent",
+          "original_urls": [
+            "https://pollo.ai/de/hub/create-kids-story-video-in-german-with-pollo-agent"
+          ],
+          "page_type": "blog",
+          "slug": "create-kids-story-video-in-german-with-pollo-agent"
+        },
+        {
+          "page_id": "pollo-0047",
+          "url": "https://pollo.ai/de/hub/turn-photo-into-pixar-style-video-with-seedance",
+          "canonical_url": "https://pollo.ai/hub/turn-photo-into-pixar-style-video-with-seedance",
+          "original_urls": [
+            "https://pollo.ai/de/hub/turn-photo-into-pixar-style-video-with-seedance"
+          ],
+          "page_type": "blog",
+          "slug": "turn-photo-into-pixar-style-video-with-seedance"
+        },
+        {
+          "page_id": "pollo-0048",
+          "url": "https://pollo.ai/video-color-correction",
+          "canonical_url": "https://pollo.ai/video-color-correction",
+          "original_urls": [
+            "https://pollo.ai/video-color-correction",
+            "https://pollo.ai/it/video-color-correction",
+            "https://pollo.ai/th/video-color-correction",
+            "https://pollo.ai/fr/video-color-correction",
+            "https://pollo.ai/ko/video-color-correction",
+            "https://pollo.ai/nb/video-color-correction",
+            "https://pollo.ai/de/video-color-correction",
+            "https://pollo.ai/pt/video-color-correction",
+            "https://pollo.ai/nl/video-color-correction",
+            "https://pollo.ai/ar/video-color-correction",
+            "https://pollo.ai/da/video-color-correction",
+            "https://pollo.ai/tr/video-color-correction",
+            "https://pollo.ai/id/video-color-correction",
+            "https://pollo.ai/ru/video-color-correction",
+            "https://pollo.ai/pl/video-color-correction",
+            "https://pollo.ai/zh/video-color-correction",
+            "https://pollo.ai/ja/video-color-correction",
+            "https://pollo.ai/es/video-color-correction"
+          ],
+          "page_type": "other",
+          "slug": "video-color-correction"
+        },
+        {
+          "page_id": "pollo-0049",
+          "url": "https://pollo.ai/de/hub/best-sexy-ai-image-generators",
+          "canonical_url": "https://pollo.ai/hub/best-sexy-ai-image-generators",
+          "original_urls": [
+            "https://pollo.ai/de/hub/best-sexy-ai-image-generators"
+          ],
+          "page_type": "blog",
+          "slug": "best-sexy-ai-image-generators"
+        },
+        {
+          "page_id": "pollo-0050",
+          "url": "https://pollo.ai/app/tri-fold-brochure-maker",
+          "canonical_url": "https://pollo.ai/app/tri-fold-brochure-maker",
+          "original_urls": [
+            "https://pollo.ai/app/tri-fold-brochure-maker",
+            "https://pollo.ai/th/app/tri-fold-brochure-maker",
+            "https://pollo.ai/fr/app/tri-fold-brochure-maker",
+            "https://pollo.ai/id/app/tri-fold-brochure-maker",
+            "https://pollo.ai/nb/app/tri-fold-brochure-maker",
+            "https://pollo.ai/ar/app/tri-fold-brochure-maker",
+            "https://pollo.ai/de/app/tri-fold-brochure-maker",
+            "https://pollo.ai/da/app/tri-fold-brochure-maker",
+            "https://pollo.ai/pt/app/tri-fold-brochure-maker",
+            "https://pollo.ai/tr/app/tri-fold-brochure-maker",
+            "https://pollo.ai/it/app/tri-fold-brochure-maker",
+            "https://pollo.ai/ru/app/tri-fold-brochure-maker",
+            "https://pollo.ai/nl/app/tri-fold-brochure-maker",
+            "https://pollo.ai/ja/app/tri-fold-brochure-maker",
+            "https://pollo.ai/ko/app/tri-fold-brochure-maker",
+            "https://pollo.ai/zh/app/tri-fold-brochure-maker",
+            "https://pollo.ai/pl/app/tri-fold-brochure-maker",
+            "https://pollo.ai/es/app/tri-fold-brochure-maker"
+          ],
+          "page_type": "tool",
+          "slug": "tri-fold-brochure-maker"
+        },
+        {
+          "page_id": "pollo-0051",
+          "url": "https://pollo.ai/tw/im/gpt-image-2-6",
+          "canonical_url": "https://pollo.ai/tw/im/gpt-image-2-6",
+          "original_urls": [
+            "https://pollo.ai/tw/im/gpt-image-2-6"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image-2-6"
+        },
+        {
+          "page_id": "pollo-0052",
+          "url": "https://pollo.ai/app/announcement-generator",
+          "canonical_url": "https://pollo.ai/app/announcement-generator",
+          "original_urls": [
+            "https://pollo.ai/app/announcement-generator",
+            "https://pollo.ai/it/app/announcement-generator",
+            "https://pollo.ai/es/app/announcement-generator",
+            "https://pollo.ai/ko/app/announcement-generator",
+            "https://pollo.ai/de/app/announcement-generator",
+            "https://pollo.ai/nb/app/announcement-generator",
+            "https://pollo.ai/da/app/announcement-generator",
+            "https://pollo.ai/ar/app/announcement-generator",
+            "https://pollo.ai/nl/app/announcement-generator",
+            "https://pollo.ai/fr/app/announcement-generator",
+            "https://pollo.ai/th/app/announcement-generator",
+            "https://pollo.ai/tr/app/announcement-generator",
+            "https://pollo.ai/ja/app/announcement-generator",
+            "https://pollo.ai/zh/app/announcement-generator",
+            "https://pollo.ai/ru/app/announcement-generator",
+            "https://pollo.ai/pl/app/announcement-generator",
+            "https://pollo.ai/pt/app/announcement-generator",
+            "https://pollo.ai/id/app/announcement-generator"
+          ],
+          "page_type": "tool",
+          "slug": "announcement-generator"
+        },
+        {
+          "page_id": "pollo-0053",
+          "url": "https://pollo.ai/tw/earn",
+          "canonical_url": "https://pollo.ai/tw/earn",
+          "original_urls": [
+            "https://pollo.ai/tw/earn"
+          ],
+          "page_type": "other",
+          "slug": "earn"
+        },
+        {
+          "page_id": "pollo-0054",
+          "url": "https://pollo.ai/hub/skincare-video-prompts-ai-beauty-ads",
+          "canonical_url": "https://pollo.ai/hub/skincare-video-prompts-ai-beauty-ads",
+          "original_urls": [
+            "https://pollo.ai/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/es/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/th/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/fr/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/nb/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/ru/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/ar/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/zh/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/ja/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/it/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/ko/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/nl/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/pt/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/id/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/da/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/tr/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/de/hub/skincare-video-prompts-ai-beauty-ads",
+            "https://pollo.ai/pl/hub/skincare-video-prompts-ai-beauty-ads"
+          ],
+          "page_type": "blog",
+          "slug": "skincare-video-prompts-ai-beauty-ads"
+        },
+        {
+          "page_id": "pollo-0055",
+          "url": "https://pollo.ai/hub/ai-anime-video-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-anime-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-anime-video-prompts",
+            "https://pollo.ai/it/hub/ai-anime-video-prompts",
+            "https://pollo.ai/nb/hub/ai-anime-video-prompts",
+            "https://pollo.ai/de/hub/ai-anime-video-prompts",
+            "https://pollo.ai/fr/hub/ai-anime-video-prompts",
+            "https://pollo.ai/zh/hub/ai-anime-video-prompts",
+            "https://pollo.ai/ru/hub/ai-anime-video-prompts",
+            "https://pollo.ai/da/hub/ai-anime-video-prompts",
+            "https://pollo.ai/nl/hub/ai-anime-video-prompts",
+            "https://pollo.ai/th/hub/ai-anime-video-prompts",
+            "https://pollo.ai/pt/hub/ai-anime-video-prompts",
+            "https://pollo.ai/ko/hub/ai-anime-video-prompts",
+            "https://pollo.ai/tr/hub/ai-anime-video-prompts",
+            "https://pollo.ai/pl/hub/ai-anime-video-prompts",
+            "https://pollo.ai/ja/hub/ai-anime-video-prompts",
+            "https://pollo.ai/es/hub/ai-anime-video-prompts",
+            "https://pollo.ai/ar/hub/ai-anime-video-prompts",
+            "https://pollo.ai/id/hub/ai-anime-video-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-anime-video-prompts"
+        },
+        {
+          "page_id": "pollo-0056",
+          "url": "https://pollo.ai/hub/ai-fashion-runway-video-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-fashion-runway-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/it/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/nb/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/de/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/fr/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/zh/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/da/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/ru/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/nl/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/th/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/pt/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/ko/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/tr/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/es/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/ar/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/ja/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/id/hub/ai-fashion-runway-video-prompts",
+            "https://pollo.ai/pl/hub/ai-fashion-runway-video-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-fashion-runway-video-prompts"
+        },
+        {
+          "page_id": "pollo-0057",
+          "url": "https://pollo.ai/hub/ai-ecommerce-video-ads-product-photo-prompts",
+          "canonical_url": "https://pollo.ai/hub/ai-ecommerce-video-ads-product-photo-prompts",
+          "original_urls": [
+            "https://pollo.ai/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/it/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/nb/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/de/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/fr/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/zh/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/ru/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/da/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/nl/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/th/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/pt/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/ko/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/tr/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/es/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/id/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/ja/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/pl/hub/ai-ecommerce-video-ads-product-photo-prompts",
+            "https://pollo.ai/ar/hub/ai-ecommerce-video-ads-product-photo-prompts"
+          ],
+          "page_type": "blog",
+          "slug": "ai-ecommerce-video-ads-product-photo-prompts"
+        },
+        {
+          "page_id": "pollo-0058",
+          "url": "https://pollo.ai/ai-video-merger",
+          "canonical_url": "https://pollo.ai/ai-video-merger",
+          "original_urls": [
+            "https://pollo.ai/ai-video-merger",
+            "https://pollo.ai/tr/ai-video-merger",
+            "https://pollo.ai/ar/ai-video-merger",
+            "https://pollo.ai/ru/ai-video-merger",
+            "https://pollo.ai/zh/ai-video-merger",
+            "https://pollo.ai/it/ai-video-merger",
+            "https://pollo.ai/pt/ai-video-merger",
+            "https://pollo.ai/th/ai-video-merger",
+            "https://pollo.ai/da/ai-video-merger",
+            "https://pollo.ai/de/ai-video-merger",
+            "https://pollo.ai/ja/ai-video-merger",
+            "https://pollo.ai/fr/ai-video-merger",
+            "https://pollo.ai/nl/ai-video-merger",
+            "https://pollo.ai/pl/ai-video-merger",
+            "https://pollo.ai/es/ai-video-merger",
+            "https://pollo.ai/id/ai-video-merger",
+            "https://pollo.ai/nb/ai-video-merger",
+            "https://pollo.ai/ko/ai-video-merger"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-merger"
+        },
+        {
+          "page_id": "pollo-0059",
+          "url": "https://pollo.ai/tw/ai-video-relight",
+          "canonical_url": "https://pollo.ai/tw/ai-video-relight",
+          "original_urls": [
+            "https://pollo.ai/tw/ai-video-relight"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-relight"
+        },
+        {
+          "page_id": "pollo-0060",
+          "url": "https://pollo.ai/add-text-to-video",
+          "canonical_url": "https://pollo.ai/add-text-to-video",
+          "original_urls": [
+            "https://pollo.ai/add-text-to-video",
+            "https://pollo.ai/tr/add-text-to-video",
+            "https://pollo.ai/ar/add-text-to-video",
+            "https://pollo.ai/zh/add-text-to-video",
+            "https://pollo.ai/ru/add-text-to-video",
+            "https://pollo.ai/id/add-text-to-video",
+            "https://pollo.ai/pt/add-text-to-video",
+            "https://pollo.ai/fr/add-text-to-video",
+            "https://pollo.ai/ja/add-text-to-video",
+            "https://pollo.ai/es/add-text-to-video",
+            "https://pollo.ai/ko/add-text-to-video",
+            "https://pollo.ai/it/add-text-to-video",
+            "https://pollo.ai/da/add-text-to-video",
+            "https://pollo.ai/de/add-text-to-video",
+            "https://pollo.ai/pl/add-text-to-video",
+            "https://pollo.ai/th/add-text-to-video",
+            "https://pollo.ai/nl/add-text-to-video",
+            "https://pollo.ai/nb/add-text-to-video"
+          ],
+          "page_type": "other",
+          "slug": "add-text-to-video"
+        },
+        {
+          "page_id": "pollo-0061",
+          "url": "https://pollo.ai/schedule-maker",
+          "canonical_url": "https://pollo.ai/schedule-maker",
+          "original_urls": [
+            "https://pollo.ai/schedule-maker",
+            "https://pollo.ai/it/schedule-maker",
+            "https://pollo.ai/fr/schedule-maker",
+            "https://pollo.ai/id/schedule-maker",
+            "https://pollo.ai/tr/schedule-maker",
+            "https://pollo.ai/ko/schedule-maker",
+            "https://pollo.ai/nl/schedule-maker",
+            "https://pollo.ai/zh/schedule-maker",
+            "https://pollo.ai/de/schedule-maker",
+            "https://pollo.ai/da/schedule-maker",
+            "https://pollo.ai/ru/schedule-maker",
+            "https://pollo.ai/ja/schedule-maker",
+            "https://pollo.ai/ar/schedule-maker",
+            "https://pollo.ai/th/schedule-maker",
+            "https://pollo.ai/nb/schedule-maker",
+            "https://pollo.ai/pl/schedule-maker",
+            "https://pollo.ai/es/schedule-maker",
+            "https://pollo.ai/pt/schedule-maker"
+          ],
+          "page_type": "tool",
+          "slug": "schedule-maker"
+        },
+        {
+          "page_id": "pollo-0062",
+          "url": "https://pollo.ai/tw/relight",
+          "canonical_url": "https://pollo.ai/tw/relight",
+          "original_urls": [
+            "https://pollo.ai/tw/relight"
+          ],
+          "page_type": "other",
+          "slug": "relight"
+        },
+        {
+          "page_id": "pollo-0063",
+          "url": "https://pollo.ai/black-background-remover",
+          "canonical_url": "https://pollo.ai/black-background-remover",
+          "original_urls": [
+            "https://pollo.ai/black-background-remover",
+            "https://pollo.ai/it/black-background-remover",
+            "https://pollo.ai/fr/black-background-remover",
+            "https://pollo.ai/id/black-background-remover",
+            "https://pollo.ai/nb/black-background-remover",
+            "https://pollo.ai/tr/black-background-remover",
+            "https://pollo.ai/zh/black-background-remover",
+            "https://pollo.ai/ko/black-background-remover",
+            "https://pollo.ai/pl/black-background-remover",
+            "https://pollo.ai/ru/black-background-remover",
+            "https://pollo.ai/pt/black-background-remover",
+            "https://pollo.ai/ja/black-background-remover",
+            "https://pollo.ai/ar/black-background-remover",
+            "https://pollo.ai/da/black-background-remover",
+            "https://pollo.ai/nl/black-background-remover",
+            "https://pollo.ai/th/black-background-remover",
+            "https://pollo.ai/es/black-background-remover",
+            "https://pollo.ai/de/black-background-remover"
+          ],
+          "page_type": "other",
+          "slug": "black-background-remover"
+        },
+        {
+          "page_id": "pollo-0064",
+          "url": "https://pollo.ai/es/hub/best-ai-image-generators-for-non-explicit-art",
+          "canonical_url": "https://pollo.ai/hub/best-ai-image-generators-for-non-explicit-art",
+          "original_urls": [
+            "https://pollo.ai/es/hub/best-ai-image-generators-for-non-explicit-art"
+          ],
+          "page_type": "blog",
+          "slug": "best-ai-image-generators-for-non-explicit-art"
+        },
+        {
+          "page_id": "pollo-0065",
+          "url": "https://pollo.ai/tw/hub/how-to-upscale-your-image-with-ai",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-upscale-your-image-with-ai",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-upscale-your-image-with-ai"
+          ],
+          "page_type": "other",
+          "slug": "how-to-upscale-your-image-with-ai"
+        },
+        {
+          "page_id": "pollo-0066",
+          "url": "https://pollo.ai/tw/hub/how-to-restore-old-photos",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-restore-old-photos",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-restore-old-photos"
+          ],
+          "page_type": "other",
+          "slug": "how-to-restore-old-photos"
+        },
+        {
+          "page_id": "pollo-0067",
+          "url": "https://pollo.ai/tw/hub/how-to-uncrop-images-online",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-uncrop-images-online",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-uncrop-images-online"
+          ],
+          "page_type": "other",
+          "slug": "how-to-uncrop-images-online"
+        },
+        {
+          "page_id": "pollo-0068",
+          "url": "https://pollo.ai/tw/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+          "canonical_url": "https://pollo.ai/tw/hub/best-free-ai-flyer-generators-for-pro-looking-flyers",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/best-free-ai-flyer-generators-for-pro-looking-flyers"
+          ],
+          "page_type": "other",
+          "slug": "best-free-ai-flyer-generators-for-pro-looking-flyers"
+        },
+        {
+          "page_id": "pollo-0069",
+          "url": "https://pollo.ai/tw/hub/best-ai-video-upscalers",
+          "canonical_url": "https://pollo.ai/tw/hub/best-ai-video-upscalers",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/best-ai-video-upscalers"
+          ],
+          "page_type": "other",
+          "slug": "best-ai-video-upscalers"
+        },
+        {
+          "page_id": "pollo-0070",
+          "url": "https://pollo.ai/tw/hub/best-ai-flyer-generators",
+          "canonical_url": "https://pollo.ai/tw/hub/best-ai-flyer-generators",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/best-ai-flyer-generators"
+          ],
+          "page_type": "other",
+          "slug": "best-ai-flyer-generators"
+        },
+        {
+          "page_id": "pollo-0071",
+          "url": "https://pollo.ai/tw/hub/best-ai-image-upscaler",
+          "canonical_url": "https://pollo.ai/tw/hub/best-ai-image-upscaler",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/best-ai-image-upscaler"
+          ],
+          "page_type": "other",
+          "slug": "best-ai-image-upscaler"
+        },
+        {
+          "page_id": "pollo-0072",
+          "url": "https://pollo.ai/tw/hub/best-ai-image-editors-free-unlimited",
+          "canonical_url": "https://pollo.ai/tw/hub/best-ai-image-editors-free-unlimited",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/best-ai-image-editors-free-unlimited"
+          ],
+          "page_type": "other",
+          "slug": "best-ai-image-editors-free-unlimited"
+        },
+        {
+          "page_id": "pollo-0073",
+          "url": "https://pollo.ai/tw/video-effects/dynamic-flame",
+          "canonical_url": "https://pollo.ai/tw/video-effects/dynamic-flame",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/dynamic-flame"
+          ],
+          "page_type": "other",
+          "slug": "dynamic-flame"
+        },
+        {
+          "page_id": "pollo-0074",
+          "url": "https://pollo.ai/tw/video-effects/parallax-left",
+          "canonical_url": "https://pollo.ai/tw/video-effects/parallax-left",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/parallax-left"
+          ],
+          "page_type": "other",
+          "slug": "parallax-left"
+        },
+        {
+          "page_id": "pollo-0075",
+          "url": "https://pollo.ai/tw/video-effects/interior-layout",
+          "canonical_url": "https://pollo.ai/tw/video-effects/interior-layout",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/interior-layout"
+          ],
+          "page_type": "other",
+          "slug": "interior-layout"
+        },
+        {
+          "page_id": "pollo-0076",
+          "url": "https://pollo.ai/tw/video-effects/airport-fan-cam",
+          "canonical_url": "https://pollo.ai/tw/video-effects/airport-fan-cam",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/airport-fan-cam"
+          ],
+          "page_type": "other",
+          "slug": "airport-fan-cam"
+        },
+        {
+          "page_id": "pollo-0077",
+          "url": "https://pollo.ai/tw/video-effects/dating-show-interview-room",
+          "canonical_url": "https://pollo.ai/tw/video-effects/dating-show-interview-room",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/dating-show-interview-room"
+          ],
+          "page_type": "other",
+          "slug": "dating-show-interview-room"
+        },
+        {
+          "page_id": "pollo-0078",
+          "url": "https://pollo.ai/tw/video-effects/parallax-right",
+          "canonical_url": "https://pollo.ai/tw/video-effects/parallax-right",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/parallax-right"
+          ],
+          "page_type": "other",
+          "slug": "parallax-right"
+        },
+        {
+          "page_id": "pollo-0079",
+          "url": "https://pollo.ai/tw/video-effects/construction",
+          "canonical_url": "https://pollo.ai/tw/video-effects/construction",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/construction"
+          ],
+          "page_type": "other",
+          "slug": "construction"
+        },
+        {
+          "page_id": "pollo-0080",
+          "url": "https://pollo.ai/tw/video-effects/push-in",
+          "canonical_url": "https://pollo.ai/tw/video-effects/push-in",
+          "original_urls": [
+            "https://pollo.ai/tw/video-effects/push-in"
+          ],
+          "page_type": "other",
+          "slug": "push-in"
+        },
+        {
+          "page_id": "pollo-0081",
+          "url": "https://pollo.ai/ko/hub/10-best-nsfw-ai-image-generators",
+          "canonical_url": "https://pollo.ai/hub/10-best-nsfw-ai-image-generators",
+          "original_urls": [
+            "https://pollo.ai/ko/hub/10-best-nsfw-ai-image-generators"
+          ],
+          "page_type": "blog",
+          "slug": "10-best-nsfw-ai-image-generators"
+        },
+        {
+          "page_id": "pollo-0082",
+          "url": "https://pollo.ai/es/hub/best-ai-tools/4",
+          "canonical_url": "https://pollo.ai/hub/best-ai-tools/4",
+          "original_urls": [
+            "https://pollo.ai/es/hub/best-ai-tools/4"
+          ],
+          "page_type": "blog",
+          "slug": "4"
+        },
+        {
+          "page_id": "pollo-0083",
+          "url": "https://pollo.ai/app/twitch-banner-generator",
+          "canonical_url": "https://pollo.ai/app/twitch-banner-generator",
+          "original_urls": [
+            "https://pollo.ai/app/twitch-banner-generator",
+            "https://pollo.ai/th/app/twitch-banner-generator",
+            "https://pollo.ai/fr/app/twitch-banner-generator",
+            "https://pollo.ai/id/app/twitch-banner-generator",
+            "https://pollo.ai/nb/app/twitch-banner-generator",
+            "https://pollo.ai/ar/app/twitch-banner-generator",
+            "https://pollo.ai/it/app/twitch-banner-generator",
+            "https://pollo.ai/zh/app/twitch-banner-generator",
+            "https://pollo.ai/pt/app/twitch-banner-generator",
+            "https://pollo.ai/pl/app/twitch-banner-generator",
+            "https://pollo.ai/ru/app/twitch-banner-generator",
+            "https://pollo.ai/tr/app/twitch-banner-generator",
+            "https://pollo.ai/ja/app/twitch-banner-generator",
+            "https://pollo.ai/ko/app/twitch-banner-generator",
+            "https://pollo.ai/nl/app/twitch-banner-generator",
+            "https://pollo.ai/da/app/twitch-banner-generator",
+            "https://pollo.ai/es/app/twitch-banner-generator",
+            "https://pollo.ai/de/app/twitch-banner-generator"
+          ],
+          "page_type": "tool",
+          "slug": "twitch-banner-generator"
+        },
+        {
+          "page_id": "pollo-0084",
+          "url": "https://pollo.ai/es/hub/37",
+          "canonical_url": "https://pollo.ai/hub/37",
+          "original_urls": [
+            "https://pollo.ai/es/hub/37"
+          ],
+          "page_type": "blog",
+          "slug": "37"
+        },
+        {
+          "page_id": "pollo-0085",
+          "url": "https://pollo.ai/es/hub/36",
+          "canonical_url": "https://pollo.ai/hub/36",
+          "original_urls": [
+            "https://pollo.ai/es/hub/36"
+          ],
+          "page_type": "blog",
+          "slug": "36"
+        },
+        {
+          "page_id": "pollo-0086",
+          "url": "https://pollo.ai/th/hub/28",
+          "canonical_url": "https://pollo.ai/hub/28",
+          "original_urls": [
+            "https://pollo.ai/th/hub/28",
+            "https://pollo.ai/fr/hub/28",
+            "https://pollo.ai/nb/hub/28",
+            "https://pollo.ai/ru/hub/28",
+            "https://pollo.ai/ar/hub/28",
+            "https://pollo.ai/zh/hub/28",
+            "https://pollo.ai/it/hub/28",
+            "https://pollo.ai/nl/hub/28",
+            "https://pollo.ai/pt/hub/28",
+            "https://pollo.ai/id/hub/28",
+            "https://pollo.ai/da/hub/28",
+            "https://pollo.ai/tr/hub/28",
+            "https://pollo.ai/de/hub/28",
+            "https://pollo.ai/pl/hub/28"
+          ],
+          "page_type": "blog",
+          "slug": "28"
+        },
+        {
+          "page_id": "pollo-0087",
+          "url": "https://pollo.ai/ja/hub/31",
+          "canonical_url": "https://pollo.ai/hub/31",
+          "original_urls": [
+            "https://pollo.ai/ja/hub/31"
+          ],
+          "page_type": "blog",
+          "slug": "31"
+        },
+        {
+          "page_id": "pollo-0088",
+          "url": "https://pollo.ai/tw/app/ai-music-generator",
+          "canonical_url": "https://pollo.ai/tw/app/ai-music-generator",
+          "original_urls": [
+            "https://pollo.ai/tw/app/ai-music-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-music-generator"
+        },
+        {
+          "page_id": "pollo-0089",
+          "url": "https://pollo.ai/tw/video-color-correction",
+          "canonical_url": "https://pollo.ai/tw/video-color-correction",
+          "original_urls": [
+            "https://pollo.ai/tw/video-color-correction"
+          ],
+          "page_type": "other",
+          "slug": "video-color-correction"
+        },
+        {
+          "page_id": "pollo-0090",
+          "url": "https://pollo.ai/tw/app/tri-fold-brochure-maker",
+          "canonical_url": "https://pollo.ai/tw/app/tri-fold-brochure-maker",
+          "original_urls": [
+            "https://pollo.ai/tw/app/tri-fold-brochure-maker"
+          ],
+          "page_type": "other",
+          "slug": "tri-fold-brochure-maker"
+        },
+        {
+          "page_id": "pollo-0091",
+          "url": "https://pollo.ai/tw/app/announcement-generator",
+          "canonical_url": "https://pollo.ai/tw/app/announcement-generator",
+          "original_urls": [
+            "https://pollo.ai/tw/app/announcement-generator"
+          ],
+          "page_type": "other",
+          "slug": "announcement-generator"
+        },
+        {
+          "page_id": "pollo-0092",
+          "url": "https://pollo.ai/tw/hub/ai-anime-video-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-anime-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-anime-video-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-anime-video-prompts"
+        },
+        {
+          "page_id": "pollo-0093",
+          "url": "https://pollo.ai/tw/hub/ai-fashion-runway-video-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-fashion-runway-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-fashion-runway-video-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-fashion-runway-video-prompts"
+        },
+        {
+          "page_id": "pollo-0094",
+          "url": "https://pollo.ai/tw/hub/ai-ecommerce-video-ads-product-photo-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-ecommerce-video-ads-product-photo-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-ecommerce-video-ads-product-photo-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-ecommerce-video-ads-product-photo-prompts"
+        },
+        {
+          "page_id": "pollo-0095",
+          "url": "https://pollo.ai/tw/ai-video-merger",
+          "canonical_url": "https://pollo.ai/tw/ai-video-merger",
+          "original_urls": [
+            "https://pollo.ai/tw/ai-video-merger"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-merger"
+        },
+        {
+          "page_id": "pollo-0096",
+          "url": "https://pollo.ai/tw/add-text-to-video",
+          "canonical_url": "https://pollo.ai/tw/add-text-to-video",
+          "original_urls": [
+            "https://pollo.ai/tw/add-text-to-video"
+          ],
+          "page_type": "other",
+          "slug": "add-text-to-video"
+        },
+        {
+          "page_id": "pollo-0097",
+          "url": "https://pollo.ai/ai-calendar-maker",
+          "canonical_url": "https://pollo.ai/ai-calendar-maker",
+          "original_urls": [
+            "https://pollo.ai/ai-calendar-maker",
+            "https://pollo.ai/it/ai-calendar-maker",
+            "https://pollo.ai/nb/ai-calendar-maker",
+            "https://pollo.ai/pl/ai-calendar-maker",
+            "https://pollo.ai/es/ai-calendar-maker",
+            "https://pollo.ai/th/ai-calendar-maker",
+            "https://pollo.ai/de/ai-calendar-maker",
+            "https://pollo.ai/nl/ai-calendar-maker",
+            "https://pollo.ai/ja/ai-calendar-maker",
+            "https://pollo.ai/pt/ai-calendar-maker",
+            "https://pollo.ai/ar/ai-calendar-maker",
+            "https://pollo.ai/ru/ai-calendar-maker",
+            "https://pollo.ai/zh/ai-calendar-maker",
+            "https://pollo.ai/ko/ai-calendar-maker",
+            "https://pollo.ai/da/ai-calendar-maker",
+            "https://pollo.ai/tr/ai-calendar-maker",
+            "https://pollo.ai/id/ai-calendar-maker",
+            "https://pollo.ai/fr/ai-calendar-maker"
+          ],
+          "page_type": "tool",
+          "slug": "ai-calendar-maker"
+        },
+        {
+          "page_id": "pollo-0098",
+          "url": "https://pollo.ai/ai-vector-generator",
+          "canonical_url": "https://pollo.ai/ai-vector-generator",
+          "original_urls": [
+            "https://pollo.ai/ai-vector-generator",
+            "https://pollo.ai/it/ai-vector-generator",
+            "https://pollo.ai/pl/ai-vector-generator",
+            "https://pollo.ai/pt/ai-vector-generator",
+            "https://pollo.ai/es/ai-vector-generator",
+            "https://pollo.ai/ru/ai-vector-generator",
+            "https://pollo.ai/da/ai-vector-generator",
+            "https://pollo.ai/de/ai-vector-generator",
+            "https://pollo.ai/nb/ai-vector-generator",
+            "https://pollo.ai/ar/ai-vector-generator",
+            "https://pollo.ai/th/ai-vector-generator",
+            "https://pollo.ai/nl/ai-vector-generator",
+            "https://pollo.ai/ja/ai-vector-generator",
+            "https://pollo.ai/zh/ai-vector-generator",
+            "https://pollo.ai/id/ai-vector-generator",
+            "https://pollo.ai/tr/ai-vector-generator",
+            "https://pollo.ai/ko/ai-vector-generator",
+            "https://pollo.ai/fr/ai-vector-generator"
+          ],
+          "page_type": "tool",
+          "slug": "ai-vector-generator"
+        },
+        {
+          "page_id": "pollo-0099",
+          "url": "https://pollo.ai/tw/schedule-maker",
+          "canonical_url": "https://pollo.ai/tw/schedule-maker",
+          "original_urls": [
+            "https://pollo.ai/tw/schedule-maker"
+          ],
+          "page_type": "other",
+          "slug": "schedule-maker"
+        },
+        {
+          "page_id": "pollo-0100",
+          "url": "https://pollo.ai/tw/black-background-remover",
+          "canonical_url": "https://pollo.ai/tw/black-background-remover",
+          "original_urls": [
+            "https://pollo.ai/tw/black-background-remover"
+          ],
+          "page_type": "other",
+          "slug": "black-background-remover"
+        },
+        {
+          "page_id": "pollo-0101",
+          "url": "https://pollo.ai/tw/app/twitch-banner-generator",
+          "canonical_url": "https://pollo.ai/tw/app/twitch-banner-generator",
+          "original_urls": [
+            "https://pollo.ai/tw/app/twitch-banner-generator"
+          ],
+          "page_type": "other",
+          "slug": "twitch-banner-generator"
+        },
+        {
+          "page_id": "pollo-0102",
+          "url": "https://pollo.ai/tw/hub/couple-ai-video-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/couple-ai-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/couple-ai-video-prompts"
+          ],
+          "page_type": "other",
+          "slug": "couple-ai-video-prompts"
+        },
+        {
+          "page_id": "pollo-0103",
+          "url": "https://pollo.ai/tw/hub/28",
+          "canonical_url": "https://pollo.ai/tw/hub/28",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/28"
+          ],
+          "page_type": "other",
+          "slug": "28"
+        },
+        {
+          "page_id": "pollo-0104",
+          "url": "https://pollo.ai/tw/hub/ai-food-commercial-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-food-commercial-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-food-commercial-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-food-commercial-prompts"
+        },
+        {
+          "page_id": "pollo-0105",
+          "url": "https://pollo.ai/tw/hub/ai-video-prompt-guide-for-marketing-videos",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-video-prompt-guide-for-marketing-videos",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-video-prompt-guide-for-marketing-videos"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-prompt-guide-for-marketing-videos"
+        },
+        {
+          "page_id": "pollo-0106",
+          "url": "https://pollo.ai/tw/hub/ai-portrait-animation-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-portrait-animation-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-portrait-animation-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-portrait-animation-prompts"
+        },
+        {
+          "page_id": "pollo-0107",
+          "url": "https://pollo.ai/tw/hub/jewelry-video-prompts-product-showcases",
+          "canonical_url": "https://pollo.ai/tw/hub/jewelry-video-prompts-product-showcases",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/jewelry-video-prompts-product-showcases"
+          ],
+          "page_type": "other",
+          "slug": "jewelry-video-prompts-product-showcases"
+        },
+        {
+          "page_id": "pollo-0108",
+          "url": "https://pollo.ai/tw/hub/ai-fashion-video-prompts-clothing-campaigns",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-fashion-video-prompts-clothing-campaigns",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-fashion-video-prompts-clothing-campaigns"
+          ],
+          "page_type": "other",
+          "slug": "ai-fashion-video-prompts-clothing-campaigns"
+        },
+        {
+          "page_id": "pollo-0109",
+          "url": "https://pollo.ai/tw/hub/ai-wedding-video-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-wedding-video-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-wedding-video-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-wedding-video-prompts"
+        },
+        {
+          "page_id": "pollo-0110",
+          "url": "https://pollo.ai/tw/hub/ai-travel-vlog-prompts",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-travel-vlog-prompts",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-travel-vlog-prompts"
+          ],
+          "page_type": "other",
+          "slug": "ai-travel-vlog-prompts"
+        },
+        {
+          "page_id": "pollo-0111",
+          "url": "https://pollo.ai/tw/hub/skincare-video-prompts-ai-beauty-ads",
+          "canonical_url": "https://pollo.ai/tw/hub/skincare-video-prompts-ai-beauty-ads",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/skincare-video-prompts-ai-beauty-ads"
+          ],
+          "page_type": "other",
+          "slug": "skincare-video-prompts-ai-beauty-ads"
+        },
+        {
+          "page_id": "pollo-0112",
+          "url": "https://pollo.ai/tw/hub/ai-real-estate-video-prompts-property-tours",
+          "canonical_url": "https://pollo.ai/tw/hub/ai-real-estate-video-prompts-property-tours",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/ai-real-estate-video-prompts-property-tours"
+          ],
+          "page_type": "other",
+          "slug": "ai-real-estate-video-prompts-property-tours"
+        },
+        {
+          "page_id": "pollo-0113",
+          "url": "https://pollo.ai/tw/ai-vector-generator",
+          "canonical_url": "https://pollo.ai/tw/ai-vector-generator",
+          "original_urls": [
+            "https://pollo.ai/tw/ai-vector-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-vector-generator"
+        },
+        {
+          "page_id": "pollo-0114",
+          "url": "https://pollo.ai/app/wattpad-cover-maker",
+          "canonical_url": "https://pollo.ai/app/wattpad-cover-maker",
+          "original_urls": [
+            "https://pollo.ai/app/wattpad-cover-maker",
+            "https://pollo.ai/pt/app/wattpad-cover-maker",
+            "https://pollo.ai/tr/app/wattpad-cover-maker",
+            "https://pollo.ai/zh/app/wattpad-cover-maker",
+            "https://pollo.ai/es/app/wattpad-cover-maker",
+            "https://pollo.ai/id/app/wattpad-cover-maker",
+            "https://pollo.ai/ja/app/wattpad-cover-maker",
+            "https://pollo.ai/de/app/wattpad-cover-maker",
+            "https://pollo.ai/ru/app/wattpad-cover-maker",
+            "https://pollo.ai/ko/app/wattpad-cover-maker",
+            "https://pollo.ai/da/app/wattpad-cover-maker",
+            "https://pollo.ai/th/app/wattpad-cover-maker",
+            "https://pollo.ai/nl/app/wattpad-cover-maker",
+            "https://pollo.ai/pl/app/wattpad-cover-maker",
+            "https://pollo.ai/nb/app/wattpad-cover-maker",
+            "https://pollo.ai/fr/app/wattpad-cover-maker",
+            "https://pollo.ai/ar/app/wattpad-cover-maker",
+            "https://pollo.ai/it/app/wattpad-cover-maker"
+          ],
+          "page_type": "tool",
+          "slug": "wattpad-cover-maker"
+        },
+        {
+          "page_id": "pollo-0115",
+          "url": "https://pollo.ai/tw/ai-calendar-maker",
+          "canonical_url": "https://pollo.ai/tw/ai-calendar-maker",
+          "original_urls": [
+            "https://pollo.ai/tw/ai-calendar-maker"
+          ],
+          "page_type": "other",
+          "slug": "ai-calendar-maker"
+        },
+        {
+          "page_id": "pollo-0116",
+          "url": "https://pollo.ai/tw/app/wattpad-cover-maker",
+          "canonical_url": "https://pollo.ai/tw/app/wattpad-cover-maker",
+          "original_urls": [
+            "https://pollo.ai/tw/app/wattpad-cover-maker"
+          ],
+          "page_type": "other",
+          "slug": "wattpad-cover-maker"
+        }
+      ],
+      "demands": [
+        {
+          "id": "pollo-seedream-5-5",
+          "name": "Seedream 5.5 图片模型页",
+          "category": "model_api",
+          "summary": "Seedream 5.5 图片模型落地页，含繁体中文路径 当日新增 2 个页面，slug：seedream-5-5。",
+          "audience": "图片创作者",
+          "job_to_be_done": "用 Seedream 5.5 生成图片",
+          "page_ids": [
+            "pollo-0001",
+            "pollo-0007"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "根路径与繁体中文路径指向同一模型",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-gpt-image-2-6",
+          "name": "GPT Image 2.6 图片模型页",
+          "category": "model_api",
+          "summary": "GPT Image 2.6 图片模型落地页，含繁体中文路径 当日新增 2 个页面，slug：gpt-image-2-6。",
+          "audience": "图片创作者",
+          "job_to_be_done": "用 GPT Image 2.6 生成图片",
+          "page_ids": [
+            "pollo-0003",
+            "pollo-0051"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "根路径与繁体中文路径指向同一模型",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-seedream-hub",
+          "name": "Seedream 5.5 使用教程与评测",
+          "category": "content_strategy",
+          "summary": "Seedream 5.5 的使用教程和评测文章，含繁体中文版本 当日新增 4 个页面，slug：how-to-use-seedream-5-5、seedream-5-5-review。",
+          "audience": "想上手的图片创作者",
+          "job_to_be_done": "学会并评估 Seedream 5.5",
+          "page_ids": [
+            "pollo-0005",
+            "pollo-0006",
+            "pollo-0032",
+            "pollo-0033"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-storyland",
+          "name": "Storyland 故事创作挑战",
+          "category": "platform_update",
+          "summary": "Pollo Storyland 故事创作挑战活动页，含繁体中文版本 当日新增 2 个页面，slug：pollo-storyland。",
+          "audience": "平台创作者",
+          "job_to_be_done": "参加故事创作挑战",
+          "page_ids": [
+            "pollo-0002",
+            "pollo-0016"
+          ],
+          "signal": "活动",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-earn",
+          "name": "赚钱/推荐返利页",
+          "category": "platform_update",
+          "summary": "赚钱推荐返利入口页，含繁体中文版本 当日新增 2 个页面，slug：earn。",
+          "audience": "想变现的用户",
+          "job_to_be_done": "通过推荐或任务赚取收益",
+          "page_ids": [
+            "pollo-0004",
+            "pollo-0053"
+          ],
+          "signal": "站点导航",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-relight",
+          "name": "视频补光/重打光工具",
+          "category": "tool",
+          "summary": "视频重打光工具，含 ai-video-relight 与 relight 两种路径及繁体中文 当日新增 4 个页面，slug：ai-video-relight、relight。",
+          "audience": "视频创作者",
+          "job_to_be_done": "给视频重新打光",
+          "page_ids": [
+            "pollo-0008",
+            "pollo-0009",
+            "pollo-0059",
+            "pollo-0062"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "ai-video-relight 与 relight 指向同一能力，另有繁体中文版本",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-howto-editing",
+          "name": "图片/视频编辑教程系列",
+          "category": "content_strategy",
+          "summary": "图片放大、旧照片修复、去裁剪、换脸、加配音等教程，含繁体中文版本 当日新增 10 个页面，slug：how-to-upscale-your-image-with-ai、how-to-make-an-ai-video-with-voiceover-sound-effects-and-music、how-to-face-swap-video、how-to-use-ai-photo-editor、how-to-restore-old-photos、how-to-uncrop-images-online。",
+          "audience": "想学编辑的新用户",
+          "job_to_be_done": "照着教程完成一项编辑任务",
+          "page_ids": [
+            "pollo-0010",
+            "pollo-0011",
+            "pollo-0012",
+            "pollo-0013",
+            "pollo-0014",
+            "pollo-0015",
+            "pollo-0044",
+            "pollo-0065",
+            "pollo-0066",
+            "pollo-0067"
+          ],
+          "signal": "教程系列",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-video-effects",
+          "name": "视频特效模板簇",
+          "category": "trend_template",
+          "summary": "室内布局、视差左右、机场粉丝应援、约会综艺访谈室、动态火焰、推近、施工等 8 个视频特效模板，均带繁体中文 当日新增 16 个页面，slug：interior-layout、parallax-right、parallax-left、airport-fan-cam、dating-show-interview-room、dynamic-flame、push-in、construction。",
+          "audience": "短视频与影视创作者",
+          "job_to_be_done": "套用特效模板生成镜头",
+          "page_ids": [
+            "pollo-0017",
+            "pollo-0018",
+            "pollo-0019",
+            "pollo-0020",
+            "pollo-0021",
+            "pollo-0022",
+            "pollo-0023",
+            "pollo-0024",
+            "pollo-0073",
+            "pollo-0074",
+            "pollo-0075",
+            "pollo-0076",
+            "pollo-0077",
+            "pollo-0078",
+            "pollo-0079",
+            "pollo-0080"
+          ],
+          "signal": "模板簇",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "8 个特效各有根路径与繁体中文路径",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-best-of-lists",
+          "name": "AI 工具榜单系列",
+          "category": "content_strategy",
+          "summary": "图片编辑器、图片放大、视频放大、传单生成器等榜单，含繁体中文版本 当日新增 10 个页面，slug：best-ai-image-editors-free-unlimited、best-ai-image-upscaler、best-ai-video-upscalers、best-ai-flyer-generators、best-free-ai-flyer-generators-for-pro-looking-flyers。",
+          "audience": "选型用户",
+          "job_to_be_done": "挑一个合适的 AI 工具",
+          "page_ids": [
+            "pollo-0026",
+            "pollo-0027",
+            "pollo-0028",
+            "pollo-0029",
+            "pollo-0031",
+            "pollo-0068",
+            "pollo-0069",
+            "pollo-0070",
+            "pollo-0071",
+            "pollo-0072"
+          ],
+          "signal": "榜单内容",
+          "confidence": "medium",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-prompt-ideas",
+          "name": "行业 AI 视频提示词库",
+          "category": "content_strategy",
+          "summary": "婚纱、情侣、旅行、时尚、珠宝、地产、美食、护肤、动漫、电商等 13 组提示词文章，均带繁体中文版本 当日新增 26 个页面，slug：ai-portrait-animation-prompts、couple-ai-video-prompts、ai-wedding-video-prompts、ai-travel-vlog-prompts、ai-fashion-video-prompts-clothing-campaigns、jewelry-video-prompts-product-showcases、ai-real-estate-video-prompts-property-tours、ai-video-prompt-guide-for-marketing-videos、ai-food-commercial-prompts、skincare-video-prompts-ai-beauty-ads、ai-anime-video-prompts、ai-fashion-runway-video-prompts、ai-ecommerce-video-ads-product-photo-prompts。",
+          "audience": "各行业营销创作者",
+          "job_to_be_done": "获取行业视频提示词",
+          "page_ids": [
+            "pollo-0034",
+            "pollo-0035",
+            "pollo-0036",
+            "pollo-0037",
+            "pollo-0039",
+            "pollo-0040",
+            "pollo-0041",
+            "pollo-0042",
+            "pollo-0043",
+            "pollo-0054",
+            "pollo-0055",
+            "pollo-0056",
+            "pollo-0057",
+            "pollo-0092",
+            "pollo-0093",
+            "pollo-0094",
+            "pollo-0102",
+            "pollo-0104",
+            "pollo-0105",
+            "pollo-0106",
+            "pollo-0107",
+            "pollo-0108",
+            "pollo-0109",
+            "pollo-0110",
+            "pollo-0111",
+            "pollo-0112"
+          ],
+          "signal": "提示词内容",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "13 组提示词文章各有根路径与繁体中文路径",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-music-generator",
+          "name": "AI 音乐生成工具",
+          "category": "tool",
+          "summary": "AI 音乐生成器，含繁体中文版本 当日新增 2 个页面，slug：ai-music-generator。",
+          "audience": "音乐与短视频创作者",
+          "job_to_be_done": "用 AI 生成背景音乐",
+          "page_ids": [
+            "pollo-0045",
+            "pollo-0088"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "根路径与繁体中文路径指向同一工具",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-doc-template-tools",
+          "name": "设计/文档模板生成工具",
+          "category": "tool",
+          "summary": "三折页、公告、日程、Twitch 横幅、日历、矢量、Wattpad 封面等 7 个模板生成工具，均带繁体中文 当日新增 14 个页面，slug：tri-fold-brochure-maker、announcement-generator、schedule-maker、twitch-banner-generator、ai-calendar-maker、ai-vector-generator、wattpad-cover-maker。",
+          "audience": "设计与运营用户",
+          "job_to_be_done": "快速生成排版或设计素材",
+          "page_ids": [
+            "pollo-0050",
+            "pollo-0052",
+            "pollo-0061",
+            "pollo-0083",
+            "pollo-0097",
+            "pollo-0098",
+            "pollo-0114",
+            "pollo-0090",
+            "pollo-0091",
+            "pollo-0099",
+            "pollo-0101",
+            "pollo-0113",
+            "pollo-0115",
+            "pollo-0116"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "inferred",
+          "caveats": [
+            "7 个工具各有根路径与繁体中文路径",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-video-post-tools",
+          "name": "视频后期工具",
+          "category": "tool",
+          "summary": "视频调色、视频合并、视频加字幕、黑底抠图四个后期工具，均带繁体中文 当日新增 8 个页面，slug：video-color-correction、ai-video-merger、add-text-to-video、black-background-remover。",
+          "audience": "视频创作者",
+          "job_to_be_done": "完成视频后期处理",
+          "page_ids": [
+            "pollo-0048",
+            "pollo-0058",
+            "pollo-0060",
+            "pollo-0063",
+            "pollo-0089",
+            "pollo-0095",
+            "pollo-0096",
+            "pollo-0100"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "4 个工具各有根路径与繁体中文路径",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-german-blogs",
+          "name": "德语博客文章",
+          "category": "content_strategy",
+          "summary": "德语路径下的儿童故事视频、皮克斯风格视频教程和成人向图片生成器榜单 当日新增 3 个页面，slug：create-kids-story-video-in-german-with-pollo-agent、turn-photo-into-pixar-style-video-with-seedance、best-sexy-ai-image-generators。",
+          "audience": "德语市场用户",
+          "job_to_be_done": "用德语学会一个 AI 任务",
+          "page_ids": [
+            "pollo-0046",
+            "pollo-0047",
+            "pollo-0049"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "三个页面均为德语本地化内容",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "pollo-nsfw-lists",
+          "name": "成人向图片生成器榜单",
+          "category": "content_strategy",
+          "summary": "西语和韩语路径下关于 NSFW 与非露骨图片生成器的榜单 当日新增 2 个页面，slug：best-ai-image-generators-for-non-explicit-art、10-best-nsfw-ai-image-generators。",
+          "audience": "成人内容创作者",
+          "job_to_be_done": "挑选成人向图片生成器",
+          "page_ids": [
+            "pollo-0064",
+            "pollo-0081"
+          ],
+          "signal": "榜单内容",
+          "confidence": "low",
+          "opportunity": "low_priority",
+          "evidence": "inferred",
+          "caveats": [
+            "涉及成人向内容，西语与韩语各一篇",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": [
+        "pollo-0025",
+        "pollo-0030",
+        "pollo-0038",
+        "pollo-0082",
+        "pollo-0084",
+        "pollo-0085",
+        "pollo-0086",
+        "pollo-0087",
+        "pollo-0103"
+      ]
+    },
+    {
+      "site": "renoise",
+      "source_file": "diff/20261113/renoise.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "renoise-0001",
+          "url": "https://renoise.ai/blog/higgsfield-genjutsu",
+          "canonical_url": "https://renoise.ai/blog/higgsfield-genjutsu",
+          "original_urls": [
+            "https://renoise.ai/blog/higgsfield-genjutsu"
+          ],
+          "page_type": "blog",
+          "slug": "higgsfield-genjutsu"
+        },
+        {
+          "page_id": "renoise-0002",
+          "url": "https://renoise.ai/features/genjutsu-ai",
+          "canonical_url": "https://renoise.ai/features/genjutsu-ai",
+          "original_urls": [
+            "https://renoise.ai/features/genjutsu-ai"
+          ],
+          "page_type": "other",
+          "slug": "genjutsu-ai"
+        }
+      ],
+      "demands": [
+        {
+          "id": "renoise-genjutsu",
+          "name": "视频重制（换人/换物）功能",
+          "category": "tool",
+          "summary": "Higgsfield Genjutsu 的视频重制能力：保留原片运镜与节奏，替换主角、产品或宠物，另有一篇对比博客 当日新增 2 个页面，slug：higgsfield-genjutsu、genjutsu-ai。",
+          "audience": "想重制爆款视频的创作者",
+          "job_to_be_done": "把视频里的主角换成自己或指定对象",
+          "page_ids": [
+            "renoise-0001",
+            "renoise-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "worth_researching",
+          "evidence": "observed",
+          "caveats": [
+            "已打开 https://renoise.ai/features/genjutsu-ai，页面为 Renoise Agent 的 Viral Video Remake 功能，用 Seedance 2.0 做视频重制，与 Higgsfield Genjutsu 对比",
+            "同日还有博客 higgsfield-genjutsu 介绍该能力"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "supermaker",
+      "source_file": "diff/20261113/supermaker.json",
+      "raw_url_count": 3,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "supermaker-0001",
+          "url": "https://supermaker.ai/video/flamingo-floatie-ai/",
+          "canonical_url": "https://supermaker.ai/video/flamingo-floatie-ai",
+          "original_urls": [
+            "https://supermaker.ai/video/flamingo-floatie-ai/"
+          ],
+          "page_type": "other",
+          "slug": "flamingo-floatie-ai"
+        },
+        {
+          "page_id": "supermaker-0002",
+          "url": "https://supermaker.ai/video/christmas-photobooth/",
+          "canonical_url": "https://supermaker.ai/video/christmas-photobooth",
+          "original_urls": [
+            "https://supermaker.ai/video/christmas-photobooth/"
+          ],
+          "page_type": "other",
+          "slug": "christmas-photobooth"
+        },
+        {
+          "page_id": "supermaker-0003",
+          "url": "https://supermaker.ai/blog/how-to-make-christmas-dance-trend-video/",
+          "canonical_url": "https://supermaker.ai/blog/how-to-make-christmas-dance-trend-video",
+          "original_urls": [
+            "https://supermaker.ai/blog/how-to-make-christmas-dance-trend-video/"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-christmas-dance-trend-video"
+        }
+      ],
+      "demands": [
+        {
+          "id": "supermaker-video-templates",
+          "name": "热点视频模板（火烈鸟/圣诞摄影棚）",
+          "category": "trend_template",
+          "summary": "火烈鸟泳圈和圣诞摄影棚两个热点视频模板 当日新增 2 个页面，slug：flamingo-floatie-ai、christmas-photobooth。",
+          "audience": "追热点的短视频创作者",
+          "job_to_be_done": "套用热点模板生成视频",
+          "page_ids": [
+            "supermaker-0001",
+            "supermaker-0002"
+          ],
+          "signal": "模板簇",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "supermaker-christmas-dance-tutorial",
+          "name": "圣诞舞蹈视频教程",
+          "category": "content_strategy",
+          "summary": "教用户做圣诞舞蹈趋势视频的博客 当日新增 1 个页面，slug：how-to-make-christmas-dance-trend-video。",
+          "audience": "新用户",
+          "job_to_be_done": "照着教程复现圣诞舞视频",
+          "page_ids": [
+            "supermaker-0003"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "vismuse",
+      "source_file": "diff/20261113/vismuse.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "vismuse-0001",
+          "url": "https://vismuse.com/tools/thanksgiving-dance-ai",
+          "canonical_url": "https://vismuse.com/tools/thanksgiving-dance-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/thanksgiving-dance-ai"
+          ],
+          "page_type": "tool",
+          "slug": "thanksgiving-dance-ai"
+        }
+      ],
+      "demands": [
+        {
+          "id": "vismuse-thanksgiving-dance",
+          "name": "感恩节舞蹈 AI 工具",
+          "category": "trend_template",
+          "summary": "感恩节主题舞蹈视频工具页 当日新增 1 个页面，slug：thanksgiving-dance-ai。",
+          "audience": "节日内容创作者",
+          "job_to_be_done": "生成感恩节舞蹈视频",
+          "page_ids": [
+            "vismuse-0001"
+          ],
+          "signal": "模板簇",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261113/wavespeed.json",
+      "raw_url_count": 17,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/seedance-2-5-flash",
+          "canonical_url": "https://wavespeed.ai/seedance-2-5-flash",
+          "original_urls": [
+            "https://wavespeed.ai/seedance-2-5-flash",
+            "https://wavespeed.ai/es/seedance-2-5-flash",
+            "https://wavespeed.ai/pt/seedance-2-5-flash",
+            "https://wavespeed.ai/fr/seedance-2-5-flash",
+            "https://wavespeed.ai/de/seedance-2-5-flash",
+            "https://wavespeed.ai/it/seedance-2-5-flash",
+            "https://wavespeed.ai/ru/seedance-2-5-flash",
+            "https://wavespeed.ai/tr/seedance-2-5-flash",
+            "https://wavespeed.ai/pl/seedance-2-5-flash",
+            "https://wavespeed.ai/id/seedance-2-5-flash",
+            "https://wavespeed.ai/vi/seedance-2-5-flash",
+            "https://wavespeed.ai/th/seedance-2-5-flash",
+            "https://wavespeed.ai/hi/seedance-2-5-flash",
+            "https://wavespeed.ai/ja/seedance-2-5-flash",
+            "https://wavespeed.ai/ko/seedance-2-5-flash",
+            "https://wavespeed.ai/zh-CN/seedance-2-5-flash",
+            "https://wavespeed.ai/zh-TW/seedance-2-5-flash"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5-flash"
+        }
+      ],
+      "demands": [
+        {
+          "id": "wavespeed-seedance-2-5-flash",
+          "name": "Seedance 2.5 Flash 模型页",
+          "category": "model_api",
+          "summary": "Seedance 2.5 Flash 视频模型落地页，含十余个语言路径 当日新增 1 个页面，slug：seedance-2-5-flash。",
+          "audience": "视频创作者",
+          "job_to_be_done": "用 Seedance 2.5 Flash 生成视频",
+          "page_ids": [
+            "wavespeed-0001"
+          ],
+          "signal": "模型页扩张",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "同一 slug 在十余个语言路径下复制，属本地化页面",
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": []
+    },
+    {
+      "site": "wireflow",
+      "source_file": "diff/20261113/wireflow.json",
+      "raw_url_count": 7,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 7,
+      "pages": [
+        {
+          "page_id": "wireflow-0001",
+          "url": "https://www.wireflow.ai/features/video-localization",
+          "canonical_url": "https://www.wireflow.ai/features/video-localization",
+          "original_urls": [
+            "https://www.wireflow.ai/features/video-localization"
+          ],
+          "page_type": "other",
+          "slug": "video-localization"
+        },
+        {
+          "page_id": "wireflow-0002",
+          "url": "https://www.wireflow.ai/features/explainer-video-template",
+          "canonical_url": "https://www.wireflow.ai/features/explainer-video-template",
+          "original_urls": [
+            "https://www.wireflow.ai/features/explainer-video-template"
+          ],
+          "page_type": "other",
+          "slug": "explainer-video-template"
+        },
+        {
+          "page_id": "wireflow-0003",
+          "url": "https://www.wireflow.ai/workflows/cmwdphx8w000bkx08ncrmur2m",
+          "canonical_url": "https://www.wireflow.ai/workflows/cmwdphx8w000bkx08ncrmur2m",
+          "original_urls": [
+            "https://www.wireflow.ai/workflows/cmwdphx8w000bkx08ncrmur2m"
+          ],
+          "page_type": "other",
+          "slug": "cmwdphx8w000bkx08ncrmur2m"
+        },
+        {
+          "page_id": "wireflow-0004",
+          "url": "https://www.wireflow.ai/workflows/cmwdjcwl20003ic076c048s4j",
+          "canonical_url": "https://www.wireflow.ai/workflows/cmwdjcwl20003ic076c048s4j",
+          "original_urls": [
+            "https://www.wireflow.ai/workflows/cmwdjcwl20003ic076c048s4j"
+          ],
+          "page_type": "other",
+          "slug": "cmwdjcwl20003ic076c048s4j"
+        },
+        {
+          "page_id": "wireflow-0005",
+          "url": "https://www.wireflow.ai/workflows/cmwdi16rh0012l3083ths4ps0",
+          "canonical_url": "https://www.wireflow.ai/workflows/cmwdi16rh0012l3083ths4ps0",
+          "original_urls": [
+            "https://www.wireflow.ai/workflows/cmwdi16rh0012l3083ths4ps0"
+          ],
+          "page_type": "other",
+          "slug": "cmwdi16rh0012l3083ths4ps0"
+        },
+        {
+          "page_id": "wireflow-0006",
+          "url": "https://www.wireflow.ai/workflows/cmwdhitgb000nl308eimgqdxy",
+          "canonical_url": "https://www.wireflow.ai/workflows/cmwdhitgb000nl308eimgqdxy",
+          "original_urls": [
+            "https://www.wireflow.ai/workflows/cmwdhitgb000nl308eimgqdxy"
+          ],
+          "page_type": "other",
+          "slug": "cmwdhitgb000nl308eimgqdxy"
+        },
+        {
+          "page_id": "wireflow-0007",
+          "url": "https://www.wireflow.ai/docs/skills/ai-mood-board-generator",
+          "canonical_url": "https://www.wireflow.ai/docs/skills/ai-mood-board-generator",
+          "original_urls": [
+            "https://www.wireflow.ai/docs/skills/ai-mood-board-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-mood-board-generator"
+        }
+      ],
+      "demands": [
+        {
+          "id": "wireflow-video-features",
+          "name": "视频本地化与讲解视频功能",
+          "category": "tool",
+          "summary": "视频本地化和讲解视频模板两个功能页 当日新增 2 个页面，slug：video-localization、explainer-video-template。",
+          "audience": "企业与出海团队",
+          "job_to_be_done": "本地化视频或制作讲解视频",
+          "page_ids": [
+            "wireflow-0001",
+            "wireflow-0002"
+          ],
+          "signal": "工具上线",
+          "confidence": "high",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        },
+        {
+          "id": "wireflow-mood-board-skill",
+          "name": "AI 情绪板生成技能文档",
+          "category": "content_strategy",
+          "summary": "教用户用 AI 生成情绪板的技能文档 当日新增 1 个页面，slug：ai-mood-board-generator。",
+          "audience": "设计用户",
+          "job_to_be_done": "用 AI 生成情绪板",
+          "page_ids": [
+            "wireflow-0007"
+          ],
+          "signal": "教程系列",
+          "confidence": "medium",
+          "opportunity": "watch",
+          "evidence": "inferred",
+          "caveats": [
+            "仅依据 URL 路径与 slug 推断，未打开页面"
+          ]
+        }
+      ],
+      "uncertain_page_ids": [
+        "wireflow-0003",
+        "wireflow-0004",
+        "wireflow-0005",
+        "wireflow-0006"
+      ]
+    }
+  ],
+  "cross_site_themes": [
+    {
+      "name": "节日与热点视频模板集中上新",
+      "sites": [
+        "getstarrd",
+        "supermaker",
+        "vismuse"
+      ],
+      "demand_ids": [
+        "getstarrd-catch-santa",
+        "supermaker-video-templates",
+        "vismuse-thanksgiving-dance"
+      ],
+      "description": "圣诞捉拍、圣诞摄影棚、火烈鸟泳圈、感恩节舞蹈等节日热点模板同日出现，节日营销模板仍是高频上新方向。"
+    },
+    {
+      "name": "多语言本地化页面批量扩张",
+      "sites": [
+        "pollo",
+        "affogato",
+        "pixomi"
+      ],
+      "demand_ids": [
+        "pollo-prompt-ideas",
+        "affogato-image-to-video",
+        "pixomi-minimax-h3-image"
+      ],
+      "description": "Pollo 大量铺繁体中文版本，Affogato 铺西语/葡语，Pixomi 铺十余语言路径，本地化仍是主要 SEO 载体。"
+    },
+    {
+      "name": "图像/视频模型页同日扩张",
+      "sites": [
+        "pollo",
+        "wavespeed",
+        "pixomi"
+      ],
+      "demand_ids": [
+        "pollo-seedream-5-5",
+        "wavespeed-seedance-2-5-flash",
+        "pixomi-minimax-h3-image"
+      ],
+      "description": "Seedream 5.5、GPT Image 2.6、Seedance 2.5 Flash、MiniMax H3 等模型页同日上线，模型聚合站持续补模型入口。"
+    },
+    {
+      "name": "AI 视频后期与特效能力",
+      "sites": [
+        "pollo",
+        "imagine"
+      ],
+      "demand_ids": [
+        "pollo-video-effects",
+        "imagine-video-tools"
+      ],
+      "description": "视频特效模板、历史视频生成、剧本转视频等后期与生成能力同日出现，视频后期工具链在补齐。"
+    }
+  ],
+  "highlights": [
+    {
+      "site": "pollo",
+      "demand_id": "pollo-video-effects",
+      "reason": "8 个视频特效模板一次性铺开（含机场粉丝应援、约会综艺访谈室等热点场景），每个都带繁体中文，可独立复制。"
+    },
+    {
+      "site": "pollo",
+      "demand_id": "pollo-doc-template-tools",
+      "reason": "三折页、公告、日程、横幅、日历、矢量、封面等 7 个设计模板生成工具同日上线，是可直接验证的独立工具方向。"
+    },
+    {
+      "site": "getstarrd",
+      "demand_id": "getstarrd-catch-santa",
+      "reason": "5 个圣诞捉拍模板集中上线，主题高度聚焦，说明节日热点模板可规模化复制。"
+    },
+    {
+      "site": "affogato",
+      "demand_id": "affogato-scene-video",
+      "reason": "加油站、酒店大堂两个垂直场景视频模板自带多语言版本，是少见的本地商户营销切入点。"
+    },
+    {
+      "site": "renoise",
+      "demand_id": "renoise-genjutsu",
+      "reason": "视频重制（保留运镜换主角）是差异化明显的视频任务，且有明确的对比定价，值得单独研究。"
+    }
+  ],
+  "notes": [
+    "这是 diff/20261113 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+    "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+    "同一批页面在多个语言路径下复制时（如 pollo 的 tw/ 繁体中文、affogato 的 es/pt-br），合并为一条本地化记录，不重复计任务。"
+  ]
+}

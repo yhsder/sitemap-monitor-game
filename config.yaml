@@ -135,6 +135,10 @@ sites:
     sitemap_urls:
       - "https://easyfaceswap.com/sitemap.xml"
     active: true
+  - name: "genematic"
+    sitemap_urls:
+      - "https://genematic.ai/sitemap.xml"
+    active: true
 
 
 sitemap:
