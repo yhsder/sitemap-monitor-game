@@ -1,0 +1,1186 @@
+{
+ "date": "20261116",
+ "sites": [
+  {
+   "site": "affogato",
+   "source_file": "diff/20261116/affogato.json",
+   "raw_url_count": 45,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 40,
+   "pages": [
+    {
+     "page_id": "affogato-0001",
+     "url": "https://affogato.ai/models/kling",
+     "canonical_url": "https://affogato.ai/models/kling",
+     "original_urls": [
+      "https://affogato.ai/models/kling"
+     ],
+     "page_type": "model_api",
+     "slug": "kling"
+    },
+    {
+     "page_id": "affogato-0002",
+     "url": "https://affogato.ai/models/kling/image-to-video",
+     "canonical_url": "https://affogato.ai/models/kling/image-to-video",
+     "original_urls": [
+      "https://affogato.ai/models/kling/image-to-video"
+     ],
+     "page_type": "model_api",
+     "slug": "image-to-video"
+    },
+    {
+     "page_id": "affogato-0003",
+     "url": "https://affogato.ai/compare/kling-vs-seedance",
+     "canonical_url": "https://affogato.ai/compare/kling-vs-seedance",
+     "original_urls": [
+      "https://affogato.ai/compare/kling-vs-seedance"
+     ],
+     "page_type": "other",
+     "slug": "kling-vs-seedance"
+    },
+    {
+     "page_id": "affogato-0004",
+     "url": "https://affogato.ai/alternatives/midjourney",
+     "canonical_url": "https://affogato.ai/alternatives/midjourney",
+     "original_urls": [
+      "https://affogato.ai/alternatives/midjourney"
+     ],
+     "page_type": "other",
+     "slug": "midjourney"
+    },
+    {
+     "page_id": "affogato-0005",
+     "url": "https://affogato.ai/models/seedance-2-0",
+     "canonical_url": "https://affogato.ai/models/seedance-2-0",
+     "original_urls": [
+      "https://affogato.ai/models/seedance-2-0"
+     ],
+     "page_type": "model_api",
+     "slug": "seedance-2-0"
+    },
+    {
+     "page_id": "affogato-0006",
+     "url": "https://affogato.ai/models/seedance-2-5",
+     "canonical_url": "https://affogato.ai/models/seedance-2-5",
+     "original_urls": [
+      "https://affogato.ai/models/seedance-2-5"
+     ],
+     "page_type": "model_api",
+     "slug": "seedance-2-5"
+    },
+    {
+     "page_id": "affogato-0007",
+     "url": "https://affogato.ai/models/nano-banana",
+     "canonical_url": "https://affogato.ai/models/nano-banana",
+     "original_urls": [
+      "https://affogato.ai/models/nano-banana"
+     ],
+     "page_type": "model_api",
+     "slug": "nano-banana"
+    },
+    {
+     "page_id": "affogato-0008",
+     "url": "https://affogato.ai/models/nano-banana-pro",
+     "canonical_url": "https://affogato.ai/models/nano-banana-pro",
+     "original_urls": [
+      "https://affogato.ai/models/nano-banana-pro"
+     ],
+     "page_type": "model_api",
+     "slug": "nano-banana-pro"
+    },
+    {
+     "page_id": "affogato-0009",
+     "url": "https://affogato.ai/models/nano-banana-2",
+     "canonical_url": "https://affogato.ai/models/nano-banana-2",
+     "original_urls": [
+      "https://affogato.ai/models/nano-banana-2"
+     ],
+     "page_type": "model_api",
+     "slug": "nano-banana-2"
+    },
+    {
+     "page_id": "affogato-0010",
+     "url": "https://affogato.ai/compare/nano-banana-2-vs-pro",
+     "canonical_url": "https://affogato.ai/compare/nano-banana-2-vs-pro",
+     "original_urls": [
+      "https://affogato.ai/compare/nano-banana-2-vs-pro"
+     ],
+     "page_type": "other",
+     "slug": "nano-banana-2-vs-pro"
+    },
+    {
+     "page_id": "affogato-0011",
+     "url": "https://affogato.ai/models/hailuo",
+     "canonical_url": "https://affogato.ai/models/hailuo",
+     "original_urls": [
+      "https://affogato.ai/models/hailuo"
+     ],
+     "page_type": "model_api",
+     "slug": "hailuo"
+    },
+    {
+     "page_id": "affogato-0012",
+     "url": "https://affogato.ai/models/wan",
+     "canonical_url": "https://affogato.ai/models/wan",
+     "original_urls": [
+      "https://affogato.ai/models/wan"
+     ],
+     "page_type": "model_api",
+     "slug": "wan"
+    },
+    {
+     "page_id": "affogato-0013",
+     "url": "https://affogato.ai/compare/affogato-vs-higgsfield",
+     "canonical_url": "https://affogato.ai/compare/affogato-vs-higgsfield",
+     "original_urls": [
+      "https://affogato.ai/compare/affogato-vs-higgsfield"
+     ],
+     "page_type": "other",
+     "slug": "affogato-vs-higgsfield"
+    },
+    {
+     "page_id": "affogato-0014",
+     "url": "https://affogato.ai/alternatives/higgsfield",
+     "canonical_url": "https://affogato.ai/alternatives/higgsfield",
+     "original_urls": [
+      "https://affogato.ai/alternatives/higgsfield"
+     ],
+     "page_type": "other",
+     "slug": "higgsfield"
+    },
+    {
+     "page_id": "affogato-0015",
+     "url": "https://affogato.ai/models/luma-ray",
+     "canonical_url": "https://affogato.ai/models/luma-ray",
+     "original_urls": [
+      "https://affogato.ai/models/luma-ray"
+     ],
+     "page_type": "model_api",
+     "slug": "luma-ray"
+    },
+    {
+     "page_id": "affogato-0016",
+     "url": "https://affogato.ai/models/grok-imagine",
+     "canonical_url": "https://affogato.ai/models/grok-imagine",
+     "original_urls": [
+      "https://affogato.ai/models/grok-imagine"
+     ],
+     "page_type": "model_api",
+     "slug": "grok-imagine"
+    },
+    {
+     "page_id": "affogato-0017",
+     "url": "https://affogato.ai/compare/affogato-vs-heygen",
+     "canonical_url": "https://affogato.ai/compare/affogato-vs-heygen",
+     "original_urls": [
+      "https://affogato.ai/compare/affogato-vs-heygen"
+     ],
+     "page_type": "other",
+     "slug": "affogato-vs-heygen"
+    },
+    {
+     "page_id": "affogato-0018",
+     "url": "https://affogato.ai/alternatives/heygen",
+     "canonical_url": "https://affogato.ai/alternatives/heygen",
+     "original_urls": [
+      "https://affogato.ai/alternatives/heygen"
+     ],
+     "page_type": "other",
+     "slug": "heygen"
+    },
+    {
+     "page_id": "affogato-0019",
+     "url": "https://affogato.ai/compare/affogato-vs-invideo",
+     "canonical_url": "https://affogato.ai/compare/affogato-vs-invideo",
+     "original_urls": [
+      "https://affogato.ai/compare/affogato-vs-invideo"
+     ],
+     "page_type": "other",
+     "slug": "affogato-vs-invideo"
+    },
+    {
+     "page_id": "affogato-0020",
+     "url": "https://affogato.ai/alternatives/invideo",
+     "canonical_url": "https://affogato.ai/alternatives/invideo",
+     "original_urls": [
+      "https://affogato.ai/alternatives/invideo"
+     ],
+     "page_type": "other",
+     "slug": "invideo"
+    },
+    {
+     "page_id": "affogato-0021",
+     "url": "https://affogato.ai/compare/affogato-vs-krea",
+     "canonical_url": "https://affogato.ai/compare/affogato-vs-krea",
+     "original_urls": [
+      "https://affogato.ai/compare/affogato-vs-krea"
+     ],
+     "page_type": "other",
+     "slug": "affogato-vs-krea"
+    },
+    {
+     "page_id": "affogato-0022",
+     "url": "https://affogato.ai/compare/affogato-vs-openart",
+     "canonical_url": "https://affogato.ai/compare/affogato-vs-openart",
+     "original_urls": [
+      "https://affogato.ai/compare/affogato-vs-openart"
+     ],
+     "page_type": "other",
+     "slug": "affogato-vs-openart"
+    },
+    {
+     "page_id": "affogato-0023",
+     "url": "https://affogato.ai/compare/affogato-vs-freepik",
+     "canonical_url": "https://affogato.ai/compare/affogato-vs-freepik",
+     "original_urls": [
+      "https://affogato.ai/compare/affogato-vs-freepik"
+     ],
+     "page_type": "other",
+     "slug": "affogato-vs-freepik"
+    },
+    {
+     "page_id": "affogato-0024",
+     "url": "https://affogato.ai/models/flux",
+     "canonical_url": "https://affogato.ai/models/flux",
+     "original_urls": [
+      "https://affogato.ai/models/flux"
+     ],
+     "page_type": "model_api",
+     "slug": "flux"
+    },
+    {
+     "page_id": "affogato-0025",
+     "url": "https://affogato.ai/compare/seedance-2-0-vs-2-5",
+     "canonical_url": "https://affogato.ai/compare/seedance-2-0-vs-2-5",
+     "original_urls": [
+      "https://affogato.ai/compare/seedance-2-0-vs-2-5"
+     ],
+     "page_type": "other",
+     "slug": "seedance-2-0-vs-2-5"
+    },
+    {
+     "page_id": "affogato-0026",
+     "url": "https://affogato.ai/models/seedream",
+     "canonical_url": "https://affogato.ai/models/seedream",
+     "original_urls": [
+      "https://affogato.ai/models/seedream"
+     ],
+     "page_type": "model_api",
+     "slug": "seedream"
+    },
+    {
+     "page_id": "affogato-0027",
+     "url": "https://affogato.ai/models/gpt-image",
+     "canonical_url": "https://affogato.ai/models/gpt-image",
+     "original_urls": [
+      "https://affogato.ai/models/gpt-image"
+     ],
+     "page_type": "model_api",
+     "slug": "gpt-image"
+    },
+    {
+     "page_id": "affogato-0028",
+     "url": "https://affogato.ai/models/ideogram",
+     "canonical_url": "https://affogato.ai/models/ideogram",
+     "original_urls": [
+      "https://affogato.ai/models/ideogram"
+     ],
+     "page_type": "model_api",
+     "slug": "ideogram"
+    },
+    {
+     "page_id": "affogato-0029",
+     "url": "https://affogato.ai/models/recraft",
+     "canonical_url": "https://affogato.ai/models/recraft",
+     "original_urls": [
+      "https://affogato.ai/models/recraft"
+     ],
+     "page_type": "model_api",
+     "slug": "recraft"
+    },
+    {
+     "page_id": "affogato-0030",
+     "url": "https://affogato.ai/models/qwen-image",
+     "canonical_url": "https://affogato.ai/models/qwen-image",
+     "original_urls": [
+      "https://affogato.ai/models/qwen-image"
+     ],
+     "page_type": "model_api",
+     "slug": "qwen-image"
+    },
+    {
+     "page_id": "affogato-0031",
+     "url": "https://affogato.ai/models/vidu",
+     "canonical_url": "https://affogato.ai/models/vidu",
+     "original_urls": [
+      "https://affogato.ai/models/vidu"
+     ],
+     "page_type": "model_api",
+     "slug": "vidu"
+    },
+    {
+     "page_id": "affogato-0032",
+     "url": "https://affogato.ai/models/pixverse",
+     "canonical_url": "https://affogato.ai/models/pixverse",
+     "original_urls": [
+      "https://affogato.ai/models/pixverse"
+     ],
+     "page_type": "model_api",
+     "slug": "pixverse"
+    },
+    {
+     "page_id": "affogato-0033",
+     "url": "https://affogato.ai/models/ltx",
+     "canonical_url": "https://affogato.ai/models/ltx",
+     "original_urls": [
+      "https://affogato.ai/models/ltx"
+     ],
+     "page_type": "model_api",
+     "slug": "ltx"
+    },
+    {
+     "page_id": "affogato-0034",
+     "url": "https://affogato.ai/pt-br/modelos/kling",
+     "canonical_url": "https://affogato.ai/modelos/kling",
+     "original_urls": [
+      "https://affogato.ai/pt-br/modelos/kling",
+      "https://affogato.ai/es/modelos/kling"
+     ],
+     "page_type": "other",
+     "slug": "kling"
+    },
+    {
+     "page_id": "affogato-0035",
+     "url": "https://affogato.ai/pt-br/modelos/seedance-2-0",
+     "canonical_url": "https://affogato.ai/modelos/seedance-2-0",
+     "original_urls": [
+      "https://affogato.ai/pt-br/modelos/seedance-2-0",
+      "https://affogato.ai/es/modelos/seedance-2-0"
+     ],
+     "page_type": "other",
+     "slug": "seedance-2-0"
+    },
+    {
+     "page_id": "affogato-0036",
+     "url": "https://affogato.ai/pt-br/modelos/nano-banana",
+     "canonical_url": "https://affogato.ai/modelos/nano-banana",
+     "original_urls": [
+      "https://affogato.ai/pt-br/modelos/nano-banana",
+      "https://affogato.ai/es/modelos/nano-banana"
+     ],
+     "page_type": "other",
+     "slug": "nano-banana"
+    },
+    {
+     "page_id": "affogato-0037",
+     "url": "https://affogato.ai/pt-br/modelos/nano-banana-pro",
+     "canonical_url": "https://affogato.ai/modelos/nano-banana-pro",
+     "original_urls": [
+      "https://affogato.ai/pt-br/modelos/nano-banana-pro",
+      "https://affogato.ai/es/modelos/nano-banana-pro"
+     ],
+     "page_type": "other",
+     "slug": "nano-banana-pro"
+    },
+    {
+     "page_id": "affogato-0038",
+     "url": "https://affogato.ai/pt-br/modelos/kling/imagem-para-video",
+     "canonical_url": "https://affogato.ai/modelos/kling/imagem-para-video",
+     "original_urls": [
+      "https://affogato.ai/pt-br/modelos/kling/imagem-para-video"
+     ],
+     "page_type": "other",
+     "slug": "imagem-para-video"
+    },
+    {
+     "page_id": "affogato-0039",
+     "url": "https://affogato.ai/pt-br/modelos/flux",
+     "canonical_url": "https://affogato.ai/modelos/flux",
+     "original_urls": [
+      "https://affogato.ai/pt-br/modelos/flux",
+      "https://affogato.ai/es/modelos/flux"
+     ],
+     "page_type": "other",
+     "slug": "flux"
+    },
+    {
+     "page_id": "affogato-0040",
+     "url": "https://affogato.ai/es/modelos/kling/imagen-a-video",
+     "canonical_url": "https://affogato.ai/modelos/kling/imagen-a-video",
+     "original_urls": [
+      "https://affogato.ai/es/modelos/kling/imagen-a-video"
+     ],
+     "page_type": "other",
+     "slug": "imagen-a-video"
+    }
+   ],
+   "demands": [
+    {
+     "id": "affogato-video-model-catalog",
+     "name": "视频模型目录铺开",
+     "category": "model_api",
+     "summary": "11 个视频模型页同日上新：Kling（含图生视频子页）、Seedance 2.0/2.5、Hailuo、Wan、Luma Ray、Grok Imagine、Vidu、PixVerse、LTX。",
+     "audience": "视频创作者",
+     "job_to_be_done": "按模型挑一个生成视频",
+     "page_ids": [
+      "affogato-0001",
+      "affogato-0002",
+      "affogato-0005",
+      "affogato-0006",
+      "affogato-0011",
+      "affogato-0012",
+      "affogato-0015",
+      "affogato-0016",
+      "affogato-0031",
+      "affogato-0032",
+      "affogato-0033"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "affogato-image-model-catalog",
+     "name": "图片模型目录铺开",
+     "category": "model_api",
+     "summary": "9 个图片模型页同日上新：Nano Banana 三代同堂、Flux、Seedream、GPT Image、Ideogram、Recraft、Qwen Image。",
+     "audience": "图片创作者",
+     "job_to_be_done": "按模型挑一个生成图片",
+     "page_ids": [
+      "affogato-0007",
+      "affogato-0008",
+      "affogato-0009",
+      "affogato-0024",
+      "affogato-0026",
+      "affogato-0027",
+      "affogato-0028",
+      "affogato-0029",
+      "affogato-0030"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "affogato-comparison-pages",
+     "name": "模型对比页矩阵",
+     "category": "content_strategy",
+     "summary": "9 个 compare 页：Kling vs Seedance、Nano Banana 2 vs Pro、Seedance 2.0 vs 2.5，以及对标 Higgsfield/HeyGen/InVideo/Krea/OpenArt/Freepik。",
+     "audience": "选型犹豫的用户",
+     "job_to_be_done": "在两个模型/工具之间做选择",
+     "page_ids": [
+      "affogato-0003",
+      "affogato-0010",
+      "affogato-0013",
+      "affogato-0017",
+      "affogato-0019",
+      "affogato-0021",
+      "affogato-0022",
+      "affogato-0023",
+      "affogato-0025"
+     ],
+     "signal": "SEO 矩阵",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "affogato-alternatives-pages",
+     "name": "竞品替代页矩阵",
+     "category": "content_strategy",
+     "summary": "4 个 alternatives 页：Midjourney、Higgsfield、HeyGen、InVideo 的替代方案页。",
+     "audience": "从竞品搜索过来的用户",
+     "job_to_be_done": "找竞品的平替",
+     "page_ids": [
+      "affogato-0004",
+      "affogato-0014",
+      "affogato-0018",
+      "affogato-0020"
+     ],
+     "signal": "SEO 矩阵",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "affogato-modelos-localized",
+     "name": "西/葡语模型页本地化",
+     "category": "other",
+     "summary": "modelos/ 路径下 7 个西语/葡语模型页（Kling、Seedance 2.0、Nano Banana 系列、Flux），含图生视频本地化子页。",
+     "audience": "西语/葡语市场创作者",
+     "job_to_be_done": "用母语了解并选用模型",
+     "page_ids": [
+      "affogato-0034",
+      "affogato-0035",
+      "affogato-0036",
+      "affogato-0037",
+      "affogato-0038",
+      "affogato-0039",
+      "affogato-0040"
+     ],
+     "signal": "本地化",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "为英文模型页的本地化复制，不另计新任务"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "flyu",
+   "source_file": "diff/20261116/flyu.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "flyu-0001",
+     "url": "https://flyu.ai/blog/ai-singer-lip-sync-video",
+     "canonical_url": "https://flyu.ai/blog/ai-singer-lip-sync-video",
+     "original_urls": [
+      "https://flyu.ai/blog/ai-singer-lip-sync-video"
+     ],
+     "page_type": "blog",
+     "slug": "ai-singer-lip-sync-video"
+    }
+   ],
+   "demands": [
+    {
+     "id": "flyu-ai-singer-lip-sync",
+     "name": "AI 歌手对口型视频教程（重复收录）",
+     "category": "content_strategy",
+     "summary": "ai-singer-lip-sync-video 教程页再次出现在 sitemap diff 中，与 11-14 相同 URL，可能被重抓或内容更新。",
+     "audience": "音乐与短视频创作者",
+     "job_to_be_done": "用 AI 做出歌手对口型视频",
+     "page_ids": [
+      "flyu-0001"
+     ],
+     "signal": "教程系列",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "该 URL 已在 20261114 出现过，本日为重复收录"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "genematic",
+   "source_file": "diff/20261116/genematic.json",
+   "raw_url_count": 12,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "genematic-0001",
+     "url": "https://genematic.ai/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+     "canonical_url": "https://genematic.ai/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+     "original_urls": [
+      "https://genematic.ai/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+      "https://genematic.ai/es/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+      "https://genematic.ai/pt/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+      "https://genematic.ai/fr/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+      "https://genematic.ai/tr/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+      "https://genematic.ai/ar/feed/11424e26-3dc3-45be-883a-d9ce90018756"
+     ],
+     "page_type": "other",
+     "slug": "11424e26-3dc3-45be-883a-d9ce90018756"
+    },
+    {
+     "page_id": "genematic-0002",
+     "url": "https://genematic.ai/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+     "canonical_url": "https://genematic.ai/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+     "original_urls": [
+      "https://genematic.ai/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+      "https://genematic.ai/es/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+      "https://genematic.ai/pt/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+      "https://genematic.ai/fr/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+      "https://genematic.ai/tr/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+      "https://genematic.ai/ar/feed/7c684394-6a24-4d99-b349-aedd1264f30c"
+     ],
+     "page_type": "other",
+     "slug": "7c684394-6a24-4d99-b349-aedd1264f30c"
+    }
+   ],
+   "demands": [
+    {
+     "id": "genematic-feed-updates",
+     "name": "作品动态流",
+     "category": "platform_update",
+     "summary": "2 个 feed/{uuid} 用户作品动态页，站点社区流常规滚动。",
+     "audience": "平台用户",
+     "job_to_be_done": "浏览别人的作品动态",
+     "page_ids": [
+      "genematic-0001",
+      "genematic-0002"
+     ],
+     "signal": "站点导航",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "getstarrd",
+   "source_file": "diff/20261116/getstarrd.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "getstarrd-0001",
+     "url": "https://www.getstarrd.app/template/monkey-eating-apple-ai-video",
+     "canonical_url": "https://www.getstarrd.app/template/monkey-eating-apple-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/template/monkey-eating-apple-ai-video"
+     ],
+     "page_type": "template",
+     "slug": "monkey-eating-apple-ai-video"
+    },
+    {
+     "page_id": "getstarrd-0002",
+     "url": "https://www.getstarrd.app/blog/how-to-make-monkey-eating-apple-ai-video",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-make-monkey-eating-apple-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-make-monkey-eating-apple-ai-video"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-make-monkey-eating-apple-ai-video"
+    }
+   ],
+   "demands": [
+    {
+     "id": "getstarrd-monkey-eating-apple",
+     "name": "猴子吃苹果 AI 视频模板+教程",
+     "category": "trend_template",
+     "summary": "猴子吃苹果热梗视频模板与配套 how-to 教程同日上新；supermaker 11-14 也上过同梗模板，属跨站热梗复刻。",
+     "audience": "热梗视频创作者",
+     "job_to_be_done": "蹭猴子吃苹果热梗一键出视频",
+     "page_ids": [
+      "getstarrd-0001",
+      "getstarrd-0002"
+     ],
+     "signal": "模板+教程配对",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "同梗模板在 supermaker 的 20261114 diff 中已出现，跨站复刻"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "vidguru",
+   "source_file": "diff/20261116/vidguru.json",
+   "raw_url_count": 90,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 20,
+   "pages": [
+    {
+     "page_id": "vidguru-0001",
+     "url": "https://www.vidguru.ai/text-to-video/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/text-to-video/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/zh/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ja/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ko/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/pt/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/fr/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/es/text-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/de/text-to-video/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0002",
+     "url": "https://www.vidguru.ai/tw/text-to-video/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/tw/text-to-video/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/text-to-video/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0003",
+     "url": "https://www.vidguru.ai/image-to-video/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/image-to-video/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/zh/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ja/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ko/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/pt/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/fr/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/es/image-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/de/image-to-video/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0004",
+     "url": "https://www.vidguru.ai/tw/image-to-video/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/tw/image-to-video/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/image-to-video/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0005",
+     "url": "https://www.vidguru.ai/reference-to-video/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/reference-to-video/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/zh/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ja/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ko/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/pt/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/fr/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/es/reference-to-video/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/de/reference-to-video/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0006",
+     "url": "https://www.vidguru.ai/tw/reference-to-video/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/tw/reference-to-video/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/reference-to-video/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0007",
+     "url": "https://www.vidguru.ai/ai-video-edit/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/ai-video-edit/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/zh/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ja/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ko/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/pt/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/fr/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/es/ai-video-edit/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/de/ai-video-edit/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0008",
+     "url": "https://www.vidguru.ai/tw/ai-video-edit/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/tw/ai-video-edit/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/ai-video-edit/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0009",
+     "url": "https://www.vidguru.ai/ai-models/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/ai-models/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/zh/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ja/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/ko/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/pt/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/fr/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/es/ai-models/gemini-omni-1.2-flash",
+      "https://www.vidguru.ai/de/ai-models/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0010",
+     "url": "https://www.vidguru.ai/tw/ai-models/gemini-omni-1.2-flash",
+     "canonical_url": "https://www.vidguru.ai/tw/ai-models/gemini-omni-1.2-flash",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/ai-models/gemini-omni-1.2-flash"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1.2-flash"
+    },
+    {
+     "page_id": "vidguru-0011",
+     "url": "https://www.vidguru.ai/text-to-video/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/text-to-video/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/zh/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/ja/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/ko/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/pt/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/fr/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/es/text-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/de/text-to-video/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0012",
+     "url": "https://www.vidguru.ai/image-to-video/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/image-to-video/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/zh/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/ja/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/ko/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/pt/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/fr/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/es/image-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/de/image-to-video/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0013",
+     "url": "https://www.vidguru.ai/reference-to-video/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/reference-to-video/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/zh/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/ja/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/ko/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/pt/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/fr/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/es/reference-to-video/minimax-h3-speed",
+      "https://www.vidguru.ai/de/reference-to-video/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0014",
+     "url": "https://www.vidguru.ai/ai-video-edit/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/ai-video-edit/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/zh/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/ja/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/ko/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/pt/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/fr/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/es/ai-video-edit/minimax-h3-speed",
+      "https://www.vidguru.ai/de/ai-video-edit/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0015",
+     "url": "https://www.vidguru.ai/ai-models/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/ai-models/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/zh/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/ja/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/ko/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/pt/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/fr/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/es/ai-models/minimax-h3-speed",
+      "https://www.vidguru.ai/de/ai-models/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0016",
+     "url": "https://www.vidguru.ai/tw/text-to-video/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/tw/text-to-video/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/text-to-video/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0017",
+     "url": "https://www.vidguru.ai/tw/image-to-video/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/tw/image-to-video/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/image-to-video/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0018",
+     "url": "https://www.vidguru.ai/tw/reference-to-video/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/tw/reference-to-video/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/reference-to-video/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0019",
+     "url": "https://www.vidguru.ai/tw/ai-video-edit/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/tw/ai-video-edit/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/ai-video-edit/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    },
+    {
+     "page_id": "vidguru-0020",
+     "url": "https://www.vidguru.ai/tw/ai-models/minimax-h3-speed",
+     "canonical_url": "https://www.vidguru.ai/tw/ai-models/minimax-h3-speed",
+     "original_urls": [
+      "https://www.vidguru.ai/tw/ai-models/minimax-h3-speed"
+     ],
+     "page_type": "other",
+     "slug": "minimax-h3-speed"
+    }
+   ],
+   "demands": [
+    {
+     "id": "vidguru-gemini-omni-1-2-flash",
+     "name": "Gemini Omni 1.2 Flash 全任务落地页",
+     "category": "model_api",
+     "summary": "新模型 Gemini Omni 1.2 Flash 的 10 个落地页：文生视频/图生视频/参考生视频/视频编辑/模型总览 5 类任务 × 英文/繁中。",
+     "audience": "视频创作者（含中文市场）",
+     "job_to_be_done": "按自己的输入类型选任务用新模型",
+     "page_ids": [
+      "vidguru-0001",
+      "vidguru-0002",
+      "vidguru-0003",
+      "vidguru-0004",
+      "vidguru-0005",
+      "vidguru-0006",
+      "vidguru-0007",
+      "vidguru-0008",
+      "vidguru-0009",
+      "vidguru-0010"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "tw/ 繁中路径与英文页一一对应，属本地化复制"
+     ]
+    },
+    {
+     "id": "vidguru-minimax-h3-speed",
+     "name": "MiniMax H3 Speed 全任务落地页",
+     "category": "model_api",
+     "summary": "MiniMax H3 Speed 模型的 10 个落地页，与 Gemini Omni 同样的 5 类任务 × 英文/繁中结构。",
+     "audience": "视频创作者（含中文市场）",
+     "job_to_be_done": "用 MiniMax H3 Speed 按任务生成视频",
+     "page_ids": [
+      "vidguru-0011",
+      "vidguru-0012",
+      "vidguru-0013",
+      "vidguru-0014",
+      "vidguru-0015",
+      "vidguru-0016",
+      "vidguru-0017",
+      "vidguru-0018",
+      "vidguru-0019",
+      "vidguru-0020"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "tw/ 繁中路径与英文页一一对应，属本地化复制"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "wireflow",
+   "source_file": "diff/20261116/wireflow.json",
+   "raw_url_count": 3,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 3,
+   "pages": [
+    {
+     "page_id": "wireflow-0001",
+     "url": "https://www.wireflow.ai/features/ai-video-extender",
+     "canonical_url": "https://www.wireflow.ai/features/ai-video-extender",
+     "original_urls": [
+      "https://www.wireflow.ai/features/ai-video-extender"
+     ],
+     "page_type": "other",
+     "slug": "ai-video-extender"
+    },
+    {
+     "page_id": "wireflow-0002",
+     "url": "https://www.wireflow.ai/features/ai-slideshow-maker",
+     "canonical_url": "https://www.wireflow.ai/features/ai-slideshow-maker",
+     "original_urls": [
+      "https://www.wireflow.ai/features/ai-slideshow-maker"
+     ],
+     "page_type": "other",
+     "slug": "ai-slideshow-maker"
+    },
+    {
+     "page_id": "wireflow-0003",
+     "url": "https://www.wireflow.ai/docs/skills/ai-infographic-generator",
+     "canonical_url": "https://www.wireflow.ai/docs/skills/ai-infographic-generator",
+     "original_urls": [
+      "https://www.wireflow.ai/docs/skills/ai-infographic-generator"
+     ],
+     "page_type": "other",
+     "slug": "ai-infographic-generator"
+    }
+   ],
+   "demands": [
+    {
+     "id": "wireflow-video-extender",
+     "name": "AI 视频延长",
+     "category": "tool",
+     "summary": "功能页新增 AI 视频延长（video extender）能力，把已有视频续长。",
+     "audience": "视频剪辑用户",
+     "job_to_be_done": "把不够长的视频续出更多秒数",
+     "page_ids": [
+      "wireflow-0001"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "wireflow-slideshow-maker",
+     "name": "AI 幻灯片生成器",
+     "category": "tool",
+     "summary": "功能页新增 AI 幻灯片/相册视频制作能力。",
+     "audience": "演示与相册用户",
+     "job_to_be_done": "把素材快速做成幻灯片视频",
+     "page_ids": [
+      "wireflow-0002"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "wireflow-infographic-docs",
+     "name": "AI 信息图技能文档",
+     "category": "content_strategy",
+     "summary": "docs/skills 新增 AI 信息图（infographic）生成技能文档。",
+     "audience": "内容营销者",
+     "job_to_be_done": "用技能把数据做成信息图",
+     "page_ids": [
+      "wireflow-0003"
+     ],
+     "signal": "文档上新",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  }
+ ],
+ "cross_site_themes": [
+  {
+   "name": "多模型聚合目录军备竞赛",
+   "sites": [
+    "affogato",
+    "vidguru"
+   ],
+   "demand_ids": [
+    "affogato-video-model-catalog",
+    "affogato-image-model-catalog",
+    "vidguru-gemini-omni-1-2-flash",
+    "vidguru-minimax-h3-speed"
+   ],
+   "description": "affogato 一天铺 20 个模型页加 13 个对比/替代页，vidguru 给两个新模型各做 5 类任务 × 双语落地页，聚合站抢新模型的动作在同一天高度同步。"
+  }
+ ],
+ "highlights": [
+  {
+   "site": "affogato",
+   "demand_id": "affogato-video-model-catalog",
+   "reason": "单日 40 页：11 个视频模型 + 9 个图片模型 + 9 个对比页 + 4 个替代页 + 7 个西/葡语本地化页，聚合目录打法最激进的一天。"
+  },
+  {
+   "site": "vidguru",
+   "demand_id": "vidguru-gemini-omni-1-2-flash",
+   "reason": "新模型一次铺 5 类任务（文生/图生/参考生/编辑/总览）× 英繁双语，同一套模板复用到 MiniMax H3 Speed，可整体复制。"
+  },
+  {
+   "site": "getstarrd",
+   "demand_id": "getstarrd-monkey-eating-apple",
+   "reason": "猴子吃苹果热梗模板+教程配对上新，与 supermaker 两天前的同梗模板形成跨站复刻。"
+  },
+  {
+   "site": "wireflow",
+   "demand_id": "wireflow-video-extender",
+   "reason": "视频延长与幻灯片生成两个新工具同日上线，功能线从做图向视频剪辑扩张。"
+  }
+ ],
+ "notes": [
+  "这是 diff/20261116 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+  "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+  "同一任务在多语言路径下复制时（如 affogato 的 modelos/ 西葡语页、vidguru 的 tw/ 繁中页），合并为一条本地化记录，不重复计任务。",
+  "flyu 的 ai-singer-lip-sync-video 教程与 20261114 重复，是重复收录而非新增任务。"
+ ]
+}

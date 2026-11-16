@@ -1,0 +1,1176 @@
+{
+ "date": "20261114",
+ "sites": [
+  {
+   "site": "flyu",
+   "source_file": "diff/20261114/flyu.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "flyu-0001",
+     "url": "https://flyu.ai/blog/ai-singer-lip-sync-video",
+     "canonical_url": "https://flyu.ai/blog/ai-singer-lip-sync-video",
+     "original_urls": [
+      "https://flyu.ai/blog/ai-singer-lip-sync-video"
+     ],
+     "page_type": "blog",
+     "slug": "ai-singer-lip-sync-video"
+    }
+   ],
+   "demands": [
+    {
+     "id": "flyu-ai-singer-lip-sync",
+     "name": "AI 歌手对口型视频教程",
+     "category": "content_strategy",
+     "summary": "教用户做 AI 歌手对口型（lip sync）视频的博客教程，当日新增 1 个页面。",
+     "audience": "音乐与短视频创作者",
+     "job_to_be_done": "用 AI 做出歌手对口型唱歌的视频",
+     "page_ids": [
+      "flyu-0001"
+     ],
+     "signal": "教程系列",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "genematic",
+   "source_file": "diff/20261114/genematic.json",
+   "raw_url_count": 24,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 4,
+   "pages": [
+    {
+     "page_id": "genematic-0001",
+     "url": "https://genematic.ai/scenarios/you-cant-get-past-him",
+     "canonical_url": "https://genematic.ai/scenarios/you-cant-get-past-him",
+     "original_urls": [
+      "https://genematic.ai/scenarios/you-cant-get-past-him",
+      "https://genematic.ai/es/scenarios/you-cant-get-past-him",
+      "https://genematic.ai/pt/scenarios/you-cant-get-past-him",
+      "https://genematic.ai/fr/scenarios/you-cant-get-past-him",
+      "https://genematic.ai/tr/scenarios/you-cant-get-past-him",
+      "https://genematic.ai/ar/scenarios/you-cant-get-past-him"
+     ],
+     "page_type": "other",
+     "slug": "you-cant-get-past-him"
+    },
+    {
+     "page_id": "genematic-0002",
+     "url": "https://genematic.ai/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+     "canonical_url": "https://genematic.ai/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+     "original_urls": [
+      "https://genematic.ai/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+      "https://genematic.ai/es/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+      "https://genematic.ai/pt/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+      "https://genematic.ai/fr/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+      "https://genematic.ai/tr/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e",
+      "https://genematic.ai/ar/feed/a0e149a4-80d0-425b-9682-9a7947f6fc8e"
+     ],
+     "page_type": "other",
+     "slug": "a0e149a4-80d0-425b-9682-9a7947f6fc8e"
+    },
+    {
+     "page_id": "genematic-0003",
+     "url": "https://genematic.ai/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+     "canonical_url": "https://genematic.ai/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+     "original_urls": [
+      "https://genematic.ai/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+      "https://genematic.ai/es/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+      "https://genematic.ai/pt/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+      "https://genematic.ai/fr/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+      "https://genematic.ai/tr/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0",
+      "https://genematic.ai/ar/feed/1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0"
+     ],
+     "page_type": "other",
+     "slug": "1fd6f283-e8c9-4816-ba5b-4b53c3ff39f0"
+    },
+    {
+     "page_id": "genematic-0004",
+     "url": "https://genematic.ai/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+     "canonical_url": "https://genematic.ai/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+     "original_urls": [
+      "https://genematic.ai/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+      "https://genematic.ai/es/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+      "https://genematic.ai/pt/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+      "https://genematic.ai/fr/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+      "https://genematic.ai/tr/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36",
+      "https://genematic.ai/ar/feed/adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36"
+     ],
+     "page_type": "other",
+     "slug": "adf9fc4e-e7ec-4aa5-be7d-24bcfcb41e36"
+    }
+   ],
+   "demands": [
+    {
+     "id": "genematic-scenario-you-cant-get-past-him",
+     "name": "「You can't get past him」场景",
+     "category": "trend_template",
+     "summary": "站内名为 you-cant-get-past-him 的场景页，疑为热门梗复刻场景，当日新增 1 个页面。",
+     "audience": "短剧/热梗视频创作者",
+     "job_to_be_done": "复刻一个拦路对峙的热门梗场景",
+     "page_ids": [
+      "genematic-0001"
+     ],
+     "signal": "热梗复刻",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "场景内容只能从 slug 推断，可能是游戏或影视梗"
+     ]
+    },
+    {
+     "id": "genematic-feed-updates",
+     "name": "作品动态流",
+     "category": "platform_update",
+     "summary": "3 个 feed/{uuid} 用户作品动态页，属于站点社区流的常规滚动。",
+     "audience": "平台用户",
+     "job_to_be_done": "浏览别人的作品动态",
+     "page_ids": [
+      "genematic-0002",
+      "genematic-0003",
+      "genematic-0004"
+     ],
+     "signal": "站点导航",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "getstarrd",
+   "source_file": "diff/20261114/getstarrd.json",
+   "raw_url_count": 6,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 6,
+   "pages": [
+    {
+     "page_id": "getstarrd-0001",
+     "url": "https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video",
+     "canonical_url": "https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video"
+     ],
+     "page_type": "template",
+     "slug": "bigxthaplug-give-it-all-ai-video"
+    },
+    {
+     "page_id": "getstarrd-0002",
+     "url": "https://www.getstarrd.app/blog/how-to-make-all-i-want-for-christmas-is-you-ai-video",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-make-all-i-want-for-christmas-is-you-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-make-all-i-want-for-christmas-is-you-ai-video"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-make-all-i-want-for-christmas-is-you-ai-video"
+    },
+    {
+     "page_id": "getstarrd-0003",
+     "url": "https://www.getstarrd.app/blog/how-to-make-bigxthaplug-give-it-all-ai-video",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-make-bigxthaplug-give-it-all-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-make-bigxthaplug-give-it-all-ai-video"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-make-bigxthaplug-give-it-all-ai-video"
+    },
+    {
+     "page_id": "getstarrd-0004",
+     "url": "https://www.getstarrd.app/blog/how-to-make-hotline-bling-pt-2-dance-ai-video",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-make-hotline-bling-pt-2-dance-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-make-hotline-bling-pt-2-dance-ai-video"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-make-hotline-bling-pt-2-dance-ai-video"
+    },
+    {
+     "page_id": "getstarrd-0005",
+     "url": "https://www.getstarrd.app/blog/how-to-catch-santa-on-camera",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-catch-santa-on-camera",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-catch-santa-on-camera"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-catch-santa-on-camera"
+    },
+    {
+     "page_id": "getstarrd-0006",
+     "url": "https://www.getstarrd.app/blog/how-to-make-ai-elf-dance-video",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-make-ai-elf-dance-video",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-make-ai-elf-dance-video"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-make-ai-elf-dance-video"
+    }
+   ],
+   "demands": [
+    {
+     "id": "getstarrd-bigxthaplug-give-it-all",
+     "name": "BigXthaPlug《Give It All》AI 音乐视频",
+     "category": "trend_template",
+     "summary": "说唱新歌 Give It All 的 AI 视频模板，配套 how-to 教程，模板与教程同日上新。",
+     "audience": "说唱歌迷与热梗视频创作者",
+     "job_to_be_done": "用热单做一支 AI 视频蹭歌的热度",
+     "page_ids": [
+      "getstarrd-0001",
+      "getstarrd-0003"
+     ],
+     "signal": "模板+教程配对",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "getstarrd-christmas-video-tutorials",
+     "name": "圣诞主题 AI 视频教程簇",
+     "category": "content_strategy",
+     "summary": "All I Want for Christmas Is You、捉拍圣诞老人、AI 小精灵跳舞 3 篇圣诞教程同日上新。",
+     "audience": "节日社媒运营者",
+     "job_to_be_done": "提前备好圣诞期间的 AI 视频内容",
+     "page_ids": [
+      "getstarrd-0002",
+      "getstarrd-0005",
+      "getstarrd-0006"
+     ],
+     "signal": "教程系列",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "getstarrd-hotline-bling-dance",
+     "name": "Hotline Bling Pt.2 舞蹈 AI 视频",
+     "category": "content_strategy",
+     "summary": "教用户复刻 Hotline Bling Pt.2 舞蹈 AI 视频的教程。",
+     "audience": "舞蹈/热梗视频创作者",
+     "job_to_be_done": "复刻经典 MV 舞蹈名场面",
+     "page_ids": [
+      "getstarrd-0004"
+     ],
+     "signal": "教程系列",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "higgsfield",
+   "source_file": "diff/20261114/higgsfield.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "higgsfield-0001",
+     "url": "https://higgsfield.ai/blog/best-ai-tools-micro-dramas-2026",
+     "canonical_url": "https://higgsfield.ai/blog/best-ai-tools-micro-dramas-2026",
+     "original_urls": [
+      "https://higgsfield.ai/blog/best-ai-tools-micro-dramas-2026"
+     ],
+     "page_type": "blog",
+     "slug": "best-ai-tools-micro-dramas-2026"
+    },
+    {
+     "page_id": "higgsfield-0002",
+     "url": "https://higgsfield.ai/blog/higgsfield-talent-contest",
+     "canonical_url": "https://higgsfield.ai/blog/higgsfield-talent-contest",
+     "original_urls": [
+      "https://higgsfield.ai/blog/higgsfield-talent-contest"
+     ],
+     "page_type": "blog",
+     "slug": "higgsfield-talent-contest"
+    }
+   ],
+   "demands": [
+    {
+     "id": "higgsfield-micro-drama-tools",
+     "name": "2026 微短剧 AI 工具盘点",
+     "category": "content_strategy",
+     "summary": "盘点 2026 年做微短剧（micro drama）最好用的 AI 工具的博客文章。",
+     "audience": "微短剧制片方与编剧",
+     "job_to_be_done": "选一套 AI 工具链去拍微短剧",
+     "page_ids": [
+      "higgsfield-0001"
+     ],
+     "signal": "编辑内容",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "higgsfield-talent-contest",
+     "name": "官方人才大赛",
+     "category": "other",
+     "summary": "Higgsfield 举办的人才征集/比赛页面，用于拉新与晒作品。",
+     "audience": "平台创作者",
+     "job_to_be_done": "报名比赛并展示作品",
+     "page_ids": [
+      "higgsfield-0002"
+     ],
+     "signal": "平台活动",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "mitte",
+   "source_file": "diff/20261114/mitte.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "mitte-0001",
+     "url": "https://mitte.ai/node/seedream-5-5",
+     "canonical_url": "https://mitte.ai/node/seedream-5-5",
+     "original_urls": [
+      "https://mitte.ai/node/seedream-5-5"
+     ],
+     "page_type": "other",
+     "slug": "seedream-5-5"
+    },
+    {
+     "page_id": "mitte-0002",
+     "url": "https://mitte.ai/node/seedream-5-5-layerize",
+     "canonical_url": "https://mitte.ai/node/seedream-5-5-layerize",
+     "original_urls": [
+      "https://mitte.ai/node/seedream-5-5-layerize"
+     ],
+     "page_type": "other",
+     "slug": "seedream-5-5-layerize"
+    }
+   ],
+   "demands": [
+    {
+     "id": "mitte-seedream-5-5",
+     "name": "Seedream 5.5 模型节点",
+     "category": "model_api",
+     "summary": "Seedream 5.5 模型的工作流节点页，当日新增。",
+     "audience": "工作流搭建者",
+     "job_to_be_done": "在节点编辑器里调用 Seedream 5.5",
+     "page_ids": [
+      "mitte-0001"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "mitte-layerize",
+     "name": "Layerize 图片分层工具",
+     "category": "tool",
+     "summary": "Seedream 5.5 Layerize：把一张平面图拆成干净背景 + 最多 99 个独立透明图层，可重排、改文案、做动画。",
+     "audience": "平面设计与电商素材改稿者",
+     "job_to_be_done": "把成品图拆层后改文案、换元素、做动画",
+     "page_ids": [
+      "mitte-0002"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "observed",
+     "caveats": [
+      "已打开 https://mitte.ai/node/seedream-5-5-layerize 核对：图片分层（背景+最多 99 个透明图层）工具，支持文字识别与多语言文案替换"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "nanobanana",
+   "source_file": "diff/20261114/nanobanana.json",
+   "raw_url_count": 14,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "nanobanana-0001",
+     "url": "https://nanobanana.io/models/minimax-h3-image",
+     "canonical_url": "https://nanobanana.io/models/minimax-h3-image",
+     "original_urls": [
+      "https://nanobanana.io/models/minimax-h3-image",
+      "https://nanobanana.io/es/models/minimax-h3-image",
+      "https://nanobanana.io/pt/models/minimax-h3-image",
+      "https://nanobanana.io/de/models/minimax-h3-image",
+      "https://nanobanana.io/ar/models/minimax-h3-image",
+      "https://nanobanana.io/ja/models/minimax-h3-image",
+      "https://nanobanana.io/ko/models/minimax-h3-image",
+      "https://nanobanana.io/it/models/minimax-h3-image",
+      "https://nanobanana.io/nl/models/minimax-h3-image",
+      "https://nanobanana.io/fr/models/minimax-h3-image",
+      "https://nanobanana.io/he/models/minimax-h3-image",
+      "https://nanobanana.io/tr/models/minimax-h3-image",
+      "https://nanobanana.io/ru/models/minimax-h3-image",
+      "https://nanobanana.io/zh/models/minimax-h3-image"
+     ],
+     "page_type": "model_api",
+     "slug": "minimax-h3-image"
+    }
+   ],
+   "demands": [
+    {
+     "id": "nanobanana-minimax-h3-image",
+     "name": "MiniMax H3 图片模型上架",
+     "category": "model_api",
+     "summary": "模型目录新增 minimax-h3-image 模型页。",
+     "audience": "图片生成用户",
+     "job_to_be_done": "用 MiniMax H3 生成图片",
+     "page_ids": [
+      "nanobanana-0001"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "piclumen",
+   "source_file": "diff/20261114/piclumen.json",
+   "raw_url_count": 6,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 6,
+   "pages": [
+    {
+     "page_id": "piclumen-0001",
+     "url": "https://www.piclumen.com/image-format-converter/",
+     "canonical_url": "https://www.piclumen.com/image-format-converter",
+     "original_urls": [
+      "https://www.piclumen.com/image-format-converter/"
+     ],
+     "page_type": "other",
+     "slug": "image-format-converter"
+    },
+    {
+     "page_id": "piclumen-0002",
+     "url": "https://www.piclumen.com/ai-image-generator/face-in-hole/",
+     "canonical_url": "https://www.piclumen.com/ai-image-generator/face-in-hole",
+     "original_urls": [
+      "https://www.piclumen.com/ai-image-generator/face-in-hole/"
+     ],
+     "page_type": "other",
+     "slug": "face-in-hole"
+    },
+    {
+     "page_id": "piclumen-0003",
+     "url": "https://www.piclumen.com/ai-image-generator/invitation-card-maker/",
+     "canonical_url": "https://www.piclumen.com/ai-image-generator/invitation-card-maker",
+     "original_urls": [
+      "https://www.piclumen.com/ai-image-generator/invitation-card-maker/"
+     ],
+     "page_type": "other",
+     "slug": "invitation-card-maker"
+    },
+    {
+     "page_id": "piclumen-0004",
+     "url": "https://www.piclumen.com/apps/effects-cat-on-ultra-bee/",
+     "canonical_url": "https://www.piclumen.com/apps/effects-cat-on-ultra-bee",
+     "original_urls": [
+      "https://www.piclumen.com/apps/effects-cat-on-ultra-bee/"
+     ],
+     "page_type": "other",
+     "slug": "effects-cat-on-ultra-bee"
+    },
+    {
+     "page_id": "piclumen-0005",
+     "url": "https://www.piclumen.com/apps/effects-no-scrubs-ai-video/",
+     "canonical_url": "https://www.piclumen.com/apps/effects-no-scrubs-ai-video",
+     "original_urls": [
+      "https://www.piclumen.com/apps/effects-no-scrubs-ai-video/"
+     ],
+     "page_type": "other",
+     "slug": "effects-no-scrubs-ai-video"
+    },
+    {
+     "page_id": "piclumen-0006",
+     "url": "https://www.piclumen.com/apps/effects-snow-globe-me/",
+     "canonical_url": "https://www.piclumen.com/apps/effects-snow-globe-me",
+     "original_urls": [
+      "https://www.piclumen.com/apps/effects-snow-globe-me/"
+     ],
+     "page_type": "other",
+     "slug": "effects-snow-globe-me"
+    }
+   ],
+   "demands": [
+    {
+     "id": "piclumen-image-format-converter",
+     "name": "图片格式转换器",
+     "category": "tool",
+     "summary": "独立的图片格式转换工具页。",
+     "audience": "需要转格式的普通用户",
+     "job_to_be_done": "在常见图片格式之间转换",
+     "page_ids": [
+      "piclumen-0001"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-face-in-hole",
+     "name": "Face In Hole 抠脸工具",
+     "category": "tool",
+     "summary": "把人脸套进模板洞里的换脸玩法工具。",
+     "audience": "娱乐向用户",
+     "job_to_be_done": "把自己的脸套进海报或场景模板",
+     "page_ids": [
+      "piclumen-0002"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-invitation-card-maker",
+     "name": "邀请函卡片生成器",
+     "category": "tool",
+     "summary": "AI 邀请函/贺卡制作工具。",
+     "audience": "活动组织者",
+     "job_to_be_done": "快速做一张活动邀请函",
+     "page_ids": [
+      "piclumen-0003"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-effect-templates",
+     "name": "特效模板簇",
+     "category": "trend_template",
+     "summary": "猫骑蜜蜂（cat on ultra bee）、No Scrubs 视频、雪球里的我 3 个特效模板同日上新。",
+     "audience": "社媒娱乐向用户",
+     "job_to_be_done": "一键套模板出趣图趣视频",
+     "page_ids": [
+      "piclumen-0004",
+      "piclumen-0005",
+      "piclumen-0006"
+     ],
+     "signal": "模板簇",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "renoise",
+   "source_file": "diff/20261114/renoise.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "renoise-0001",
+     "url": "https://renoise.ai/blog/remove-filler-words-from-audio",
+     "canonical_url": "https://renoise.ai/blog/remove-filler-words-from-audio",
+     "original_urls": [
+      "https://renoise.ai/blog/remove-filler-words-from-audio"
+     ],
+     "page_type": "blog",
+     "slug": "remove-filler-words-from-audio"
+    }
+   ],
+   "demands": [
+    {
+     "id": "renoise-remove-filler-words",
+     "name": "音频去填充词教程",
+     "category": "content_strategy",
+     "summary": "教用户从录音里去掉「嗯、啊」等填充词的教程。",
+     "audience": "播客与口播创作者",
+     "job_to_be_done": "把口播里的填充词清干净",
+     "page_ids": [
+      "renoise-0001"
+     ],
+     "signal": "教程系列",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "supermaker",
+   "source_file": "diff/20261114/supermaker.json",
+   "raw_url_count": 22,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 11,
+   "pages": [
+    {
+     "page_id": "supermaker-0001",
+     "url": "https://supermaker.ai/video/opa-opa-opa-video/",
+     "canonical_url": "https://supermaker.ai/video/opa-opa-opa-video",
+     "original_urls": [
+      "https://supermaker.ai/video/opa-opa-opa-video/"
+     ],
+     "page_type": "other",
+     "slug": "opa-opa-opa-video"
+    },
+    {
+     "page_id": "supermaker-0002",
+     "url": "https://supermaker.ai/tw/video/gemini-omni-1-2-flash/",
+     "canonical_url": "https://supermaker.ai/tw/video/gemini-omni-1-2-flash",
+     "original_urls": [
+      "https://supermaker.ai/tw/video/gemini-omni-1-2-flash/"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1-2-flash"
+    },
+    {
+     "page_id": "supermaker-0003",
+     "url": "https://supermaker.ai/pl/video/gemini-omni-1-2-flash/",
+     "canonical_url": "https://supermaker.ai/video/gemini-omni-1-2-flash",
+     "original_urls": [
+      "https://supermaker.ai/pl/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/nl/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/ar/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/vi/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/ja/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/ko/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/es/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/fr/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/de/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/pt/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/zh/video/gemini-omni-1-2-flash/",
+      "https://supermaker.ai/video/gemini-omni-1-2-flash/"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1-2-flash"
+    },
+    {
+     "page_id": "supermaker-0004",
+     "url": "https://supermaker.ai/hu/video/gemini-omni-1-2-flash/",
+     "canonical_url": "https://supermaker.ai/hu/video/gemini-omni-1-2-flash",
+     "original_urls": [
+      "https://supermaker.ai/hu/video/gemini-omni-1-2-flash/"
+     ],
+     "page_type": "other",
+     "slug": "gemini-omni-1-2-flash"
+    },
+    {
+     "page_id": "supermaker-0005",
+     "url": "https://supermaker.ai/image/3d-month-letters-ai-photo/",
+     "canonical_url": "https://supermaker.ai/image/3d-month-letters-ai-photo",
+     "original_urls": [
+      "https://supermaker.ai/image/3d-month-letters-ai-photo/"
+     ],
+     "page_type": "other",
+     "slug": "3d-month-letters-ai-photo"
+    },
+    {
+     "page_id": "supermaker-0006",
+     "url": "https://supermaker.ai/image/couple-eyes-wallpaper-generator/",
+     "canonical_url": "https://supermaker.ai/image/couple-eyes-wallpaper-generator",
+     "original_urls": [
+      "https://supermaker.ai/image/couple-eyes-wallpaper-generator/"
+     ],
+     "page_type": "other",
+     "slug": "couple-eyes-wallpaper-generator"
+    },
+    {
+     "page_id": "supermaker-0007",
+     "url": "https://supermaker.ai/image/curved-text-generator/",
+     "canonical_url": "https://supermaker.ai/image/curved-text-generator",
+     "original_urls": [
+      "https://supermaker.ai/image/curved-text-generator/"
+     ],
+     "page_type": "other",
+     "slug": "curved-text-generator"
+    },
+    {
+     "page_id": "supermaker-0008",
+     "url": "https://supermaker.ai/image/eye-bag-remover/",
+     "canonical_url": "https://supermaker.ai/image/eye-bag-remover",
+     "original_urls": [
+      "https://supermaker.ai/image/eye-bag-remover/"
+     ],
+     "page_type": "other",
+     "slug": "eye-bag-remover"
+    },
+    {
+     "page_id": "supermaker-0009",
+     "url": "https://supermaker.ai/image/selfie-with-santa/",
+     "canonical_url": "https://supermaker.ai/image/selfie-with-santa",
+     "original_urls": [
+      "https://supermaker.ai/image/selfie-with-santa/"
+     ],
+     "page_type": "other",
+     "slug": "selfie-with-santa"
+    },
+    {
+     "page_id": "supermaker-0010",
+     "url": "https://supermaker.ai/video/i-just-beat-the-case-ai-template/",
+     "canonical_url": "https://supermaker.ai/video/i-just-beat-the-case-ai-template",
+     "original_urls": [
+      "https://supermaker.ai/video/i-just-beat-the-case-ai-template/"
+     ],
+     "page_type": "other",
+     "slug": "i-just-beat-the-case-ai-template"
+    },
+    {
+     "page_id": "supermaker-0011",
+     "url": "https://supermaker.ai/video/monkey-eating-apple-ai/",
+     "canonical_url": "https://supermaker.ai/video/monkey-eating-apple-ai",
+     "original_urls": [
+      "https://supermaker.ai/video/monkey-eating-apple-ai/"
+     ],
+     "page_type": "other",
+     "slug": "monkey-eating-apple-ai"
+    }
+   ],
+   "demands": [
+    {
+     "id": "supermaker-oppa-video-template",
+     "name": "Opa Opa Opa 视频模板",
+     "category": "trend_template",
+     "summary": "opa-opa-opa 热梗视频模板页。",
+     "audience": "热梗视频创作者",
+     "job_to_be_done": "套模板出 Opa Opa Opa 热梗视频",
+     "page_ids": [
+      "supermaker-0001"
+     ],
+     "signal": "模板上新",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "supermaker-gemini-omni-1-2-flash",
+     "name": "Gemini Omni 1.2 Flash 落地页",
+     "category": "model_api",
+     "summary": "新模型 Gemini Omni 1.2 Flash 的视频落地页，英文/繁中/匈牙利语三语同日上线。",
+     "audience": "视频创作者",
+     "job_to_be_done": "用最新 Gemini 模型生成视频",
+     "page_ids": [
+      "supermaker-0002",
+      "supermaker-0003",
+      "supermaker-0004"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "同一模型页在 tw/、hu/ 路径下复制，属本地化页面"
+     ]
+    },
+    {
+     "id": "supermaker-3d-month-letters",
+     "name": "3D 月份字母照片工具",
+     "category": "tool",
+     "summary": "生成 3D 月份字母风格照片的工具。",
+     "audience": "社媒分享用户",
+     "job_to_be_done": "做一张 3D 字母风格的月份壁纸",
+     "page_ids": [
+      "supermaker-0005"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "supermaker-couple-eyes-wallpaper",
+     "name": "情侣对视壁纸生成器",
+     "category": "tool",
+     "summary": "生成情侣眼睛/对视主题壁纸的工具。",
+     "audience": "情侣用户",
+     "job_to_be_done": "做一张情侣主题壁纸",
+     "page_ids": [
+      "supermaker-0006"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "supermaker-curved-text",
+     "name": "弯曲文字生成器",
+     "category": "tool",
+     "summary": "把文字排成弧线/环绕效果的图片工具。",
+     "audience": "做图用户",
+     "job_to_be_done": "给图片加弯曲环绕的文字",
+     "page_ids": [
+      "supermaker-0007"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "supermaker-eye-bag-remover",
+     "name": "去眼袋修图工具",
+     "category": "tool",
+     "summary": "AI 去眼袋人像修图工具。",
+     "audience": "自拍用户",
+     "job_to_be_done": "把照片里的眼袋修掉",
+     "page_ids": [
+      "supermaker-0008"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "supermaker-selfie-with-santa",
+     "name": "和圣诞老人合影",
+     "category": "trend_template",
+     "summary": "生成与圣诞老人同框自拍的节日模板。",
+     "audience": "节日社媒用户",
+     "job_to_be_done": "晒一张和圣诞老人的合影",
+     "page_ids": [
+      "supermaker-0009"
+     ],
+     "signal": "模板上新",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "supermaker-hot-meme-video-templates",
+     "name": "热梗视频模板簇",
+     "category": "trend_template",
+     "summary": "I Just Beat the Case、猴子吃苹果 2 个热梗视频模板同日上新。",
+     "audience": "热梗视频创作者",
+     "job_to_be_done": "蹭最新梗一键出视频",
+     "page_ids": [
+      "supermaker-0010",
+      "supermaker-0011"
+     ],
+     "signal": "模板簇",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "wavespeed",
+   "source_file": "diff/20261114/wavespeed.json",
+   "raw_url_count": 6,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 6,
+   "pages": [
+    {
+     "page_id": "wavespeed-0001",
+     "url": "https://wavespeed.ai/vheer-alternative",
+     "canonical_url": "https://wavespeed.ai/vheer-alternative",
+     "original_urls": [
+      "https://wavespeed.ai/vheer-alternative"
+     ],
+     "page_type": "other",
+     "slug": "vheer-alternative"
+    },
+    {
+     "page_id": "wavespeed-0002",
+     "url": "https://wavespeed.ai/dreamface-alternative",
+     "canonical_url": "https://wavespeed.ai/dreamface-alternative",
+     "original_urls": [
+      "https://wavespeed.ai/dreamface-alternative"
+     ],
+     "page_type": "other",
+     "slug": "dreamface-alternative"
+    },
+    {
+     "page_id": "wavespeed-0003",
+     "url": "https://wavespeed.ai/soulgen-alternative",
+     "canonical_url": "https://wavespeed.ai/soulgen-alternative",
+     "original_urls": [
+      "https://wavespeed.ai/soulgen-alternative"
+     ],
+     "page_type": "other",
+     "slug": "soulgen-alternative"
+    },
+    {
+     "page_id": "wavespeed-0004",
+     "url": "https://wavespeed.ai/craiyon-alternative",
+     "canonical_url": "https://wavespeed.ai/craiyon-alternative",
+     "original_urls": [
+      "https://wavespeed.ai/craiyon-alternative"
+     ],
+     "page_type": "other",
+     "slug": "craiyon-alternative"
+    },
+    {
+     "page_id": "wavespeed-0005",
+     "url": "https://wavespeed.ai/vidu-alternative",
+     "canonical_url": "https://wavespeed.ai/vidu-alternative",
+     "original_urls": [
+      "https://wavespeed.ai/vidu-alternative"
+     ],
+     "page_type": "other",
+     "slug": "vidu-alternative"
+    },
+    {
+     "page_id": "wavespeed-0006",
+     "url": "https://wavespeed.ai/llm/google/gemini-4-hydrogen",
+     "canonical_url": "https://wavespeed.ai/llm/google/gemini-4-hydrogen",
+     "original_urls": [
+      "https://wavespeed.ai/llm/google/gemini-4-hydrogen"
+     ],
+     "page_type": "other",
+     "slug": "gemini-4-hydrogen"
+    }
+   ],
+   "demands": [
+    {
+     "id": "wavespeed-competitor-alternatives",
+     "name": "竞品替代页簇",
+     "category": "other",
+     "summary": "Vheer / Dreamface / Soulgen / Craiyon / Vidu 5 个「XX alternative」SEO 替代页同日铺开。",
+     "audience": "从竞品搜索过来的用户",
+     "job_to_be_done": "找竞品工具的平替",
+     "page_ids": [
+      "wavespeed-0001",
+      "wavespeed-0002",
+      "wavespeed-0003",
+      "wavespeed-0004",
+      "wavespeed-0005"
+     ],
+     "signal": "SEO 矩阵",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "wavespeed-gemini-4-hydrogen",
+     "name": "Gemini 4 Hydrogen 模型页",
+     "category": "model_api",
+     "summary": "llm/google/gemini-4-hydrogen 模型接口页。",
+     "audience": "开发者",
+     "job_to_be_done": "调用 Google 新模型",
+     "page_ids": [
+      "wavespeed-0006"
+     ],
+     "signal": "模型上架",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "wireflow",
+   "source_file": "diff/20261114/wireflow.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "wireflow-0001",
+     "url": "https://www.wireflow.ai/features/tiktok-ad-template",
+     "canonical_url": "https://www.wireflow.ai/features/tiktok-ad-template",
+     "original_urls": [
+      "https://www.wireflow.ai/features/tiktok-ad-template"
+     ],
+     "page_type": "other",
+     "slug": "tiktok-ad-template"
+    }
+   ],
+   "demands": [
+    {
+     "id": "wireflow-tiktok-ad-template",
+     "name": "TikTok 广告模板",
+     "category": "tool",
+     "summary": "功能页新增 TikTok 广告模板制作能力。",
+     "audience": "投流操盘手与小店主",
+     "job_to_be_done": "快速做 TikTok 广告素材",
+     "page_ids": [
+      "wireflow-0001"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  }
+ ],
+ "cross_site_themes": [
+  {
+   "name": "圣诞节日内容提前铺开",
+   "sites": [
+    "getstarrd",
+    "supermaker",
+    "piclumen"
+   ],
+   "demand_ids": [
+    "getstarrd-christmas-video-tutorials",
+    "supermaker-selfie-with-santa",
+    "piclumen-effect-templates"
+   ],
+   "description": "圣诞教程、圣诞老人合影、雪球特效等节日内容在 11 月中旬集中上新，距圣诞还有一个多月，节日模板抢跑明显。"
+  },
+  {
+   "name": "热梗音乐视频模板打法",
+   "sites": [
+    "getstarrd",
+    "supermaker"
+   ],
+   "demand_ids": [
+    "getstarrd-bigxthaplug-give-it-all",
+    "supermaker-hot-meme-video-templates",
+    "supermaker-oppa-video-template"
+   ],
+   "description": "两家都用「模板+教程」配对蹭新歌新梗：说唱新单 Give It All、I Just Beat the Case、猴子吃苹果同日出现。"
+  },
+  {
+   "name": "新模型快速上架落地",
+   "sites": [
+    "supermaker",
+    "mitte",
+    "nanobanana",
+    "wavespeed"
+   ],
+   "demand_ids": [
+    "supermaker-gemini-omni-1-2-flash",
+    "mitte-seedream-5-5",
+    "nanobanana-minimax-h3-image",
+    "wavespeed-gemini-4-hydrogen"
+   ],
+   "description": "Gemini Omni 1.2 Flash、Seedream 5.5、MiniMax H3、Gemini 4 Hydrogen 等新模型各自快速上落地页，聚合站跟进速度是竞争点。"
+  }
+ ],
+ "highlights": [
+  {
+   "site": "wavespeed",
+   "demand_id": "wavespeed-competitor-alternatives",
+   "reason": "一天铺 5 个竞品替代 SEO 页（Vheer/Dreamface/Soulgen/Craiyon/Vidu），截流打法可直接复制。"
+  },
+  {
+   "site": "supermaker",
+   "demand_id": "supermaker-hot-meme-video-templates",
+   "reason": "热梗视频模板与 5 个图片小工具同日上新，且新模型落地页三语同步，更新节奏极快。"
+  },
+  {
+   "site": "mitte",
+   "demand_id": "mitte-layerize",
+   "reason": "Seedream 5.5 Layerize：一张平面图拆成最多 99 个透明图层，改文案、换元素、做动画都能做，是少见的图片分层需求。"
+  },
+  {
+   "site": "getstarrd",
+   "demand_id": "getstarrd-christmas-video-tutorials",
+   "reason": "圣诞主题教程提前一个多月批量铺开，节日内容抢跑信号明确。"
+  }
+ ],
+ "notes": [
+  "这是 diff/20261114 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+  "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+  "同一批页面在多个语言路径下复制时（如 supermaker 的 tw/ 繁中、hu/ 匈牙利语），合并为一条本地化记录，不重复计任务。"
+ ]
+}

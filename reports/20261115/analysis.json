@@ -1,0 +1,1855 @@
+{
+ "date": "20261115",
+ "sites": [
+  {
+   "site": "basedlabs",
+   "source_file": "diff/20261115/basedlabs.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "basedlabs-0001",
+     "url": "https://www.basedlabs.ai/articles/getting-value-back-from-unused-hard-drives",
+     "canonical_url": "https://www.basedlabs.ai/articles/getting-value-back-from-unused-hard-drives",
+     "original_urls": [
+      "https://www.basedlabs.ai/articles/getting-value-back-from-unused-hard-drives"
+     ],
+     "page_type": "blog",
+     "slug": "getting-value-back-from-unused-hard-drives"
+    },
+    {
+     "page_id": "basedlabs-0002",
+     "url": "https://www.basedlabs.ai/articles/linkedin-outreach-workflow-for-ai-creators",
+     "canonical_url": "https://www.basedlabs.ai/articles/linkedin-outreach-workflow-for-ai-creators",
+     "original_urls": [
+      "https://www.basedlabs.ai/articles/linkedin-outreach-workflow-for-ai-creators"
+     ],
+     "page_type": "blog",
+     "slug": "linkedin-outreach-workflow-for-ai-creators"
+    }
+   ],
+   "demands": [
+    {
+     "id": "basedlabs-hard-drive-reuse",
+     "name": "旧硬盘再利用教程",
+     "category": "content_strategy",
+     "summary": "教用户把闲置硬盘变废为宝的文章。",
+     "audience": "有闲置硬件的用户",
+     "job_to_be_done": "让吃灰硬盘重新有用途",
+     "page_ids": [
+      "basedlabs-0001"
+     ],
+     "signal": "编辑内容",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "basedlabs-linkedin-outreach",
+     "name": "AI 创作者 LinkedIn 开发信工作流",
+     "category": "content_strategy",
+     "summary": "面向 AI 创作者的 LinkedIn 触达（outreach）自动化工作流教程。",
+     "audience": "接单的 AI 创作者",
+     "job_to_be_done": "用自动化工作流批量触达客户",
+     "page_ids": [
+      "basedlabs-0002"
+     ],
+     "signal": "教程系列",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "flyu",
+   "source_file": "diff/20261115/flyu.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "flyu-0001",
+     "url": "https://flyu.ai/blog/ai-singer-music-video",
+     "canonical_url": "https://flyu.ai/blog/ai-singer-music-video",
+     "original_urls": [
+      "https://flyu.ai/blog/ai-singer-music-video"
+     ],
+     "page_type": "blog",
+     "slug": "ai-singer-music-video"
+    }
+   ],
+   "demands": [
+    {
+     "id": "flyu-ai-singer-music-video",
+     "name": "AI 歌手 MV 教程",
+     "category": "content_strategy",
+     "summary": "教用户做 AI 歌手音乐视频（MV）的博客教程，与前一日 lip-sync 教程同系列。",
+     "audience": "音乐与短视频创作者",
+     "job_to_be_done": "用 AI 做出歌手唱歌的 MV",
+     "page_ids": [
+      "flyu-0001"
+     ],
+     "signal": "教程系列",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "fotor",
+   "source_file": "diff/20261115/fotor.json",
+   "raw_url_count": 19,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 19,
+   "pages": [
+    {
+     "page_id": "fotor-0001",
+     "url": "https://www.fotor.com/fr/features/video-brightener/",
+     "canonical_url": "https://www.fotor.com/features/video-brightener",
+     "original_urls": [
+      "https://www.fotor.com/fr/features/video-brightener/"
+     ],
+     "page_type": "other",
+     "slug": "video-brightener"
+    },
+    {
+     "page_id": "fotor-0002",
+     "url": "https://www.fotor.com/ai-video-editor/slow-motion/",
+     "canonical_url": "https://www.fotor.com/ai-video-editor/slow-motion",
+     "original_urls": [
+      "https://www.fotor.com/ai-video-editor/slow-motion/"
+     ],
+     "page_type": "other",
+     "slug": "slow-motion"
+    },
+    {
+     "page_id": "fotor-0003",
+     "url": "https://www.fotor.com/fr/features/photo-book-maker/",
+     "canonical_url": "https://www.fotor.com/features/photo-book-maker",
+     "original_urls": [
+      "https://www.fotor.com/fr/features/photo-book-maker/"
+     ],
+     "page_type": "other",
+     "slug": "photo-book-maker"
+    },
+    {
+     "page_id": "fotor-0004",
+     "url": "https://www.fotor.com/jp/features/eyebrow-filter/",
+     "canonical_url": "https://www.fotor.com/jp/features/eyebrow-filter",
+     "original_urls": [
+      "https://www.fotor.com/jp/features/eyebrow-filter/"
+     ],
+     "page_type": "other",
+     "slug": "eyebrow-filter"
+    },
+    {
+     "page_id": "fotor-0005",
+     "url": "https://www.fotor.com/es/features/fat-filter/",
+     "canonical_url": "https://www.fotor.com/features/fat-filter",
+     "original_urls": [
+      "https://www.fotor.com/es/features/fat-filter/"
+     ],
+     "page_type": "other",
+     "slug": "fat-filter"
+    },
+    {
+     "page_id": "fotor-0006",
+     "url": "https://www.fotor.com/pt/features/ai-clothes-color-changer/",
+     "canonical_url": "https://www.fotor.com/features/ai-clothes-color-changer",
+     "original_urls": [
+      "https://www.fotor.com/pt/features/ai-clothes-color-changer/"
+     ],
+     "page_type": "other",
+     "slug": "ai-clothes-color-changer"
+    },
+    {
+     "page_id": "fotor-0007",
+     "url": "https://www.fotor.com/features/liquify-tool/",
+     "canonical_url": "https://www.fotor.com/features/liquify-tool",
+     "original_urls": [
+      "https://www.fotor.com/features/liquify-tool/"
+     ],
+     "page_type": "other",
+     "slug": "liquify-tool"
+    },
+    {
+     "page_id": "fotor-0008",
+     "url": "https://www.fotor.com/pt/features/photo-to-watercolor/",
+     "canonical_url": "https://www.fotor.com/features/photo-to-watercolor",
+     "original_urls": [
+      "https://www.fotor.com/pt/features/photo-to-watercolor/"
+     ],
+     "page_type": "other",
+     "slug": "photo-to-watercolor"
+    },
+    {
+     "page_id": "fotor-0009",
+     "url": "https://www.fotor.com/es/features/ai-cartoon-generator/",
+     "canonical_url": "https://www.fotor.com/features/ai-cartoon-generator",
+     "original_urls": [
+      "https://www.fotor.com/es/features/ai-cartoon-generator/"
+     ],
+     "page_type": "other",
+     "slug": "ai-cartoon-generator"
+    },
+    {
+     "page_id": "fotor-0010",
+     "url": "https://www.fotor.com/jp/features/cartoon-yourself/",
+     "canonical_url": "https://www.fotor.com/jp/features/cartoon-yourself",
+     "original_urls": [
+      "https://www.fotor.com/jp/features/cartoon-yourself/"
+     ],
+     "page_type": "other",
+     "slug": "cartoon-yourself"
+    },
+    {
+     "page_id": "fotor-0011",
+     "url": "https://www.fotor.com/de/features/remove-double-chin-from-photo/",
+     "canonical_url": "https://www.fotor.com/features/remove-double-chin-from-photo",
+     "original_urls": [
+      "https://www.fotor.com/de/features/remove-double-chin-from-photo/"
+     ],
+     "page_type": "other",
+     "slug": "remove-double-chin-from-photo"
+    },
+    {
+     "page_id": "fotor-0012",
+     "url": "https://www.fotor.com/es/ai-image-generator/girlfriend/",
+     "canonical_url": "https://www.fotor.com/ai-image-generator/girlfriend",
+     "original_urls": [
+      "https://www.fotor.com/es/ai-image-generator/girlfriend/"
+     ],
+     "page_type": "other",
+     "slug": "girlfriend"
+    },
+    {
+     "page_id": "fotor-0013",
+     "url": "https://www.fotor.com/vi/features/photo-retouching/",
+     "canonical_url": "https://www.fotor.com/features/photo-retouching",
+     "original_urls": [
+      "https://www.fotor.com/vi/features/photo-retouching/"
+     ],
+     "page_type": "other",
+     "slug": "photo-retouching"
+    },
+    {
+     "page_id": "fotor-0014",
+     "url": "https://www.fotor.com/pt/features/recolor-image/",
+     "canonical_url": "https://www.fotor.com/features/recolor-image",
+     "original_urls": [
+      "https://www.fotor.com/pt/features/recolor-image/"
+     ],
+     "page_type": "other",
+     "slug": "recolor-image"
+    },
+    {
+     "page_id": "fotor-0015",
+     "url": "https://www.fotor.com/pt/features/side-by-side-photo/",
+     "canonical_url": "https://www.fotor.com/features/side-by-side-photo",
+     "original_urls": [
+      "https://www.fotor.com/pt/features/side-by-side-photo/"
+     ],
+     "page_type": "other",
+     "slug": "side-by-side-photo"
+    },
+    {
+     "page_id": "fotor-0016",
+     "url": "https://www.fotor.com/es/features/animate-photos/",
+     "canonical_url": "https://www.fotor.com/features/animate-photos",
+     "original_urls": [
+      "https://www.fotor.com/es/features/animate-photos/"
+     ],
+     "page_type": "other",
+     "slug": "animate-photos"
+    },
+    {
+     "page_id": "fotor-0017",
+     "url": "https://www.fotor.com/es/video-enhancer/hd-video-converter/",
+     "canonical_url": "https://www.fotor.com/video-enhancer/hd-video-converter",
+     "original_urls": [
+      "https://www.fotor.com/es/video-enhancer/hd-video-converter/"
+     ],
+     "page_type": "other",
+     "slug": "hd-video-converter"
+    },
+    {
+     "page_id": "fotor-0018",
+     "url": "https://www.fotor.com/pt/video-enhancer/upscale-video-to-4k/",
+     "canonical_url": "https://www.fotor.com/video-enhancer/upscale-video-to-4k",
+     "original_urls": [
+      "https://www.fotor.com/pt/video-enhancer/upscale-video-to-4k/"
+     ],
+     "page_type": "other",
+     "slug": "upscale-video-to-4k"
+    },
+    {
+     "page_id": "fotor-0019",
+     "url": "https://www.fotor.com/features/sigma-face-filter/",
+     "canonical_url": "https://www.fotor.com/features/sigma-face-filter",
+     "original_urls": [
+      "https://www.fotor.com/features/sigma-face-filter/"
+     ],
+     "page_type": "other",
+     "slug": "sigma-face-filter"
+    }
+   ],
+   "demands": [
+    {
+     "id": "fotor-video-enhancement",
+     "name": "视频增强簇（提亮/HD 转换/4K 放大）",
+     "category": "tool",
+     "summary": "视频提亮、HD 视频转换、4K 视频放大 3 个视频画质工具同日上新。",
+     "audience": "视频后期用户",
+     "job_to_be_done": "把画质一般的视频变清晰变亮",
+     "page_ids": [
+      "fotor-0001",
+      "fotor-0017",
+      "fotor-0018"
+     ],
+     "signal": "工具簇",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-slow-motion",
+     "name": "视频慢动作",
+     "category": "tool",
+     "summary": "AI 视频编辑器里的慢动作（slow motion）功能。",
+     "audience": "视频剪辑用户",
+     "job_to_be_done": "把视频片段做出慢镜头",
+     "page_ids": [
+      "fotor-0002"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-photo-book-maker",
+     "name": "照片书制作器",
+     "category": "tool",
+     "summary": "把照片排版成照片书/纪念册的工具。",
+     "audience": "家庭与纪念场景用户",
+     "job_to_be_done": "把照片排成一本可打印的册子",
+     "page_ids": [
+      "fotor-0003"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-playful-face-filters",
+     "name": "搞怪人像滤镜簇",
+     "category": "tool",
+     "summary": "眉毛滤镜、胖脸滤镜、Sigma 脸滤镜 3 个搞怪人脸滤镜同日上新。",
+     "audience": "社媒娱乐用户",
+     "job_to_be_done": "用滤镜玩梗出趣图",
+     "page_ids": [
+      "fotor-0004",
+      "fotor-0005",
+      "fotor-0019"
+     ],
+     "signal": "工具簇",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "fotor-0004 为 jp/ 日语路径的本地化页面"
+     ]
+    },
+    {
+     "id": "fotor-face-reshape-retouch",
+     "name": "人像修型修图簇",
+     "category": "tool",
+     "summary": "液化瘦脸、去双下巴、照片精修 3 个人像修型工具。",
+     "audience": "自拍与人像修图用户",
+     "job_to_be_done": "把脸型和皮肤修到满意",
+     "page_ids": [
+      "fotor-0007",
+      "fotor-0011",
+      "fotor-0013"
+     ],
+     "signal": "工具簇",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-ai-cartoon",
+     "name": "AI 卡通化",
+     "category": "tool",
+     "summary": "AI 卡通生成器与日语路径的 cartoon-yourself，同一卡通化任务。",
+     "audience": "头像与社交用户",
+     "job_to_be_done": "把照片变成卡通风格",
+     "page_ids": [
+      "fotor-0009",
+      "fotor-0010"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "fotor-0010 为 jp/ 日语本地化页面，与英文卡通生成器合并为一条"
+     ]
+    },
+    {
+     "id": "fotor-photo-to-watercolor",
+     "name": "照片转水彩",
+     "category": "tool",
+     "summary": "把照片转成水彩画风格的工具。",
+     "audience": "风格化用户",
+     "job_to_be_done": "把照片变成水彩画",
+     "page_ids": [
+      "fotor-0008"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-clothes-color-changer",
+     "name": "衣服换色",
+     "category": "tool",
+     "summary": "AI 换衣服颜色的修图工具。",
+     "audience": "电商与穿搭用户",
+     "job_to_be_done": "改照片里衣服的颜色",
+     "page_ids": [
+      "fotor-0006"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-recolor-image",
+     "name": "图片整体改色",
+     "category": "tool",
+     "summary": "通用的图片重新上色/改色工具，与衣服换色是两个任务。",
+     "audience": "修图用户",
+     "job_to_be_done": "给图片整体换配色",
+     "page_ids": [
+      "fotor-0014"
+     ],
+     "signal": "工具上线",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-ai-girlfriend",
+     "name": "AI 女友生成",
+     "category": "tool",
+     "summary": "AI 虚拟女友/理想女友图片生成器。",
+     "audience": "陪伴向用户",
+     "job_to_be_done": "生成理想中的女友形象",
+     "page_ids": [
+      "fotor-0012"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-side-by-side",
+     "name": "左右拼图",
+     "category": "tool",
+     "summary": "把两张照片并排放在一起的拼图工具。",
+     "audience": "对比展示用户",
+     "job_to_be_done": "把两张图拼成左右对比图",
+     "page_ids": [
+      "fotor-0015"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "fotor-animate-photos",
+     "name": "照片动起来",
+     "category": "tool",
+     "summary": "让静态照片动起来的工具。",
+     "audience": "社媒用户",
+     "job_to_be_done": "把老照片或静态图做成动态",
+     "page_ids": [
+      "fotor-0016"
+     ],
+     "signal": "工具上线",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "genematic",
+   "source_file": "diff/20261115/genematic.json",
+   "raw_url_count": 84,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 14,
+   "pages": [
+    {
+     "page_id": "genematic-0001",
+     "url": "https://genematic.ai/scenarios/untitled-scenario-sb407e",
+     "canonical_url": "https://genematic.ai/scenarios/untitled-scenario-sb407e",
+     "original_urls": [
+      "https://genematic.ai/scenarios/untitled-scenario-sb407e",
+      "https://genematic.ai/es/scenarios/untitled-scenario-sb407e",
+      "https://genematic.ai/pt/scenarios/untitled-scenario-sb407e",
+      "https://genematic.ai/fr/scenarios/untitled-scenario-sb407e",
+      "https://genematic.ai/tr/scenarios/untitled-scenario-sb407e",
+      "https://genematic.ai/ar/scenarios/untitled-scenario-sb407e"
+     ],
+     "page_type": "other",
+     "slug": "untitled-scenario-sb407e"
+    },
+    {
+     "page_id": "genematic-0002",
+     "url": "https://genematic.ai/scenarios/mbapp-sprint-trend",
+     "canonical_url": "https://genematic.ai/scenarios/mbapp-sprint-trend",
+     "original_urls": [
+      "https://genematic.ai/scenarios/mbapp-sprint-trend",
+      "https://genematic.ai/es/scenarios/mbapp-sprint-trend",
+      "https://genematic.ai/pt/scenarios/mbapp-sprint-trend",
+      "https://genematic.ai/fr/scenarios/mbapp-sprint-trend",
+      "https://genematic.ai/tr/scenarios/mbapp-sprint-trend",
+      "https://genematic.ai/ar/scenarios/mbapp-sprint-trend"
+     ],
+     "page_type": "other",
+     "slug": "mbapp-sprint-trend"
+    },
+    {
+     "page_id": "genematic-0003",
+     "url": "https://genematic.ai/scenarios/untitled-scenario-pj07t2",
+     "canonical_url": "https://genematic.ai/scenarios/untitled-scenario-pj07t2",
+     "original_urls": [
+      "https://genematic.ai/scenarios/untitled-scenario-pj07t2",
+      "https://genematic.ai/es/scenarios/untitled-scenario-pj07t2",
+      "https://genematic.ai/pt/scenarios/untitled-scenario-pj07t2",
+      "https://genematic.ai/fr/scenarios/untitled-scenario-pj07t2",
+      "https://genematic.ai/tr/scenarios/untitled-scenario-pj07t2",
+      "https://genematic.ai/ar/scenarios/untitled-scenario-pj07t2"
+     ],
+     "page_type": "other",
+     "slug": "untitled-scenario-pj07t2"
+    },
+    {
+     "page_id": "genematic-0004",
+     "url": "https://genematic.ai/scenarios/untitled-scenario-ye2q51",
+     "canonical_url": "https://genematic.ai/scenarios/untitled-scenario-ye2q51",
+     "original_urls": [
+      "https://genematic.ai/scenarios/untitled-scenario-ye2q51",
+      "https://genematic.ai/es/scenarios/untitled-scenario-ye2q51",
+      "https://genematic.ai/pt/scenarios/untitled-scenario-ye2q51",
+      "https://genematic.ai/fr/scenarios/untitled-scenario-ye2q51",
+      "https://genematic.ai/tr/scenarios/untitled-scenario-ye2q51",
+      "https://genematic.ai/ar/scenarios/untitled-scenario-ye2q51"
+     ],
+     "page_type": "other",
+     "slug": "untitled-scenario-ye2q51"
+    },
+    {
+     "page_id": "genematic-0005",
+     "url": "https://genematic.ai/scenarios/679",
+     "canonical_url": "https://genematic.ai/scenarios/679",
+     "original_urls": [
+      "https://genematic.ai/scenarios/679",
+      "https://genematic.ai/es/scenarios/679",
+      "https://genematic.ai/pt/scenarios/679",
+      "https://genematic.ai/fr/scenarios/679",
+      "https://genematic.ai/tr/scenarios/679",
+      "https://genematic.ai/ar/scenarios/679"
+     ],
+     "page_type": "other",
+     "slug": "679"
+    },
+    {
+     "page_id": "genematic-0006",
+     "url": "https://genematic.ai/scenarios/hotel-lobby",
+     "canonical_url": "https://genematic.ai/scenarios/hotel-lobby",
+     "original_urls": [
+      "https://genematic.ai/scenarios/hotel-lobby",
+      "https://genematic.ai/es/scenarios/hotel-lobby",
+      "https://genematic.ai/pt/scenarios/hotel-lobby",
+      "https://genematic.ai/fr/scenarios/hotel-lobby",
+      "https://genematic.ai/tr/scenarios/hotel-lobby",
+      "https://genematic.ai/ar/scenarios/hotel-lobby"
+     ],
+     "page_type": "other",
+     "slug": "hotel-lobby"
+    },
+    {
+     "page_id": "genematic-0007",
+     "url": "https://genematic.ai/scenarios/test-dance",
+     "canonical_url": "https://genematic.ai/scenarios/test-dance",
+     "original_urls": [
+      "https://genematic.ai/scenarios/test-dance",
+      "https://genematic.ai/es/scenarios/test-dance",
+      "https://genematic.ai/pt/scenarios/test-dance",
+      "https://genematic.ai/fr/scenarios/test-dance",
+      "https://genematic.ai/tr/scenarios/test-dance",
+      "https://genematic.ai/ar/scenarios/test-dance"
+     ],
+     "page_type": "other",
+     "slug": "test-dance"
+    },
+    {
+     "page_id": "genematic-0008",
+     "url": "https://genematic.ai/scenarios/viral-padel-video",
+     "canonical_url": "https://genematic.ai/scenarios/viral-padel-video",
+     "original_urls": [
+      "https://genematic.ai/scenarios/viral-padel-video",
+      "https://genematic.ai/es/scenarios/viral-padel-video",
+      "https://genematic.ai/pt/scenarios/viral-padel-video",
+      "https://genematic.ai/fr/scenarios/viral-padel-video",
+      "https://genematic.ai/tr/scenarios/viral-padel-video",
+      "https://genematic.ai/ar/scenarios/viral-padel-video"
+     ],
+     "page_type": "other",
+     "slug": "viral-padel-video"
+    },
+    {
+     "page_id": "genematic-0009",
+     "url": "https://genematic.ai/scenarios/floating-headwear-showcase",
+     "canonical_url": "https://genematic.ai/scenarios/floating-headwear-showcase",
+     "original_urls": [
+      "https://genematic.ai/scenarios/floating-headwear-showcase",
+      "https://genematic.ai/es/scenarios/floating-headwear-showcase",
+      "https://genematic.ai/pt/scenarios/floating-headwear-showcase",
+      "https://genematic.ai/fr/scenarios/floating-headwear-showcase",
+      "https://genematic.ai/tr/scenarios/floating-headwear-showcase",
+      "https://genematic.ai/ar/scenarios/floating-headwear-showcase"
+     ],
+     "page_type": "other",
+     "slug": "floating-headwear-showcase"
+    },
+    {
+     "page_id": "genematic-0010",
+     "url": "https://genematic.ai/scenarios/chic-birthday-fashion-shoot",
+     "canonical_url": "https://genematic.ai/scenarios/chic-birthday-fashion-shoot",
+     "original_urls": [
+      "https://genematic.ai/scenarios/chic-birthday-fashion-shoot",
+      "https://genematic.ai/es/scenarios/chic-birthday-fashion-shoot",
+      "https://genematic.ai/pt/scenarios/chic-birthday-fashion-shoot",
+      "https://genematic.ai/fr/scenarios/chic-birthday-fashion-shoot",
+      "https://genematic.ai/tr/scenarios/chic-birthday-fashion-shoot",
+      "https://genematic.ai/ar/scenarios/chic-birthday-fashion-shoot"
+     ],
+     "page_type": "other",
+     "slug": "chic-birthday-fashion-shoot"
+    },
+    {
+     "page_id": "genematic-0011",
+     "url": "https://genematic.ai/scenarios/idpassport-photo",
+     "canonical_url": "https://genematic.ai/scenarios/idpassport-photo",
+     "original_urls": [
+      "https://genematic.ai/scenarios/idpassport-photo",
+      "https://genematic.ai/es/scenarios/idpassport-photo",
+      "https://genematic.ai/pt/scenarios/idpassport-photo",
+      "https://genematic.ai/fr/scenarios/idpassport-photo",
+      "https://genematic.ai/tr/scenarios/idpassport-photo",
+      "https://genematic.ai/ar/scenarios/idpassport-photo"
+     ],
+     "page_type": "other",
+     "slug": "idpassport-photo"
+    },
+    {
+     "page_id": "genematic-0012",
+     "url": "https://genematic.ai/scenarios/ladybug-eye",
+     "canonical_url": "https://genematic.ai/scenarios/ladybug-eye",
+     "original_urls": [
+      "https://genematic.ai/scenarios/ladybug-eye",
+      "https://genematic.ai/es/scenarios/ladybug-eye",
+      "https://genematic.ai/pt/scenarios/ladybug-eye",
+      "https://genematic.ai/fr/scenarios/ladybug-eye",
+      "https://genematic.ai/tr/scenarios/ladybug-eye",
+      "https://genematic.ai/ar/scenarios/ladybug-eye"
+     ],
+     "page_type": "other",
+     "slug": "ladybug-eye"
+    },
+    {
+     "page_id": "genematic-0013",
+     "url": "https://genematic.ai/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+     "canonical_url": "https://genematic.ai/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+     "original_urls": [
+      "https://genematic.ai/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+      "https://genematic.ai/es/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+      "https://genematic.ai/pt/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+      "https://genematic.ai/fr/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+      "https://genematic.ai/tr/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65",
+      "https://genematic.ai/ar/feed/c8370bfd-2cd7-42f1-99ba-837a7a930b65"
+     ],
+     "page_type": "other",
+     "slug": "c8370bfd-2cd7-42f1-99ba-837a7a930b65"
+    },
+    {
+     "page_id": "genematic-0014",
+     "url": "https://genematic.ai/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+     "canonical_url": "https://genematic.ai/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+     "original_urls": [
+      "https://genematic.ai/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+      "https://genematic.ai/es/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+      "https://genematic.ai/pt/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+      "https://genematic.ai/fr/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+      "https://genematic.ai/tr/feed/1bc20d78-3d07-451c-89da-579a9931ea38",
+      "https://genematic.ai/ar/feed/1bc20d78-3d07-451c-89da-579a9931ea38"
+     ],
+     "page_type": "other",
+     "slug": "1bc20d78-3d07-451c-89da-579a9931ea38"
+    }
+   ],
+   "demands": [
+    {
+     "id": "genematic-scenario-cluster",
+     "name": "用户场景模板簇",
+     "category": "trend_template",
+     "summary": "11 个 scenarios 页同日出现：MBappé 冲刺、酒店大堂、测试舞蹈、板球病毒视频、漂浮头饰、生日时尚大片、证件照、瓢虫复眼等，多为用户自建场景。",
+     "audience": "短视频场景创作者",
+     "job_to_be_done": "复用现成场景快速出片",
+     "page_ids": [
+      "genematic-0001",
+      "genematic-0002",
+      "genematic-0003",
+      "genematic-0004",
+      "genematic-0006",
+      "genematic-0007",
+      "genematic-0008",
+      "genematic-0009",
+      "genematic-0010",
+      "genematic-0011",
+      "genematic-0012"
+     ],
+     "signal": "模板簇",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面",
+      "含 untitled-scenario-* 测试页，部分可能是用户草稿而非正式模板"
+     ]
+    },
+    {
+     "id": "genematic-feed-updates",
+     "name": "作品动态流",
+     "category": "platform_update",
+     "summary": "2 个 feed/{uuid} 用户作品动态页，站点社区流常规滚动。",
+     "audience": "平台用户",
+     "job_to_be_done": "浏览别人的作品动态",
+     "page_ids": [
+      "genematic-0013",
+      "genematic-0014"
+     ],
+     "signal": "站点导航",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": [
+    "genematic-0005"
+   ]
+  },
+  {
+   "site": "getstarrd",
+   "source_file": "diff/20261115/getstarrd.json",
+   "raw_url_count": 3,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 3,
+   "pages": [
+    {
+     "page_id": "getstarrd-0001",
+     "url": "https://www.getstarrd.app/template/jingle-bell-rock-ai-dance",
+     "canonical_url": "https://www.getstarrd.app/template/jingle-bell-rock-ai-dance",
+     "original_urls": [
+      "https://www.getstarrd.app/template/jingle-bell-rock-ai-dance"
+     ],
+     "page_type": "template",
+     "slug": "jingle-bell-rock-ai-dance"
+    },
+    {
+     "page_id": "getstarrd-0002",
+     "url": "https://www.getstarrd.app/template/broke-his-ankles-ai-video",
+     "canonical_url": "https://www.getstarrd.app/template/broke-his-ankles-ai-video",
+     "original_urls": [
+      "https://www.getstarrd.app/template/broke-his-ankles-ai-video"
+     ],
+     "page_type": "template",
+     "slug": "broke-his-ankles-ai-video"
+    },
+    {
+     "page_id": "getstarrd-0003",
+     "url": "https://www.getstarrd.app/blog/how-to-make-jingle-bell-rock-ai-dance",
+     "canonical_url": "https://www.getstarrd.app/blog/how-to-make-jingle-bell-rock-ai-dance",
+     "original_urls": [
+      "https://www.getstarrd.app/blog/how-to-make-jingle-bell-rock-ai-dance"
+     ],
+     "page_type": "blog",
+     "slug": "how-to-make-jingle-bell-rock-ai-dance"
+    }
+   ],
+   "demands": [
+    {
+     "id": "getstarrd-jingle-bell-rock-dance",
+     "name": "Jingle Bell Rock 舞蹈 AI 视频",
+     "category": "trend_template",
+     "summary": "Jingle Bell Rock 圣诞舞蹈模板，配套 how-to 教程同日上新。",
+     "audience": "节日视频创作者",
+     "job_to_be_done": "做一支圣诞舞蹈视频",
+     "page_ids": [
+      "getstarrd-0001",
+      "getstarrd-0003"
+     ],
+     "signal": "模板+教程配对",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "getstarrd-broke-his-ankles",
+     "name": "「Broke His Ankles」过人视频模板",
+     "category": "trend_template",
+     "summary": "体育/篮球向的 broke-his-ankles（晃倒对手）热梗视频模板。",
+     "audience": "体育热梗视频创作者",
+     "job_to_be_done": "做一支晃倒对手的搞笑视频",
+     "page_ids": [
+      "getstarrd-0002"
+     ],
+     "signal": "模板上新",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "higgsfield",
+   "source_file": "diff/20261115/higgsfield.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "higgsfield-0001",
+     "url": "https://higgsfield.ai/community/rooms/my-messy-mind",
+     "canonical_url": "https://higgsfield.ai/community/rooms/my-messy-mind",
+     "original_urls": [
+      "https://higgsfield.ai/community/rooms/my-messy-mind"
+     ],
+     "page_type": "community",
+     "slug": "my-messy-mind"
+    },
+    {
+     "page_id": "higgsfield-0002",
+     "url": "https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp",
+     "canonical_url": "https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp",
+     "original_urls": [
+      "https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp"
+     ],
+     "page_type": "blog",
+     "slug": "higgsfield-most-adopted-image-video-ai-ramp"
+    }
+   ],
+   "demands": [
+    {
+     "id": "higgsfield-community-rooms",
+     "name": "社区房间 my-messy-mind",
+     "category": "platform_update",
+     "summary": "社区房间列表新增 my-messy-mind 房间，属于社区版图的常规滚动。",
+     "audience": "平台创作者",
+     "job_to_be_done": "加入兴趣房间看同好作品",
+     "page_ids": [
+      "higgsfield-0001"
+     ],
+     "signal": "站点导航",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "higgsfield-adoption-ramp-article",
+     "name": "采用率增长宣传文",
+     "category": "content_strategy",
+     "summary": "宣传自家图片/视频 AI 采用率上升（most adopted ramp）的营销文章。",
+     "audience": "潜在客户与投资人",
+     "job_to_be_done": "了解平台热度再决定用不用",
+     "page_ids": [
+      "higgsfield-0002"
+     ],
+     "signal": "编辑内容",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "imagine",
+   "source_file": "diff/20261115/imagine.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "imagine-0001",
+     "url": "https://www.imagine.art/insights/seedream-5-5-review",
+     "canonical_url": "https://www.imagine.art/insights/seedream-5-5-review",
+     "original_urls": [
+      "https://www.imagine.art/insights/seedream-5-5-review"
+     ],
+     "page_type": "other",
+     "slug": "seedream-5-5-review"
+    },
+    {
+     "page_id": "imagine-0002",
+     "url": "https://www.imagine.art/id/insights/generator-video-AI-terbaik",
+     "canonical_url": "https://www.imagine.art/insights/generator-video-AI-terbaik",
+     "original_urls": [
+      "https://www.imagine.art/id/insights/generator-video-AI-terbaik"
+     ],
+     "page_type": "other",
+     "slug": "generator-video-ai-terbaik"
+    }
+   ],
+   "demands": [
+    {
+     "id": "imagine-seedream-5-5-review",
+     "name": "Seedream 5.5 评测",
+     "category": "content_strategy",
+     "summary": "对 Seedream 5.5 模型的评测/体验文章。",
+     "audience": "选模型的创作者",
+     "job_to_be_done": "判断 Seedream 5.5 值不值得用",
+     "page_ids": [
+      "imagine-0001"
+     ],
+     "signal": "编辑内容",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "imagine-best-ai-video-generator-id",
+     "name": "印尼语最佳 AI 视频生成器文章",
+     "category": "content_strategy",
+     "summary": "印尼语（terbaik=最好）的「最佳 AI 视频生成器」SEO 文章，本地化截流。",
+     "audience": "印尼语市场用户",
+     "job_to_be_done": "挑选顺手的 AI 视频生成器",
+     "page_ids": [
+      "imagine-0002"
+     ],
+     "signal": "SEO 内容",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "nanobanana",
+   "source_file": "diff/20261115/nanobanana.json",
+   "raw_url_count": 14,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "nanobanana-0001",
+     "url": "https://nanobanana.io/models/seedance-2-5-flash",
+     "canonical_url": "https://nanobanana.io/models/seedance-2-5-flash",
+     "original_urls": [
+      "https://nanobanana.io/models/seedance-2-5-flash",
+      "https://nanobanana.io/es/models/seedance-2-5-flash",
+      "https://nanobanana.io/pt/models/seedance-2-5-flash",
+      "https://nanobanana.io/de/models/seedance-2-5-flash",
+      "https://nanobanana.io/ar/models/seedance-2-5-flash",
+      "https://nanobanana.io/ja/models/seedance-2-5-flash",
+      "https://nanobanana.io/ko/models/seedance-2-5-flash",
+      "https://nanobanana.io/it/models/seedance-2-5-flash",
+      "https://nanobanana.io/nl/models/seedance-2-5-flash",
+      "https://nanobanana.io/fr/models/seedance-2-5-flash",
+      "https://nanobanana.io/he/models/seedance-2-5-flash",
+      "https://nanobanana.io/tr/models/seedance-2-5-flash",
+      "https://nanobanana.io/ru/models/seedance-2-5-flash",
+      "https://nanobanana.io/zh/models/seedance-2-5-flash"
+     ],
+     "page_type": "model_api",
+     "slug": "seedance-2-5-flash"
+    }
+   ],
+   "demands": [
+    {
+     "id": "nanobanana-seedance-2-5-flash",
+     "name": "Seedance 2.5 Flash 模型上架",
+     "category": "model_api",
+     "summary": "模型目录新增 seedance-2-5-flash 视频模型页。",
+     "audience": "视频生成用户",
+     "job_to_be_done": "用 Seedance 2.5 Flash 生成视频",
+     "page_ids": [
+      "nanobanana-0001"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "piclumen",
+   "source_file": "diff/20261115/piclumen.json",
+   "raw_url_count": 35,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 35,
+   "pages": [
+    {
+     "page_id": "piclumen-0001",
+     "url": "https://www.piclumen.com/pony-diffusion-v6/",
+     "canonical_url": "https://www.piclumen.com/pony-diffusion-v6",
+     "original_urls": [
+      "https://www.piclumen.com/pony-diffusion-v6/"
+     ],
+     "page_type": "other",
+     "slug": "pony-diffusion-v6"
+    },
+    {
+     "page_id": "piclumen-0002",
+     "url": "https://www.piclumen.com/terms-of-use/",
+     "canonical_url": "https://www.piclumen.com/terms-of-use",
+     "original_urls": [
+      "https://www.piclumen.com/terms-of-use/"
+     ],
+     "page_type": "other",
+     "slug": "terms-of-use"
+    },
+    {
+     "page_id": "piclumen-0003",
+     "url": "https://www.piclumen.com/tools/",
+     "canonical_url": "https://www.piclumen.com/tools",
+     "original_urls": [
+      "https://www.piclumen.com/tools/"
+     ],
+     "page_type": "category",
+     "slug": "tools"
+    },
+    {
+     "page_id": "piclumen-0004",
+     "url": "https://www.piclumen.com/apps/effects-rubber-band-prank/",
+     "canonical_url": "https://www.piclumen.com/apps/effects-rubber-band-prank",
+     "original_urls": [
+      "https://www.piclumen.com/apps/effects-rubber-band-prank/"
+     ],
+     "page_type": "other",
+     "slug": "effects-rubber-band-prank"
+    },
+    {
+     "page_id": "piclumen-0005",
+     "url": "https://www.piclumen.com/faq/can-i-customize-the-images-generated-by-piclumen-ai-image-generator/",
+     "canonical_url": "https://www.piclumen.com/faq/can-i-customize-the-images-generated-by-piclumen-ai-image-generator",
+     "original_urls": [
+      "https://www.piclumen.com/faq/can-i-customize-the-images-generated-by-piclumen-ai-image-generator/"
+     ],
+     "page_type": "other",
+     "slug": "can-i-customize-the-images-generated-by-piclumen-ai-image-generator"
+    },
+    {
+     "page_id": "piclumen-0006",
+     "url": "https://www.piclumen.com/faq/can-i-request-new-features-or-improvements/",
+     "canonical_url": "https://www.piclumen.com/faq/can-i-request-new-features-or-improvements",
+     "original_urls": [
+      "https://www.piclumen.com/faq/can-i-request-new-features-or-improvements/"
+     ],
+     "page_type": "other",
+     "slug": "can-i-request-new-features-or-improvements"
+    },
+    {
+     "page_id": "piclumen-0007",
+     "url": "https://www.piclumen.com/faq/can-i-use-the-ai-images-for-commercial-purposes/",
+     "canonical_url": "https://www.piclumen.com/faq/can-i-use-the-ai-images-for-commercial-purposes",
+     "original_urls": [
+      "https://www.piclumen.com/faq/can-i-use-the-ai-images-for-commercial-purposes/"
+     ],
+     "page_type": "other",
+     "slug": "can-i-use-the-ai-images-for-commercial-purposes"
+    },
+    {
+     "page_id": "piclumen-0008",
+     "url": "https://www.piclumen.com/faq/how-do-i-create-an-account-on-piclumen/",
+     "canonical_url": "https://www.piclumen.com/faq/how-do-i-create-an-account-on-piclumen",
+     "original_urls": [
+      "https://www.piclumen.com/faq/how-do-i-create-an-account-on-piclumen/"
+     ],
+     "page_type": "other",
+     "slug": "how-do-i-create-an-account-on-piclumen"
+    },
+    {
+     "page_id": "piclumen-0009",
+     "url": "https://www.piclumen.com/faq/how-do-i-report-a-bug-or-issue-about-piclumens-ai-image-generator/",
+     "canonical_url": "https://www.piclumen.com/faq/how-do-i-report-a-bug-or-issue-about-piclumens-ai-image-generator",
+     "original_urls": [
+      "https://www.piclumen.com/faq/how-do-i-report-a-bug-or-issue-about-piclumens-ai-image-generator/"
+     ],
+     "page_type": "other",
+     "slug": "how-do-i-report-a-bug-or-issue-about-piclumens-ai-image-generator"
+    },
+    {
+     "page_id": "piclumen-0010",
+     "url": "https://www.piclumen.com/faq/how-do-i-start-generating-ai-images-on-piclumen/",
+     "canonical_url": "https://www.piclumen.com/faq/how-do-i-start-generating-ai-images-on-piclumen",
+     "original_urls": [
+      "https://www.piclumen.com/faq/how-do-i-start-generating-ai-images-on-piclumen/"
+     ],
+     "page_type": "other",
+     "slug": "how-do-i-start-generating-ai-images-on-piclumen"
+    },
+    {
+     "page_id": "piclumen-0011",
+     "url": "https://www.piclumen.com/faq/is-piclumens-ai-image-generator-free-to-use/",
+     "canonical_url": "https://www.piclumen.com/faq/is-piclumens-ai-image-generator-free-to-use",
+     "original_urls": [
+      "https://www.piclumen.com/faq/is-piclumens-ai-image-generator-free-to-use/"
+     ],
+     "page_type": "other",
+     "slug": "is-piclumens-ai-image-generator-free-to-use"
+    },
+    {
+     "page_id": "piclumen-0012",
+     "url": "https://www.piclumen.com/faq/is-there-a-gallery-of-generated-ai-images-i-can-browse/",
+     "canonical_url": "https://www.piclumen.com/faq/is-there-a-gallery-of-generated-ai-images-i-can-browse",
+     "original_urls": [
+      "https://www.piclumen.com/faq/is-there-a-gallery-of-generated-ai-images-i-can-browse/"
+     ],
+     "page_type": "other",
+     "slug": "is-there-a-gallery-of-generated-ai-images-i-can-browse"
+    },
+    {
+     "page_id": "piclumen-0013",
+     "url": "https://www.piclumen.com/faq/is-there-a-mobile-app-for-piclumen-ai-image-generator/",
+     "canonical_url": "https://www.piclumen.com/faq/is-there-a-mobile-app-for-piclumen-ai-image-generator",
+     "original_urls": [
+      "https://www.piclumen.com/faq/is-there-a-mobile-app-for-piclumen-ai-image-generator/"
+     ],
+     "page_type": "other",
+     "slug": "is-there-a-mobile-app-for-piclumen-ai-image-generator"
+    },
+    {
+     "page_id": "piclumen-0014",
+     "url": "https://www.piclumen.com/faq/is-there-a-tutorial-available-for-new-users/",
+     "canonical_url": "https://www.piclumen.com/faq/is-there-a-tutorial-available-for-new-users",
+     "original_urls": [
+      "https://www.piclumen.com/faq/is-there-a-tutorial-available-for-new-users/"
+     ],
+     "page_type": "other",
+     "slug": "is-there-a-tutorial-available-for-new-users"
+    },
+    {
+     "page_id": "piclumen-0015",
+     "url": "https://www.piclumen.com/faq/what-are-the-main-features-of-piclumen/",
+     "canonical_url": "https://www.piclumen.com/faq/what-are-the-main-features-of-piclumen",
+     "original_urls": [
+      "https://www.piclumen.com/faq/what-are-the-main-features-of-piclumen/"
+     ],
+     "page_type": "other",
+     "slug": "what-are-the-main-features-of-piclumen"
+    },
+    {
+     "page_id": "piclumen-0016",
+     "url": "https://www.piclumen.com/faq/what-other-actions-can-i-do-with-piclumen-besides-image-generation/",
+     "canonical_url": "https://www.piclumen.com/faq/what-other-actions-can-i-do-with-piclumen-besides-image-generation",
+     "original_urls": [
+      "https://www.piclumen.com/faq/what-other-actions-can-i-do-with-piclumen-besides-image-generation/"
+     ],
+     "page_type": "other",
+     "slug": "what-other-actions-can-i-do-with-piclumen-besides-image-generation"
+    },
+    {
+     "page_id": "piclumen-0017",
+     "url": "https://www.piclumen.com/faq/what-should-i-do-if-i-encounter-lag-when-generating-images/",
+     "canonical_url": "https://www.piclumen.com/faq/what-should-i-do-if-i-encounter-lag-when-generating-images",
+     "original_urls": [
+      "https://www.piclumen.com/faq/what-should-i-do-if-i-encounter-lag-when-generating-images/"
+     ],
+     "page_type": "other",
+     "slug": "what-should-i-do-if-i-encounter-lag-when-generating-images"
+    },
+    {
+     "page_id": "piclumen-0018",
+     "url": "https://www.piclumen.com/faq/what-should-i-do-if-the-image-generation-fails/",
+     "canonical_url": "https://www.piclumen.com/faq/what-should-i-do-if-the-image-generation-fails",
+     "original_urls": [
+      "https://www.piclumen.com/faq/what-should-i-do-if-the-image-generation-fails/"
+     ],
+     "page_type": "other",
+     "slug": "what-should-i-do-if-the-image-generation-fails"
+    },
+    {
+     "page_id": "piclumen-0019",
+     "url": "https://www.piclumen.com/faq/what-should-i-include-in-my-prompt-for-better-results/",
+     "canonical_url": "https://www.piclumen.com/faq/what-should-i-include-in-my-prompt-for-better-results",
+     "original_urls": [
+      "https://www.piclumen.com/faq/what-should-i-include-in-my-prompt-for-better-results/"
+     ],
+     "page_type": "other",
+     "slug": "what-should-i-include-in-my-prompt-for-better-results"
+    },
+    {
+     "page_id": "piclumen-0020",
+     "url": "https://www.piclumen.com/news_category/update/",
+     "canonical_url": "https://www.piclumen.com/news_category/update",
+     "original_urls": [
+      "https://www.piclumen.com/news_category/update/"
+     ],
+     "page_type": "other",
+     "slug": "update"
+    },
+    {
+     "page_id": "piclumen-0021",
+     "url": "https://www.piclumen.com/tutorial_tag/ai-art/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/ai-art",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/ai-art/"
+     ],
+     "page_type": "other",
+     "slug": "ai-art"
+    },
+    {
+     "page_id": "piclumen-0022",
+     "url": "https://www.piclumen.com/tutorial_tag/ai-colorization/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/ai-colorization",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/ai-colorization/"
+     ],
+     "page_type": "other",
+     "slug": "ai-colorization"
+    },
+    {
+     "page_id": "piclumen-0023",
+     "url": "https://www.piclumen.com/tutorial_tag/ai-illustration/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/ai-illustration",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/ai-illustration/"
+     ],
+     "page_type": "other",
+     "slug": "ai-illustration"
+    },
+    {
+     "page_id": "piclumen-0024",
+     "url": "https://www.piclumen.com/tutorial_tag/ai-pixel-art/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/ai-pixel-art",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/ai-pixel-art/"
+     ],
+     "page_type": "other",
+     "slug": "ai-pixel-art"
+    },
+    {
+     "page_id": "piclumen-0025",
+     "url": "https://www.piclumen.com/tutorial_tag/anime-art/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/anime-art",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/anime-art/"
+     ],
+     "page_type": "other",
+     "slug": "anime-art"
+    },
+    {
+     "page_id": "piclumen-0026",
+     "url": "https://www.piclumen.com/tutorial_tag/character/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/character",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/character/"
+     ],
+     "page_type": "other",
+     "slug": "character"
+    },
+    {
+     "page_id": "piclumen-0027",
+     "url": "https://www.piclumen.com/tutorial_tag/dnd/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/dnd",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/dnd/"
+     ],
+     "page_type": "other",
+     "slug": "dnd"
+    },
+    {
+     "page_id": "piclumen-0028",
+     "url": "https://www.piclumen.com/tutorial_tag/how-to/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/how-to",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/how-to/"
+     ],
+     "page_type": "other",
+     "slug": "how-to"
+    },
+    {
+     "page_id": "piclumen-0029",
+     "url": "https://www.piclumen.com/tutorial_tag/image-to-image/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/image-to-image",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/image-to-image/"
+     ],
+     "page_type": "other",
+     "slug": "image-to-image"
+    },
+    {
+     "page_id": "piclumen-0030",
+     "url": "https://www.piclumen.com/tutorial_tag/image-upscaler/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/image-upscaler",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/image-upscaler/"
+     ],
+     "page_type": "other",
+     "slug": "image-upscaler"
+    },
+    {
+     "page_id": "piclumen-0031",
+     "url": "https://www.piclumen.com/tutorial_tag/photo-to-sketch/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/photo-to-sketch",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/photo-to-sketch/"
+     ],
+     "page_type": "other",
+     "slug": "photo-to-sketch"
+    },
+    {
+     "page_id": "piclumen-0032",
+     "url": "https://www.piclumen.com/tutorial_tag/prompts/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/prompts",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/prompts/"
+     ],
+     "page_type": "other",
+     "slug": "prompts"
+    },
+    {
+     "page_id": "piclumen-0033",
+     "url": "https://www.piclumen.com/tutorial_tag/text-prompts/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/text-prompts",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/text-prompts/"
+     ],
+     "page_type": "other",
+     "slug": "text-prompts"
+    },
+    {
+     "page_id": "piclumen-0034",
+     "url": "https://www.piclumen.com/tutorial_tag/text-to-image/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/text-to-image",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/text-to-image/"
+     ],
+     "page_type": "other",
+     "slug": "text-to-image"
+    },
+    {
+     "page_id": "piclumen-0035",
+     "url": "https://www.piclumen.com/tutorial_tag/how-to/page/2/",
+     "canonical_url": "https://www.piclumen.com/tutorial_tag/how-to/page/2",
+     "original_urls": [
+      "https://www.piclumen.com/tutorial_tag/how-to/page/2/"
+     ],
+     "page_type": "other",
+     "slug": "2"
+    }
+   ],
+   "demands": [
+    {
+     "id": "piclumen-pony-diffusion-v6",
+     "name": "Pony Diffusion V6 模型页",
+     "category": "model_api",
+     "summary": "站内上线 Pony Diffusion V6 模型页，二次元/角色向开源模型。",
+     "audience": "二次元与角色创作用户",
+     "job_to_be_done": "用 Pony Diffusion V6 画角色图",
+     "page_ids": [
+      "piclumen-0001"
+     ],
+     "signal": "模型上架",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-site-ops",
+     "name": "法务与新闻分类页",
+     "category": "platform_update",
+     "summary": "使用条款页与更新（update）新闻分类页，属站点运营基建。",
+     "audience": "全部用户",
+     "job_to_be_done": "看条款、追平台更新",
+     "page_ids": [
+      "piclumen-0002",
+      "piclumen-0020"
+     ],
+     "signal": "站点导航",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-tools-hub",
+     "name": "工具总览页",
+     "category": "platform_update",
+     "summary": "tools 分类总览页，把散落的工具聚合导航。",
+     "audience": "新用户",
+     "job_to_be_done": "一站看清平台有哪些工具",
+     "page_ids": [
+      "piclumen-0003"
+     ],
+     "signal": "站点导航",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-rubber-band-prank",
+     "name": "橡皮筋整蛊特效",
+     "category": "trend_template",
+     "summary": "rubber-band-prank（橡皮筋整蛊）特效模板。",
+     "audience": "整蛊视频创作者",
+     "job_to_be_done": "做一支橡皮筋弹脸的整蛊视频",
+     "page_ids": [
+      "piclumen-0004"
+     ],
+     "signal": "模板上新",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-faq",
+     "name": "FAQ 知识库",
+     "category": "platform_update",
+     "summary": "15 个 FAQ 页同日出现：注册、免费使用、商用授权、生成失败、提示词写法等，一次性补齐用户问答库。",
+     "audience": "新用户与客服咨询用户",
+     "job_to_be_done": "自助解决使用疑问",
+     "page_ids": [
+      "piclumen-0005",
+      "piclumen-0006",
+      "piclumen-0007",
+      "piclumen-0008",
+      "piclumen-0009",
+      "piclumen-0010",
+      "piclumen-0011",
+      "piclumen-0012",
+      "piclumen-0013",
+      "piclumen-0014",
+      "piclumen-0015",
+      "piclumen-0016",
+      "piclumen-0017",
+      "piclumen-0018",
+      "piclumen-0019"
+     ],
+     "signal": "站点基建",
+     "confidence": "high",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "piclumen-tutorial-tags",
+     "name": "教程标签页簇",
+     "category": "content_strategy",
+     "summary": "16 个 tutorial_tag 标签页（AI 上色、像素画、DND、图生图、放大、素描、提示词等），教程体系分标签归档。",
+     "audience": "想学 AI 画画的用户",
+     "job_to_be_done": "按主题找教程学画法",
+     "page_ids": [
+      "piclumen-0021",
+      "piclumen-0022",
+      "piclumen-0023",
+      "piclumen-0024",
+      "piclumen-0025",
+      "piclumen-0026",
+      "piclumen-0027",
+      "piclumen-0028",
+      "piclumen-0029",
+      "piclumen-0030",
+      "piclumen-0031",
+      "piclumen-0032",
+      "piclumen-0033",
+      "piclumen-0034",
+      "piclumen-0035"
+     ],
+     "signal": "教程系列",
+     "confidence": "high",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "renoise",
+   "source_file": "diff/20261115/renoise.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "renoise-0001",
+     "url": "https://renoise.ai/blog/sheru-bhai-ai-trend",
+     "canonical_url": "https://renoise.ai/blog/sheru-bhai-ai-trend",
+     "original_urls": [
+      "https://renoise.ai/blog/sheru-bhai-ai-trend"
+     ],
+     "page_type": "blog",
+     "slug": "sheru-bhai-ai-trend"
+    }
+   ],
+   "demands": [
+    {
+     "id": "renoise-sheru-bhai-trend",
+     "name": "Sheru Bhai 热点教程",
+     "category": "content_strategy",
+     "summary": "蹭印度网红 Sheru Bhai 热点的 AI 视频教程。",
+     "audience": "追热点视频创作者",
+     "job_to_be_done": "用 AI 复刻 Sheru Bhai 热梗",
+     "page_ids": [
+      "renoise-0001"
+     ],
+     "signal": "教程系列",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "vismuse",
+   "source_file": "diff/20261115/vismuse.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "vismuse-0001",
+     "url": "https://vismuse.com/tools/gangstas-paradise-ai",
+     "canonical_url": "https://vismuse.com/tools/gangstas-paradise-ai",
+     "original_urls": [
+      "https://vismuse.com/tools/gangstas-paradise-ai"
+     ],
+     "page_type": "tool",
+     "slug": "gangstas-paradise-ai"
+    }
+   ],
+   "demands": [
+    {
+     "id": "vismuse-gangstas-paradise",
+     "name": "Gangsta's Paradise 音乐视频工具",
+     "category": "tool",
+     "summary": "以说唱经典 Gangsta's Paradise 为主题的 AI 视频工具页。",
+     "audience": "音乐视频创作者",
+     "job_to_be_done": "用经典说唱曲目做 AI 视频",
+     "page_ids": [
+      "vismuse-0001"
+     ],
+     "signal": "工具上线",
+     "confidence": "medium",
+     "opportunity": "watch",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "wavespeed",
+   "source_file": "diff/20261115/wavespeed.json",
+   "raw_url_count": 2,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 2,
+   "pages": [
+    {
+     "page_id": "wavespeed-0001",
+     "url": "https://wavespeed.ai/models/tripo3d/v2.5/multiview-to-3d",
+     "canonical_url": "https://wavespeed.ai/models/tripo3d/v2.5/multiview-to-3d",
+     "original_urls": [
+      "https://wavespeed.ai/models/tripo3d/v2.5/multiview-to-3d"
+     ],
+     "page_type": "model_api",
+     "slug": "multiview-to-3d"
+    },
+    {
+     "page_id": "wavespeed-0002",
+     "url": "https://wavespeed.ai/models/tripo3d/v2.5/image-to-3d",
+     "canonical_url": "https://wavespeed.ai/models/tripo3d/v2.5/image-to-3d",
+     "original_urls": [
+      "https://wavespeed.ai/models/tripo3d/v2.5/image-to-3d"
+     ],
+     "page_type": "model_api",
+     "slug": "image-to-3d"
+    }
+   ],
+   "demands": [
+    {
+     "id": "wavespeed-tripo3d-multiview-to-3d",
+     "name": "Tripo3D v2.5 多视角转 3D",
+     "category": "model_api",
+     "summary": "Tripo3D v2.5 多视角图片转 3D 模型接口页。",
+     "audience": "3D 资产制作者",
+     "job_to_be_done": "用多张视角图生成 3D 模型",
+     "page_ids": [
+      "wavespeed-0001"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    },
+    {
+     "id": "wavespeed-tripo3d-image-to-3d",
+     "name": "Tripo3D v2.5 单图转 3D",
+     "category": "model_api",
+     "summary": "Tripo3D v2.5 单张图片转 3D 模型接口页。",
+     "audience": "3D 资产制作者",
+     "job_to_be_done": "一张图直接生成 3D 模型",
+     "page_ids": [
+      "wavespeed-0002"
+     ],
+     "signal": "模型上架",
+     "confidence": "high",
+     "opportunity": "worth_researching",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  },
+  {
+   "site": "wireflow",
+   "source_file": "diff/20261115/wireflow.json",
+   "raw_url_count": 1,
+   "invalid_count": 0,
+   "excluded_count": 0,
+   "canonical_page_count": 1,
+   "pages": [
+    {
+     "page_id": "wireflow-0001",
+     "url": "https://www.wireflow.ai/docs/skills/ai-social-media-graphics",
+     "canonical_url": "https://www.wireflow.ai/docs/skills/ai-social-media-graphics",
+     "original_urls": [
+      "https://www.wireflow.ai/docs/skills/ai-social-media-graphics"
+     ],
+     "page_type": "other",
+     "slug": "ai-social-media-graphics"
+    }
+   ],
+   "demands": [
+    {
+     "id": "wireflow-social-media-graphics-docs",
+     "name": "社媒图片技能文档",
+     "category": "content_strategy",
+     "summary": "docs/skills 新增「AI 社媒图片」技能文档，教用户用技能做社媒图。",
+     "audience": "社媒运营者",
+     "job_to_be_done": "按文档用技能批量做社媒图",
+     "page_ids": [
+      "wireflow-0001"
+     ],
+     "signal": "文档上新",
+     "confidence": "medium",
+     "opportunity": "low_priority",
+     "evidence": "inferred",
+     "caveats": [
+      "仅依据 URL 路径与 slug 推断，未打开页面"
+     ]
+    }
+   ],
+   "uncertain_page_ids": []
+  }
+ ],
+ "cross_site_themes": [
+  {
+   "name": "新模型跟进与评测联动",
+   "sites": [
+    "nanobanana",
+    "imagine"
+   ],
+   "demand_ids": [
+    "nanobanana-seedance-2-5-flash",
+    "imagine-seedream-5-5-review"
+   ],
+   "description": "Seedance 2.5 Flash、Seedream 5.5 等新模型一边上架一边出评测，模型新闻周期被各站快速消化。"
+  },
+  {
+   "name": "音乐驱动的 AI 视频内容",
+   "sites": [
+    "flyu",
+    "vismuse",
+    "getstarrd"
+   ],
+   "demand_ids": [
+    "flyu-ai-singer-music-video",
+    "vismuse-gangstas-paradise",
+    "getstarrd-broke-his-ankles"
+   ],
+   "description": "AI 歌手 MV、经典说唱曲目、舞蹈热梗模板同日出现，音乐 + 舞蹈 + 热梗的组合仍是视频内容主力。"
+  },
+  {
+   "name": "SEO 编辑内容批量上线",
+   "sites": [
+    "basedlabs",
+    "imagine",
+    "renoise",
+    "higgsfield",
+    "wireflow"
+   ],
+   "demand_ids": [
+    "basedlabs-hard-drive-reuse",
+    "basedlabs-linkedin-outreach",
+    "imagine-best-ai-video-generator-id",
+    "renoise-sheru-bhai-trend",
+    "higgsfield-adoption-ramp-article",
+    "wireflow-social-media-graphics-docs"
+   ],
+   "description": "多家同日批量上新教程、评测与本地化 SEO 文章，内容获客仍是主要打法。"
+  }
+ ],
+ "highlights": [
+  {
+   "site": "piclumen",
+   "demand_id": "piclumen-faq",
+   "reason": "一天补齐 15 页 FAQ 加 16 页教程标签，站点从工具站进入正式运营期的基建动作明显。"
+  },
+  {
+   "site": "fotor",
+   "demand_id": "fotor-video-enhancement",
+   "reason": "19 个页面覆盖 12 类细分需求，视频提亮/HD 转换/4K 放大的画质增强簇同日上新，工具矩阵铺得细。"
+  },
+  {
+   "site": "wavespeed",
+   "demand_id": "wavespeed-tripo3d-multiview-to-3d",
+   "reason": "Tripo3D v2.5 单图与多视角两种 3D 生成操作同时上架，3D 资产需求值得跟进。"
+  },
+  {
+   "site": "getstarrd",
+   "demand_id": "getstarrd-jingle-bell-rock-dance",
+   "reason": "圣诞舞蹈模板连续第三天出现在 diff 里，节日视频需求持续升温。"
+  }
+ ],
+ "notes": [
+  "这是 diff/20261115 的单日 sitemap 快照，只记录这一天各站新增 URL 里能看出的用户任务。",
+  "未打开的需求标明只根据 slug 与路径推断；打开核对过的需求在待核实里写了 URL。",
+  "genematic 的 scenarios/679 数字 slug 含义不明，放入 uncertain_page_ids。",
+  "同一任务在多语言路径下复制时（如 fotor 的 jp/ 日语页），合并为一条本地化记录，不重复计任务。"
+ ]
+}

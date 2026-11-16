@@ -1,0 +1,830 @@
+{
+  "date": "20261116",
+  "sites": [
+    {
+      "site": "affogato",
+      "source_file": "diff/20261116/affogato.json",
+      "raw_url_count": 45,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 40,
+      "pages": [
+        {
+          "page_id": "affogato-0001",
+          "url": "https://affogato.ai/models/kling",
+          "canonical_url": "https://affogato.ai/models/kling",
+          "original_urls": [
+            "https://affogato.ai/models/kling"
+          ],
+          "page_type": "model_api",
+          "slug": "kling"
+        },
+        {
+          "page_id": "affogato-0002",
+          "url": "https://affogato.ai/models/kling/image-to-video",
+          "canonical_url": "https://affogato.ai/models/kling/image-to-video",
+          "original_urls": [
+            "https://affogato.ai/models/kling/image-to-video"
+          ],
+          "page_type": "model_api",
+          "slug": "image-to-video"
+        },
+        {
+          "page_id": "affogato-0003",
+          "url": "https://affogato.ai/compare/kling-vs-seedance",
+          "canonical_url": "https://affogato.ai/compare/kling-vs-seedance",
+          "original_urls": [
+            "https://affogato.ai/compare/kling-vs-seedance"
+          ],
+          "page_type": "other",
+          "slug": "kling-vs-seedance"
+        },
+        {
+          "page_id": "affogato-0004",
+          "url": "https://affogato.ai/alternatives/midjourney",
+          "canonical_url": "https://affogato.ai/alternatives/midjourney",
+          "original_urls": [
+            "https://affogato.ai/alternatives/midjourney"
+          ],
+          "page_type": "other",
+          "slug": "midjourney"
+        },
+        {
+          "page_id": "affogato-0005",
+          "url": "https://affogato.ai/models/seedance-2-0",
+          "canonical_url": "https://affogato.ai/models/seedance-2-0",
+          "original_urls": [
+            "https://affogato.ai/models/seedance-2-0"
+          ],
+          "page_type": "model_api",
+          "slug": "seedance-2-0"
+        },
+        {
+          "page_id": "affogato-0006",
+          "url": "https://affogato.ai/models/seedance-2-5",
+          "canonical_url": "https://affogato.ai/models/seedance-2-5",
+          "original_urls": [
+            "https://affogato.ai/models/seedance-2-5"
+          ],
+          "page_type": "model_api",
+          "slug": "seedance-2-5"
+        },
+        {
+          "page_id": "affogato-0007",
+          "url": "https://affogato.ai/models/nano-banana",
+          "canonical_url": "https://affogato.ai/models/nano-banana",
+          "original_urls": [
+            "https://affogato.ai/models/nano-banana"
+          ],
+          "page_type": "model_api",
+          "slug": "nano-banana"
+        },
+        {
+          "page_id": "affogato-0008",
+          "url": "https://affogato.ai/models/nano-banana-pro",
+          "canonical_url": "https://affogato.ai/models/nano-banana-pro",
+          "original_urls": [
+            "https://affogato.ai/models/nano-banana-pro"
+          ],
+          "page_type": "model_api",
+          "slug": "nano-banana-pro"
+        },
+        {
+          "page_id": "affogato-0009",
+          "url": "https://affogato.ai/models/nano-banana-2",
+          "canonical_url": "https://affogato.ai/models/nano-banana-2",
+          "original_urls": [
+            "https://affogato.ai/models/nano-banana-2"
+          ],
+          "page_type": "model_api",
+          "slug": "nano-banana-2"
+        },
+        {
+          "page_id": "affogato-0010",
+          "url": "https://affogato.ai/compare/nano-banana-2-vs-pro",
+          "canonical_url": "https://affogato.ai/compare/nano-banana-2-vs-pro",
+          "original_urls": [
+            "https://affogato.ai/compare/nano-banana-2-vs-pro"
+          ],
+          "page_type": "other",
+          "slug": "nano-banana-2-vs-pro"
+        },
+        {
+          "page_id": "affogato-0011",
+          "url": "https://affogato.ai/models/hailuo",
+          "canonical_url": "https://affogato.ai/models/hailuo",
+          "original_urls": [
+            "https://affogato.ai/models/hailuo"
+          ],
+          "page_type": "model_api",
+          "slug": "hailuo"
+        },
+        {
+          "page_id": "affogato-0012",
+          "url": "https://affogato.ai/models/wan",
+          "canonical_url": "https://affogato.ai/models/wan",
+          "original_urls": [
+            "https://affogato.ai/models/wan"
+          ],
+          "page_type": "model_api",
+          "slug": "wan"
+        },
+        {
+          "page_id": "affogato-0013",
+          "url": "https://affogato.ai/compare/affogato-vs-higgsfield",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-higgsfield",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-higgsfield"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-higgsfield"
+        },
+        {
+          "page_id": "affogato-0014",
+          "url": "https://affogato.ai/alternatives/higgsfield",
+          "canonical_url": "https://affogato.ai/alternatives/higgsfield",
+          "original_urls": [
+            "https://affogato.ai/alternatives/higgsfield"
+          ],
+          "page_type": "other",
+          "slug": "higgsfield"
+        },
+        {
+          "page_id": "affogato-0015",
+          "url": "https://affogato.ai/models/luma-ray",
+          "canonical_url": "https://affogato.ai/models/luma-ray",
+          "original_urls": [
+            "https://affogato.ai/models/luma-ray"
+          ],
+          "page_type": "model_api",
+          "slug": "luma-ray"
+        },
+        {
+          "page_id": "affogato-0016",
+          "url": "https://affogato.ai/models/grok-imagine",
+          "canonical_url": "https://affogato.ai/models/grok-imagine",
+          "original_urls": [
+            "https://affogato.ai/models/grok-imagine"
+          ],
+          "page_type": "model_api",
+          "slug": "grok-imagine"
+        },
+        {
+          "page_id": "affogato-0017",
+          "url": "https://affogato.ai/compare/affogato-vs-heygen",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-heygen",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-heygen"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-heygen"
+        },
+        {
+          "page_id": "affogato-0018",
+          "url": "https://affogato.ai/alternatives/heygen",
+          "canonical_url": "https://affogato.ai/alternatives/heygen",
+          "original_urls": [
+            "https://affogato.ai/alternatives/heygen"
+          ],
+          "page_type": "other",
+          "slug": "heygen"
+        },
+        {
+          "page_id": "affogato-0019",
+          "url": "https://affogato.ai/compare/affogato-vs-invideo",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-invideo",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-invideo"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-invideo"
+        },
+        {
+          "page_id": "affogato-0020",
+          "url": "https://affogato.ai/alternatives/invideo",
+          "canonical_url": "https://affogato.ai/alternatives/invideo",
+          "original_urls": [
+            "https://affogato.ai/alternatives/invideo"
+          ],
+          "page_type": "other",
+          "slug": "invideo"
+        },
+        {
+          "page_id": "affogato-0021",
+          "url": "https://affogato.ai/compare/affogato-vs-krea",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-krea",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-krea"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-krea"
+        },
+        {
+          "page_id": "affogato-0022",
+          "url": "https://affogato.ai/compare/affogato-vs-openart",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-openart",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-openart"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-openart"
+        },
+        {
+          "page_id": "affogato-0023",
+          "url": "https://affogato.ai/compare/affogato-vs-freepik",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-freepik",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-freepik"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-freepik"
+        },
+        {
+          "page_id": "affogato-0024",
+          "url": "https://affogato.ai/models/flux",
+          "canonical_url": "https://affogato.ai/models/flux",
+          "original_urls": [
+            "https://affogato.ai/models/flux"
+          ],
+          "page_type": "model_api",
+          "slug": "flux"
+        },
+        {
+          "page_id": "affogato-0025",
+          "url": "https://affogato.ai/compare/seedance-2-0-vs-2-5",
+          "canonical_url": "https://affogato.ai/compare/seedance-2-0-vs-2-5",
+          "original_urls": [
+            "https://affogato.ai/compare/seedance-2-0-vs-2-5"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-0-vs-2-5"
+        },
+        {
+          "page_id": "affogato-0026",
+          "url": "https://affogato.ai/models/seedream",
+          "canonical_url": "https://affogato.ai/models/seedream",
+          "original_urls": [
+            "https://affogato.ai/models/seedream"
+          ],
+          "page_type": "model_api",
+          "slug": "seedream"
+        },
+        {
+          "page_id": "affogato-0027",
+          "url": "https://affogato.ai/models/gpt-image",
+          "canonical_url": "https://affogato.ai/models/gpt-image",
+          "original_urls": [
+            "https://affogato.ai/models/gpt-image"
+          ],
+          "page_type": "model_api",
+          "slug": "gpt-image"
+        },
+        {
+          "page_id": "affogato-0028",
+          "url": "https://affogato.ai/models/ideogram",
+          "canonical_url": "https://affogato.ai/models/ideogram",
+          "original_urls": [
+            "https://affogato.ai/models/ideogram"
+          ],
+          "page_type": "model_api",
+          "slug": "ideogram"
+        },
+        {
+          "page_id": "affogato-0029",
+          "url": "https://affogato.ai/models/recraft",
+          "canonical_url": "https://affogato.ai/models/recraft",
+          "original_urls": [
+            "https://affogato.ai/models/recraft"
+          ],
+          "page_type": "model_api",
+          "slug": "recraft"
+        },
+        {
+          "page_id": "affogato-0030",
+          "url": "https://affogato.ai/models/qwen-image",
+          "canonical_url": "https://affogato.ai/models/qwen-image",
+          "original_urls": [
+            "https://affogato.ai/models/qwen-image"
+          ],
+          "page_type": "model_api",
+          "slug": "qwen-image"
+        },
+        {
+          "page_id": "affogato-0031",
+          "url": "https://affogato.ai/models/vidu",
+          "canonical_url": "https://affogato.ai/models/vidu",
+          "original_urls": [
+            "https://affogato.ai/models/vidu"
+          ],
+          "page_type": "model_api",
+          "slug": "vidu"
+        },
+        {
+          "page_id": "affogato-0032",
+          "url": "https://affogato.ai/models/pixverse",
+          "canonical_url": "https://affogato.ai/models/pixverse",
+          "original_urls": [
+            "https://affogato.ai/models/pixverse"
+          ],
+          "page_type": "model_api",
+          "slug": "pixverse"
+        },
+        {
+          "page_id": "affogato-0033",
+          "url": "https://affogato.ai/models/ltx",
+          "canonical_url": "https://affogato.ai/models/ltx",
+          "original_urls": [
+            "https://affogato.ai/models/ltx"
+          ],
+          "page_type": "model_api",
+          "slug": "ltx"
+        },
+        {
+          "page_id": "affogato-0034",
+          "url": "https://affogato.ai/pt-br/modelos/kling",
+          "canonical_url": "https://affogato.ai/modelos/kling",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/kling",
+            "https://affogato.ai/es/modelos/kling"
+          ],
+          "page_type": "other",
+          "slug": "kling"
+        },
+        {
+          "page_id": "affogato-0035",
+          "url": "https://affogato.ai/pt-br/modelos/seedance-2-0",
+          "canonical_url": "https://affogato.ai/modelos/seedance-2-0",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/seedance-2-0",
+            "https://affogato.ai/es/modelos/seedance-2-0"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-0"
+        },
+        {
+          "page_id": "affogato-0036",
+          "url": "https://affogato.ai/pt-br/modelos/nano-banana",
+          "canonical_url": "https://affogato.ai/modelos/nano-banana",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/nano-banana",
+            "https://affogato.ai/es/modelos/nano-banana"
+          ],
+          "page_type": "other",
+          "slug": "nano-banana"
+        },
+        {
+          "page_id": "affogato-0037",
+          "url": "https://affogato.ai/pt-br/modelos/nano-banana-pro",
+          "canonical_url": "https://affogato.ai/modelos/nano-banana-pro",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/nano-banana-pro",
+            "https://affogato.ai/es/modelos/nano-banana-pro"
+          ],
+          "page_type": "other",
+          "slug": "nano-banana-pro"
+        },
+        {
+          "page_id": "affogato-0038",
+          "url": "https://affogato.ai/pt-br/modelos/kling/imagem-para-video",
+          "canonical_url": "https://affogato.ai/modelos/kling/imagem-para-video",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/kling/imagem-para-video"
+          ],
+          "page_type": "other",
+          "slug": "imagem-para-video"
+        },
+        {
+          "page_id": "affogato-0039",
+          "url": "https://affogato.ai/pt-br/modelos/flux",
+          "canonical_url": "https://affogato.ai/modelos/flux",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/flux",
+            "https://affogato.ai/es/modelos/flux"
+          ],
+          "page_type": "other",
+          "slug": "flux"
+        },
+        {
+          "page_id": "affogato-0040",
+          "url": "https://affogato.ai/es/modelos/kling/imagen-a-video",
+          "canonical_url": "https://affogato.ai/modelos/kling/imagen-a-video",
+          "original_urls": [
+            "https://affogato.ai/es/modelos/kling/imagen-a-video"
+          ],
+          "page_type": "other",
+          "slug": "imagen-a-video"
+        }
+      ]
+    },
+    {
+      "site": "flyu",
+      "source_file": "diff/20261116/flyu.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "flyu-0001",
+          "url": "https://flyu.ai/blog/ai-singer-lip-sync-video",
+          "canonical_url": "https://flyu.ai/blog/ai-singer-lip-sync-video",
+          "original_urls": [
+            "https://flyu.ai/blog/ai-singer-lip-sync-video"
+          ],
+          "page_type": "blog",
+          "slug": "ai-singer-lip-sync-video"
+        }
+      ]
+    },
+    {
+      "site": "genematic",
+      "source_file": "diff/20261116/genematic.json",
+      "raw_url_count": 12,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "genematic-0001",
+          "url": "https://genematic.ai/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+          "canonical_url": "https://genematic.ai/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+          "original_urls": [
+            "https://genematic.ai/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+            "https://genematic.ai/es/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+            "https://genematic.ai/pt/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+            "https://genematic.ai/fr/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+            "https://genematic.ai/tr/feed/11424e26-3dc3-45be-883a-d9ce90018756",
+            "https://genematic.ai/ar/feed/11424e26-3dc3-45be-883a-d9ce90018756"
+          ],
+          "page_type": "other",
+          "slug": "11424e26-3dc3-45be-883a-d9ce90018756"
+        },
+        {
+          "page_id": "genematic-0002",
+          "url": "https://genematic.ai/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+          "canonical_url": "https://genematic.ai/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+          "original_urls": [
+            "https://genematic.ai/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+            "https://genematic.ai/es/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+            "https://genematic.ai/pt/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+            "https://genematic.ai/fr/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+            "https://genematic.ai/tr/feed/7c684394-6a24-4d99-b349-aedd1264f30c",
+            "https://genematic.ai/ar/feed/7c684394-6a24-4d99-b349-aedd1264f30c"
+          ],
+          "page_type": "other",
+          "slug": "7c684394-6a24-4d99-b349-aedd1264f30c"
+        }
+      ]
+    },
+    {
+      "site": "getstarrd",
+      "source_file": "diff/20261116/getstarrd.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "getstarrd-0001",
+          "url": "https://www.getstarrd.app/template/monkey-eating-apple-ai-video",
+          "canonical_url": "https://www.getstarrd.app/template/monkey-eating-apple-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/template/monkey-eating-apple-ai-video"
+          ],
+          "page_type": "template",
+          "slug": "monkey-eating-apple-ai-video"
+        },
+        {
+          "page_id": "getstarrd-0002",
+          "url": "https://www.getstarrd.app/blog/how-to-make-monkey-eating-apple-ai-video",
+          "canonical_url": "https://www.getstarrd.app/blog/how-to-make-monkey-eating-apple-ai-video",
+          "original_urls": [
+            "https://www.getstarrd.app/blog/how-to-make-monkey-eating-apple-ai-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-make-monkey-eating-apple-ai-video"
+        }
+      ]
+    },
+    {
+      "site": "vidguru",
+      "source_file": "diff/20261116/vidguru.json",
+      "raw_url_count": 90,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 20,
+      "pages": [
+        {
+          "page_id": "vidguru-0001",
+          "url": "https://www.vidguru.ai/text-to-video/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/text-to-video/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/zh/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ja/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ko/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/pt/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/fr/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/es/text-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/de/text-to-video/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0002",
+          "url": "https://www.vidguru.ai/tw/text-to-video/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/tw/text-to-video/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/text-to-video/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0003",
+          "url": "https://www.vidguru.ai/image-to-video/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/image-to-video/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/zh/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ja/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ko/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/pt/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/fr/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/es/image-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/de/image-to-video/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0004",
+          "url": "https://www.vidguru.ai/tw/image-to-video/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/tw/image-to-video/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/image-to-video/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0005",
+          "url": "https://www.vidguru.ai/reference-to-video/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/reference-to-video/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/zh/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ja/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ko/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/pt/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/fr/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/es/reference-to-video/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/de/reference-to-video/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0006",
+          "url": "https://www.vidguru.ai/tw/reference-to-video/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/tw/reference-to-video/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/reference-to-video/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0007",
+          "url": "https://www.vidguru.ai/ai-video-edit/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/ai-video-edit/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/zh/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ja/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ko/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/pt/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/fr/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/es/ai-video-edit/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/de/ai-video-edit/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0008",
+          "url": "https://www.vidguru.ai/tw/ai-video-edit/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/tw/ai-video-edit/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/ai-video-edit/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0009",
+          "url": "https://www.vidguru.ai/ai-models/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/ai-models/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/zh/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ja/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/ko/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/pt/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/fr/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/es/ai-models/gemini-omni-1.2-flash",
+            "https://www.vidguru.ai/de/ai-models/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0010",
+          "url": "https://www.vidguru.ai/tw/ai-models/gemini-omni-1.2-flash",
+          "canonical_url": "https://www.vidguru.ai/tw/ai-models/gemini-omni-1.2-flash",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/ai-models/gemini-omni-1.2-flash"
+          ],
+          "page_type": "other",
+          "slug": "gemini-omni-1.2-flash"
+        },
+        {
+          "page_id": "vidguru-0011",
+          "url": "https://www.vidguru.ai/text-to-video/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/text-to-video/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/zh/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/ja/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/ko/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/pt/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/fr/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/es/text-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/de/text-to-video/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0012",
+          "url": "https://www.vidguru.ai/image-to-video/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/image-to-video/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/zh/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/ja/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/ko/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/pt/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/fr/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/es/image-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/de/image-to-video/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0013",
+          "url": "https://www.vidguru.ai/reference-to-video/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/reference-to-video/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/zh/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/ja/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/ko/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/pt/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/fr/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/es/reference-to-video/minimax-h3-speed",
+            "https://www.vidguru.ai/de/reference-to-video/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0014",
+          "url": "https://www.vidguru.ai/ai-video-edit/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/ai-video-edit/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/zh/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/ja/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/ko/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/pt/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/fr/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/es/ai-video-edit/minimax-h3-speed",
+            "https://www.vidguru.ai/de/ai-video-edit/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0015",
+          "url": "https://www.vidguru.ai/ai-models/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/ai-models/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/zh/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/ja/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/ko/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/pt/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/fr/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/es/ai-models/minimax-h3-speed",
+            "https://www.vidguru.ai/de/ai-models/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0016",
+          "url": "https://www.vidguru.ai/tw/text-to-video/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/tw/text-to-video/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/text-to-video/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0017",
+          "url": "https://www.vidguru.ai/tw/image-to-video/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/tw/image-to-video/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/image-to-video/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0018",
+          "url": "https://www.vidguru.ai/tw/reference-to-video/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/tw/reference-to-video/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/reference-to-video/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0019",
+          "url": "https://www.vidguru.ai/tw/ai-video-edit/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/tw/ai-video-edit/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/ai-video-edit/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        },
+        {
+          "page_id": "vidguru-0020",
+          "url": "https://www.vidguru.ai/tw/ai-models/minimax-h3-speed",
+          "canonical_url": "https://www.vidguru.ai/tw/ai-models/minimax-h3-speed",
+          "original_urls": [
+            "https://www.vidguru.ai/tw/ai-models/minimax-h3-speed"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-speed"
+        }
+      ]
+    },
+    {
+      "site": "wireflow",
+      "source_file": "diff/20261116/wireflow.json",
+      "raw_url_count": 3,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "wireflow-0001",
+          "url": "https://www.wireflow.ai/features/ai-video-extender",
+          "canonical_url": "https://www.wireflow.ai/features/ai-video-extender",
+          "original_urls": [
+            "https://www.wireflow.ai/features/ai-video-extender"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-extender"
+        },
+        {
+          "page_id": "wireflow-0002",
+          "url": "https://www.wireflow.ai/features/ai-slideshow-maker",
+          "canonical_url": "https://www.wireflow.ai/features/ai-slideshow-maker",
+          "original_urls": [
+            "https://www.wireflow.ai/features/ai-slideshow-maker"
+          ],
+          "page_type": "other",
+          "slug": "ai-slideshow-maker"
+        },
+        {
+          "page_id": "wireflow-0003",
+          "url": "https://www.wireflow.ai/docs/skills/ai-infographic-generator",
+          "canonical_url": "https://www.wireflow.ai/docs/skills/ai-infographic-generator",
+          "original_urls": [
+            "https://www.wireflow.ai/docs/skills/ai-infographic-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-infographic-generator"
+        }
+      ]
+    }
+  ]
+}
