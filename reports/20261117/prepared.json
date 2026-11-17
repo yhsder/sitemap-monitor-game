@@ -1,0 +1,2198 @@
+{
+  "date": "20261117",
+  "sites": [
+    {
+      "site": "affogato",
+      "source_file": "diff/20261117/affogato.json",
+      "raw_url_count": 48,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 42,
+      "pages": [
+        {
+          "page_id": "affogato-0001",
+          "url": "https://affogato.ai/compare/kling-vs-wan",
+          "canonical_url": "https://affogato.ai/compare/kling-vs-wan",
+          "original_urls": [
+            "https://affogato.ai/compare/kling-vs-wan"
+          ],
+          "page_type": "other",
+          "slug": "kling-vs-wan"
+        },
+        {
+          "page_id": "affogato-0002",
+          "url": "https://affogato.ai/compare/seedance-vs-wan",
+          "canonical_url": "https://affogato.ai/compare/seedance-vs-wan",
+          "original_urls": [
+            "https://affogato.ai/compare/seedance-vs-wan"
+          ],
+          "page_type": "other",
+          "slug": "seedance-vs-wan"
+        },
+        {
+          "page_id": "affogato-0003",
+          "url": "https://affogato.ai/compare/nano-banana-vs-gpt-image",
+          "canonical_url": "https://affogato.ai/compare/nano-banana-vs-gpt-image",
+          "original_urls": [
+            "https://affogato.ai/compare/nano-banana-vs-gpt-image"
+          ],
+          "page_type": "other",
+          "slug": "nano-banana-vs-gpt-image"
+        },
+        {
+          "page_id": "affogato-0004",
+          "url": "https://affogato.ai/compare/nano-banana-vs-seedream",
+          "canonical_url": "https://affogato.ai/compare/nano-banana-vs-seedream",
+          "original_urls": [
+            "https://affogato.ai/compare/nano-banana-vs-seedream"
+          ],
+          "page_type": "other",
+          "slug": "nano-banana-vs-seedream"
+        },
+        {
+          "page_id": "affogato-0005",
+          "url": "https://affogato.ai/models/hunyuan-image",
+          "canonical_url": "https://affogato.ai/models/hunyuan-image",
+          "original_urls": [
+            "https://affogato.ai/models/hunyuan-image"
+          ],
+          "page_type": "model_api",
+          "slug": "hunyuan-image"
+        },
+        {
+          "page_id": "affogato-0006",
+          "url": "https://affogato.ai/models/topaz-upscale",
+          "canonical_url": "https://affogato.ai/models/topaz-upscale",
+          "original_urls": [
+            "https://affogato.ai/models/topaz-upscale"
+          ],
+          "page_type": "model_api",
+          "slug": "topaz-upscale"
+        },
+        {
+          "page_id": "affogato-0007",
+          "url": "https://affogato.ai/models/bria",
+          "canonical_url": "https://affogato.ai/models/bria",
+          "original_urls": [
+            "https://affogato.ai/models/bria"
+          ],
+          "page_type": "model_api",
+          "slug": "bria"
+        },
+        {
+          "page_id": "affogato-0008",
+          "url": "https://affogato.ai/models/hidream",
+          "canonical_url": "https://affogato.ai/models/hidream",
+          "original_urls": [
+            "https://affogato.ai/models/hidream"
+          ],
+          "page_type": "model_api",
+          "slug": "hidream"
+        },
+        {
+          "page_id": "affogato-0009",
+          "url": "https://affogato.ai/models/omnihuman",
+          "canonical_url": "https://affogato.ai/models/omnihuman",
+          "original_urls": [
+            "https://affogato.ai/models/omnihuman"
+          ],
+          "page_type": "model_api",
+          "slug": "omnihuman"
+        },
+        {
+          "page_id": "affogato-0010",
+          "url": "https://affogato.ai/models/topaz-video-upscale",
+          "canonical_url": "https://affogato.ai/models/topaz-video-upscale",
+          "original_urls": [
+            "https://affogato.ai/models/topaz-video-upscale"
+          ],
+          "page_type": "model_api",
+          "slug": "topaz-video-upscale"
+        },
+        {
+          "page_id": "affogato-0011",
+          "url": "https://affogato.ai/models/happy-horse",
+          "canonical_url": "https://affogato.ai/models/happy-horse",
+          "original_urls": [
+            "https://affogato.ai/models/happy-horse"
+          ],
+          "page_type": "model_api",
+          "slug": "happy-horse"
+        },
+        {
+          "page_id": "affogato-0012",
+          "url": "https://affogato.ai/models/sync-lipsync",
+          "canonical_url": "https://affogato.ai/models/sync-lipsync",
+          "original_urls": [
+            "https://affogato.ai/models/sync-lipsync"
+          ],
+          "page_type": "model_api",
+          "slug": "sync-lipsync"
+        },
+        {
+          "page_id": "affogato-0013",
+          "url": "https://affogato.ai/alternatives/runway",
+          "canonical_url": "https://affogato.ai/alternatives/runway",
+          "original_urls": [
+            "https://affogato.ai/alternatives/runway"
+          ],
+          "page_type": "other",
+          "slug": "runway"
+        },
+        {
+          "page_id": "affogato-0014",
+          "url": "https://affogato.ai/alternatives/krea",
+          "canonical_url": "https://affogato.ai/alternatives/krea",
+          "original_urls": [
+            "https://affogato.ai/alternatives/krea"
+          ],
+          "page_type": "other",
+          "slug": "krea"
+        },
+        {
+          "page_id": "affogato-0015",
+          "url": "https://affogato.ai/alternatives/openart",
+          "canonical_url": "https://affogato.ai/alternatives/openart",
+          "original_urls": [
+            "https://affogato.ai/alternatives/openart"
+          ],
+          "page_type": "other",
+          "slug": "openart"
+        },
+        {
+          "page_id": "affogato-0016",
+          "url": "https://affogato.ai/alternatives/freepik",
+          "canonical_url": "https://affogato.ai/alternatives/freepik",
+          "original_urls": [
+            "https://affogato.ai/alternatives/freepik"
+          ],
+          "page_type": "other",
+          "slug": "freepik"
+        },
+        {
+          "page_id": "affogato-0017",
+          "url": "https://affogato.ai/compare/affogato-vs-arcads",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-arcads",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-arcads"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-arcads"
+        },
+        {
+          "page_id": "affogato-0018",
+          "url": "https://affogato.ai/alternatives/arcads",
+          "canonical_url": "https://affogato.ai/alternatives/arcads",
+          "original_urls": [
+            "https://affogato.ai/alternatives/arcads"
+          ],
+          "page_type": "other",
+          "slug": "arcads"
+        },
+        {
+          "page_id": "affogato-0019",
+          "url": "https://affogato.ai/compare/affogato-vs-creatify",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-creatify",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-creatify"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-creatify"
+        },
+        {
+          "page_id": "affogato-0020",
+          "url": "https://affogato.ai/compare/affogato-vs-leonardo",
+          "canonical_url": "https://affogato.ai/compare/affogato-vs-leonardo",
+          "original_urls": [
+            "https://affogato.ai/compare/affogato-vs-leonardo"
+          ],
+          "page_type": "other",
+          "slug": "affogato-vs-leonardo"
+        },
+        {
+          "page_id": "affogato-0021",
+          "url": "https://affogato.ai/alternatives/leonardo",
+          "canonical_url": "https://affogato.ai/alternatives/leonardo",
+          "original_urls": [
+            "https://affogato.ai/alternatives/leonardo"
+          ],
+          "page_type": "other",
+          "slug": "leonardo"
+        },
+        {
+          "page_id": "affogato-0022",
+          "url": "https://affogato.ai/models/krea-image",
+          "canonical_url": "https://affogato.ai/models/krea-image",
+          "original_urls": [
+            "https://affogato.ai/models/krea-image"
+          ],
+          "page_type": "model_api",
+          "slug": "krea-image"
+        },
+        {
+          "page_id": "affogato-0023",
+          "url": "https://affogato.ai/models/elevenlabs",
+          "canonical_url": "https://affogato.ai/models/elevenlabs",
+          "original_urls": [
+            "https://affogato.ai/models/elevenlabs"
+          ],
+          "page_type": "model_api",
+          "slug": "elevenlabs"
+        },
+        {
+          "page_id": "affogato-0024",
+          "url": "https://affogato.ai/models/lyria",
+          "canonical_url": "https://affogato.ai/models/lyria",
+          "original_urls": [
+            "https://affogato.ai/models/lyria"
+          ],
+          "page_type": "model_api",
+          "slug": "lyria"
+        },
+        {
+          "page_id": "affogato-0025",
+          "url": "https://affogato.ai/models/stable-audio",
+          "canonical_url": "https://affogato.ai/models/stable-audio",
+          "original_urls": [
+            "https://affogato.ai/models/stable-audio"
+          ],
+          "page_type": "model_api",
+          "slug": "stable-audio"
+        },
+        {
+          "page_id": "affogato-0026",
+          "url": "https://affogato.ai/models/minimax-speech",
+          "canonical_url": "https://affogato.ai/models/minimax-speech",
+          "original_urls": [
+            "https://affogato.ai/models/minimax-speech"
+          ],
+          "page_type": "model_api",
+          "slug": "minimax-speech"
+        },
+        {
+          "page_id": "affogato-0027",
+          "url": "https://affogato.ai/models/seedream-4-5",
+          "canonical_url": "https://affogato.ai/models/seedream-4-5",
+          "original_urls": [
+            "https://affogato.ai/models/seedream-4-5"
+          ],
+          "page_type": "model_api",
+          "slug": "seedream-4-5"
+        },
+        {
+          "page_id": "affogato-0028",
+          "url": "https://affogato.ai/models/seedvr2",
+          "canonical_url": "https://affogato.ai/models/seedvr2",
+          "original_urls": [
+            "https://affogato.ai/models/seedvr2"
+          ],
+          "page_type": "model_api",
+          "slug": "seedvr2"
+        },
+        {
+          "page_id": "affogato-0029",
+          "url": "https://affogato.ai/models/gemini-omni",
+          "canonical_url": "https://affogato.ai/models/gemini-omni",
+          "original_urls": [
+            "https://affogato.ai/models/gemini-omni"
+          ],
+          "page_type": "model_api",
+          "slug": "gemini-omni"
+        },
+        {
+          "page_id": "affogato-0030",
+          "url": "https://affogato.ai/models/kling-o1",
+          "canonical_url": "https://affogato.ai/models/kling-o1",
+          "original_urls": [
+            "https://affogato.ai/models/kling-o1"
+          ],
+          "page_type": "model_api",
+          "slug": "kling-o1"
+        },
+        {
+          "page_id": "affogato-0031",
+          "url": "https://affogato.ai/models/minimax-h3",
+          "canonical_url": "https://affogato.ai/models/minimax-h3",
+          "original_urls": [
+            "https://affogato.ai/models/minimax-h3"
+          ],
+          "page_type": "model_api",
+          "slug": "minimax-h3"
+        },
+        {
+          "page_id": "affogato-0032",
+          "url": "https://affogato.ai/models/wan-2-2",
+          "canonical_url": "https://affogato.ai/models/wan-2-2",
+          "original_urls": [
+            "https://affogato.ai/models/wan-2-2"
+          ],
+          "page_type": "model_api",
+          "slug": "wan-2-2"
+        },
+        {
+          "page_id": "affogato-0033",
+          "url": "https://affogato.ai/alternatives/sora",
+          "canonical_url": "https://affogato.ai/alternatives/sora",
+          "original_urls": [
+            "https://affogato.ai/alternatives/sora"
+          ],
+          "page_type": "other",
+          "slug": "sora"
+        },
+        {
+          "page_id": "affogato-0034",
+          "url": "https://affogato.ai/alternatives/suno",
+          "canonical_url": "https://affogato.ai/alternatives/suno",
+          "original_urls": [
+            "https://affogato.ai/alternatives/suno"
+          ],
+          "page_type": "other",
+          "slug": "suno"
+        },
+        {
+          "page_id": "affogato-0035",
+          "url": "https://affogato.ai/models/kling-4",
+          "canonical_url": "https://affogato.ai/models/kling-4",
+          "original_urls": [
+            "https://affogato.ai/models/kling-4"
+          ],
+          "page_type": "model_api",
+          "slug": "kling-4"
+        },
+        {
+          "page_id": "affogato-0036",
+          "url": "https://affogato.ai/models/kling-2-6",
+          "canonical_url": "https://affogato.ai/models/kling-2-6",
+          "original_urls": [
+            "https://affogato.ai/models/kling-2-6"
+          ],
+          "page_type": "model_api",
+          "slug": "kling-2-6"
+        },
+        {
+          "page_id": "affogato-0037",
+          "url": "https://affogato.ai/pt-br/modelos/seedance-2-5",
+          "canonical_url": "https://affogato.ai/modelos/seedance-2-5",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/seedance-2-5",
+            "https://affogato.ai/es/modelos/seedance-2-5"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5"
+        },
+        {
+          "page_id": "affogato-0038",
+          "url": "https://affogato.ai/pt-br/modelos/hailuo",
+          "canonical_url": "https://affogato.ai/modelos/hailuo",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/hailuo",
+            "https://affogato.ai/es/modelos/hailuo"
+          ],
+          "page_type": "other",
+          "slug": "hailuo"
+        },
+        {
+          "page_id": "affogato-0039",
+          "url": "https://affogato.ai/pt-br/modelos/wan",
+          "canonical_url": "https://affogato.ai/modelos/wan",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/wan",
+            "https://affogato.ai/es/modelos/wan"
+          ],
+          "page_type": "other",
+          "slug": "wan"
+        },
+        {
+          "page_id": "affogato-0040",
+          "url": "https://affogato.ai/pt-br/modelos/gpt-image",
+          "canonical_url": "https://affogato.ai/modelos/gpt-image",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/gpt-image",
+            "https://affogato.ai/es/modelos/gpt-image"
+          ],
+          "page_type": "other",
+          "slug": "gpt-image"
+        },
+        {
+          "page_id": "affogato-0041",
+          "url": "https://affogato.ai/pt-br/modelos/seedream",
+          "canonical_url": "https://affogato.ai/modelos/seedream",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/seedream",
+            "https://affogato.ai/es/modelos/seedream"
+          ],
+          "page_type": "other",
+          "slug": "seedream"
+        },
+        {
+          "page_id": "affogato-0042",
+          "url": "https://affogato.ai/pt-br/modelos/grok-imagine",
+          "canonical_url": "https://affogato.ai/modelos/grok-imagine",
+          "original_urls": [
+            "https://affogato.ai/pt-br/modelos/grok-imagine",
+            "https://affogato.ai/es/modelos/grok-imagine"
+          ],
+          "page_type": "other",
+          "slug": "grok-imagine"
+        }
+      ]
+    },
+    {
+      "site": "easemate",
+      "source_file": "diff/20261117/easemate.json",
+      "raw_url_count": 51,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 15,
+      "pages": [
+        {
+          "page_id": "easemate-0001",
+          "url": "https://www.easemate.ai/minimax-h3-image",
+          "canonical_url": "https://www.easemate.ai/minimax-h3-image",
+          "original_urls": [
+            "https://www.easemate.ai/minimax-h3-image",
+            "https://www.easemate.ai/ko/minimax-h3-image",
+            "https://www.easemate.ai/de/minimax-h3-image",
+            "https://www.easemate.ai/es/minimax-h3-image",
+            "https://www.easemate.ai/fr/minimax-h3-image",
+            "https://www.easemate.ai/it/minimax-h3-image",
+            "https://www.easemate.ai/ru/minimax-h3-image",
+            "https://www.easemate.ai/ms/minimax-h3-image",
+            "https://www.easemate.ai/id/minimax-h3-image",
+            "https://www.easemate.ai/tr/minimax-h3-image",
+            "https://www.easemate.ai/pl/minimax-h3-image",
+            "https://www.easemate.ai/nl/minimax-h3-image",
+            "https://www.easemate.ai/sv/minimax-h3-image"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "easemate-0002",
+          "url": "https://www.easemate.ai/jp/minimax-h3-image",
+          "canonical_url": "https://www.easemate.ai/jp/minimax-h3-image",
+          "original_urls": [
+            "https://www.easemate.ai/jp/minimax-h3-image"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "easemate-0003",
+          "url": "https://www.easemate.ai/tw/minimax-h3-image",
+          "canonical_url": "https://www.easemate.ai/tw/minimax-h3-image",
+          "original_urls": [
+            "https://www.easemate.ai/tw/minimax-h3-image"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "easemate-0004",
+          "url": "https://www.easemate.ai/br/minimax-h3-image",
+          "canonical_url": "https://www.easemate.ai/br/minimax-h3-image",
+          "original_urls": [
+            "https://www.easemate.ai/br/minimax-h3-image"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "easemate-0005",
+          "url": "https://www.easemate.ai/ph/minimax-h3-image",
+          "canonical_url": "https://www.easemate.ai/ph/minimax-h3-image",
+          "original_urls": [
+            "https://www.easemate.ai/ph/minimax-h3-image"
+          ],
+          "page_type": "other",
+          "slug": "minimax-h3-image"
+        },
+        {
+          "page_id": "easemate-0006",
+          "url": "https://www.easemate.ai/seedream-5-5",
+          "canonical_url": "https://www.easemate.ai/seedream-5-5",
+          "original_urls": [
+            "https://www.easemate.ai/seedream-5-5",
+            "https://www.easemate.ai/ko/seedream-5-5",
+            "https://www.easemate.ai/de/seedream-5-5",
+            "https://www.easemate.ai/es/seedream-5-5",
+            "https://www.easemate.ai/fr/seedream-5-5",
+            "https://www.easemate.ai/it/seedream-5-5",
+            "https://www.easemate.ai/ru/seedream-5-5",
+            "https://www.easemate.ai/ms/seedream-5-5",
+            "https://www.easemate.ai/id/seedream-5-5",
+            "https://www.easemate.ai/tr/seedream-5-5",
+            "https://www.easemate.ai/pl/seedream-5-5",
+            "https://www.easemate.ai/nl/seedream-5-5",
+            "https://www.easemate.ai/sv/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "easemate-0007",
+          "url": "https://www.easemate.ai/jp/seedream-5-5",
+          "canonical_url": "https://www.easemate.ai/jp/seedream-5-5",
+          "original_urls": [
+            "https://www.easemate.ai/jp/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "easemate-0008",
+          "url": "https://www.easemate.ai/tw/seedream-5-5",
+          "canonical_url": "https://www.easemate.ai/tw/seedream-5-5",
+          "original_urls": [
+            "https://www.easemate.ai/tw/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "easemate-0009",
+          "url": "https://www.easemate.ai/br/seedream-5-5",
+          "canonical_url": "https://www.easemate.ai/br/seedream-5-5",
+          "original_urls": [
+            "https://www.easemate.ai/br/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "easemate-0010",
+          "url": "https://www.easemate.ai/ph/seedream-5-5",
+          "canonical_url": "https://www.easemate.ai/ph/seedream-5-5",
+          "original_urls": [
+            "https://www.easemate.ai/ph/seedream-5-5"
+          ],
+          "page_type": "other",
+          "slug": "seedream-5-5"
+        },
+        {
+          "page_id": "easemate-0011",
+          "url": "https://www.easemate.ai/seedance-2-5-flash",
+          "canonical_url": "https://www.easemate.ai/seedance-2-5-flash",
+          "original_urls": [
+            "https://www.easemate.ai/seedance-2-5-flash",
+            "https://www.easemate.ai/ko/seedance-2-5-flash",
+            "https://www.easemate.ai/de/seedance-2-5-flash",
+            "https://www.easemate.ai/es/seedance-2-5-flash",
+            "https://www.easemate.ai/fr/seedance-2-5-flash",
+            "https://www.easemate.ai/it/seedance-2-5-flash",
+            "https://www.easemate.ai/ru/seedance-2-5-flash",
+            "https://www.easemate.ai/ms/seedance-2-5-flash",
+            "https://www.easemate.ai/id/seedance-2-5-flash",
+            "https://www.easemate.ai/tr/seedance-2-5-flash",
+            "https://www.easemate.ai/pl/seedance-2-5-flash",
+            "https://www.easemate.ai/nl/seedance-2-5-flash",
+            "https://www.easemate.ai/sv/seedance-2-5-flash"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5-flash"
+        },
+        {
+          "page_id": "easemate-0012",
+          "url": "https://www.easemate.ai/jp/seedance-2-5-flash",
+          "canonical_url": "https://www.easemate.ai/jp/seedance-2-5-flash",
+          "original_urls": [
+            "https://www.easemate.ai/jp/seedance-2-5-flash"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5-flash"
+        },
+        {
+          "page_id": "easemate-0013",
+          "url": "https://www.easemate.ai/tw/seedance-2-5-flash",
+          "canonical_url": "https://www.easemate.ai/tw/seedance-2-5-flash",
+          "original_urls": [
+            "https://www.easemate.ai/tw/seedance-2-5-flash"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5-flash"
+        },
+        {
+          "page_id": "easemate-0014",
+          "url": "https://www.easemate.ai/br/seedance-2-5-flash",
+          "canonical_url": "https://www.easemate.ai/br/seedance-2-5-flash",
+          "original_urls": [
+            "https://www.easemate.ai/br/seedance-2-5-flash"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5-flash"
+        },
+        {
+          "page_id": "easemate-0015",
+          "url": "https://www.easemate.ai/ph/seedance-2-5-flash",
+          "canonical_url": "https://www.easemate.ai/ph/seedance-2-5-flash",
+          "original_urls": [
+            "https://www.easemate.ai/ph/seedance-2-5-flash"
+          ],
+          "page_type": "other",
+          "slug": "seedance-2-5-flash"
+        }
+      ]
+    },
+    {
+      "site": "easyfaceswap",
+      "source_file": "diff/20261117/easyfaceswap.json",
+      "raw_url_count": 12,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "easyfaceswap-0001",
+          "url": "https://easyfaceswap.com/batch-face-swap/",
+          "canonical_url": "https://easyfaceswap.com/batch-face-swap",
+          "original_urls": [
+            "https://easyfaceswap.com/batch-face-swap/",
+            "https://easyfaceswap.com/ja/batch-face-swap/",
+            "https://easyfaceswap.com/ko/batch-face-swap/",
+            "https://easyfaceswap.com/es/batch-face-swap/",
+            "https://easyfaceswap.com/pt/batch-face-swap/",
+            "https://easyfaceswap.com/de/batch-face-swap/",
+            "https://easyfaceswap.com/fr/batch-face-swap/",
+            "https://easyfaceswap.com/ru/batch-face-swap/",
+            "https://easyfaceswap.com/ar/batch-face-swap/",
+            "https://easyfaceswap.com/it/batch-face-swap/",
+            "https://easyfaceswap.com/nl/batch-face-swap/",
+            "https://easyfaceswap.com/hi/batch-face-swap/"
+          ],
+          "page_type": "other",
+          "slug": "batch-face-swap"
+        }
+      ]
+    },
+    {
+      "site": "flyu",
+      "source_file": "diff/20261117/flyu.json",
+      "raw_url_count": 2,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "flyu-0001",
+          "url": "https://flyu.ai/blog/album-art-motion-visuals",
+          "canonical_url": "https://flyu.ai/blog/album-art-motion-visuals",
+          "original_urls": [
+            "https://flyu.ai/blog/album-art-motion-visuals"
+          ],
+          "page_type": "blog",
+          "slug": "album-art-motion-visuals"
+        },
+        {
+          "page_id": "flyu-0002",
+          "url": "https://flyu.ai/blog/ai-singer-music-video",
+          "canonical_url": "https://flyu.ai/blog/ai-singer-music-video",
+          "original_urls": [
+            "https://flyu.ai/blog/ai-singer-music-video"
+          ],
+          "page_type": "blog",
+          "slug": "ai-singer-music-video"
+        }
+      ]
+    },
+    {
+      "site": "fotor",
+      "source_file": "diff/20261117/fotor.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "fotor-0001",
+          "url": "https://www.fotor.com/pt/features/face-in-hole/",
+          "canonical_url": "https://www.fotor.com/features/face-in-hole",
+          "original_urls": [
+            "https://www.fotor.com/pt/features/face-in-hole/"
+          ],
+          "page_type": "other",
+          "slug": "face-in-hole"
+        }
+      ]
+    },
+    {
+      "site": "genematic",
+      "source_file": "diff/20261117/genematic.json",
+      "raw_url_count": 24,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 4,
+      "pages": [
+        {
+          "page_id": "genematic-0001",
+          "url": "https://genematic.ai/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+          "canonical_url": "https://genematic.ai/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+          "original_urls": [
+            "https://genematic.ai/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+            "https://genematic.ai/es/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+            "https://genematic.ai/pt/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+            "https://genematic.ai/fr/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+            "https://genematic.ai/tr/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9",
+            "https://genematic.ai/ar/feed/49fef4c3-a807-40fd-95fe-49bff073ddd9"
+          ],
+          "page_type": "other",
+          "slug": "49fef4c3-a807-40fd-95fe-49bff073ddd9"
+        },
+        {
+          "page_id": "genematic-0002",
+          "url": "https://genematic.ai/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+          "canonical_url": "https://genematic.ai/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+          "original_urls": [
+            "https://genematic.ai/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+            "https://genematic.ai/es/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+            "https://genematic.ai/pt/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+            "https://genematic.ai/fr/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+            "https://genematic.ai/tr/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02",
+            "https://genematic.ai/ar/feed/0947d384-45bc-435d-b5a6-dbaa6a438b02"
+          ],
+          "page_type": "other",
+          "slug": "0947d384-45bc-435d-b5a6-dbaa6a438b02"
+        },
+        {
+          "page_id": "genematic-0003",
+          "url": "https://genematic.ai/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+          "canonical_url": "https://genematic.ai/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+          "original_urls": [
+            "https://genematic.ai/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+            "https://genematic.ai/es/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+            "https://genematic.ai/pt/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+            "https://genematic.ai/fr/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+            "https://genematic.ai/tr/feed/7146803f-2f7a-4153-adbd-820328307f7b",
+            "https://genematic.ai/ar/feed/7146803f-2f7a-4153-adbd-820328307f7b"
+          ],
+          "page_type": "other",
+          "slug": "7146803f-2f7a-4153-adbd-820328307f7b"
+        },
+        {
+          "page_id": "genematic-0004",
+          "url": "https://genematic.ai/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+          "canonical_url": "https://genematic.ai/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+          "original_urls": [
+            "https://genematic.ai/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+            "https://genematic.ai/es/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+            "https://genematic.ai/pt/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+            "https://genematic.ai/fr/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+            "https://genematic.ai/tr/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d",
+            "https://genematic.ai/ar/feed/7aa9d784-b75a-4de8-a025-3e5b98d9932d"
+          ],
+          "page_type": "other",
+          "slug": "7aa9d784-b75a-4de8-a025-3e5b98d9932d"
+        }
+      ]
+    },
+    {
+      "site": "higgsfield",
+      "source_file": "diff/20261117/higgsfield.json",
+      "raw_url_count": 4,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 4,
+      "pages": [
+        {
+          "page_id": "higgsfield-0001",
+          "url": "https://higgsfield.ai/short-drama-intro",
+          "canonical_url": "https://higgsfield.ai/short-drama-intro",
+          "original_urls": [
+            "https://higgsfield.ai/short-drama-intro"
+          ],
+          "page_type": "other",
+          "slug": "short-drama-intro"
+        },
+        {
+          "page_id": "higgsfield-0002",
+          "url": "https://higgsfield.ai/mcp/short-drama",
+          "canonical_url": "https://higgsfield.ai/mcp/short-drama",
+          "original_urls": [
+            "https://higgsfield.ai/mcp/short-drama"
+          ],
+          "page_type": "other",
+          "slug": "short-drama"
+        },
+        {
+          "page_id": "higgsfield-0003",
+          "url": "https://higgsfield.ai/blog/consistent-brand-mascot-ai",
+          "canonical_url": "https://higgsfield.ai/blog/consistent-brand-mascot-ai",
+          "original_urls": [
+            "https://higgsfield.ai/blog/consistent-brand-mascot-ai"
+          ],
+          "page_type": "blog",
+          "slug": "consistent-brand-mascot-ai"
+        },
+        {
+          "page_id": "higgsfield-0004",
+          "url": "https://higgsfield.ai/blog/tiktok-shop-product-videos-a",
+          "canonical_url": "https://higgsfield.ai/blog/tiktok-shop-product-videos-a",
+          "original_urls": [
+            "https://higgsfield.ai/blog/tiktok-shop-product-videos-a"
+          ],
+          "page_type": "blog",
+          "slug": "tiktok-shop-product-videos-a"
+        }
+      ]
+    },
+    {
+      "site": "imagine",
+      "source_file": "diff/20261117/imagine.json",
+      "raw_url_count": 8,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 8,
+      "pages": [
+        {
+          "page_id": "imagine-0001",
+          "url": "https://www.imagine.art/insights/best-free-ai-video-generators",
+          "canonical_url": "https://www.imagine.art/insights/best-free-ai-video-generators",
+          "original_urls": [
+            "https://www.imagine.art/insights/best-free-ai-video-generators"
+          ],
+          "page_type": "other",
+          "slug": "best-free-ai-video-generators"
+        },
+        {
+          "page_id": "imagine-0002",
+          "url": "https://www.imagine.art/image-tool/ai-invitation-maker",
+          "canonical_url": "https://www.imagine.art/image-tool/ai-invitation-maker",
+          "original_urls": [
+            "https://www.imagine.art/image-tool/ai-invitation-maker"
+          ],
+          "page_type": "other",
+          "slug": "ai-invitation-maker"
+        },
+        {
+          "page_id": "imagine-0003",
+          "url": "https://www.imagine.art/image-tool/ai-character-generator",
+          "canonical_url": "https://www.imagine.art/image-tool/ai-character-generator",
+          "original_urls": [
+            "https://www.imagine.art/image-tool/ai-character-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-character-generator"
+        },
+        {
+          "page_id": "imagine-0004",
+          "url": "https://www.imagine.art/video-tool/ai-animation-generator",
+          "canonical_url": "https://www.imagine.art/video-tool/ai-animation-generator",
+          "original_urls": [
+            "https://www.imagine.art/video-tool/ai-animation-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-animation-generator"
+        },
+        {
+          "page_id": "imagine-0005",
+          "url": "https://www.imagine.art/video-tool/ai-animal-video-generator",
+          "canonical_url": "https://www.imagine.art/video-tool/ai-animal-video-generator",
+          "original_urls": [
+            "https://www.imagine.art/video-tool/ai-animal-video-generator"
+          ],
+          "page_type": "other",
+          "slug": "ai-animal-video-generator"
+        },
+        {
+          "page_id": "imagine-0006",
+          "url": "https://www.imagine.art/video-tool/3d-animation-maker",
+          "canonical_url": "https://www.imagine.art/video-tool/3d-animation-maker",
+          "original_urls": [
+            "https://www.imagine.art/video-tool/3d-animation-maker"
+          ],
+          "page_type": "other",
+          "slug": "3d-animation-maker"
+        },
+        {
+          "page_id": "imagine-0007",
+          "url": "https://www.imagine.art/video-tool/ai-video-extender",
+          "canonical_url": "https://www.imagine.art/video-tool/ai-video-extender",
+          "original_urls": [
+            "https://www.imagine.art/video-tool/ai-video-extender"
+          ],
+          "page_type": "other",
+          "slug": "ai-video-extender"
+        },
+        {
+          "page_id": "imagine-0008",
+          "url": "https://www.imagine.art/es/apps/motion-control",
+          "canonical_url": "https://www.imagine.art/apps/motion-control",
+          "original_urls": [
+            "https://www.imagine.art/es/apps/motion-control"
+          ],
+          "page_type": "other",
+          "slug": "motion-control"
+        }
+      ]
+    },
+    {
+      "site": "mitte",
+      "source_file": "diff/20261117/mitte.json",
+      "raw_url_count": 1,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 1,
+      "pages": [
+        {
+          "page_id": "mitte-0001",
+          "url": "https://mitte.ai/node/bria-rmbg-3",
+          "canonical_url": "https://mitte.ai/node/bria-rmbg-3",
+          "original_urls": [
+            "https://mitte.ai/node/bria-rmbg-3"
+          ],
+          "page_type": "other",
+          "slug": "bria-rmbg-3"
+        }
+      ]
+    },
+    {
+      "site": "piclumen",
+      "source_file": "diff/20261117/piclumen.json",
+      "raw_url_count": 7,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 7,
+      "pages": [
+        {
+          "page_id": "piclumen-0001",
+          "url": "https://www.piclumen.com/ai-image-generator/ai-flyer-generator/",
+          "canonical_url": "https://www.piclumen.com/ai-image-generator/ai-flyer-generator",
+          "original_urls": [
+            "https://www.piclumen.com/ai-image-generator/ai-flyer-generator/"
+          ],
+          "page_type": "other",
+          "slug": "ai-flyer-generator"
+        },
+        {
+          "page_id": "piclumen-0002",
+          "url": "https://www.piclumen.com/apps/effects-self-hug-sketch/",
+          "canonical_url": "https://www.piclumen.com/apps/effects-self-hug-sketch",
+          "original_urls": [
+            "https://www.piclumen.com/apps/effects-self-hug-sketch/"
+          ],
+          "page_type": "other",
+          "slug": "effects-self-hug-sketch"
+        },
+        {
+          "page_id": "piclumen-0003",
+          "url": "https://www.piclumen.com/blog/kling-4-0-vs-seedance-2-5/",
+          "canonical_url": "https://www.piclumen.com/blog/kling-4-0-vs-seedance-2-5",
+          "original_urls": [
+            "https://www.piclumen.com/blog/kling-4-0-vs-seedance-2-5/"
+          ],
+          "page_type": "blog",
+          "slug": "kling-4-0-vs-seedance-2-5"
+        },
+        {
+          "page_id": "piclumen-0004",
+          "url": "https://www.piclumen.com/solution/loungewear/",
+          "canonical_url": "https://www.piclumen.com/solution/loungewear",
+          "original_urls": [
+            "https://www.piclumen.com/solution/loungewear/"
+          ],
+          "page_type": "other",
+          "slug": "loungewear"
+        },
+        {
+          "page_id": "piclumen-0005",
+          "url": "https://www.piclumen.com/solution/multi-functional-luggage-launch-teaser/",
+          "canonical_url": "https://www.piclumen.com/solution/multi-functional-luggage-launch-teaser",
+          "original_urls": [
+            "https://www.piclumen.com/solution/multi-functional-luggage-launch-teaser/"
+          ],
+          "page_type": "other",
+          "slug": "multi-functional-luggage-launch-teaser"
+        },
+        {
+          "page_id": "piclumen-0006",
+          "url": "https://www.piclumen.com/solution/tiktok-cozy-pillow-review/",
+          "canonical_url": "https://www.piclumen.com/solution/tiktok-cozy-pillow-review",
+          "original_urls": [
+            "https://www.piclumen.com/solution/tiktok-cozy-pillow-review/"
+          ],
+          "page_type": "other",
+          "slug": "tiktok-cozy-pillow-review"
+        },
+        {
+          "page_id": "piclumen-0007",
+          "url": "https://www.piclumen.com/solution/tiktok-desk-vacuum-demo/",
+          "canonical_url": "https://www.piclumen.com/solution/tiktok-desk-vacuum-demo",
+          "original_urls": [
+            "https://www.piclumen.com/solution/tiktok-desk-vacuum-demo/"
+          ],
+          "page_type": "other",
+          "slug": "tiktok-desk-vacuum-demo"
+        }
+      ]
+    },
+    {
+      "site": "pollo",
+      "source_file": "diff/20261117/pollo.json",
+      "raw_url_count": 314,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 66,
+      "pages": [
+        {
+          "page_id": "pollo-0001",
+          "url": "https://pollo.ai/im/kittl",
+          "canonical_url": "https://pollo.ai/im/kittl",
+          "original_urls": [
+            "https://pollo.ai/im/kittl",
+            "https://pollo.ai/ja/im/kittl",
+            "https://pollo.ai/fr/im/kittl",
+            "https://pollo.ai/zh/im/kittl",
+            "https://pollo.ai/pl/im/kittl",
+            "https://pollo.ai/pt/im/kittl",
+            "https://pollo.ai/ru/im/kittl",
+            "https://pollo.ai/tr/im/kittl",
+            "https://pollo.ai/th/im/kittl",
+            "https://pollo.ai/id/im/kittl",
+            "https://pollo.ai/es/im/kittl",
+            "https://pollo.ai/ko/im/kittl",
+            "https://pollo.ai/de/im/kittl",
+            "https://pollo.ai/nl/im/kittl",
+            "https://pollo.ai/ar/im/kittl",
+            "https://pollo.ai/nb/im/kittl",
+            "https://pollo.ai/da/im/kittl",
+            "https://pollo.ai/it/im/kittl"
+          ],
+          "page_type": "other",
+          "slug": "kittl"
+        },
+        {
+          "page_id": "pollo-0002",
+          "url": "https://pollo.ai/m/everygen-ai",
+          "canonical_url": "https://pollo.ai/m/everygen-ai",
+          "original_urls": [
+            "https://pollo.ai/m/everygen-ai",
+            "https://pollo.ai/ja/m/everygen-ai",
+            "https://pollo.ai/ru/m/everygen-ai",
+            "https://pollo.ai/tr/m/everygen-ai",
+            "https://pollo.ai/ko/m/everygen-ai",
+            "https://pollo.ai/fr/m/everygen-ai",
+            "https://pollo.ai/zh/m/everygen-ai",
+            "https://pollo.ai/pl/m/everygen-ai",
+            "https://pollo.ai/pt/m/everygen-ai",
+            "https://pollo.ai/th/m/everygen-ai",
+            "https://pollo.ai/id/m/everygen-ai",
+            "https://pollo.ai/it/m/everygen-ai",
+            "https://pollo.ai/de/m/everygen-ai",
+            "https://pollo.ai/nl/m/everygen-ai",
+            "https://pollo.ai/ar/m/everygen-ai",
+            "https://pollo.ai/nb/m/everygen-ai",
+            "https://pollo.ai/da/m/everygen-ai",
+            "https://pollo.ai/es/m/everygen-ai"
+          ],
+          "page_type": "model_api",
+          "slug": "everygen-ai"
+        },
+        {
+          "page_id": "pollo-0003",
+          "url": "https://pollo.ai/angle",
+          "canonical_url": "https://pollo.ai/angle",
+          "original_urls": [
+            "https://pollo.ai/angle",
+            "https://pollo.ai/it/angle",
+            "https://pollo.ai/nl/angle",
+            "https://pollo.ai/id/angle",
+            "https://pollo.ai/zh/angle",
+            "https://pollo.ai/pt/angle",
+            "https://pollo.ai/ko/angle",
+            "https://pollo.ai/nb/angle",
+            "https://pollo.ai/de/angle",
+            "https://pollo.ai/ar/angle",
+            "https://pollo.ai/es/angle",
+            "https://pollo.ai/da/angle",
+            "https://pollo.ai/pl/angle",
+            "https://pollo.ai/ja/angle",
+            "https://pollo.ai/fr/angle",
+            "https://pollo.ai/th/angle",
+            "https://pollo.ai/ru/angle",
+            "https://pollo.ai/tr/angle"
+          ],
+          "page_type": "other",
+          "slug": "angle"
+        },
+        {
+          "page_id": "pollo-0004",
+          "url": "https://pollo.ai/zh/hub/remove-watermark-from-photo-online-free",
+          "canonical_url": "https://pollo.ai/hub/remove-watermark-from-photo-online-free",
+          "original_urls": [
+            "https://pollo.ai/zh/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/pt/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/fr/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/ja/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/pl/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/id/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/nl/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/it/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/es/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/th/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/tr/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/ar/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/da/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/ru/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/ko/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/nb/hub/remove-watermark-from-photo-online-free",
+            "https://pollo.ai/de/hub/remove-watermark-from-photo-online-free"
+          ],
+          "page_type": "blog",
+          "slug": "remove-watermark-from-photo-online-free"
+        },
+        {
+          "page_id": "pollo-0005",
+          "url": "https://pollo.ai/pt/hub/tutorials/9",
+          "canonical_url": "https://pollo.ai/hub/tutorials/9",
+          "original_urls": [
+            "https://pollo.ai/pt/hub/tutorials/9"
+          ],
+          "page_type": "blog",
+          "slug": "9"
+        },
+        {
+          "page_id": "pollo-0006",
+          "url": "https://pollo.ai/pt/hub/how-to-use-ai-photo-editor",
+          "canonical_url": "https://pollo.ai/hub/how-to-use-ai-photo-editor",
+          "original_urls": [
+            "https://pollo.ai/pt/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/es/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/id/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/ru/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/ja/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/zh/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/pl/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/ko/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/ar/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/nl/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/de/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/th/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/it/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/nb/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/fr/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/da/hub/how-to-use-ai-photo-editor",
+            "https://pollo.ai/tr/hub/how-to-use-ai-photo-editor"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-use-ai-photo-editor"
+        },
+        {
+          "page_id": "pollo-0007",
+          "url": "https://pollo.ai/pt/hub/how-to-face-swap-video",
+          "canonical_url": "https://pollo.ai/hub/how-to-face-swap-video",
+          "original_urls": [
+            "https://pollo.ai/pt/hub/how-to-face-swap-video",
+            "https://pollo.ai/es/hub/how-to-face-swap-video",
+            "https://pollo.ai/id/hub/how-to-face-swap-video",
+            "https://pollo.ai/ru/hub/how-to-face-swap-video",
+            "https://pollo.ai/ja/hub/how-to-face-swap-video",
+            "https://pollo.ai/zh/hub/how-to-face-swap-video",
+            "https://pollo.ai/pl/hub/how-to-face-swap-video",
+            "https://pollo.ai/ko/hub/how-to-face-swap-video",
+            "https://pollo.ai/fr/hub/how-to-face-swap-video",
+            "https://pollo.ai/nl/hub/how-to-face-swap-video",
+            "https://pollo.ai/it/hub/how-to-face-swap-video",
+            "https://pollo.ai/nb/hub/how-to-face-swap-video",
+            "https://pollo.ai/ar/hub/how-to-face-swap-video",
+            "https://pollo.ai/th/hub/how-to-face-swap-video",
+            "https://pollo.ai/tr/hub/how-to-face-swap-video",
+            "https://pollo.ai/de/hub/how-to-face-swap-video",
+            "https://pollo.ai/da/hub/how-to-face-swap-video"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-face-swap-video"
+        },
+        {
+          "page_id": "pollo-0008",
+          "url": "https://pollo.ai/es/hub/how-to-create-ai-celebrity-birthday-greetings",
+          "canonical_url": "https://pollo.ai/hub/how-to-create-ai-celebrity-birthday-greetings",
+          "original_urls": [
+            "https://pollo.ai/es/hub/how-to-create-ai-celebrity-birthday-greetings"
+          ],
+          "page_type": "blog",
+          "slug": "how-to-create-ai-celebrity-birthday-greetings"
+        },
+        {
+          "page_id": "pollo-0009",
+          "url": "https://pollo.ai/tw/im/kittl",
+          "canonical_url": "https://pollo.ai/tw/im/kittl",
+          "original_urls": [
+            "https://pollo.ai/tw/im/kittl"
+          ],
+          "page_type": "other",
+          "slug": "kittl"
+        },
+        {
+          "page_id": "pollo-0010",
+          "url": "https://pollo.ai/tw/m/everygen-ai",
+          "canonical_url": "https://pollo.ai/tw/m/everygen-ai",
+          "original_urls": [
+            "https://pollo.ai/tw/m/everygen-ai"
+          ],
+          "page_type": "other",
+          "slug": "everygen-ai"
+        },
+        {
+          "page_id": "pollo-0011",
+          "url": "https://pollo.ai/ko/hub/chatgpt-free-pollo-mcp-video-guide",
+          "canonical_url": "https://pollo.ai/hub/chatgpt-free-pollo-mcp-video-guide",
+          "original_urls": [
+            "https://pollo.ai/ko/hub/chatgpt-free-pollo-mcp-video-guide"
+          ],
+          "page_type": "blog",
+          "slug": "chatgpt-free-pollo-mcp-video-guide"
+        },
+        {
+          "page_id": "pollo-0012",
+          "url": "https://pollo.ai/shots",
+          "canonical_url": "https://pollo.ai/shots",
+          "original_urls": [
+            "https://pollo.ai/shots",
+            "https://pollo.ai/id/shots",
+            "https://pollo.ai/it/shots",
+            "https://pollo.ai/ko/shots",
+            "https://pollo.ai/pt/shots",
+            "https://pollo.ai/nb/shots",
+            "https://pollo.ai/fr/shots",
+            "https://pollo.ai/ar/shots",
+            "https://pollo.ai/pl/shots",
+            "https://pollo.ai/es/shots",
+            "https://pollo.ai/nl/shots",
+            "https://pollo.ai/de/shots",
+            "https://pollo.ai/ja/shots",
+            "https://pollo.ai/da/shots",
+            "https://pollo.ai/ru/shots",
+            "https://pollo.ai/th/shots",
+            "https://pollo.ai/zh/shots",
+            "https://pollo.ai/tr/shots"
+          ],
+          "page_type": "other",
+          "slug": "shots"
+        },
+        {
+          "page_id": "pollo-0013",
+          "url": "https://pollo.ai/hub/what-is-pollo-relight",
+          "canonical_url": "https://pollo.ai/hub/what-is-pollo-relight",
+          "original_urls": [
+            "https://pollo.ai/hub/what-is-pollo-relight",
+            "https://pollo.ai/id/hub/what-is-pollo-relight",
+            "https://pollo.ai/it/hub/what-is-pollo-relight",
+            "https://pollo.ai/nb/hub/what-is-pollo-relight",
+            "https://pollo.ai/ja/hub/what-is-pollo-relight",
+            "https://pollo.ai/de/hub/what-is-pollo-relight",
+            "https://pollo.ai/da/hub/what-is-pollo-relight",
+            "https://pollo.ai/ko/hub/what-is-pollo-relight",
+            "https://pollo.ai/fr/hub/what-is-pollo-relight",
+            "https://pollo.ai/ar/hub/what-is-pollo-relight",
+            "https://pollo.ai/th/hub/what-is-pollo-relight",
+            "https://pollo.ai/ru/hub/what-is-pollo-relight",
+            "https://pollo.ai/zh/hub/what-is-pollo-relight",
+            "https://pollo.ai/pt/hub/what-is-pollo-relight",
+            "https://pollo.ai/tr/hub/what-is-pollo-relight",
+            "https://pollo.ai/pl/hub/what-is-pollo-relight",
+            "https://pollo.ai/es/hub/what-is-pollo-relight",
+            "https://pollo.ai/nl/hub/what-is-pollo-relight"
+          ],
+          "page_type": "blog",
+          "slug": "what-is-pollo-relight"
+        },
+        {
+          "page_id": "pollo-0014",
+          "url": "https://pollo.ai/tw/hub/how-to-face-swap-video",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-face-swap-video",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-face-swap-video"
+          ],
+          "page_type": "other",
+          "slug": "how-to-face-swap-video"
+        },
+        {
+          "page_id": "pollo-0015",
+          "url": "https://pollo.ai/de/hub/create-black-friday-product-videos-with-pollo-ai",
+          "canonical_url": "https://pollo.ai/hub/create-black-friday-product-videos-with-pollo-ai",
+          "original_urls": [
+            "https://pollo.ai/de/hub/create-black-friday-product-videos-with-pollo-ai"
+          ],
+          "page_type": "blog",
+          "slug": "create-black-friday-product-videos-with-pollo-ai"
+        },
+        {
+          "page_id": "pollo-0016",
+          "url": "https://pollo.ai/tw/hub/how-to-use-ai-photo-editor",
+          "canonical_url": "https://pollo.ai/tw/hub/how-to-use-ai-photo-editor",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/how-to-use-ai-photo-editor"
+          ],
+          "page_type": "other",
+          "slug": "how-to-use-ai-photo-editor"
+        },
+        {
+          "page_id": "pollo-0017",
+          "url": "https://pollo.ai/tw/hub/remove-watermark-from-photo-online-free",
+          "canonical_url": "https://pollo.ai/tw/hub/remove-watermark-from-photo-online-free",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/remove-watermark-from-photo-online-free"
+          ],
+          "page_type": "other",
+          "slug": "remove-watermark-from-photo-online-free"
+        },
+        {
+          "page_id": "pollo-0018",
+          "url": "https://pollo.ai/pt/hub/29",
+          "canonical_url": "https://pollo.ai/hub/29",
+          "original_urls": [
+            "https://pollo.ai/pt/hub/29"
+          ],
+          "page_type": "blog",
+          "slug": "29"
+        },
+        {
+          "page_id": "pollo-0019",
+          "url": "https://pollo.ai/tw/hub/what-is-pollo-relight",
+          "canonical_url": "https://pollo.ai/tw/hub/what-is-pollo-relight",
+          "original_urls": [
+            "https://pollo.ai/tw/hub/what-is-pollo-relight"
+          ],
+          "page_type": "other",
+          "slug": "what-is-pollo-relight"
+        },
+        {
+          "page_id": "pollo-0020",
+          "url": "https://pollo.ai/tw/shots",
+          "canonical_url": "https://pollo.ai/tw/shots",
+          "original_urls": [
+            "https://pollo.ai/tw/shots"
+          ],
+          "page_type": "other",
+          "slug": "shots"
+        },
+        {
+          "page_id": "pollo-0021",
+          "url": "https://pollo.ai/tw/angle",
+          "canonical_url": "https://pollo.ai/tw/angle",
+          "original_urls": [
+            "https://pollo.ai/tw/angle"
+          ],
+          "page_type": "other",
+          "slug": "angle"
+        },
+        {
+          "page_id": "pollo-0022",
+          "url": "https://pollo.ai/de/app/ai-discord-emoji-maker",
+          "canonical_url": "https://pollo.ai/app/ai-discord-emoji-maker",
+          "original_urls": [
+            "https://pollo.ai/de/app/ai-discord-emoji-maker",
+            "https://pollo.ai/zh/app/ai-discord-emoji-maker",
+            "https://pollo.ai/ar/app/ai-discord-emoji-maker",
+            "https://pollo.ai/es/app/ai-discord-emoji-maker",
+            "https://pollo.ai/ko/app/ai-discord-emoji-maker",
+            "https://pollo.ai/pl/app/ai-discord-emoji-maker",
+            "https://pollo.ai/ja/app/ai-discord-emoji-maker",
+            "https://pollo.ai/it/app/ai-discord-emoji-maker",
+            "https://pollo.ai/id/app/ai-discord-emoji-maker",
+            "https://pollo.ai/nb/app/ai-discord-emoji-maker",
+            "https://pollo.ai/pt/app/ai-discord-emoji-maker",
+            "https://pollo.ai/th/app/ai-discord-emoji-maker",
+            "https://pollo.ai/fr/app/ai-discord-emoji-maker",
+            "https://pollo.ai/nl/app/ai-discord-emoji-maker",
+            "https://pollo.ai/tr/app/ai-discord-emoji-maker",
+            "https://pollo.ai/ru/app/ai-discord-emoji-maker",
+            "https://pollo.ai/da/app/ai-discord-emoji-maker"
+          ],
+          "page_type": "tool",
+          "slug": "ai-discord-emoji-maker"
+        },
+        {
+          "page_id": "pollo-0023",
+          "url": "https://pollo.ai/tw/app/ai-discord-emoji-maker",
+          "canonical_url": "https://pollo.ai/tw/app/ai-discord-emoji-maker",
+          "original_urls": [
+            "https://pollo.ai/tw/app/ai-discord-emoji-maker"
+          ],
+          "page_type": "other",
+          "slug": "ai-discord-emoji-maker"
+        },
+        {
+          "page_id": "pollo-0024",
+          "url": "https://pollo.ai/app/ai-ecard-maker",
+          "canonical_url": "https://pollo.ai/app/ai-ecard-maker",
+          "original_urls": [
+            "https://pollo.ai/app/ai-ecard-maker",
+            "https://pollo.ai/ja/app/ai-ecard-maker",
+            "https://pollo.ai/nl/app/ai-ecard-maker",
+            "https://pollo.ai/th/app/ai-ecard-maker",
+            "https://pollo.ai/fr/app/ai-ecard-maker",
+            "https://pollo.ai/da/app/ai-ecard-maker",
+            "https://pollo.ai/pt/app/ai-ecard-maker",
+            "https://pollo.ai/ar/app/ai-ecard-maker",
+            "https://pollo.ai/ko/app/ai-ecard-maker",
+            "https://pollo.ai/id/app/ai-ecard-maker",
+            "https://pollo.ai/nb/app/ai-ecard-maker",
+            "https://pollo.ai/zh/app/ai-ecard-maker",
+            "https://pollo.ai/ru/app/ai-ecard-maker",
+            "https://pollo.ai/it/app/ai-ecard-maker",
+            "https://pollo.ai/de/app/ai-ecard-maker",
+            "https://pollo.ai/es/app/ai-ecard-maker",
+            "https://pollo.ai/tr/app/ai-ecard-maker",
+            "https://pollo.ai/pl/app/ai-ecard-maker"
+          ],
+          "page_type": "tool",
+          "slug": "ai-ecard-maker"
+        },
+        {
+          "page_id": "pollo-0025",
+          "url": "https://pollo.ai/tw/app/ai-ecard-maker",
+          "canonical_url": "https://pollo.ai/tw/app/ai-ecard-maker",
+          "original_urls": [
+            "https://pollo.ai/tw/app/ai-ecard-maker"
+          ],
+          "page_type": "other",
+          "slug": "ai-ecard-maker"
+        },
+        {
+          "page_id": "pollo-0026",
+          "url": "https://pollo.ai/templates/youtube-thumbnails",
+          "canonical_url": "https://pollo.ai/templates/youtube-thumbnails",
+          "original_urls": [
+            "https://pollo.ai/templates/youtube-thumbnails",
+            "https://pollo.ai/ja/templates/youtube-thumbnails",
+            "https://pollo.ai/ko/templates/youtube-thumbnails"
+          ],
+          "page_type": "template",
+          "slug": "youtube-thumbnails"
+        },
+        {
+          "page_id": "pollo-0027",
+          "url": "https://pollo.ai/templates/visual-effects",
+          "canonical_url": "https://pollo.ai/templates/visual-effects",
+          "original_urls": [
+            "https://pollo.ai/templates/visual-effects",
+            "https://pollo.ai/ja/templates/visual-effects",
+            "https://pollo.ai/ko/templates/visual-effects"
+          ],
+          "page_type": "template",
+          "slug": "visual-effects"
+        },
+        {
+          "page_id": "pollo-0028",
+          "url": "https://pollo.ai/templates/ugc-videos/unboxing",
+          "canonical_url": "https://pollo.ai/templates/ugc-videos/unboxing",
+          "original_urls": [
+            "https://pollo.ai/templates/ugc-videos/unboxing",
+            "https://pollo.ai/ja/templates/ugc-videos/unboxing",
+            "https://pollo.ai/ko/templates/ugc-videos/unboxing"
+          ],
+          "page_type": "template",
+          "slug": "unboxing"
+        },
+        {
+          "page_id": "pollo-0029",
+          "url": "https://pollo.ai/templates/viral-recast",
+          "canonical_url": "https://pollo.ai/templates/viral-recast",
+          "original_urls": [
+            "https://pollo.ai/templates/viral-recast",
+            "https://pollo.ai/ja/templates/viral-recast",
+            "https://pollo.ai/ko/templates/viral-recast"
+          ],
+          "page_type": "template",
+          "slug": "viral-recast"
+        },
+        {
+          "page_id": "pollo-0030",
+          "url": "https://pollo.ai/templates/viral",
+          "canonical_url": "https://pollo.ai/templates/viral",
+          "original_urls": [
+            "https://pollo.ai/templates/viral",
+            "https://pollo.ai/ja/templates/viral",
+            "https://pollo.ai/ko/templates/viral"
+          ],
+          "page_type": "template",
+          "slug": "viral"
+        },
+        {
+          "page_id": "pollo-0031",
+          "url": "https://pollo.ai/templates/ugc-videos/tutorials",
+          "canonical_url": "https://pollo.ai/templates/ugc-videos/tutorials",
+          "original_urls": [
+            "https://pollo.ai/templates/ugc-videos/tutorials",
+            "https://pollo.ai/ja/templates/ugc-videos/tutorials",
+            "https://pollo.ai/ko/templates/ugc-videos/tutorials"
+          ],
+          "page_type": "template",
+          "slug": "tutorials"
+        },
+        {
+          "page_id": "pollo-0032",
+          "url": "https://pollo.ai/templates/ugc-videos/before-after",
+          "canonical_url": "https://pollo.ai/templates/ugc-videos/before-after",
+          "original_urls": [
+            "https://pollo.ai/templates/ugc-videos/before-after",
+            "https://pollo.ai/ja/templates/ugc-videos/before-after",
+            "https://pollo.ai/ko/templates/ugc-videos/before-after"
+          ],
+          "page_type": "template",
+          "slug": "before-after"
+        },
+        {
+          "page_id": "pollo-0033",
+          "url": "https://pollo.ai/templates/virtual-try-on-photo",
+          "canonical_url": "https://pollo.ai/templates/virtual-try-on-photo",
+          "original_urls": [
+            "https://pollo.ai/templates/virtual-try-on-photo",
+            "https://pollo.ai/ja/templates/virtual-try-on-photo",
+            "https://pollo.ai/ko/templates/virtual-try-on-photo"
+          ],
+          "page_type": "template",
+          "slug": "virtual-try-on-photo"
+        },
+        {
+          "page_id": "pollo-0034",
+          "url": "https://pollo.ai/templates/ugc-videos/ads",
+          "canonical_url": "https://pollo.ai/templates/ugc-videos/ads",
+          "original_urls": [
+            "https://pollo.ai/templates/ugc-videos/ads",
+            "https://pollo.ai/ja/templates/ugc-videos/ads",
+            "https://pollo.ai/ko/templates/ugc-videos/ads"
+          ],
+          "page_type": "template",
+          "slug": "ads"
+        },
+        {
+          "page_id": "pollo-0035",
+          "url": "https://pollo.ai/templates/ugc-videos/try-on",
+          "canonical_url": "https://pollo.ai/templates/ugc-videos/try-on",
+          "original_urls": [
+            "https://pollo.ai/templates/ugc-videos/try-on",
+            "https://pollo.ai/ja/templates/ugc-videos/try-on",
+            "https://pollo.ai/ko/templates/ugc-videos/try-on"
+          ],
+          "page_type": "template",
+          "slug": "try-on"
+        },
+        {
+          "page_id": "pollo-0036",
+          "url": "https://pollo.ai/templates/ugc-videos",
+          "canonical_url": "https://pollo.ai/templates/ugc-videos",
+          "original_urls": [
+            "https://pollo.ai/templates/ugc-videos",
+            "https://pollo.ai/ja/templates/ugc-videos",
+            "https://pollo.ai/ko/templates/ugc-videos"
+          ],
+          "page_type": "template",
+          "slug": "ugc-videos"
+        },
+        {
+          "page_id": "pollo-0037",
+          "url": "https://pollo.ai/templates/transitions",
+          "canonical_url": "https://pollo.ai/templates/transitions",
+          "original_urls": [
+            "https://pollo.ai/templates/transitions",
+            "https://pollo.ai/ja/templates/transitions",
+            "https://pollo.ai/ko/templates/transitions"
+          ],
+          "page_type": "template",
+          "slug": "transitions"
+        },
+        {
+          "page_id": "pollo-0038",
+          "url": "https://pollo.ai/templates/trending",
+          "canonical_url": "https://pollo.ai/templates/trending",
+          "original_urls": [
+            "https://pollo.ai/templates/trending",
+            "https://pollo.ai/ja/templates/trending",
+            "https://pollo.ai/ko/templates/trending"
+          ],
+          "page_type": "template",
+          "slug": "trending"
+        },
+        {
+          "page_id": "pollo-0039",
+          "url": "https://pollo.ai/templates/profile-pictures",
+          "canonical_url": "https://pollo.ai/templates/profile-pictures",
+          "original_urls": [
+            "https://pollo.ai/templates/profile-pictures",
+            "https://pollo.ai/ja/templates/profile-pictures",
+            "https://pollo.ai/ko/templates/profile-pictures"
+          ],
+          "page_type": "template",
+          "slug": "profile-pictures"
+        },
+        {
+          "page_id": "pollo-0040",
+          "url": "https://pollo.ai/templates/social-media",
+          "canonical_url": "https://pollo.ai/templates/social-media",
+          "original_urls": [
+            "https://pollo.ai/templates/social-media",
+            "https://pollo.ai/ja/templates/social-media",
+            "https://pollo.ai/ko/templates/social-media"
+          ],
+          "page_type": "template",
+          "slug": "social-media"
+        },
+        {
+          "page_id": "pollo-0041",
+          "url": "https://pollo.ai/templates/pet-videos",
+          "canonical_url": "https://pollo.ai/templates/pet-videos",
+          "original_urls": [
+            "https://pollo.ai/templates/pet-videos",
+            "https://pollo.ai/ja/templates/pet-videos",
+            "https://pollo.ai/ko/templates/pet-videos"
+          ],
+          "page_type": "template",
+          "slug": "pet-videos"
+        },
+        {
+          "page_id": "pollo-0042",
+          "url": "https://pollo.ai/templates/menu",
+          "canonical_url": "https://pollo.ai/templates/menu",
+          "original_urls": [
+            "https://pollo.ai/templates/menu",
+            "https://pollo.ai/ja/templates/menu",
+            "https://pollo.ai/ko/templates/menu"
+          ],
+          "page_type": "template",
+          "slug": "menu"
+        },
+        {
+          "page_id": "pollo-0043",
+          "url": "https://pollo.ai/templates/product-image-set",
+          "canonical_url": "https://pollo.ai/templates/product-image-set",
+          "original_urls": [
+            "https://pollo.ai/templates/product-image-set",
+            "https://pollo.ai/ja/templates/product-image-set",
+            "https://pollo.ai/ko/templates/product-image-set"
+          ],
+          "page_type": "template",
+          "slug": "product-image-set"
+        },
+        {
+          "page_id": "pollo-0044",
+          "url": "https://pollo.ai/templates/product-photography",
+          "canonical_url": "https://pollo.ai/templates/product-photography",
+          "original_urls": [
+            "https://pollo.ai/templates/product-photography",
+            "https://pollo.ai/ja/templates/product-photography",
+            "https://pollo.ai/ko/templates/product-photography"
+          ],
+          "page_type": "template",
+          "slug": "product-photography"
+        },
+        {
+          "page_id": "pollo-0045",
+          "url": "https://pollo.ai/templates/posters",
+          "canonical_url": "https://pollo.ai/templates/posters",
+          "original_urls": [
+            "https://pollo.ai/templates/posters",
+            "https://pollo.ai/ja/templates/posters",
+            "https://pollo.ai/ko/templates/posters"
+          ],
+          "page_type": "template",
+          "slug": "posters"
+        },
+        {
+          "page_id": "pollo-0046",
+          "url": "https://pollo.ai/templates/motion",
+          "canonical_url": "https://pollo.ai/templates/motion",
+          "original_urls": [
+            "https://pollo.ai/templates/motion",
+            "https://pollo.ai/ja/templates/motion",
+            "https://pollo.ai/ko/templates/motion"
+          ],
+          "page_type": "template",
+          "slug": "motion"
+        },
+        {
+          "page_id": "pollo-0047",
+          "url": "https://pollo.ai/templates/marketing-videos",
+          "canonical_url": "https://pollo.ai/templates/marketing-videos",
+          "original_urls": [
+            "https://pollo.ai/templates/marketing-videos",
+            "https://pollo.ai/ja/templates/marketing-videos",
+            "https://pollo.ai/ko/templates/marketing-videos"
+          ],
+          "page_type": "template",
+          "slug": "marketing-videos"
+        },
+        {
+          "page_id": "pollo-0048",
+          "url": "https://pollo.ai/templates/lookbook",
+          "canonical_url": "https://pollo.ai/templates/lookbook",
+          "original_urls": [
+            "https://pollo.ai/templates/lookbook",
+            "https://pollo.ai/ja/templates/lookbook",
+            "https://pollo.ai/ko/templates/lookbook"
+          ],
+          "page_type": "template",
+          "slug": "lookbook"
+        },
+        {
+          "page_id": "pollo-0049",
+          "url": "https://pollo.ai/templates/linkedin-posts",
+          "canonical_url": "https://pollo.ai/templates/linkedin-posts",
+          "original_urls": [
+            "https://pollo.ai/templates/linkedin-posts",
+            "https://pollo.ai/ja/templates/linkedin-posts",
+            "https://pollo.ai/ko/templates/linkedin-posts"
+          ],
+          "page_type": "template",
+          "slug": "linkedin-posts"
+        },
+        {
+          "page_id": "pollo-0050",
+          "url": "https://pollo.ai/templates/logos",
+          "canonical_url": "https://pollo.ai/templates/logos",
+          "original_urls": [
+            "https://pollo.ai/templates/logos",
+            "https://pollo.ai/ja/templates/logos",
+            "https://pollo.ai/ko/templates/logos"
+          ],
+          "page_type": "template",
+          "slug": "logos"
+        },
+        {
+          "page_id": "pollo-0051",
+          "url": "https://pollo.ai/templates/invitations",
+          "canonical_url": "https://pollo.ai/templates/invitations",
+          "original_urls": [
+            "https://pollo.ai/templates/invitations",
+            "https://pollo.ai/ja/templates/invitations",
+            "https://pollo.ai/ko/templates/invitations"
+          ],
+          "page_type": "template",
+          "slug": "invitations"
+        },
+        {
+          "page_id": "pollo-0052",
+          "url": "https://pollo.ai/templates/instagram-posts",
+          "canonical_url": "https://pollo.ai/templates/instagram-posts",
+          "original_urls": [
+            "https://pollo.ai/templates/instagram-posts",
+            "https://pollo.ai/ja/templates/instagram-posts",
+            "https://pollo.ai/ko/templates/instagram-posts"
+          ],
+          "page_type": "template",
+          "slug": "instagram-posts"
+        },
+        {
+          "page_id": "pollo-0053",
+          "url": "https://pollo.ai/templates/ghost-mannequin",
+          "canonical_url": "https://pollo.ai/templates/ghost-mannequin",
+          "original_urls": [
+            "https://pollo.ai/templates/ghost-mannequin",
+            "https://pollo.ai/ja/templates/ghost-mannequin",
+            "https://pollo.ai/ko/templates/ghost-mannequin"
+          ],
+          "page_type": "template",
+          "slug": "ghost-mannequin"
+        },
+        {
+          "page_id": "pollo-0054",
+          "url": "https://pollo.ai/templates/flyers",
+          "canonical_url": "https://pollo.ai/templates/flyers",
+          "original_urls": [
+            "https://pollo.ai/templates/flyers",
+            "https://pollo.ai/ja/templates/flyers",
+            "https://pollo.ai/ko/templates/flyers"
+          ],
+          "page_type": "template",
+          "slug": "flyers"
+        },
+        {
+          "page_id": "pollo-0055",
+          "url": "https://pollo.ai/templates/halloween",
+          "canonical_url": "https://pollo.ai/templates/halloween",
+          "original_urls": [
+            "https://pollo.ai/templates/halloween",
+            "https://pollo.ai/ja/templates/halloween",
+            "https://pollo.ai/ko/templates/halloween"
+          ],
+          "page_type": "template",
+          "slug": "halloween"
+        },
+        {
+          "page_id": "pollo-0056",
+          "url": "https://pollo.ai/templates/facebook-posts",
+          "canonical_url": "https://pollo.ai/templates/facebook-posts",
+          "original_urls": [
+            "https://pollo.ai/templates/facebook-posts",
+            "https://pollo.ai/ja/templates/facebook-posts",
+            "https://pollo.ai/ko/templates/facebook-posts"
+          ],
+          "page_type": "template",
+          "slug": "facebook-posts"
+        },
+        {
+          "page_id": "pollo-0057",
+          "url": "https://pollo.ai/templates/flat-lay",
+          "canonical_url": "https://pollo.ai/templates/flat-lay",
+          "original_urls": [
+            "https://pollo.ai/templates/flat-lay",
+            "https://pollo.ai/ja/templates/flat-lay",
+            "https://pollo.ai/ko/templates/flat-lay"
+          ],
+          "page_type": "template",
+          "slug": "flat-lay"
+        },
+        {
+          "page_id": "pollo-0058",
+          "url": "https://pollo.ai/templates/facebook-cover-photos",
+          "canonical_url": "https://pollo.ai/templates/facebook-cover-photos",
+          "original_urls": [
+            "https://pollo.ai/templates/facebook-cover-photos",
+            "https://pollo.ai/ja/templates/facebook-cover-photos",
+            "https://pollo.ai/ko/templates/facebook-cover-photos"
+          ],
+          "page_type": "template",
+          "slug": "facebook-cover-photos"
+        },
+        {
+          "page_id": "pollo-0059",
+          "url": "https://pollo.ai/templates/fashion-videos",
+          "canonical_url": "https://pollo.ai/templates/fashion-videos",
+          "original_urls": [
+            "https://pollo.ai/templates/fashion-videos",
+            "https://pollo.ai/ja/templates/fashion-videos",
+            "https://pollo.ai/ko/templates/fashion-videos"
+          ],
+          "page_type": "template",
+          "slug": "fashion-videos"
+        },
+        {
+          "page_id": "pollo-0060",
+          "url": "https://pollo.ai/templates/christmas",
+          "canonical_url": "https://pollo.ai/templates/christmas",
+          "original_urls": [
+            "https://pollo.ai/templates/christmas",
+            "https://pollo.ai/ja/templates/christmas",
+            "https://pollo.ai/ko/templates/christmas"
+          ],
+          "page_type": "template",
+          "slug": "christmas"
+        },
+        {
+          "page_id": "pollo-0061",
+          "url": "https://pollo.ai/templates/design",
+          "canonical_url": "https://pollo.ai/templates/design",
+          "original_urls": [
+            "https://pollo.ai/templates/design",
+            "https://pollo.ai/ja/templates/design",
+            "https://pollo.ai/ko/templates/design"
+          ],
+          "page_type": "template",
+          "slug": "design"
+        },
+        {
+          "page_id": "pollo-0062",
+          "url": "https://pollo.ai/templates/camera-movements",
+          "canonical_url": "https://pollo.ai/templates/camera-movements",
+          "original_urls": [
+            "https://pollo.ai/templates/camera-movements",
+            "https://pollo.ai/ja/templates/camera-movements",
+            "https://pollo.ai/ko/templates/camera-movements"
+          ],
+          "page_type": "template",
+          "slug": "camera-movements"
+        },
+        {
+          "page_id": "pollo-0063",
+          "url": "https://pollo.ai/templates/ecommerce/floating",
+          "canonical_url": "https://pollo.ai/templates/ecommerce/floating",
+          "original_urls": [
+            "https://pollo.ai/templates/ecommerce/floating",
+            "https://pollo.ai/ja/templates/ecommerce/floating",
+            "https://pollo.ai/ko/templates/ecommerce/floating"
+          ],
+          "page_type": "template",
+          "slug": "floating"
+        },
+        {
+          "page_id": "pollo-0064",
+          "url": "https://pollo.ai/templates/business-cards",
+          "canonical_url": "https://pollo.ai/templates/business-cards",
+          "original_urls": [
+            "https://pollo.ai/templates/business-cards",
+            "https://pollo.ai/ja/templates/business-cards",
+            "https://pollo.ai/ko/templates/business-cards"
+          ],
+          "page_type": "template",
+          "slug": "business-cards"
+        },
+        {
+          "page_id": "pollo-0065",
+          "url": "https://pollo.ai/templates/black-friday",
+          "canonical_url": "https://pollo.ai/templates/black-friday",
+          "original_urls": [
+            "https://pollo.ai/templates/black-friday",
+            "https://pollo.ai/ja/templates/black-friday",
+            "https://pollo.ai/ko/templates/black-friday"
+          ],
+          "page_type": "template",
+          "slug": "black-friday"
+        },
+        {
+          "page_id": "pollo-0066",
+          "url": "https://pollo.ai/templates/autumn",
+          "canonical_url": "https://pollo.ai/templates/autumn",
+          "original_urls": [
+            "https://pollo.ai/templates/autumn",
+            "https://pollo.ai/ja/templates/autumn",
+            "https://pollo.ai/ko/templates/autumn"
+          ],
+          "page_type": "template",
+          "slug": "autumn"
+        }
+      ]
+    },
+    {
+      "site": "renoise",
+      "source_file": "diff/20261117/renoise.json",
+      "raw_url_count": 4,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 2,
+      "pages": [
+        {
+          "page_id": "renoise-0001",
+          "url": "https://renoise.ai/blog/black-friday-product-images",
+          "canonical_url": "https://renoise.ai/blog/black-friday-product-images",
+          "original_urls": [
+            "https://renoise.ai/blog/black-friday-product-images"
+          ],
+          "page_type": "blog",
+          "slug": "black-friday-product-images"
+        },
+        {
+          "page_id": "renoise-0002",
+          "url": "https://renoise.ai/models/seedance-2-5-flash",
+          "canonical_url": "https://renoise.ai/models/seedance-2-5-flash",
+          "original_urls": [
+            "https://renoise.ai/models/seedance-2-5-flash",
+            "https://renoise.ai/ja/models/seedance-2-5-flash",
+            "https://renoise.ai/zh-CN/models/seedance-2-5-flash"
+          ],
+          "page_type": "model_api",
+          "slug": "seedance-2-5-flash"
+        }
+      ]
+    },
+    {
+      "site": "vismuse",
+      "source_file": "diff/20261117/vismuse.json",
+      "raw_url_count": 3,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 3,
+      "pages": [
+        {
+          "page_id": "vismuse-0001",
+          "url": "https://vismuse.com/tools/catch-santa-at-your-tree-ai",
+          "canonical_url": "https://vismuse.com/tools/catch-santa-at-your-tree-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/catch-santa-at-your-tree-ai"
+          ],
+          "page_type": "tool",
+          "slug": "catch-santa-at-your-tree-ai"
+        },
+        {
+          "page_id": "vismuse-0002",
+          "url": "https://vismuse.com/tools/give-it-all-ai",
+          "canonical_url": "https://vismuse.com/tools/give-it-all-ai",
+          "original_urls": [
+            "https://vismuse.com/tools/give-it-all-ai"
+          ],
+          "page_type": "tool",
+          "slug": "give-it-all-ai"
+        },
+        {
+          "page_id": "vismuse-0003",
+          "url": "https://vismuse.com/tools/girls-generation-gee-ai-dance",
+          "canonical_url": "https://vismuse.com/tools/girls-generation-gee-ai-dance",
+          "original_urls": [
+            "https://vismuse.com/tools/girls-generation-gee-ai-dance"
+          ],
+          "page_type": "tool",
+          "slug": "girls-generation-gee-ai-dance"
+        }
+      ]
+    },
+    {
+      "site": "wavespeed",
+      "source_file": "diff/20261117/wavespeed.json",
+      "raw_url_count": 10,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 10,
+      "pages": [
+        {
+          "page_id": "wavespeed-0001",
+          "url": "https://wavespeed.ai/adobe-firefly-alternative",
+          "canonical_url": "https://wavespeed.ai/adobe-firefly-alternative",
+          "original_urls": [
+            "https://wavespeed.ai/adobe-firefly-alternative"
+          ],
+          "page_type": "other",
+          "slug": "adobe-firefly-alternative"
+        },
+        {
+          "page_id": "wavespeed-0002",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/video-extend",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/video-extend",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/video-extend"
+          ],
+          "page_type": "model_api",
+          "slug": "video-extend"
+        },
+        {
+          "page_id": "wavespeed-0003",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/text-to-video-turbo",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/text-to-video-turbo",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/text-to-video-turbo"
+          ],
+          "page_type": "model_api",
+          "slug": "text-to-video-turbo"
+        },
+        {
+          "page_id": "wavespeed-0004",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/image-to-video-turbo",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/image-to-video-turbo",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/image-to-video-turbo"
+          ],
+          "page_type": "model_api",
+          "slug": "image-to-video-turbo"
+        },
+        {
+          "page_id": "wavespeed-0005",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/reference-to-video-turbo",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/reference-to-video-turbo",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/reference-to-video-turbo"
+          ],
+          "page_type": "model_api",
+          "slug": "reference-to-video-turbo"
+        },
+        {
+          "page_id": "wavespeed-0006",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/motion-control",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/motion-control",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/motion-control"
+          ],
+          "page_type": "model_api",
+          "slug": "motion-control"
+        },
+        {
+          "page_id": "wavespeed-0007",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/video-edit-turbo",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/video-edit-turbo",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/video-edit-turbo"
+          ],
+          "page_type": "model_api",
+          "slug": "video-edit-turbo"
+        },
+        {
+          "page_id": "wavespeed-0008",
+          "url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/talking-avatar",
+          "canonical_url": "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/talking-avatar",
+          "original_urls": [
+            "https://wavespeed.ai/models/bytedance/seedance-2.5-flash/talking-avatar"
+          ],
+          "page_type": "model_api",
+          "slug": "talking-avatar"
+        },
+        {
+          "page_id": "wavespeed-0009",
+          "url": "https://wavespeed.ai/models/wavespeed-ai/idol/image-to-3d",
+          "canonical_url": "https://wavespeed.ai/models/wavespeed-ai/idol/image-to-3d",
+          "original_urls": [
+            "https://wavespeed.ai/models/wavespeed-ai/idol/image-to-3d"
+          ],
+          "page_type": "model_api",
+          "slug": "image-to-3d"
+        },
+        {
+          "page_id": "wavespeed-0010",
+          "url": "https://wavespeed.ai/models/bria/remove-background-3.0",
+          "canonical_url": "https://wavespeed.ai/models/bria/remove-background-3.0",
+          "original_urls": [
+            "https://wavespeed.ai/models/bria/remove-background-3.0"
+          ],
+          "page_type": "model_api",
+          "slug": "remove-background-3.0"
+        }
+      ]
+    },
+    {
+      "site": "wireflow",
+      "source_file": "diff/20261117/wireflow.json",
+      "raw_url_count": 6,
+      "invalid_count": 0,
+      "excluded_count": 0,
+      "canonical_page_count": 6,
+      "pages": [
+        {
+          "page_id": "wireflow-0001",
+          "url": "https://www.wireflow.ai/blog/wan-3-0-pricing",
+          "canonical_url": "https://www.wireflow.ai/blog/wan-3-0-pricing",
+          "original_urls": [
+            "https://www.wireflow.ai/blog/wan-3-0-pricing"
+          ],
+          "page_type": "blog",
+          "slug": "wan-3-0-pricing"
+        },
+        {
+          "page_id": "wireflow-0002",
+          "url": "https://www.wireflow.ai/blog/openai-whisper-api-pricing",
+          "canonical_url": "https://www.wireflow.ai/blog/openai-whisper-api-pricing",
+          "original_urls": [
+            "https://www.wireflow.ai/blog/openai-whisper-api-pricing"
+          ],
+          "page_type": "blog",
+          "slug": "openai-whisper-api-pricing"
+        },
+        {
+          "page_id": "wireflow-0003",
+          "url": "https://www.wireflow.ai/docs/nodes/edit--bytedance_seedream_v5_5_edit",
+          "canonical_url": "https://www.wireflow.ai/docs/nodes/edit--bytedance_seedream_v5_5_edit",
+          "original_urls": [
+            "https://www.wireflow.ai/docs/nodes/edit--bytedance_seedream_v5_5_edit"
+          ],
+          "page_type": "other",
+          "slug": "edit--bytedance_seedream_v5_5_edit"
+        },
+        {
+          "page_id": "wireflow-0004",
+          "url": "https://www.wireflow.ai/docs/nodes/generate--bytedance_seedream_v5_5",
+          "canonical_url": "https://www.wireflow.ai/docs/nodes/generate--bytedance_seedream_v5_5",
+          "original_urls": [
+            "https://www.wireflow.ai/docs/nodes/generate--bytedance_seedream_v5_5"
+          ],
+          "page_type": "other",
+          "slug": "generate--bytedance_seedream_v5_5"
+        },
+        {
+          "page_id": "wireflow-0005",
+          "url": "https://www.wireflow.ai/docs/nodes/video--seedance_2_5_flash",
+          "canonical_url": "https://www.wireflow.ai/docs/nodes/video--seedance_2_5_flash",
+          "original_urls": [
+            "https://www.wireflow.ai/docs/nodes/video--seedance_2_5_flash"
+          ],
+          "page_type": "other",
+          "slug": "video--seedance_2_5_flash"
+        },
+        {
+          "page_id": "wireflow-0006",
+          "url": "https://www.wireflow.ai/models/seedream-5-5",
+          "canonical_url": "https://www.wireflow.ai/models/seedream-5-5",
+          "original_urls": [
+            "https://www.wireflow.ai/models/seedream-5-5"
+          ],
+          "page_type": "model_api",
+          "slug": "seedream-5-5"
+        }
+      ]
+    }
+  ]
+}
