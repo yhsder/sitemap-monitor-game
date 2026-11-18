@@ -139,6 +139,10 @@ sites:
     sitemap_urls:
       - "https://genematic.ai/sitemap.xml"
     active: true
+  - name: "vogoo"
+    sitemap_urls:
+      - "https://vogoo.ai/sitemap.xml"
+    active: true
 
 
 sitemap:
