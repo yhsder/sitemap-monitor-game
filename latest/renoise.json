@@ -59,6 +59,8 @@ https://renoise.ai/de/features/ai-video
 https://renoise.ai/de/features/ai-video-enhancer
 https://renoise.ai/de/features/ai-voice-generator
 https://renoise.ai/de/features/ai-watermark-remover
+https://renoise.ai/de/features/bald-filter
+https://renoise.ai/de/features/buzz-cut-filter
 https://renoise.ai/de/features/claude-video
 https://renoise.ai/de/features/flying-car-ai
 https://renoise.ai/de/features/photo-to-video-ai
@@ -136,6 +138,8 @@ https://renoise.ai/features/ai-anime-video-generator
 https://renoise.ai/features/ai-avatar-generator
 https://renoise.ai/features/ai-background-changer
 https://renoise.ai/features/ai-book-cover-generator
+https://renoise.ai/features/ai-bust-enhancer
+https://renoise.ai/features/ai-butt-enhancer
 https://renoise.ai/features/ai-cartoon-video-generator
 https://renoise.ai/features/ai-character-generator
 https://renoise.ai/features/ai-christmas-photo
@@ -182,13 +186,16 @@ https://renoise.ai/features/ai-voice-generator
 https://renoise.ai/features/ai-vtuber-generator
 https://renoise.ai/features/ai-watermark-remover
 https://renoise.ai/features/ai-youtube-thumbnail
+https://renoise.ai/features/bald-filter
 https://renoise.ai/features/bixie-haircut
 https://renoise.ai/features/bulin-47-ai
 https://renoise.ai/features/burning-bridges-ai
+https://renoise.ai/features/buzz-cut-filter
 https://renoise.ai/features/claude-video
 https://renoise.ai/features/flying-car-ai
 https://renoise.ai/features/genjutsu-ai
 https://renoise.ai/features/hotel-lobby-ai
+https://renoise.ai/features/image-to-image-ai
 https://renoise.ai/features/knight-cat-ai
 https://renoise.ai/features/ozil-goal-ai
 https://renoise.ai/features/photo-to-video-ai
@@ -221,7 +228,6 @@ https://renoise.ai/guides/ai-football-edit
 https://renoise.ai/guides/ai-ghibli
 https://renoise.ai/guides/ai-human-video
 https://renoise.ai/guides/ai-icon-generator
-https://renoise.ai/guides/ai-image-to-image
 https://renoise.ai/guides/ai-landscape
 https://renoise.ai/guides/ai-logo-maker
 https://renoise.ai/guides/ai-meme
@@ -348,6 +354,7 @@ https://renoise.ai/es/features/ai-watermark-remover
 https://renoise.ai/es/features/bixie-haircut
 https://renoise.ai/es/features/claude-video
 https://renoise.ai/es/features/flying-car-ai
+https://renoise.ai/es/features/image-to-image-ai
 https://renoise.ai/es/features/ozil-goal-ai
 https://renoise.ai/es/features/photo-to-video-ai
 https://renoise.ai/es/features/remove-people-from-photo
@@ -375,7 +382,6 @@ https://renoise.ai/es/guides/ai-football-edit
 https://renoise.ai/es/guides/ai-ghibli
 https://renoise.ai/es/guides/ai-human-video
 https://renoise.ai/es/guides/ai-icon-generator
-https://renoise.ai/es/guides/ai-image-to-image
 https://renoise.ai/es/guides/ai-landscape
 https://renoise.ai/es/guides/ai-logo-maker
 https://renoise.ai/es/guides/ai-meme
@@ -619,8 +625,10 @@ https://renoise.ai/ja/features/ai-voice-generator
 https://renoise.ai/ja/features/ai-watermark-remover
 https://renoise.ai/ja/features/ai-youtube-thumbnail
 https://renoise.ai/ja/features/bixie-haircut
+https://renoise.ai/ja/features/buzz-cut-filter
 https://renoise.ai/ja/features/claude-video
 https://renoise.ai/ja/features/flying-car-ai
+https://renoise.ai/ja/features/image-to-image-ai
 https://renoise.ai/ja/features/photo-to-video-ai
 https://renoise.ai/ja/features/remove-text-from-image
 https://renoise.ai/ja/features/renoise-agent
@@ -649,7 +657,6 @@ https://renoise.ai/ja/guides/ai-ghibli
 https://renoise.ai/ja/guides/ai-human-video
 https://renoise.ai/ja/guides/ai-icon-generator
 https://renoise.ai/ja/guides/ai-id-photo
-https://renoise.ai/ja/guides/ai-image-to-image
 https://renoise.ai/ja/guides/ai-landscape
 https://renoise.ai/ja/guides/ai-logo-maker
 https://renoise.ai/ja/guides/ai-meme
@@ -847,9 +854,11 @@ https://renoise.ai/pt-BR/features/ai-voice-generator
 https://renoise.ai/pt-BR/features/ai-vtuber-generator
 https://renoise.ai/pt-BR/features/ai-watermark-remover
 https://renoise.ai/pt-BR/features/ai-youtube-thumbnail
+https://renoise.ai/pt-BR/features/bald-filter
 https://renoise.ai/pt-BR/features/bixie-haircut
 https://renoise.ai/pt-BR/features/claude-video
 https://renoise.ai/pt-BR/features/flying-car-ai
+https://renoise.ai/pt-BR/features/image-to-image-ai
 https://renoise.ai/pt-BR/features/ozil-goal-ai
 https://renoise.ai/pt-BR/features/photo-to-video-ai
 https://renoise.ai/pt-BR/features/remove-people-from-photo
@@ -877,7 +886,6 @@ https://renoise.ai/pt-BR/guides/ai-football-edit
 https://renoise.ai/pt-BR/guides/ai-ghibli
 https://renoise.ai/pt-BR/guides/ai-human-video
 https://renoise.ai/pt-BR/guides/ai-icon-generator
-https://renoise.ai/pt-BR/guides/ai-image-to-image
 https://renoise.ai/pt-BR/guides/ai-landscape
 https://renoise.ai/pt-BR/guides/ai-logo-maker
 https://renoise.ai/pt-BR/guides/ai-meme
@@ -1076,6 +1084,7 @@ https://renoise.ai/zh-CN/features/ai-watermark-remover
 https://renoise.ai/zh-CN/features/ai-youtube-thumbnail
 https://renoise.ai/zh-CN/features/claude-video
 https://renoise.ai/zh-CN/features/flying-car-ai
+https://renoise.ai/zh-CN/features/image-to-image-ai
 https://renoise.ai/zh-CN/features/photo-to-video-ai
 https://renoise.ai/zh-CN/features/remove-text-from-image
 https://renoise.ai/zh-CN/features/renoise-agent
@@ -1101,7 +1110,6 @@ https://renoise.ai/zh-CN/guides/ai-football-edit
 https://renoise.ai/zh-CN/guides/ai-ghibli
 https://renoise.ai/zh-CN/guides/ai-human-video
 https://renoise.ai/zh-CN/guides/ai-icon-generator
-https://renoise.ai/zh-CN/guides/ai-image-to-image
 https://renoise.ai/zh-CN/guides/ai-landscape
 https://renoise.ai/zh-CN/guides/ai-logo-maker
 https://renoise.ai/zh-CN/guides/ai-meme

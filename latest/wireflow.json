@@ -825,6 +825,7 @@ https://www.wireflow.ai/docs/agents/windsurf
 https://www.wireflow.ai/docs/api
 https://www.wireflow.ai/docs/api/apps
 https://www.wireflow.ai/docs/api/authentication
+https://www.wireflow.ai/docs/api/complete
 https://www.wireflow.ai/docs/api/docs
 https://www.wireflow.ai/docs/api/errors
 https://www.wireflow.ai/docs/api/executions
@@ -840,6 +841,7 @@ https://www.wireflow.ai/docs/api/remotion-templates
 https://www.wireflow.ai/docs/api/routes
 https://www.wireflow.ai/docs/api/run
 https://www.wireflow.ai/docs/api/run-one-model-without-a-workflow
+https://www.wireflow.ai/docs/api/safety
 https://www.wireflow.ai/docs/api/social
 https://www.wireflow.ai/docs/api/templates
 https://www.wireflow.ai/docs/api/templates-execute
@@ -1087,6 +1089,7 @@ https://www.wireflow.ai/docs/nodes/video--gemini_omni_flash_r2v
 https://www.wireflow.ai/docs/nodes/video--gemini_omni_flash_t2v
 https://www.wireflow.ai/docs/nodes/video--heygen_avatar4_digital_twin
 https://www.wireflow.ai/docs/nodes/video--heygen_avatar4_image_to_video
+https://www.wireflow.ai/docs/nodes/video--heygen_avatar_6
 https://www.wireflow.ai/docs/nodes/video--heygen_avatar_v
 https://www.wireflow.ai/docs/nodes/video--heygen_video_1
 https://www.wireflow.ai/docs/nodes/video--kling_video_2_5_i2v
@@ -1373,3 +1376,4 @@ https://www.wireflow.ai/models/gpt-image-2-6-sunburst
 https://www.wireflow.ai/models/gpt-image-2-6-sunburst-edit
 https://www.wireflow.ai/models/gemini-omni-flash-1-2
 https://www.wireflow.ai/models/seedream-5-5
+https://www.wireflow.ai/models/heygen-avatar-6
