@@ -143,6 +143,10 @@ sites:
     sitemap_urls:
       - "https://vogoo.ai/sitemap.xml"
     active: true
+  - name: "vidpexai"
+    sitemap_urls:
+      - "https://vidpexai.com/sitemap.xml"
+    active: true
 
 
 sitemap:
