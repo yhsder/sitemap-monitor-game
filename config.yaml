@@ -147,6 +147,10 @@ sites:
     sitemap_urls:
       - "https://vidpexai.com/sitemap.xml"
     active: true
+  - name: "vorla"
+    sitemap_urls:
+      - "https://www.vorla.ai/sitemap.xml"
+    active: true
 
 
 sitemap:
