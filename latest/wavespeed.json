@@ -19574,8 +19574,10 @@ https://wavespeed.ai/ja/meshy-api
 https://wavespeed.ai/ko/meshy-api
 https://wavespeed.ai/zh-CN/meshy-api
 https://wavespeed.ai/zh-TW/meshy-api
+https://wavespeed.ai/models/minimax/h3-image-highspeed/edit
 https://wavespeed.ai/models/minimax/h3-image/edit
 https://wavespeed.ai/models/google/gemini-omni-1.2-flash/text-to-video
+https://wavespeed.ai/models/minimax/h3-image-highspeed/text-to-image
 https://wavespeed.ai/models/google/gemini-omni-1.2-flash/image-to-video
 https://wavespeed.ai/models/minimax/h3-image/text-to-image
 https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video
@@ -20841,7 +20843,6 @@ https://wavespeed.ai/llm/meta-llama/llama-guard-4-12b
 https://wavespeed.ai/llm/minimax/minimax-m2.5
 https://wavespeed.ai/llm/mistralai/mistral-large
 https://wavespeed.ai/llm/mistralai/mistral-small-24b-instruct-2501
-https://wavespeed.ai/llm/moonshotai/kimi-k2
 https://wavespeed.ai/llm/moonshotai/kimi-k2.5
 https://wavespeed.ai/llm/openai/gpt-4.1
 https://wavespeed.ai/llm/openai/gpt-4.1-mini
