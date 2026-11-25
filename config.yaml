@@ -151,6 +151,10 @@ sites:
     sitemap_urls:
       - "https://www.vorla.ai/sitemap.xml"
     active: true
+  - name: "pixgrid"
+    sitemap_urls:
+      - "https://pixgrid.io/sitemap-en.xml"
+    active: true
 
 
 sitemap:
