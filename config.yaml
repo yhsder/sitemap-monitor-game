@@ -155,6 +155,10 @@ sites:
     sitemap_urls:
       - "https://pixgrid.io/sitemap-en.xml"
     active: true
+  - name: "aiimagine"
+    sitemap_urls:
+      - "https://aiimagine.io/sitemap.xml"
+    active: true
 
 
 sitemap:
