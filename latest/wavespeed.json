@@ -20221,13 +20221,9 @@ https://wavespeed.ai/models/kwaivgi/kling-v1.6-t2v-standard
 https://wavespeed.ai/models/google/veo3
 https://wavespeed.ai/models/vidu/image-to-video-2.0
 https://wavespeed.ai/models/google/veo3-fast
-https://wavespeed.ai/models/vidu/reference-to-video-2.0
 https://wavespeed.ai/models/google/veo3-fast/image-to-video
-https://wavespeed.ai/models/vidu/start-end-to-video-2.0
 https://wavespeed.ai/models/vidu/image-to-video
 https://wavespeed.ai/models/google/veo3/image-to-video
-https://wavespeed.ai/models/vidu/text-to-video
-https://wavespeed.ai/models/vidu/start-end-to-video
 https://wavespeed.ai/models/vidu/image-to-video-q2-pro
 https://wavespeed.ai/models/vidu/image-to-video-q2-turbo
 https://wavespeed.ai/models/bytedance/omni-human-2.0
@@ -20532,7 +20528,6 @@ https://wavespeed.ai/models/clarity-ai/creative-upscaler
 https://wavespeed.ai/models/bytedance/video-upscaler
 https://wavespeed.ai/models/clarity-ai/crystal-upscaler
 https://wavespeed.ai/models/vidu/text-to-video-q2
-https://wavespeed.ai/models/vidu/template/halloween
 https://wavespeed.ai/models/bria/fibo
 https://wavespeed.ai/models/bria/increase-resolution
 https://wavespeed.ai/models/bria/text-to-image-3.2
@@ -20595,10 +20590,6 @@ https://wavespeed.ai/models/wavespeed-ai/qwen-image/edit-plus
 https://wavespeed.ai/models/veed/fabric-1.0
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate
 https://wavespeed.ai/models/heygen/video-translate
-https://wavespeed.ai/models/vidu/text-to-video-2.0
-https://wavespeed.ai/models/vidu/text-to-video-q1
-https://wavespeed.ai/models/vidu/image-to-video-q1
-https://wavespeed.ai/models/vidu/start-end-to-video-q1
 https://wavespeed.ai/models/wavespeed-ai/wan-2.2/video-edit
 https://wavespeed.ai/models/pixverse/pixverse-v5-transition
 https://wavespeed.ai/models/pixverse/pixverse-v5-effects
@@ -20723,7 +20714,6 @@ https://wavespeed.ai/models/pixverse/pixverse-v4.5-i2v-fast
 https://wavespeed.ai/models/pixverse/pixverse-v4.5-i2v
 https://wavespeed.ai/models/pixverse/pixverse-v4.5-t2v-fast
 https://wavespeed.ai/models/pixverse/pixverse-v4.5-t2v
-https://wavespeed.ai/models/vidu/reference-to-video-q1
 https://wavespeed.ai/models/minimax/hailuo-02/i2v-pro
 https://wavespeed.ai/models/minimax/hailuo-02/t2v-pro
 https://wavespeed.ai/models/minimax/hailuo-02/i2v-standard
